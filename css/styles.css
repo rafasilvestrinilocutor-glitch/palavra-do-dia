@@ -632,3 +632,91 @@ body[data-screen="reader"][data-religion] .reader-bg { display: flex; }
   .phrase-label::before, .phrase-label::after { width: 22px; }
   .phrase-ref { letter-spacing: 0.14em; }
 }
+
+/* ============================================================
+   PUBLICIDADE (slots de anúncio) + LGPD (cookies) + legal
+   ============================================================ */
+
+/* Slot de anúncio: discreto, só aparece quando a rede o preenche.
+   Vazio, ele colapsa (sem altura) e fica invisível. */
+.ad-slot {
+  display: block;
+  width: 100%;
+  max-width: 728px;
+  margin: 1.6rem auto 0;
+  text-align: center;
+  min-height: 0;
+}
+.ad-slot:not(:empty) {
+  margin-top: 2rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+}
+.ad-slot:not(:empty)::before {
+  content: "publicidade";
+  display: block;
+  font-size: 0.56rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--muted);
+  opacity: 0.6;
+  margin-bottom: 0.6rem;
+}
+
+/* link discreto para a Política de Privacidade */
+.legal-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s var(--ease), border-color 0.2s var(--ease);
+}
+.legal-link:hover { color: var(--gold-soft); border-bottom-color: color-mix(in srgb, var(--gold) 50%, transparent); }
+.home__foot .legal-link { display: block; margin-top: 0.8rem; }
+
+/* barra de cookies (LGPD) */
+.cookie-bar {
+  position: fixed;
+  left: 50%;
+  bottom: 1rem;
+  transform: translateX(-50%);
+  z-index: 50;
+  width: calc(100% - 2rem);
+  max-width: 640px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.95rem 1.1rem;
+  background: rgba(16, 16, 22, 0.92);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 20px 50px -20px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+.cookie-bar__text {
+  flex: 1;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+.cookie-bar__text a { color: var(--gold-soft); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--gold) 40%, transparent); }
+.cookie-bar__btn {
+  flex-shrink: 0;
+  font: inherit; font-weight: 500; font-size: 0.84rem;
+  color: #15130d;
+  background: linear-gradient(180deg, var(--gold-soft), var(--gold));
+  border: none; cursor: pointer;
+  padding: 0.6rem 1.3rem;
+  border-radius: 999px;
+  transition: filter 0.2s var(--ease), transform 0.2s var(--ease);
+}
+.cookie-bar__btn:hover { filter: brightness(1.06); transform: translateY(-1px); }
+
+@media (max-width: 540px) {
+  .cookie-bar { flex-direction: column; align-items: stretch; text-align: center; gap: 0.7rem; }
+  .cookie-bar__btn { width: 100%; padding: 0.7rem; }
+}

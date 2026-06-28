@@ -17,6 +17,22 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
+
+  <!--
+    ============================================================
+    ESPAÇO PARA O CÓDIGO DE ANÚNCIO (Ezoic / Google AdSense)
+    ============================================================
+    Quando sua conta for aprovada, COLE AQUI o script de cabeçalho:
+
+    • Google AdSense (exemplo — troque o ca-pub-XXXX pelo seu):
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+
+    • Ezoic: cole o script de cabeçalho que o painel do Ezoic fornecer.
+      (No Ezoic, o ideal é conectar sua conta do AdSense por dentro dele.)
+
+    Os espaços onde os anúncios aparecem são as tags <aside class="ad-slot"> mais abaixo.
+    ============================================================
+  -->
 </head>
 <body data-screen="home">
 
@@ -80,8 +96,12 @@
         <p id="search-msg" class="search__msg" hidden></p>
       </div>
 
+      <!-- Espaço de anúncio (preenchido pelo Ezoic/AdSense) -->
+      <aside id="ad-home" class="ad-slot" aria-label="Publicidade"></aside>
+
       <footer class="home__foot">
         <p>Gratuito · Sem cadastro · Feito com respeito a todas as crenças</p>
+        <a class="legal-link" href="privacidade.html">Política de Privacidade</a>
       </footer>
     </section>
 
@@ -142,12 +162,40 @@
       <p id="toast" class="toast" role="status" hidden></p>
       <canvas id="share-canvas" width="1080" height="1080" hidden aria-hidden="true"></canvas>
 
+      <!-- Espaço de anúncio (preenchido pelo Ezoic/AdSense) -->
+      <aside id="ad-reader" class="ad-slot" aria-label="Publicidade"></aside>
+
       <footer class="reader__foot">
         <button id="home-link" class="text-link">Palavras Sagradas</button>
+        <a class="legal-link" href="privacidade.html">Privacidade</a>
       </footer>
     </section>
 
   </main>
+
+  <!-- Aviso de cookies (LGPD) — obrigatório para redes de anúncio -->
+  <div id="cookie-bar" class="cookie-bar" role="dialog" aria-label="Aviso de cookies" hidden>
+    <p class="cookie-bar__text">
+      Usamos cookies para melhorar sua experiência e exibir anúncios que mantêm este site gratuito.
+      Ao continuar navegando, você concorda. <a href="privacidade.html">Saiba mais</a>.
+    </p>
+    <button id="cookie-accept" class="cookie-bar__btn" type="button">Entendi</button>
+  </div>
+  <script>
+    (function () {
+      try {
+        var KEY = "ps_cookie_ok";
+        if (!localStorage.getItem(KEY)) {
+          var bar = document.getElementById("cookie-bar");
+          bar.hidden = false;
+          document.getElementById("cookie-accept").addEventListener("click", function () {
+            try { localStorage.setItem(KEY, "1"); } catch (e) {}
+            bar.hidden = true;
+          });
+        }
+      } catch (e) {}
+    })();
+  </script>
 
   <script src="js/app.js"></script>
 </body>
