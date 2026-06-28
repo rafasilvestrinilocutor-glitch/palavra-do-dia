@@ -134,12 +134,9 @@
       els.body.removeAttribute("data-religion");
       return;
     }
-    r.setProperty("--bg", t.bg);
-    r.setProperty("--surface", t.surface);
+    // tema escuro fixo: a tradição entra apenas como cor de luz (--primary/--glow);
+    // o ouro (--gold/--accent) e a base escura permanecem constantes.
     r.setProperty("--primary", t.primary);
-    r.setProperty("--accent", t.accent);
-    r.setProperty("--text", t.text);
-    r.setProperty("--muted", t.muted);
     r.setProperty("--glow", t.glow);
   }
 
@@ -522,71 +519,94 @@
       await document.fonts.ready;
     } catch (_) { /* segue com fallback */ }
 
-    // fundo
+    const GOLD = "#c9a24a", GOLD_SOFT = "#e6cd8e", INK = "#f0eadd", MUTED = "#9d978a";
+    const prim = t.primary;
+
+    // fundo escuro (obsidiana) com aura da cor da tradição
     ctx.clearRect(0, 0, W, H);
-    ctx.fillStyle = t.bg;
+    ctx.fillStyle = "#0b0c11";
     ctx.fillRect(0, 0, W, H);
-    const grad = ctx.createRadialGradient(W / 2, 0, 0, W / 2, 0, H);
-    grad.addColorStop(0, hexA(t.primary, 0.16));
-    grad.addColorStop(1, hexA(t.primary, 0));
-    ctx.fillStyle = grad;
+    let aura = ctx.createRadialGradient(W / 2, H * 0.16, 0, W / 2, H * 0.16, W * 0.85);
+    aura.addColorStop(0, hexA(prim, 0.34));
+    aura.addColorStop(1, hexA(prim, 0));
+    ctx.fillStyle = aura;
+    ctx.fillRect(0, 0, W, H);
+    let aura2 = ctx.createRadialGradient(W * 0.85, H * 0.98, 0, W * 0.85, H * 0.98, W * 0.7);
+    aura2.addColorStop(0, hexA(prim, 0.18));
+    aura2.addColorStop(1, hexA(prim, 0));
+    ctx.fillStyle = aura2;
+    ctx.fillRect(0, 0, W, H);
+    // vinheta
+    let vig = ctx.createRadialGradient(W / 2, H * 0.4, W * 0.3, W / 2, H * 0.4, W * 0.8);
+    vig.addColorStop(0, "rgba(0,0,0,0)");
+    vig.addColorStop(1, "rgba(0,0,0,0.55)");
+    ctx.fillStyle = vig;
     ctx.fillRect(0, 0, W, H);
 
-    // marca d'água do símbolo
-    const wm = await loadSVGImage(symbolSVG(rel.symbol, t.primary));
+    // marca d'água do símbolo (cor da tradição, suave)
+    const wm = await loadSVGImage(symbolSVG(rel.symbol, prim));
     if (wm) {
-      const s = W * 0.62;
-      ctx.globalAlpha = 0.06;
-      ctx.drawImage(wm, (W - s) / 2, (H - s) / 2 + H * 0.04, s, s);
+      const s = W * 0.66;
+      ctx.globalAlpha = 0.10;
+      ctx.drawImage(wm, (W - s) / 2, (H - s) / 2 + H * 0.03, s, s);
       ctx.globalAlpha = 1;
     }
 
-    // moldura sutil
-    ctx.strokeStyle = hexA(t.primary, 0.25);
-    ctx.lineWidth = 3;
-    roundRect(ctx, 56, 56, W - 112, H - 112, 36);
+    // moldura dourada fina
+    ctx.strokeStyle = hexA(GOLD, 0.42);
+    ctx.lineWidth = 2;
+    roundRect(ctx, 52, 52, W - 104, H - 104, 30);
+    ctx.stroke();
+    ctx.strokeStyle = hexA(GOLD, 0.16);
+    ctx.lineWidth = 1;
+    roundRect(ctx, 64, 64, W - 128, H - 128, 24);
     ctx.stroke();
 
-    // símbolo pequeno no topo
-    const top = await loadSVGImage(symbolSVG(rel.symbol, t.primary));
-    if (top) {
-      const s = 96;
-      ctx.drawImage(top, (W - s) / 2, 120, s, s);
-    }
+    ctx.textAlign = "center";
+
+    // símbolo pequeno no topo (dourado)
+    const top = await loadSVGImage(symbolSVG(rel.symbol, GOLD_SOFT));
+    if (top) { const s = 92; ctx.drawImage(top, (W - s) / 2, 132, s, s); }
 
     // rótulo (Versículo do Dia etc.)
-    ctx.fillStyle = t.primary;
-    ctx.textAlign = "center";
-    ctx.font = "600 30px 'Outfit', sans-serif";
-    ctx.fillText((rel.phraseLabel || "A Palavra do Dia").toUpperCase(), W / 2, 290, W - 220);
+    ctx.fillStyle = GOLD_SOFT;
+    ctx.font = "500 28px 'Outfit', sans-serif";
+    ctx.fillText(spaced((rel.phraseLabel || "Palavra do Dia").toUpperCase()), W / 2, 300, W - 240);
 
-    // frase (serif, com quebra de linha e tamanho adaptável)
-    ctx.fillStyle = t.text;
-    const maxW = W - 220;
-    let size = p.text && p.text.length > 160 ? 56 : p.text && p.text.length > 90 ? 66 : 78;
+    // filete dourado sob o rótulo
+    ctx.strokeStyle = hexA(GOLD, 0.6);
+    ctx.lineWidth = 1.5;
+    ctx.beginPath(); ctx.moveTo(W / 2 - 40, 330); ctx.lineTo(W / 2 + 40, 330); ctx.stroke();
+
+    // frase (serif itálico, iluminada, tamanho adaptável)
+    const maxW = W - 230;
+    let size = p.text && p.text.length > 160 ? 58 : p.text && p.text.length > 90 ? 70 : 82;
     let lines;
     for (;;) {
-      ctx.font = `italic 600 ${size}px 'Cormorant Garamond', Georgia, serif`;
+      ctx.font = `italic 500 ${size}px 'Cormorant Garamond', Georgia, serif`;
       lines = wrapText(ctx, "“" + (p.text || "") + "”", maxW);
-      const totalH = lines.length * size * 1.28;
-      if (totalH <= H * 0.46 || size <= 38) break;
+      if (lines.length * size * 1.3 <= H * 0.44 || size <= 40) break;
       size -= 4;
     }
-    const lineH = size * 1.28;
-    let y = H / 2 - (lines.length * lineH) / 2 + size * 0.35;
+    const lineH = size * 1.3;
+    let y = H / 2 - (lines.length * lineH) / 2 + size * 0.32;
+    ctx.fillStyle = INK;
+    ctx.shadowColor = hexA(prim, 0.5);
+    ctx.shadowBlur = 28;
     for (const ln of lines) { ctx.fillText(ln, W / 2, y, maxW); y += lineH; }
+    ctx.shadowBlur = 0;
 
-    // referência
+    // referência (dourado)
     if (p.reference) {
-      ctx.fillStyle = t.primary;
-      ctx.font = "600 30px 'Outfit', sans-serif";
-      ctx.fillText(p.reference, W / 2, y + 28, maxW);
+      ctx.fillStyle = GOLD_SOFT;
+      ctx.font = "500 30px 'Outfit', sans-serif";
+      ctx.fillText(spaced(p.reference.toUpperCase()), W / 2, y + 34, maxW);
     }
 
-    // rodapé: nome do site + fonte
-    ctx.fillStyle = t.muted;
-    ctx.font = "500 26px 'Outfit', sans-serif";
-    ctx.fillText("A Palavra do Dia" + (rel.source ? "  ·  " + rel.source : ""), W / 2, H - 96, W - 200);
+    // rodapé: marca + fonte
+    ctx.fillStyle = MUTED;
+    ctx.font = "italic 500 30px 'Cormorant Garamond', serif";
+    ctx.fillText("Palavras Sagradas" + (rel.source ? "  ·  " + rel.source : ""), W / 2, H - 100, W - 200);
 
     return new Promise((resolve) => cv.toBlob(resolve, "image/png", 0.95));
   }
@@ -625,6 +645,7 @@
   }
 
   // ---- helpers de cor/desenho ----
+  function spaced(s) { return (s || "").split("").join(" "); } // espaça letras (rótulos)
   function hexA(hex, alpha) {
     const h = hex.replace("#", "");
     const n = h.length === 3 ? h.split("").map((c) => c + c).join("") : h;
