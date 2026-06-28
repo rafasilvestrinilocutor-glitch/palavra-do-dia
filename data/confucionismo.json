@@ -1,128 +1,1869 @@
 {
   "id": "confucionismo",
   "phrases": [
-    { "text": "Não importa quão devagar você vá, desde que não pare.", "reference": "Confúcio" },
-    { "text": "Aquele que aprende mas não pensa está perdido; aquele que pensa mas não aprende está em perigo.", "reference": "Confúcio — Analectos" },
-    { "text": "Estudar sem refletir é um trabalho perdido; refletir sem estudar é perigoso.", "reference": "Confúcio — Analectos" },
-    { "text": "Não faças aos outros o que não queres que te façam a ti.", "reference": "Confúcio — Analectos" },
-    { "text": "Quando vires um homem de valor, procura igualá-lo; quando vires um homem sem valor, examina-te a ti mesmo.", "reference": "Confúcio — Analectos" },
-    { "text": "Aprender sem nunca se cansar e ensinar sem nunca se fatigar.", "reference": "Confúcio — Analectos" },
-    { "text": "Estudar e, na ocasião própria, pôr em prática o que se aprendeu, não é isto uma alegria?", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é modesto no que diz, mas excede no que faz.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior exige tudo de si mesmo; o homem mesquinho exige tudo dos outros.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior pensa na virtude; o homem comum pensa no conforto.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é firme, mas não obstinado.", "reference": "Confúcio — Analectos" },
-    { "text": "Onde houver três pessoas caminhando, ali encontrarei um mestre.", "reference": "Confúcio — Analectos" },
-    { "text": "Escolho o que há de bom nos outros para seguir, e o que há de mau para corrigir em mim.", "reference": "Confúcio — Analectos" },
-    { "text": "A virtude nunca habita sozinha; sempre terá vizinhos.", "reference": "Confúcio — Analectos" },
-    { "text": "Quem governa pela virtude é como a estrela polar, que permanece em seu lugar enquanto as demais a saúdam.", "reference": "Confúcio — Analectos" },
-    { "text": "Saber o que se sabe e saber o que não se sabe: eis o verdadeiro conhecimento.", "reference": "Confúcio — Analectos" },
-    { "text": "Não te aflijas por não seres conhecido pelos homens; aflige-te por não os conheceres.", "reference": "Confúcio — Analectos" },
-    { "text": "Não te preocupes em não ter um cargo; preocupa-te em ser digno de o ter.", "reference": "Confúcio — Analectos" },
-    { "text": "Exige muito de ti mesmo e espera pouco dos outros; assim evitarás o ressentimento.", "reference": "Confúcio — Analectos" },
-    { "text": "Ouvir muito, deixar de lado o duvidoso e falar com prudência do restante: assim se evitam erros.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é tranquilo e sereno; o homem mesquinho vive em constante inquietação.", "reference": "Confúcio — Analectos" },
-    { "text": "Ter falhas e não as corrigir: eis a verdadeira falha.", "reference": "Confúcio — Analectos" },
-    { "text": "Se erraste, não tenhas medo de corrigir-te.", "reference": "Confúcio — Analectos" },
-    { "text": "Quando o caminho é justo, segue-o; quando perdes o caminho, retorna a ele.", "reference": "Confúcio" },
-    { "text": "A piedade filial e o respeito fraterno são a raiz da bondade humana.", "reference": "Confúcio — Analectos" },
-    { "text": "Enquanto teus pais viverem, serve-os conforme a etiqueta; quando morrerem, sepulta-os e honra-os conforme a etiqueta.", "reference": "Confúcio — Analectos" },
-    { "text": "Ao servir teus pais, podes admoestá-los com brandura; e se não te ouvirem, continua respeitoso sem te revoltares.", "reference": "Confúcio — Analectos" },
-    { "text": "Hoje a piedade filial significa sustentar os pais; mas até aos cães e cavalos damos sustento. Sem respeito, qual a diferença?", "reference": "Confúcio — Analectos" },
-    { "text": "Não viajes para longe enquanto teus pais viverem; e se viajares, que tenham notícia de teu paradeiro.", "reference": "Confúcio — Analectos" },
-    { "text": "A idade dos pais deve ser sempre lembrada: com alegria por sua longevidade e com temor pela sua passagem.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem virtuoso primeiro age, e só depois fala de acordo com o que fez.", "reference": "Confúcio — Analectos" },
-    { "text": "As palavras hábeis e o semblante insinuante raramente acompanham a verdadeira virtude.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior sente vergonha quando suas palavras superam seus atos.", "reference": "Confúcio — Analectos" },
-    { "text": "Sê leal e sincero; não tenhas amigos inferiores a ti em caráter.", "reference": "Confúcio — Analectos" },
-    { "text": "Examino-me diariamente em três pontos: se fui fiel ao servir, sincero com os amigos e diligente em rever o que aprendi.", "reference": "Confúcio — Analectos" },
-    { "text": "Sem sinceridade nada se pode realizar; um homem sem palavra é como um carro sem o pino que o une.", "reference": "Confúcio — Analectos" },
-    { "text": "A benevolência consiste em amar os homens; a sabedoria consiste em conhecê-los.", "reference": "Confúcio — Analectos" },
-    { "text": "Querendo firmar-te, firma também os outros; querendo progredir, faz progredir também os outros.", "reference": "Confúcio — Analectos" },
-    { "text": "A virtude está longe? Basta desejá-la sinceramente, e ela já estará presente.", "reference": "Confúcio — Analectos" },
-    { "text": "Dominar-se a si mesmo e retornar à correção: nisto consiste a perfeita virtude.", "reference": "Confúcio — Analectos" },
-    { "text": "O sábio encontra alegria na água; o virtuoso encontra alegria nas montanhas.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é caridoso para com todos, sem favoritismo; o homem mesquinho favorece, mas não é caridoso.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior procura a harmonia, mas não a uniformidade; o homem mesquinho busca a uniformidade, mas não a harmonia.", "reference": "Confúcio — Analectos" },
-    { "text": "Aos quinze, voltei meu coração ao estudo; aos trinta, firmei-me; aos quarenta, já não tinha dúvidas; aos cinquenta, conheci os decretos do Céu; aos sessenta, meu ouvido tornou-se dócil à verdade; aos setenta, podia seguir os desejos do coração sem transgredir o que é justo.", "reference": "Confúcio — Analectos" },
-    { "text": "Não me entristece que os homens não me conheçam; entristece-me não conhecer os homens.", "reference": "Confúcio — Analectos" },
-    { "text": "Revendo o antigo, aprende-se o novo: quem assim faz pode ser mestre dos outros.", "reference": "Confúcio — Analectos" },
-    { "text": "Aprender sem se saciar, ensinar sem se cansar: que tenho eu disso? Apenas isto.", "reference": "Confúcio — Analectos" },
-    { "text": "Como o rio que corre, assim passa tudo, dia e noite, sem cessar.", "reference": "Confúcio — Analectos" },
-    { "text": "O sábio não se confunde, o virtuoso não se aflige, o corajoso não teme.", "reference": "Confúcio — Analectos" },
-    { "text": "Não te aflijas pela pobreza, mas pela desigualdade; não pela escassez, mas pela falta de harmonia.", "reference": "Confúcio — Analectos" },
-    { "text": "Comer alimento simples, beber água, ter o braço por travesseiro: nisto também há alegria.", "reference": "Confúcio — Analectos" },
-    { "text": "Riqueza e honra obtidas pela injustiça são para mim como nuvens passageiras.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior sabe o que é justo; o homem mesquinho sabe o que é vantajoso.", "reference": "Confúcio — Analectos" },
-    { "text": "Ver o que é justo e não o fazer é falta de coragem.", "reference": "Confúcio — Analectos" },
-    { "text": "Conhecer e não pôr em prática é o mesmo que não conhecer.", "reference": "Confúcio" },
-    { "text": "O homem superior é digno sem ser orgulhoso; o homem mesquinho é orgulhoso sem ser digno.", "reference": "Confúcio — Analectos" },
-    { "text": "Quem por todos os lados é amado, examina-te; quem por todos é odiado, examina-te também.", "reference": "Confúcio — Analectos" },
-    { "text": "Aprender as coisas no momento devido: não é isto um deleite?", "reference": "Confúcio — Analectos" },
-    { "text": "Quem nada espera de bom dos homens, e contudo a todos serve, esse é verdadeiramente virtuoso.", "reference": "Confúcio" },
-    { "text": "Não fales com pressa nem ajas com precipitação; querer ir depressa demais é não chegar.", "reference": "Confúcio — Analectos" },
-    { "text": "Quem deseja resultados apressados não os alcança; quem busca pequenas vantagens não realiza grandes coisas.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é sereno e generoso; o homem mesquinho vive sempre cheio de ansiedade.", "reference": "Confúcio — Analectos" },
-    { "text": "Quando comandas com retidão, tudo se faz sem ordens; quando não és reto, mesmo ordenando ninguém obedece.", "reference": "Confúcio — Analectos" },
-    { "text": "Corrige-te a ti mesmo, e governar os outros não te será difícil.", "reference": "Confúcio — Analectos" },
-    { "text": "Se não consegues corrigir a ti mesmo, como corrigirás os outros?", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior é firme na adversidade; o homem mesquinho, na adversidade, perde-se em excessos.", "reference": "Confúcio — Analectos" },
-    { "text": "Aquilo que não desejas para ti, não o imponhas aos outros.", "reference": "Confúcio — Analectos" },
-    { "text": "A reciprocidade é a palavra que pode servir de regra para toda a vida.", "reference": "Confúcio — Analectos" },
-    { "text": "Estuda como se nunca pudesses alcançar o saber, e como temendo perder o que já aprendeste.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior reflete sobre nove coisas: ver com clareza, ouvir com nitidez, ter o semblante benévolo, a atitude respeitosa, as palavras sinceras e o trabalho cuidadoso; na dúvida, perguntar; na ira, pensar nas consequências; e, diante do ganho, pensar na justiça.", "reference": "Confúcio — Analectos" },
-    { "text": "Em tudo, pensar nas consequências antes de agir é o caminho da prudência.", "reference": "Confúcio" },
-    { "text": "Não há joia tão preciosa quanto a virtude, nem inimigo tão grande quanto os próprios vícios.", "reference": "Confúcio" },
-    { "text": "Quem domina a sua cólera domina o seu maior inimigo.", "reference": "Confúcio" },
-    { "text": "O homem superior, mesmo na pressa, não se afasta da virtude; mesmo no perigo, a ela se apega.", "reference": "Confúcio — Analectos" },
-    { "text": "Conduze o povo com virtude, mantém-no na ordem com a cortesia, e ele terá pudor e se corrigirá.", "reference": "Confúcio — Analectos" },
-    { "text": "Aprender é como remar contra a corrente: quem não avança, recua.", "reference": "Confúcio" },
-    { "text": "Não há crescimento sem esforço, como não há colheita sem semeadura.", "reference": "Confúcio" },
-    { "text": "O mestre que recorda o velho e descobre o novo merece ser seguido.", "reference": "Confúcio — Analectos" },
-    { "text": "Quem realmente sabe não é igual a quem ama o saber; e quem o ama não é igual a quem nele encontra alegria.", "reference": "Confúcio — Analectos" },
-    { "text": "Mesmo nas mais humildes artes há algo digno de consideração.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior trabalha pela raiz das coisas; firmada a raiz, brota o caminho.", "reference": "Confúcio — Analectos" },
-    { "text": "É melhor acender uma vela do que amaldiçoar a escuridão.", "reference": "Confúcio" },
-    { "text": "A perfeição moral consiste em manter-se no caminho do meio, sem excessos nem faltas.", "reference": "Confúcio" },
-    { "text": "Quem age sem refletir colhe arrependimento; quem reflete antes de agir colhe paz.", "reference": "Confúcio" },
-    { "text": "Quem fala demais raramente cumpre tudo o que promete.", "reference": "Confúcio" },
-    { "text": "O verdadeiro mestre ensina mais pelo exemplo do que pelas palavras.", "reference": "Confúcio" },
-    { "text": "Honra teus pais e ensina teus filhos a honrar-te: assim se perpetua a virtude.", "reference": "Confúcio" },
-    { "text": "A pressa em colher impede o amadurecimento do fruto.", "reference": "Confúcio" },
-    { "text": "Antes de partir para a vingança, cava duas sepulturas.", "reference": "Confúcio" },
-    { "text": "Quem move montanhas começa carregando pequenas pedras.", "reference": "Confúcio" },
-    { "text": "A natureza dos homens é semelhante; são os hábitos que os tornam diferentes.", "reference": "Confúcio — Analectos" },
-    { "text": "O sábio guarda silêncio quando não sabe; falar do que se ignora é tolice.", "reference": "Confúcio" },
-    { "text": "Escolhe um trabalho que ames e não terás de trabalhar um só dia na vida.", "reference": "Confúcio" },
-    { "text": "Quando o objetivo parece distante, não diminuas o passo; aumenta a tua determinação.", "reference": "Confúcio" },
-    { "text": "Exigir de si o que se espera dos outros é o início da sabedoria.", "reference": "Confúcio" },
-    { "text": "A força de uma nação nasce da integridade do lar.", "reference": "Confúcio" },
-    { "text": "Quando teu coração estiver reto, o mundo ao teu redor encontrará a sua ordem.", "reference": "Confúcio" },
-    { "text": "Trata os anciãos como tratarias teus próprios pais, e os jovens como tratarias teus próprios filhos.", "reference": "Mêncio" },
-    { "text": "Todos os homens têm um coração que não suporta o sofrimento alheio.", "reference": "Mêncio" },
-    { "text": "O sentimento de compaixão é o princípio da benevolência.", "reference": "Mêncio" },
-    { "text": "O sentimento de vergonha pelo mal é o princípio da retidão.", "reference": "Mêncio" },
-    { "text": "O sentimento de respeito e deferência é o princípio da cortesia.", "reference": "Mêncio" },
-    { "text": "O sentimento de distinguir o certo do errado é o princípio da sabedoria.", "reference": "Mêncio" },
-    { "text": "A benevolência é o coração do homem; a retidão é o seu caminho.", "reference": "Mêncio" },
-    { "text": "Aquele que perde o seu coração reto deve buscar recuperá-lo: nisto consiste todo o aprendizado.", "reference": "Mêncio" },
-    { "text": "O grande homem é aquele que não perde o coração de criança.", "reference": "Mêncio" },
-    { "text": "Riquezas e honras não podem corrompê-lo, pobreza e humildade não podem desviá-lo, a força não pode dobrá-lo: a isto chamo de grande homem.", "reference": "Mêncio" },
-    { "text": "Quem ama os outros é sempre amado; quem respeita os outros é sempre respeitado.", "reference": "Mêncio" },
-    { "text": "Se amas os outros e eles não respondem, examina a tua própria benevolência.", "reference": "Mêncio" },
-    { "text": "O Céu não envia tarefas grandiosas sem primeiro provar o ânimo e fortalecer o caráter daquele que escolhe.", "reference": "Mêncio" },
-    { "text": "Vivemos na adversidade e perecemos no conforto e nos prazeres.", "reference": "Mêncio" },
-    { "text": "Quem segue a parte nobre de si torna-se um grande homem; quem segue a parte inferior torna-se um homem pequeno.", "reference": "Mêncio" },
-    { "text": "Cumprir todo o teu dever para com os pais é a base de toda a virtude.", "reference": "Mêncio" },
-    { "text": "O caminho está próximo, e os homens o buscam ao longe; o dever é simples, e o buscam no difícil.", "reference": "Mêncio" },
-    { "text": "Quem conhece plenamente a própria mente conhece a própria natureza; e quem conhece a própria natureza conhece o Céu.", "reference": "Mêncio" },
-    { "text": "Não há mal maior do que não conhecer os limites do que basta.", "reference": "Confúcio" },
-    { "text": "O homem superior é generoso e justo; não despreza ninguém e a ninguém abandona.", "reference": "Confúcio" },
-    { "text": "Reflete sobre teus erros sem te desculpar, e sobre os erros alheios sem te indignar.", "reference": "Confúcio" },
-    { "text": "Ensina sem distinção de classes: a todos é devido o saber.", "reference": "Confúcio — Analectos" },
-    { "text": "Quem é severo consigo e indulgente com os outros afasta de si o ódio.", "reference": "Confúcio — Analectos" },
-    { "text": "O homem superior, ao errar, é como o eclipse do sol e da lua: todos veem o erro e todos veem a correção.", "reference": "Confúcio — Analectos" },
-    { "text": "A virtude do homem superior é como o vento; a virtude do povo é como a erva: ao vento, a erva se inclina.", "reference": "Confúcio — Analectos" },
-    { "text": "Que o pai seja pai, o filho seja filho, e cada um cumpra o seu papel: assim se ordena a sociedade.", "reference": "Confúcio — Analectos" }
+    {
+      "text": "Não importa quão devagar você vá, desde que não pare.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Aquele que aprende mas não pensa está perdido; aquele que pensa mas não aprende está em perigo.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Estudar sem refletir é um trabalho perdido; refletir sem estudar é perigoso.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não faças aos outros o que não queres que te façam a ti.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quando vires um homem de valor, procura igualá-lo; quando vires um homem sem valor, examina-te a ti mesmo.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aprender sem nunca se cansar e ensinar sem nunca se fatigar.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Estudar e, na ocasião própria, pôr em prática o que se aprendeu, não é isto uma alegria?",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é modesto no que diz, mas excede no que faz.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior exige tudo de si mesmo; o homem mesquinho exige tudo dos outros.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior pensa na virtude; o homem comum pensa no conforto.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é firme, mas não obstinado.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Onde houver três pessoas caminhando, ali encontrarei um mestre.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Escolho o que há de bom nos outros para seguir, e o que há de mau para corrigir em mim.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A virtude nunca habita sozinha; sempre terá vizinhos.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem governa pela virtude é como a estrela polar, que permanece em seu lugar enquanto as demais a saúdam.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Saber o que se sabe e saber o que não se sabe: eis o verdadeiro conhecimento.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não te aflijas por não seres conhecido pelos homens; aflige-te por não os conheceres.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não te preocupes em não ter um cargo; preocupa-te em ser digno de o ter.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Exige muito de ti mesmo e espera pouco dos outros; assim evitarás o ressentimento.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Ouvir muito, deixar de lado o duvidoso e falar com prudência do restante: assim se evitam erros.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é tranquilo e sereno; o homem mesquinho vive em constante inquietação.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Ter falhas e não as corrigir: eis a verdadeira falha.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Se erraste, não tenhas medo de corrigir-te.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quando o caminho é justo, segue-o; quando perdes o caminho, retorna a ele.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A piedade filial e o respeito fraterno são a raiz da bondade humana.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Enquanto teus pais viverem, serve-os conforme a etiqueta; quando morrerem, sepulta-os e honra-os conforme a etiqueta.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Ao servir teus pais, podes admoestá-los com brandura; e se não te ouvirem, continua respeitoso sem te revoltares.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Hoje a piedade filial significa sustentar os pais; mas até aos cães e cavalos damos sustento. Sem respeito, qual a diferença?",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não viajes para longe enquanto teus pais viverem; e se viajares, que tenham notícia de teu paradeiro.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A idade dos pais deve ser sempre lembrada: com alegria por sua longevidade e com temor pela sua passagem.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem virtuoso primeiro age, e só depois fala de acordo com o que fez.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "As palavras hábeis e o semblante insinuante raramente acompanham a verdadeira virtude.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior sente vergonha quando suas palavras superam seus atos.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Sê leal e sincero; não tenhas amigos inferiores a ti em caráter.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Examino-me diariamente em três pontos: se fui fiel ao servir, sincero com os amigos e diligente em rever o que aprendi.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Sem sinceridade nada se pode realizar; um homem sem palavra é como um carro sem o pino que o une.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A benevolência consiste em amar os homens; a sabedoria consiste em conhecê-los.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Querendo firmar-te, firma também os outros; querendo progredir, faz progredir também os outros.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A virtude está longe? Basta desejá-la sinceramente, e ela já estará presente.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Dominar-se a si mesmo e retornar à correção: nisto consiste a perfeita virtude.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O sábio encontra alegria na água; o virtuoso encontra alegria nas montanhas.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é caridoso para com todos, sem favoritismo; o homem mesquinho favorece, mas não é caridoso.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior procura a harmonia, mas não a uniformidade; o homem mesquinho busca a uniformidade, mas não a harmonia.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aos quinze, voltei meu coração ao estudo; aos trinta, firmei-me; aos quarenta, já não tinha dúvidas; aos cinquenta, conheci os decretos do Céu; aos sessenta, meu ouvido tornou-se dócil à verdade; aos setenta, podia seguir os desejos do coração sem transgredir o que é justo.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não me entristece que os homens não me conheçam; entristece-me não conhecer os homens.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Revendo o antigo, aprende-se o novo: quem assim faz pode ser mestre dos outros.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aprender sem se saciar, ensinar sem se cansar: que tenho eu disso? Apenas isto.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Como o rio que corre, assim passa tudo, dia e noite, sem cessar.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O sábio não se confunde, o virtuoso não se aflige, o corajoso não teme.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Não te aflijas pela pobreza, mas pela desigualdade; não pela escassez, mas pela falta de harmonia.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Comer alimento simples, beber água, ter o braço por travesseiro: nisto também há alegria.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Riqueza e honra obtidas pela injustiça são para mim como nuvens passageiras.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior sabe o que é justo; o homem mesquinho sabe o que é vantajoso.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Ver o que é justo e não o fazer é falta de coragem.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Conhecer e não pôr em prática é o mesmo que não conhecer.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O homem superior é digno sem ser orgulhoso; o homem mesquinho é orgulhoso sem ser digno.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem por todos os lados é amado, examina-te; quem por todos é odiado, examina-te também.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aprender as coisas no momento devido: não é isto um deleite?",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem nada espera de bom dos homens, e contudo a todos serve, esse é verdadeiramente virtuoso.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Não fales com pressa nem ajas com precipitação; querer ir depressa demais é não chegar.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem deseja resultados apressados não os alcança; quem busca pequenas vantagens não realiza grandes coisas.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é sereno e generoso; o homem mesquinho vive sempre cheio de ansiedade.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quando comandas com retidão, tudo se faz sem ordens; quando não és reto, mesmo ordenando ninguém obedece.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Corrige-te a ti mesmo, e governar os outros não te será difícil.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Se não consegues corrigir a ti mesmo, como corrigirás os outros?",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior é firme na adversidade; o homem mesquinho, na adversidade, perde-se em excessos.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aquilo que não desejas para ti, não o imponhas aos outros.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A reciprocidade é a palavra que pode servir de regra para toda a vida.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Estuda como se nunca pudesses alcançar o saber, e como temendo perder o que já aprendeste.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior reflete sobre nove coisas: ver com clareza, ouvir com nitidez, ter o semblante benévolo, a atitude respeitosa, as palavras sinceras e o trabalho cuidadoso; na dúvida, perguntar; na ira, pensar nas consequências; e, diante do ganho, pensar na justiça.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Em tudo, pensar nas consequências antes de agir é o caminho da prudência.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Não há joia tão preciosa quanto a virtude, nem inimigo tão grande quanto os próprios vícios.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quem domina a sua cólera domina o seu maior inimigo.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O homem superior, mesmo na pressa, não se afasta da virtude; mesmo no perigo, a ela se apega.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Conduze o povo com virtude, mantém-no na ordem com a cortesia, e ele terá pudor e se corrigirá.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Aprender é como remar contra a corrente: quem não avança, recua.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Não há crescimento sem esforço, como não há colheita sem semeadura.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O mestre que recorda o velho e descobre o novo merece ser seguido.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem realmente sabe não é igual a quem ama o saber; e quem o ama não é igual a quem nele encontra alegria.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Mesmo nas mais humildes artes há algo digno de consideração.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior trabalha pela raiz das coisas; firmada a raiz, brota o caminho.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "É melhor acender uma vela do que amaldiçoar a escuridão.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A perfeição moral consiste em manter-se no caminho do meio, sem excessos nem faltas.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quem age sem refletir colhe arrependimento; quem reflete antes de agir colhe paz.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quem fala demais raramente cumpre tudo o que promete.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O verdadeiro mestre ensina mais pelo exemplo do que pelas palavras.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Honra teus pais e ensina teus filhos a honrar-te: assim se perpetua a virtude.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A pressa em colher impede o amadurecimento do fruto.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Antes de partir para a vingança, cava duas sepulturas.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quem move montanhas começa carregando pequenas pedras.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A natureza dos homens é semelhante; são os hábitos que os tornam diferentes.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O sábio guarda silêncio quando não sabe; falar do que se ignora é tolice.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Escolhe um trabalho que ames e não terás de trabalhar um só dia na vida.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quando o objetivo parece distante, não diminuas o passo; aumenta a tua determinação.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Exigir de si o que se espera dos outros é o início da sabedoria.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A força de uma nação nasce da integridade do lar.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Quando teu coração estiver reto, o mundo ao teu redor encontrará a sua ordem.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Trata os anciãos como tratarias teus próprios pais, e os jovens como tratarias teus próprios filhos.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Todos os homens têm um coração que não suporta o sofrimento alheio.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O sentimento de compaixão é o princípio da benevolência.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O sentimento de vergonha pelo mal é o princípio da retidão.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O sentimento de respeito e deferência é o princípio da cortesia.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O sentimento de distinguir o certo do errado é o princípio da sabedoria.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A benevolência é o coração do homem; a retidão é o seu caminho.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Aquele que perde o seu coração reto deve buscar recuperá-lo: nisto consiste todo o aprendizado.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O grande homem é aquele que não perde o coração de criança.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Riquezas e honras não podem corrompê-lo, pobreza e humildade não podem desviá-lo, a força não pode dobrá-lo: a isto chamo de grande homem.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem ama os outros é sempre amado; quem respeita os outros é sempre respeitado.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Se amas os outros e eles não respondem, examina a tua própria benevolência.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O Céu não envia tarefas grandiosas sem primeiro provar o ânimo e fortalecer o caráter daquele que escolhe.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Vivemos na adversidade e perecemos no conforto e nos prazeres.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem segue a parte nobre de si torna-se um grande homem; quem segue a parte inferior torna-se um homem pequeno.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Cumprir todo o teu dever para com os pais é a base de toda a virtude.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O caminho está próximo, e os homens o buscam ao longe; o dever é simples, e o buscam no difícil.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem conhece plenamente a própria mente conhece a própria natureza; e quem conhece a própria natureza conhece o Céu.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Não há mal maior do que não conhecer os limites do que basta.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O homem superior é generoso e justo; não despreza ninguém e a ninguém abandona.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Reflete sobre teus erros sem te desculpar, e sobre os erros alheios sem te indignar.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "Ensina sem distinção de classes: a todos é devido o saber.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Quem é severo consigo e indulgente com os outros afasta de si o ódio.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem superior, ao errar, é como o eclipse do sol e da lua: todos veem o erro e todos veem a correção.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "A virtude do homem superior é como o vento; a virtude do povo é como a erva: ao vento, a erva se inclina.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "Que o pai seja pai, o filho seja filho, e cada um cumpra o seu papel: assim se ordena a sociedade.",
+      "reference": "Confúcio — Analectos"
+    },
+    {
+      "text": "O homem nobre é tranquilo e amplo; o homem mesquinho vive sempre angustiado.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem nada exige de si exige tudo do mundo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude não fica isolada; quem a cultiva sempre encontra companhia.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Aprender e praticar no momento certo é a verdadeira alegria.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem corrige a raiz não precisa aparar cada galho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Sem ritual, o respeito vira fadiga; com ritual, vira harmonia.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O junzi busca em si mesmo; o homem pequeno busca nos outros.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Conhecer o bem e não praticá-lo é não conhecê-lo de fato.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem ama de verdade sabe ser firme; quem é leal sabe instruir.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O caminho do meio evita o excesso e a falta.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "A sinceridade é o princípio do Céu; buscá-la é o dever do homem.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem é sincero consigo aproxima-se da harmonia do mundo.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Aperfeiçoa-te primeiro, depois ordena a tua casa.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Casa ordenada, reino em paz; reino em paz, mundo sereno.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "A grande aprendizagem consiste em fazer brilhar a virtude clara.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Quem renova a si mesmo a cada dia renova-se sem cessar.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Conhecidas as coisas, sincero é o pensamento; sincero o pensamento, reto é o coração.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "O que detestas em quem te governa, não o faças a quem governas.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Quem busca a paz do mundo começa por aquietar o próprio coração.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Sem raiz firme, nenhum ramo dá fruto duradouro.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A benevolência começa onde tu estás, com quem está perto de ti.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem trata bem os seus estende a bondade a todos os homens.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O homem reto não se dobra diante da força nem do ouro.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A compaixão é a semente; a retidão é a estrada.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem perde o caminho deve voltar a buscar o próprio coração.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O Céu prova com dificuldades aqueles a quem confia grandes tarefas.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Cresce-se na adversidade e amolece-se no excesso de conforto.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Honra os teus anciãos e estende essa honra aos anciãos alheios.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Cuida das tuas crianças e estende esse cuidado às crianças de todos.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem ama os outros e não é correspondido, examine a sua própria bondade.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Não há mal em corrigir-se; há mal em insistir no erro.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O sábio fala pouco e age muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Palavras melosas e rosto bajulador raramente abrigam virtude.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem revê o antigo e descobre o novo merece ser mestre.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Saber que se sabe e admitir o que não se sabe: eis o saber.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem governa pela virtude atrai como a estrela polar atrai os astros.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Conduze pela cortesia e o povo terá pudor e ordem.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Severo contigo, brando com os outros: afastas o rancor.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Em três que caminham, sempre há quem me ensine.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Imita o bom que vês e corrige em ti o mau que observas.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Não te aflijas por seres ignorado; aflige-te por seres inútil.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Querendo erguer-te, ergue também os outros.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A reciprocidade é regra para a vida inteira.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O que não queres para ti, não imponhas a ninguém.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Dominar-se e voltar à correção: nisto está a virtude perfeita.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O sábio não se confunde, o virtuoso não teme.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Pão simples e água pura também guardam alegria.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Riqueza injusta passa como nuvem que não deixa rasto.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre conhece o justo; o mesquinho conhece o proveito.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Ver o justo e não fazê-lo é falta de coragem.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem domina a própria ira vence o maior inimigo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Não há joia que valha mais que a virtude.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A pressa exagerada não chega ao destino.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem cobiça pequenas vantagens perde as grandes obras.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Reto o governante, tudo se cumpre sem ordens.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem não se corrige a si, como corrigirá os outros?",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Estuda como quem teme perder o que já aprendeu.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre busca a harmonia, não a uniformidade.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A natureza nos aproxima; o hábito nos separa.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Ensina a todos, sem distinção de classe.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O erro do nobre é como o eclipse: todos o veem corrigir-se.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A virtude do nobre é vento; a do povo, erva que se inclina.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Que cada um cumpra o seu papel, e a casa terá ordem.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem conhece a alegria do saber supera quem apenas o ama.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Move montanhas quem começa por uma só pedra.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Mais vale acender uma luz do que maldizer a treva.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem reflete antes de agir colhe a paz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Devagar avança quem não se detém.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "O verdadeiro mestre ensina mais com o exemplo que com a voz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A força da nação nasce da honra do lar.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Coração reto, mundo em ordem ao redor.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Escolhe o trabalho que amas e não pesará jamais.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Antes da vingança, cava duas covas.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem não sabe os limites do bastante nunca tem o suficiente.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Examina-te tanto no louvor quanto no desprezo de todos.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Aprender sem pensar é vão; pensar sem aprender é perigoso.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O homem nobre, no perigo, agarra-se à virtude.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem aprende com alegria nunca se cansa do caminho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A semente da grandeza é a benevolência cultivada todos os dias.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Nada se completa sem sinceridade.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "O caminho não pode ser abandonado nem por um instante.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Sincero o coração, claras as ações.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem cultiva a virtude no oculto é honrado à luz.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "O nobre vigia-se mesmo quando ninguém o observa.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "A harmonia é a estrada por onde tudo prospera.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Estuda muito, pergunta com cuidado, reflete com calma, distingue com clareza e age com firmeza.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem persiste onde outros desistem alcança a virtude.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "A grandeza começa por iluminar a virtude que há em ti.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Investiga as coisas para alcançar o saber verdadeiro.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Reto o coração, ordenada a pessoa.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Da pessoa ordenada nasce a família harmoniosa.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Renova-te hoje, renova-te amanhã, renova-te sempre.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Saber onde repousar é o princípio da firmeza.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Toda coisa tem raiz e copa; saber a ordem é estar perto do caminho.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Quem ama o que o povo ama é tido por pai do povo.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "A riqueza dispersa reúne o povo; a riqueza acumulada o dispersa.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "A virtude é a raiz; a riqueza é apenas o ramo.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Quem trata os pais com respeito honra também os antepassados.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O respeito entre irmãos é o primeiro degrau da bondade.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Servir os pais com alegria vale mais que o sustento sem afeto.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem honra a família aprende a honrar o mundo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A paz da casa é o espelho da paz do coração.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Corrige o pai com brandura e segue respeitoso ainda que não te ouça.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Lembra a idade dos pais: com alegria e com cuidado.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O ritual sem respeito é casca vazia.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A cortesia sem sinceridade não passa de gesto.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem reverencia os antigos prepara o caminho dos que virão.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O homem sem palavra é como carro sem eixo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A confiança é o tesouro que nenhuma riqueza compra.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Promete pouco e cumpre muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A boca prudente guarda o coração tranquilo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem fala antes de pensar tropeça nas próprias palavras.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre envergonha-se de prometer mais do que cumpre.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Age primeiro; depois fala segundo o que fizeste.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A retidão é caminho estreito, mas seguro.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem é justo não teme o julgamento dos homens.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O proveito desonesto é dívida que o tempo cobra.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Melhor a pobreza com honra que a riqueza com vergonha.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre prefere perder o ganho a perder a retidão.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem segue o justo dorme em paz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Diante do ganho, pensa primeiro na justiça.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O caminho reto não tem atalhos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Ensina sem cansaço e aprende sem fartura.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O saber é rio: quem não rema contra a corrente é levado para trás.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Cada pergunta é um degrau; cada dúvida, uma porta.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se envergonha de perguntar permanece na ignorância.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O bom aluno torna mestre até o caminhante ao seu lado.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Aprender é como cavar um poço: só vale quando alcança a água.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Não desistas do poço quando faltam apenas dois palmos.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O conhecimento sem prática é vela apagada.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem revê o aprendido descobre tesouros novos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Estudar com prazer torna leve o caminho difícil.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O sábio aprende mesmo com os erros alheios.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A benevolência é amar; a sabedoria é compreender.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem ama as pessoas encontra paz em servi-las.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O coração benevolente não suporta ver o sofrimento alheio.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Estende a tua bondade do próximo ao distante.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A benevolência é a casa tranquila do homem.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem habita na bondade nunca está só.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A compaixão move mais que a força.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Trata o estranho como tratarias um irmão.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre socorre o necessitado, não engorda o que já tem demais.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem semeia bondade colhe confiança.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O homem nobre é firme sem ser teimoso.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre é digno sem arrogância; o mesquinho é arrogante sem dignidade.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Modesto no falar, generoso no fazer: assim é o nobre.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre não se desespera na pobreza.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O homem pequeno, na falta, perde-se em excessos.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre é sereno; o mesquinho, sempre agitado.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre amadurece o caráter como a árvore amadurece o fruto.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se aperfeiçoa em silêncio brilha sem alarde.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre exige de si o que o vulgar exige dos outros.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A grandeza do homem está em não perder o coração simples.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem governa a si mesmo já governa metade do mundo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Reto o líder, reto o povo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem manda sem exemplo manda no vento.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Governa com virtude e não precisarás de castigo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O bom governo alimenta primeiro a confiança do povo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Sem a confiança do povo, nenhum governo se sustenta.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Trata o povo com respeito e ele te servirá com lealdade.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem ama o povo é amado pelo povo.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "O reino prospera quando o justo é honrado e o torto, afastado.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A paz do reino começa na ordem de cada lar.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Quem corrige a ira pensa nas consequências antes de explodir.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A serenidade é a força que não se gasta.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se acalma vê com clareza; quem se irrita tropeça.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O coração tranquilo é jardim que não murcha.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Domina o ânimo e dominarás o destino.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre é paciente como a montanha e fluido como a água.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Na tempestade do mundo, mantém o coração firme.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem não se altera no perigo conserva o juízo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A calma vale mais que a pressa quando o caminho é longo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre reflete nas nove coisas: clareza, escuta, semblante, atitude, palavra, trabalho, dúvida, ira e ganho.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Pensa nas consequências e raramente te arrependerás.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A prudência é a guarda que nunca dorme.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem mede as palavras evita mil arrependimentos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Na dúvida, pergunta; na ira, espera; no ganho, julga com justiça.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O cauteloso erra menos que o atrevido.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Olha longe quem quer caminhar muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem planta a árvore certa não teme a sombra do amanhã.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A precaução de hoje é a tranquilidade de amanhã.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O sábio guarda silêncio diante do que ignora.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Não fales do que não sabes, nem prometas o que não podes.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem escuta muito e fala pouco aprende em dobro.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Deixa de lado o duvidoso e fala com prudência do restante.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O ouvido atento vale mais que a boca apressada.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se conhece a si conhece a própria natureza.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Examina-te todos os dias: lealdade, sinceridade e estudo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A correção própria é a estrada mais curta para a virtude.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem não vê os próprios erros nunca encontra o caminho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Olha para dentro antes de apontar para fora.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O espelho do nobre é a própria consciência.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se corrige no pequeno não tropeça no grande.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Vencer-se a si mesmo é a maior das vitórias.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Sê amigo dos que te superam em virtude.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O bom amigo é leal, sincero e instruído.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Foge da amizade que adula e busca a que corrige.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O amigo verdadeiro aproxima-se na adversidade.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem caminha com bons companheiros chega mais longe.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A lealdade é o cimento da amizade.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre não escolhe amigos pelo proveito, mas pelo caráter.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Visita o amigo de longe e a alegria será dobrada.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem trai a confiança perde mais que um amigo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A franqueza entre amigos é remédio amargo, mas cura.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A harmonia é o bem mais precioso da convivência.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem busca a concórdia respeita a diferença.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A música do mundo nasce da harmonia dos corações.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Onde há respeito, a discórdia não cria raízes.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre une sem se confundir; o mesquinho confunde sem se unir.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "A paz entre os homens começa pelo respeito mútuo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem cede no pequeno preserva a harmonia no grande.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A cortesia abre portas que a força mantém fechadas.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A boa vizinhança é muralha sem pedras.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Vive em paz com todos e firme em ti mesmo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O homem reto floresce onde semeia retidão.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude praticada hoje é a colheita de amanhã.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Pequenos atos de bondade constroem grandes caracteres.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem não para, ainda que devagar, chega.",
+      "reference": "Confúcio"
+    },
+    {
+      "text": "A jornada de mil passos honra cada passo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A constância vence onde a pressa fracassa.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Não há colheita sem semeadura nem virtude sem esforço.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O bambu dobra-se ao vento, mas não se quebra.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem cai sete vezes levanta-se oito.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "A gota constante perfura a pedra.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Uma viagem de mil léguas começa com um único passo.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Melhor perguntar e parecer tolo um instante que ignorar a vida inteira.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "O melhor tempo para plantar uma árvore foi há vinte anos; o segundo melhor é hoje.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Não temas crescer devagar; teme apenas ficar parado.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Ensina o homem a pescar e o alimentarás por toda a vida.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "O sábio aponta a lua; o tolo olha apenas para o dedo.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem pergunta o caminho não se perde.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "A paciência é uma árvore de raiz amarga e fruto doce.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Cava o poço antes de teres sede.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "O fogo prova o ouro; a adversidade prova o homem.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem semeia vento colhe tempestade.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Um livro mantém-se aberto; uma mente fechada, jamais aprende.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Mais vale um amigo sincero que mil bajuladores.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "A flor que demora a abrir guarda o perfume mais duradouro.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem corre atrás de dois coelhos não apanha nenhum.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Não há atalho para o cume da montanha.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "A maré do tempo não espera o caminhante distraído.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem conhece a si mesmo é iluminado.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Honra o passado, vive o presente, prepara o futuro.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre é como o jade: firme por dentro, sereno por fora.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem cultiva a paciência colhe a vitória.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A modéstia é o ornamento do verdadeiro saber.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O sábio não despreza o conselho de uma criança.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Aprende com o ontem para construir o amanhã.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem domina o coração não teme o destino.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O caminho do dever é simples, mas exige firmeza.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A grandeza está em servir, não em ser servido.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre repara o erro como quem limpa a poeira do espelho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem honra o mestre honra o saber.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude é luz que não se apaga ao iluminar os outros.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Sê reto no oculto e serás digno à luz.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem cumpre o pequeno dever prepara-se para o grande.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A sinceridade ilumina o caminho do mundo.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "O justo não inveja e o invejoso não é justo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Mede-te pelo dever, não pela recompensa.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem respeita os mais velhos ensina os mais novos a respeitar.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A árvore da virtude cresce devagar, mas dá sombra eterna.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O homem nobre teme três coisas: o Céu, os sábios e as próprias faltas.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem cultiva o saber não envelhece de espírito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A retidão é o leme que guia o barco na tempestade.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Sê benevolente no coração e justo nas mãos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem perdoa o pequeno agravo guarda a grande amizade.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre não se gaba do bem que faz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A humildade é o solo onde a sabedoria cresce.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem governa a língua governa muitos conflitos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude oculta perfuma como flor escondida.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Trata cada tarefa como se fosse a mais importante.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem ama o estudo encontra mestre em toda parte.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A retidão não pede testemunhas.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem é fiel no pouco será confiável no muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre não se entristece por ser desconhecido.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Constrói o caráter como quem ergue muralha: pedra sobre pedra.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem respeita o ritual respeita a si mesmo e ao próximo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A medida em tudo é o segredo da harmonia.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Nem o excesso nem a falta: o justo meio é o caminho.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem encontra o equilíbrio encontra a paz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O sábio adapta-se ao tempo sem perder o princípio.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A bondade é a maior das riquezas que se herda.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem cuida da raiz não teme o vento nos ramos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A paz interior é o reflexo da consciência limpa.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Não há herança maior que um bom nome.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem age com retidão dorme sem temor.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O verdadeiro saber transforma quem o possui.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude pequena, repetida, torna-se grande.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se compara aos melhores cresce; quem se compara aos piores estaciona.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre completa a beleza das pessoas, não os seus males.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Ajuda o outro a realizar o bem que deseja.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem semeia respeito colhe respeito.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A gentileza não custa, mas vale muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre é exigente consigo e compreensivo com os outros.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem dá o exemplo não precisa erguer a voz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A educação molda o que a natureza apenas esboça.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem ensina uma criança planta para cem anos.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "O melhor legado a um filho é o caráter, não o ouro.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude dos pais é a primeira escola dos filhos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem honra a casa honra a si próprio.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Na família reta nasce o cidadão justo.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Sê para os outros o irmão que gostarias de ter.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem aprende com humildade ensina com sabedoria.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O coração reto não se compra nem se vende.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem busca a virtude já a encontrou no desejo sincero.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Faz o bem sem esperar recompensa e a recompensa virá só.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre não muda de rumo a cada vento.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A firmeza no princípio é a liberdade no caminho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem conhece o suficiente é sempre rico.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A ambição sem limite é poço sem fundo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Contentar-se com o justo é a verdadeira abundância.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem deseja menos possui mais.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre alegra-se com pouco e o mesquinho aflige-se com muito.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A simplicidade é a companheira da paz.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem reparte o que tem multiplica o que é.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O bem feito em silêncio ecoa por gerações.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem cultiva a si mesmo prepara o mundo.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "Não há ordem no reino sem ordem no coração.",
+      "reference": "A Grande Aprendizagem (Da Xue)"
+    },
+    {
+      "text": "O sábio teme o erro mais que a pobreza.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem reconhece a falta já está no caminho da correção.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A honestidade é o caminho mais curto, ainda que pareça o mais longo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre prefere a verdade incômoda à mentira confortável.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem fala com verdade não precisa lembrar o que disse.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A retidão atrai a confiança como a flor atrai a abelha.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Sê constante como a estrela e firme como a montanha.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem persevera transforma o sonho em colheita.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O esforço de hoje é a sabedoria de amanhã.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Não há vento favorável para quem não sabe a que porto vai.",
+      "reference": "Provérbio chinês"
+    },
+    {
+      "text": "Quem conhece o próprio dever não vacila.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A bondade verdadeira não escolhe a quem servir.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre serve a todos sem esperar nada de bom em troca.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem ama o próximo cumpre a maior das virtudes.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "A compaixão é a luz que guia o coração benevolente.",
+      "reference": "Mêncio"
+    },
+    {
+      "text": "Quem cultiva a retidão não teme o juízo dos tempos.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Aprende com o sábio, corrige-te com o tolo.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "O nobre observa o bom para imitar e o mau para evitar.",
+      "reference": "Confúcio (Analectos)"
+    },
+    {
+      "text": "Quem domina a impaciência domina o caminho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A virtude é o tesouro que ladrão nenhum rouba.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Quem se cala a tempo evita muitos males.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "O nobre vê o distante com a clareza do próximo.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "Faz o que é certo, mesmo quando ninguém vê.",
+      "reference": "Doutrina do Meio (Zhong Yong)"
+    },
+    {
+      "text": "Quem é firme no princípio é livre no caminho.",
+      "reference": "Sabedoria confuciana"
+    },
+    {
+      "text": "A bondade praticada todos os dias torna-se segunda natureza.",
+      "reference": "Sabedoria confuciana"
+    }
   ]
 }

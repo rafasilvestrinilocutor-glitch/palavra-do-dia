@@ -1,126 +1,1617 @@
 {
   "id": "hinduismo",
   "phrases": [
-    { "text": "Você tem o direito de agir, mas nunca aos frutos da ação. Que os frutos não sejam o seu motivo, nem se apegue à inação.", "reference": "Bhagavad Gita 2:47" },
-    { "text": "Aquele que vê a inação na ação e a ação na inação é sábio entre os homens.", "reference": "Bhagavad Gita 4:18" },
-    { "text": "Para a alma não há nascimento nem morte. Ela não passa a existir nem deixa de existir; é não-nascida, eterna e primordial.", "reference": "Bhagavad Gita 2:20" },
-    { "text": "Assim como uma pessoa veste roupas novas, abandonando as velhas, a alma assume novos corpos, deixando os antigos.", "reference": "Bhagavad Gita 2:22" },
-    { "text": "As armas não a cortam, o fogo não a queima, a água não a molha e o vento não a seca.", "reference": "Bhagavad Gita 2:23" },
-    { "text": "Realize o seu dever de modo equilibrado, abandonando o apego ao sucesso ou ao fracasso. Tal equanimidade chama-se yoga.", "reference": "Bhagavad Gita 2:48" },
-    { "text": "Aquele cuja mente não se perturba na adversidade nem se exalta na prosperidade, livre de apego, medo e ira, é chamado sábio de mente firme.", "reference": "Bhagavad Gita 2:56" },
-    { "text": "Melhor é o próprio dever, ainda que imperfeito, do que o dever alheio bem cumprido.", "reference": "Bhagavad Gita 3:35" },
-    { "text": "Sempre que o dharma declina e o adharma prevalece, Eu Me manifesto.", "reference": "Bhagavad Gita 4:7" },
-    { "text": "Para proteger os bons e destruir os malfeitores, e para restabelecer o dharma, Eu venho a cada era.", "reference": "Bhagavad Gita 4:8" },
-    { "text": "Quem age sem apego, oferecendo suas obras ao Supremo, não é tocado pelo pecado, como a folha de lótus não é tocada pela água.", "reference": "Bhagavad Gita 5:10" },
-    { "text": "O autocontrolado, movendo-se entre os objetos dos sentidos com a mente serena, alcança a paz.", "reference": "Bhagavad Gita 2:64" },
-    { "text": "Eleve-se a si mesmo pelo seu próprio esforço; não se rebaixe. Pois cada um é seu próprio amigo e seu próprio inimigo.", "reference": "Bhagavad Gita 6:5" },
-    { "text": "Para quem conquistou a si mesmo, o eu é um amigo; mas para quem não o fez, o eu permanece hostil como um inimigo.", "reference": "Bhagavad Gita 6:6" },
-    { "text": "O yogi de mente serena, livre do mal, cuja paixão se aquietou, torna-se um com o Absoluto e conhece a alegria suprema.", "reference": "Bhagavad Gita 6:27" },
-    { "text": "Aquele que Me vê em tudo e vê tudo em Mim, dele nunca Me separo, e ele nunca se separa de Mim.", "reference": "Bhagavad Gita 6:30" },
-    { "text": "Entre milhares de homens, talvez um se esforce pela perfeição; e entre os que se esforçam, talvez um Me conheça em verdade.", "reference": "Bhagavad Gita 7:3" },
-    { "text": "Qualquer que seja a forma que o devoto deseje adorar com fé, Eu firmo essa fé nele.", "reference": "Bhagavad Gita 7:21" },
-    { "text": "Aquele que Me recorda ao deixar o corpo, a esse Eu alcanço; sem dúvida, ele vem a Mim.", "reference": "Bhagavad Gita 8:5" },
-    { "text": "Fixe a mente em Mim, seja Meu devoto, prestando-Me reverência. Assim você certamente virá a Mim.", "reference": "Bhagavad Gita 9:34" },
-    { "text": "Se alguém Me oferece com devoção uma folha, uma flor, um fruto ou um pouco de água, Eu o aceito.", "reference": "Bhagavad Gita 9:26" },
-    { "text": "Aos que Me adoram com amor constante, Eu concedo a sabedoria pela qual chegam a Mim.", "reference": "Bhagavad Gita 10:10" },
-    { "text": "Eu sou o Eu que habita no coração de todos os seres; sou o princípio, o meio e o fim de tudo.", "reference": "Bhagavad Gita 10:20" },
-    { "text": "Abandone todas as formas de dever e simplesmente entregue-se a Mim. Eu o libertarei de todos os pecados; não tema.", "reference": "Bhagavad Gita 18:66" },
-    { "text": "Aquele que não odeia nenhum ser, é amigável e compassivo, livre de egoísmo e de orgulho, esse devoto Me é caro.", "reference": "Bhagavad Gita 12:13" },
-    { "text": "Contente sempre, firme em seu propósito, com a mente e o intelecto dedicados a Mim, tal devoto Me é querido.", "reference": "Bhagavad Gita 12:14" },
-    { "text": "Igual no calor e no frio, no prazer e na dor, na honra e na desonra, livre de apego, permanece sereno.", "reference": "Bhagavad Gita 12:18" },
-    { "text": "Aquele que vê o Senhor Supremo habitando igualmente em todos os seres, esse de fato enxerga.", "reference": "Bhagavad Gita 13:27" },
-    { "text": "A mente é amiga de quem a conquistou; mas, para quem não a conquistou, ela permanece como inimiga.", "reference": "Bhagavad Gita 6:6" },
-    { "text": "A mente inquieta é difícil de dominar, mas pela prática e pelo desapego ela pode ser controlada.", "reference": "Bhagavad Gita 6:35" },
-    { "text": "A paz pertence àquele que abandona todos os desejos e age sem ansiedade, sem o senso de posse e sem egoísmo.", "reference": "Bhagavad Gita 2:71" },
-    { "text": "Aquele que é igual para com amigos e inimigos, na honra e na vergonha, no frio e no calor, no prazer e na dor, livre de apego, está acima das modalidades.", "reference": "Bhagavad Gita 14:24" },
-    { "text": "O fogo da sabedoria reduz a cinzas todas as ações, assim como o fogo ardente transforma a lenha em cinzas.", "reference": "Bhagavad Gita 4:37" },
-    { "text": "Nada neste mundo é tão purificador quanto o conhecimento; aquele que se aperfeiçoa no yoga o encontra em si mesmo no devido tempo.", "reference": "Bhagavad Gita 4:38" },
-    { "text": "Quem tem fé e domina os sentidos alcança o conhecimento; e ao alcançá-lo, atinge sem demora a paz suprema.", "reference": "Bhagavad Gita 4:39" },
-    { "text": "Faça do desempenho do seu dever a sua única preocupação, pois agir é melhor que a inação.", "reference": "Bhagavad Gita 3:8" },
-    { "text": "O sábio não se aflige nem pelos vivos nem pelos mortos.", "reference": "Bhagavad Gita 2:11" },
-    { "text": "Da face do Sol, a verdade está velada por um disco de ouro. Removei-o, ó Sol, para que eu veja a verdade.", "reference": "Isha Upanishad 15" },
-    { "text": "Tudo o que existe neste universo em movimento é habitado pelo Senhor. Desfrute pela renúncia; não cobice o que pertence a outrem.", "reference": "Isha Upanishad 1" },
-    { "text": "Aquele que vê todos os seres em si mesmo e a si mesmo em todos os seres não sente aversão por nada.", "reference": "Isha Upanishad 6" },
-    { "text": "Para quem compreende, todos os seres tornaram-se o próprio Eu. Que sofrimento, que ilusão pode tocar aquele que vê a unidade?", "reference": "Isha Upanishad 7" },
-    { "text": "Ele se move e não se move; está distante e está perto; está dentro de tudo e fora de tudo.", "reference": "Isha Upanishad 5" },
-    { "text": "Desempenhando os deveres, deseja-se viver cem anos. Não há outro caminho senão este para que a ação não se apegue a ti.", "reference": "Isha Upanishad 2" },
-    { "text": "O Atman, mais sutil que o sutil, maior que o grande, está oculto no coração de cada criatura.", "reference": "Katha Upanishad 1.2.20" },
-    { "text": "Levanta-te! Desperta! Busca os grandes mestres e compreende. Estreito como o fio de uma navalha é o caminho; difícil de atravessar.", "reference": "Katha Upanishad 1.3.14" },
-    { "text": "Quando todos os desejos que se aninham no coração se desfazem, o mortal torna-se imortal e alcança aqui mesmo o Absoluto.", "reference": "Katha Upanishad 2.3.14" },
-    { "text": "O Eu não pode ser alcançado pela palavra, nem pela mente, nem pelos olhos. Só por quem diz 'Ele é' pode ser alcançado.", "reference": "Katha Upanishad 2.3.12" },
-    { "text": "Quando os cinco sentidos do conhecimento repousam com a mente, e o intelecto não se agita, esse é o estado supremo.", "reference": "Katha Upanishad 2.3.10" },
-    { "text": "Aquilo que está além é o mesmo que está aqui; e o que está aqui é o mesmo que está além. Quem vê diferença vai de morte em morte.", "reference": "Katha Upanishad 2.1.10" },
-    { "text": "O sábio, conhecendo o Atman como sem corpo entre os corpos, firme entre as coisas instáveis, grande e onipresente, não se aflige.", "reference": "Katha Upanishad 1.2.22" },
-    { "text": "Conhece o Eu como o senhor da carruagem, o corpo como a carruagem, o intelecto como o cocheiro e a mente como as rédeas.", "reference": "Katha Upanishad 1.3.3" },
-    { "text": "Os sentidos são os cavalos; os objetos dos sentidos, os caminhos. O Eu unido ao corpo, aos sentidos e à mente é o desfrutador.", "reference": "Katha Upanishad 1.3.4" },
-    { "text": "Aquele que tem entendimento, com a mente sempre controlada, tem seus sentidos sob domínio, como bons cavalos sob o cocheiro.", "reference": "Katha Upanishad 1.3.6" },
-    { "text": "A verdade sozinha vence, jamais a falsidade. Pela verdade abre-se o caminho divino, pelo qual seguem os sábios.", "reference": "Mundaka Upanishad 3.1.6" },
-    { "text": "Dois pássaros, companheiros inseparáveis, pousam na mesma árvore. Um come o fruto doce; o outro apenas observa, sem comer.", "reference": "Mundaka Upanishad 3.1.1" },
-    { "text": "Quando o homem vê o Criador resplandecente, o Senhor, a Pessoa, a fonte de Brahman, ele se liberta do bem e do mal.", "reference": "Mundaka Upanishad 3.1.3" },
-    { "text": "Como rios que correm para o oceano e nele perdem nome e forma, o sábio, livre de nome e forma, alcança o Ser divino e supremo.", "reference": "Mundaka Upanishad 3.2.8" },
-    { "text": "Esse Atman não pode ser alcançado por quem não tem força, nem por descuido, nem por austeridade sem propósito.", "reference": "Mundaka Upanishad 3.2.4" },
-    { "text": "Aquele que conhece o supremo Brahman torna-se ele próprio Brahman.", "reference": "Mundaka Upanishad 3.2.9" },
-    { "text": "Tomai como arco a grande arma das Upanishads, ajustai-lhe a flecha afiada pela meditação e atingi o alvo, o Imperecível.", "reference": "Mundaka Upanishad 2.2.3" },
-    { "text": "O Om é o arco, o Atman é a flecha e Brahman é o alvo. Que ele seja atingido por quem está atento, tornando-se um com o alvo.", "reference": "Mundaka Upanishad 2.2.4" },
-    { "text": "Tu és Aquilo.", "reference": "Chandogya Upanishad 6.8.7" },
-    { "text": "Tudo isto é Brahman. O Eu interior é Brahman.", "reference": "Chandogya Upanishad 3.14.1" },
-    { "text": "Aquilo que é o sutil essencial, isto tudo tem por seu Eu. Isto é a Verdade, isto é o Eu.", "reference": "Chandogya Upanishad 6.8.7" },
-    { "text": "Tão grande quanto este espaço infinito é o espaço dentro do coração. Nele estão contidos o céu e a terra.", "reference": "Chandogya Upanishad 8.1.3" },
-    { "text": "Brahman é a realidade, o conhecimento e o infinito.", "reference": "Taittiriya Upanishad 2.1.1" },
-    { "text": "Que o estudante diga a verdade, pratique o dharma e jamais se descuide da verdade.", "reference": "Taittiriya Upanishad 1.11.1" },
-    { "text": "Seja a mãe para ti como uma divindade; seja o pai como uma divindade; seja o mestre como uma divindade; seja o hóspede como uma divindade.", "reference": "Taittiriya Upanishad 1.11.2" },
-    { "text": "Daquilo de onde as palavras retornam, sem alcançá-lo, junto com a mente, quem o conhece não conhece mais o medo.", "reference": "Taittiriya Upanishad 2.9.1" },
-    { "text": "Aquele que conhece a alegria de Brahman não teme coisa alguma.", "reference": "Taittiriya Upanishad 2.9.1" },
-    { "text": "O Atman não é este corpo, nem os sentidos, nem a mente; o Atman é a testemunha pura e imutável de tudo.", "reference": "Upanishads" },
-    { "text": "Conduze-me da irrealidade à realidade. Conduze-me das trevas à luz. Conduze-me da morte à imortalidade.", "reference": "Brihadaranyaca Upanishad 1.3.28" },
-    { "text": "Onde há dualidade, ali um vê o outro. Mas onde tudo se tornou o próprio Eu, com que ver, e o que ver?", "reference": "Brihadaranyaca Upanishad 4.5.15" },
-    { "text": "Tal como a pessoa age, assim ela se torna. Quem faz o bem torna-se bom; quem faz o mal torna-se mau.", "reference": "Brihadaranyaca Upanishad 4.4.5" },
-    { "text": "O homem é feito de desejo. Tal como é o seu desejo, assim é a sua determinação; tal a determinação, assim a ação que realiza.", "reference": "Brihadaranyaca Upanishad 4.4.5" },
-    { "text": "Aquele que vê todos os seres no próprio Eu, e o Eu em todos os seres, não sente aversão por ninguém.", "reference": "Brihadaranyaca Upanishad 4.4.23" },
-    { "text": "Que todos os seres sejam felizes; que todos os seres estejam livres de doença; que todos contemplem o que é auspicioso; que ninguém sofra.", "reference": "Brihadaranyaca Upanishad" },
-    { "text": "Aquilo é pleno; isto é pleno. Do pleno surge o pleno. Tirando o pleno do pleno, o pleno ainda permanece.", "reference": "Isha Upanishad, invocação" },
-    { "text": "Que ambos sejamos protegidos; que ambos sejamos nutridos; que trabalhemos juntos com vigor. Que nosso estudo seja luminoso. Que não haja ódio entre nós.", "reference": "Katha Upanishad, invocação" },
-    { "text": "Que haja paz, paz, paz.", "reference": "Upanishads, mantra de paz" },
-    { "text": "Da plenitude do Sol nasce a luz; da plenitude do coração nasce a paz.", "reference": "Vedas" },
-    { "text": "Que nobres pensamentos venham até nós de todas as direções.", "reference": "Rig Veda 1.89.1" },
-    { "text": "A Verdade é una; os sábios a chamam por muitos nomes.", "reference": "Rig Veda 1.164.46" },
-    { "text": "Reúnam-se, falem em harmonia, que suas mentes estejam em concórdia, como os deuses de outrora se unem.", "reference": "Rig Veda 10.191.2" },
-    { "text": "Que seu propósito seja comum, suas reuniões comuns, comum a sua mente e seus pensamentos unidos.", "reference": "Rig Veda 10.191.3" },
-    { "text": "Conduzi-nos pelo bom caminho à riqueza, ó deus que conheces todas as obras. Afasta de nós o pecado que extravia.", "reference": "Rig Veda 1.189.1" },
-    { "text": "Meditemos na glória resplandecente do Sol divino; que ele ilumine os nossos pensamentos.", "reference": "Rig Veda 3.62.10" },
-    { "text": "Onde está a luz eterna, no mundo onde o sol está sempre presente, naquele mundo imortal e imperecível, coloca-me.", "reference": "Rig Veda 9.113.7" },
-    { "text": "Que o vento sopre doçura, que os rios fluam doçura, que as ervas nos sejam doces.", "reference": "Rig Veda 1.90.6" },
-    { "text": "Que doce seja a noite, doce o amanhecer, doce a poeira da terra, doce o céu para nós.", "reference": "Rig Veda 1.90.7" },
-    { "text": "Não há diferença, em verdade, entre aquele que dá e aquele que recebe; ambos são instrumentos do mesmo Senhor.", "reference": "Vedas" },
-    { "text": "Que possamos ouvir com os ouvidos o que é auspicioso; que possamos ver com os olhos o que é auspicioso.", "reference": "Atharva Veda" },
-    { "text": "A terra é a minha mãe e eu sou seu filho.", "reference": "Atharva Veda 12.1.12" },
-    { "text": "Da verdade nasce a justiça; da justiça, a confiança; da confiança, o respeito mútuo.", "reference": "Vedas" },
-    { "text": "Onde a mente não tem medo e a cabeça se mantém erguida, naquele céu de liberdade desperta, ó Senhor.", "reference": "Máxima dos sábios" },
-    { "text": "O Sol não brilha lá, nem a lua, nem as estrelas; quando Ele brilha, tudo brilha após Ele. Pela Sua luz, tudo é iluminado.", "reference": "Katha Upanishad 2.2.15" },
-    { "text": "Aquele que vê a si mesmo em todos os seres e todos os seres em si mesmo, alcança o Brahman supremo, por nenhum outro meio.", "reference": "Kaivalya Upanishad 10" },
-    { "text": "Não pela ação, não pela descendência, não pela riqueza, mas somente pela renúncia alguns alcançam a imortalidade.", "reference": "Kaivalya Upanishad 3" },
-    { "text": "Aquele cujo coração é puro vê o Senhor; aquele que controla a mente encontra a paz que não se desfaz.", "reference": "Upanishads" },
-    { "text": "O Atman é a luz das luzes; conhecendo-o, o sábio resplandece de bem-aventurança.", "reference": "Upanishads" },
-    { "text": "Como uma só lâmpada acende muitas outras sem se apagar, assim o Ser uno habita em todos os seres.", "reference": "Máxima dos sábios" },
-    { "text": "Aquele que renuncia ao fruto da ação encontra a paz duradoura; o ávido pelo fruto permanece preso pelo desejo.", "reference": "Bhagavad Gita 5:12" },
-    { "text": "O homem firme em sabedoria, sem desejos egoístas, encontra a paz; não aquele que persegue desejos.", "reference": "Bhagavad Gita 2:70" },
-    { "text": "Como o oceano permanece imóvel enquanto as águas nele entram, assim o sábio permanece em paz enquanto os desejos passam.", "reference": "Bhagavad Gita 2:70" },
-    { "text": "A pessoa de fé, dedicada à sabedoria e com os sentidos dominados, alcança o conhecimento e, com ele, a paz suprema.", "reference": "Bhagavad Gita 4:39" },
-    { "text": "Aquele que é o mesmo para o amigo e o inimigo, na honra e na vergonha, no calor e no frio, no prazer e na dor, está liberto.", "reference": "Bhagavad Gita 12:18" },
-    { "text": "Quem renunciou a todos os desejos e caminha livre de cobiça, sem 'eu' e sem 'meu', alcança a paz.", "reference": "Bhagavad Gita 2:71" },
-    { "text": "Aquele que oferece a Mim, com devoção e amor, mesmo a oferta mais simples, Eu a recebo com alegria.", "reference": "Bhagavad Gita 9:26" },
-    { "text": "Eu sou o sabor da água, a luz do sol e da lua, a sílaba sagrada nos Vedas, o som no éter e a virilidade no homem.", "reference": "Bhagavad Gita 7:8" },
-    { "text": "Em todos os seres, Eu sou a vida; em todos os ascetas, Eu sou a austeridade.", "reference": "Bhagavad Gita 7:9" },
-    { "text": "Aquele que age oferecendo tudo a Brahman, abandonando o apego, não é manchado pelo pecado.", "reference": "Bhagavad Gita 5:10" },
-    { "text": "O conhecimento verdadeiro vê o único princípio imperecível em todos os seres, indiviso entre os divididos.", "reference": "Bhagavad Gita 18:20" },
-    { "text": "A felicidade que nasce da serenidade da própria mente, do autoconhecimento, é a felicidade da pureza.", "reference": "Bhagavad Gita 18:37" },
-    { "text": "Aquele que se mantém firme no dever, sem apego e dominando os sentidos, eleva-se à perfeição.", "reference": "Bhagavad Gita 3:7" },
-    { "text": "Onde está Krishna, o senhor do yoga, e onde está Arjuna, o arqueiro, ali estão a fortuna, a vitória, a prosperidade e a justiça firme.", "reference": "Bhagavad Gita 18:78" },
-    { "text": "O autoconhecimento é o conhecimento; o resto é ignorância. Assim ensinam os sábios.", "reference": "Bhagavad Gita 13:11" },
-    { "text": "Aquele que pratica a não-violência, a verdade, a ausência de ira, a renúncia, a serenidade e a compaixão, caminha para a luz.", "reference": "Bhagavad Gita 16:2" },
-    { "text": "Destemor, pureza do coração, firmeza no conhecimento, caridade, autocontrole e estudo das escrituras são tesouros divinos.", "reference": "Bhagavad Gita 16:1" },
-    { "text": "A mente é tudo. Aquilo em que pensas, isso te tornas.", "reference": "Máxima dos Upanishads" },
-    { "text": "Quando a mente está em paz, todo o universo repousa em paz.", "reference": "Máxima dos sábios" },
-    { "text": "Que eu não me afaste do bem; que eu não me afaste da verdade; que eu não me afaste do estudo e do ensino.", "reference": "Taittiriya Upanishad 1.4.1" }
+    {
+      "text": "Você tem o direito de agir, mas nunca aos frutos da ação. Que os frutos não sejam o seu motivo, nem se apegue à inação.",
+      "reference": "Bhagavad Gita 2:47"
+    },
+    {
+      "text": "Aquele que vê a inação na ação e a ação na inação é sábio entre os homens.",
+      "reference": "Bhagavad Gita 4:18"
+    },
+    {
+      "text": "Para a alma não há nascimento nem morte. Ela não passa a existir nem deixa de existir; é não-nascida, eterna e primordial.",
+      "reference": "Bhagavad Gita 2:20"
+    },
+    {
+      "text": "Assim como uma pessoa veste roupas novas, abandonando as velhas, a alma assume novos corpos, deixando os antigos.",
+      "reference": "Bhagavad Gita 2:22"
+    },
+    {
+      "text": "As armas não a cortam, o fogo não a queima, a água não a molha e o vento não a seca.",
+      "reference": "Bhagavad Gita 2:23"
+    },
+    {
+      "text": "Realize o seu dever de modo equilibrado, abandonando o apego ao sucesso ou ao fracasso. Tal equanimidade chama-se yoga.",
+      "reference": "Bhagavad Gita 2:48"
+    },
+    {
+      "text": "Aquele cuja mente não se perturba na adversidade nem se exalta na prosperidade, livre de apego, medo e ira, é chamado sábio de mente firme.",
+      "reference": "Bhagavad Gita 2:56"
+    },
+    {
+      "text": "Melhor é o próprio dever, ainda que imperfeito, do que o dever alheio bem cumprido.",
+      "reference": "Bhagavad Gita 3:35"
+    },
+    {
+      "text": "Sempre que o dharma declina e o adharma prevalece, Eu Me manifesto.",
+      "reference": "Bhagavad Gita 4:7"
+    },
+    {
+      "text": "Para proteger os bons e destruir os malfeitores, e para restabelecer o dharma, Eu venho a cada era.",
+      "reference": "Bhagavad Gita 4:8"
+    },
+    {
+      "text": "Quem age sem apego, oferecendo suas obras ao Supremo, não é tocado pelo pecado, como a folha de lótus não é tocada pela água.",
+      "reference": "Bhagavad Gita 5:10"
+    },
+    {
+      "text": "O autocontrolado, movendo-se entre os objetos dos sentidos com a mente serena, alcança a paz.",
+      "reference": "Bhagavad Gita 2:64"
+    },
+    {
+      "text": "Eleve-se a si mesmo pelo seu próprio esforço; não se rebaixe. Pois cada um é seu próprio amigo e seu próprio inimigo.",
+      "reference": "Bhagavad Gita 6:5"
+    },
+    {
+      "text": "Para quem conquistou a si mesmo, o eu é um amigo; mas para quem não o fez, o eu permanece hostil como um inimigo.",
+      "reference": "Bhagavad Gita 6:6"
+    },
+    {
+      "text": "O yogi de mente serena, livre do mal, cuja paixão se aquietou, torna-se um com o Absoluto e conhece a alegria suprema.",
+      "reference": "Bhagavad Gita 6:27"
+    },
+    {
+      "text": "Aquele que Me vê em tudo e vê tudo em Mim, dele nunca Me separo, e ele nunca se separa de Mim.",
+      "reference": "Bhagavad Gita 6:30"
+    },
+    {
+      "text": "Entre milhares de homens, talvez um se esforce pela perfeição; e entre os que se esforçam, talvez um Me conheça em verdade.",
+      "reference": "Bhagavad Gita 7:3"
+    },
+    {
+      "text": "Qualquer que seja a forma que o devoto deseje adorar com fé, Eu firmo essa fé nele.",
+      "reference": "Bhagavad Gita 7:21"
+    },
+    {
+      "text": "Aquele que Me recorda ao deixar o corpo, a esse Eu alcanço; sem dúvida, ele vem a Mim.",
+      "reference": "Bhagavad Gita 8:5"
+    },
+    {
+      "text": "Fixe a mente em Mim, seja Meu devoto, prestando-Me reverência. Assim você certamente virá a Mim.",
+      "reference": "Bhagavad Gita 9:34"
+    },
+    {
+      "text": "Se alguém Me oferece com devoção uma folha, uma flor, um fruto ou um pouco de água, Eu o aceito.",
+      "reference": "Bhagavad Gita 9:26"
+    },
+    {
+      "text": "Aos que Me adoram com amor constante, Eu concedo a sabedoria pela qual chegam a Mim.",
+      "reference": "Bhagavad Gita 10:10"
+    },
+    {
+      "text": "Eu sou o Eu que habita no coração de todos os seres; sou o princípio, o meio e o fim de tudo.",
+      "reference": "Bhagavad Gita 10:20"
+    },
+    {
+      "text": "Abandone todas as formas de dever e simplesmente entregue-se a Mim. Eu o libertarei de todos os pecados; não tema.",
+      "reference": "Bhagavad Gita 18:66"
+    },
+    {
+      "text": "Aquele que não odeia nenhum ser, é amigável e compassivo, livre de egoísmo e de orgulho, esse devoto Me é caro.",
+      "reference": "Bhagavad Gita 12:13"
+    },
+    {
+      "text": "Contente sempre, firme em seu propósito, com a mente e o intelecto dedicados a Mim, tal devoto Me é querido.",
+      "reference": "Bhagavad Gita 12:14"
+    },
+    {
+      "text": "Igual no calor e no frio, no prazer e na dor, na honra e na desonra, livre de apego, permanece sereno.",
+      "reference": "Bhagavad Gita 12:18"
+    },
+    {
+      "text": "Aquele que vê o Senhor Supremo habitando igualmente em todos os seres, esse de fato enxerga.",
+      "reference": "Bhagavad Gita 13:27"
+    },
+    {
+      "text": "A mente é amiga de quem a conquistou; mas, para quem não a conquistou, ela permanece como inimiga.",
+      "reference": "Bhagavad Gita 6:6"
+    },
+    {
+      "text": "A mente inquieta é difícil de dominar, mas pela prática e pelo desapego ela pode ser controlada.",
+      "reference": "Bhagavad Gita 6:35"
+    },
+    {
+      "text": "A paz pertence àquele que abandona todos os desejos e age sem ansiedade, sem o senso de posse e sem egoísmo.",
+      "reference": "Bhagavad Gita 2:71"
+    },
+    {
+      "text": "Aquele que é igual para com amigos e inimigos, na honra e na vergonha, no frio e no calor, no prazer e na dor, livre de apego, está acima das modalidades.",
+      "reference": "Bhagavad Gita 14:24"
+    },
+    {
+      "text": "O fogo da sabedoria reduz a cinzas todas as ações, assim como o fogo ardente transforma a lenha em cinzas.",
+      "reference": "Bhagavad Gita 4:37"
+    },
+    {
+      "text": "Nada neste mundo é tão purificador quanto o conhecimento; aquele que se aperfeiçoa no yoga o encontra em si mesmo no devido tempo.",
+      "reference": "Bhagavad Gita 4:38"
+    },
+    {
+      "text": "Quem tem fé e domina os sentidos alcança o conhecimento; e ao alcançá-lo, atinge sem demora a paz suprema.",
+      "reference": "Bhagavad Gita 4:39"
+    },
+    {
+      "text": "Faça do desempenho do seu dever a sua única preocupação, pois agir é melhor que a inação.",
+      "reference": "Bhagavad Gita 3:8"
+    },
+    {
+      "text": "O sábio não se aflige nem pelos vivos nem pelos mortos.",
+      "reference": "Bhagavad Gita 2:11"
+    },
+    {
+      "text": "Da face do Sol, a verdade está velada por um disco de ouro. Removei-o, ó Sol, para que eu veja a verdade.",
+      "reference": "Isha Upanishad 15"
+    },
+    {
+      "text": "Tudo o que existe neste universo em movimento é habitado pelo Senhor. Desfrute pela renúncia; não cobice o que pertence a outrem.",
+      "reference": "Isha Upanishad 1"
+    },
+    {
+      "text": "Aquele que vê todos os seres em si mesmo e a si mesmo em todos os seres não sente aversão por nada.",
+      "reference": "Isha Upanishad 6"
+    },
+    {
+      "text": "Para quem compreende, todos os seres tornaram-se o próprio Eu. Que sofrimento, que ilusão pode tocar aquele que vê a unidade?",
+      "reference": "Isha Upanishad 7"
+    },
+    {
+      "text": "Ele se move e não se move; está distante e está perto; está dentro de tudo e fora de tudo.",
+      "reference": "Isha Upanishad 5"
+    },
+    {
+      "text": "Desempenhando os deveres, deseja-se viver cem anos. Não há outro caminho senão este para que a ação não se apegue a ti.",
+      "reference": "Isha Upanishad 2"
+    },
+    {
+      "text": "O Atman, mais sutil que o sutil, maior que o grande, está oculto no coração de cada criatura.",
+      "reference": "Katha Upanishad 1.2.20"
+    },
+    {
+      "text": "Levanta-te! Desperta! Busca os grandes mestres e compreende. Estreito como o fio de uma navalha é o caminho; difícil de atravessar.",
+      "reference": "Katha Upanishad 1.3.14"
+    },
+    {
+      "text": "Quando todos os desejos que se aninham no coração se desfazem, o mortal torna-se imortal e alcança aqui mesmo o Absoluto.",
+      "reference": "Katha Upanishad 2.3.14"
+    },
+    {
+      "text": "O Eu não pode ser alcançado pela palavra, nem pela mente, nem pelos olhos. Só por quem diz 'Ele é' pode ser alcançado.",
+      "reference": "Katha Upanishad 2.3.12"
+    },
+    {
+      "text": "Quando os cinco sentidos do conhecimento repousam com a mente, e o intelecto não se agita, esse é o estado supremo.",
+      "reference": "Katha Upanishad 2.3.10"
+    },
+    {
+      "text": "Aquilo que está além é o mesmo que está aqui; e o que está aqui é o mesmo que está além. Quem vê diferença vai de morte em morte.",
+      "reference": "Katha Upanishad 2.1.10"
+    },
+    {
+      "text": "O sábio, conhecendo o Atman como sem corpo entre os corpos, firme entre as coisas instáveis, grande e onipresente, não se aflige.",
+      "reference": "Katha Upanishad 1.2.22"
+    },
+    {
+      "text": "Conhece o Eu como o senhor da carruagem, o corpo como a carruagem, o intelecto como o cocheiro e a mente como as rédeas.",
+      "reference": "Katha Upanishad 1.3.3"
+    },
+    {
+      "text": "Os sentidos são os cavalos; os objetos dos sentidos, os caminhos. O Eu unido ao corpo, aos sentidos e à mente é o desfrutador.",
+      "reference": "Katha Upanishad 1.3.4"
+    },
+    {
+      "text": "Aquele que tem entendimento, com a mente sempre controlada, tem seus sentidos sob domínio, como bons cavalos sob o cocheiro.",
+      "reference": "Katha Upanishad 1.3.6"
+    },
+    {
+      "text": "A verdade sozinha vence, jamais a falsidade. Pela verdade abre-se o caminho divino, pelo qual seguem os sábios.",
+      "reference": "Mundaka Upanishad 3.1.6"
+    },
+    {
+      "text": "Dois pássaros, companheiros inseparáveis, pousam na mesma árvore. Um come o fruto doce; o outro apenas observa, sem comer.",
+      "reference": "Mundaka Upanishad 3.1.1"
+    },
+    {
+      "text": "Quando o homem vê o Criador resplandecente, o Senhor, a Pessoa, a fonte de Brahman, ele se liberta do bem e do mal.",
+      "reference": "Mundaka Upanishad 3.1.3"
+    },
+    {
+      "text": "Como rios que correm para o oceano e nele perdem nome e forma, o sábio, livre de nome e forma, alcança o Ser divino e supremo.",
+      "reference": "Mundaka Upanishad 3.2.8"
+    },
+    {
+      "text": "Esse Atman não pode ser alcançado por quem não tem força, nem por descuido, nem por austeridade sem propósito.",
+      "reference": "Mundaka Upanishad 3.2.4"
+    },
+    {
+      "text": "Aquele que conhece o supremo Brahman torna-se ele próprio Brahman.",
+      "reference": "Mundaka Upanishad 3.2.9"
+    },
+    {
+      "text": "Tomai como arco a grande arma das Upanishads, ajustai-lhe a flecha afiada pela meditação e atingi o alvo, o Imperecível.",
+      "reference": "Mundaka Upanishad 2.2.3"
+    },
+    {
+      "text": "O Om é o arco, o Atman é a flecha e Brahman é o alvo. Que ele seja atingido por quem está atento, tornando-se um com o alvo.",
+      "reference": "Mundaka Upanishad 2.2.4"
+    },
+    {
+      "text": "Tu és Aquilo.",
+      "reference": "Chandogya Upanishad 6.8.7"
+    },
+    {
+      "text": "Tudo isto é Brahman. O Eu interior é Brahman.",
+      "reference": "Chandogya Upanishad 3.14.1"
+    },
+    {
+      "text": "Aquilo que é o sutil essencial, isto tudo tem por seu Eu. Isto é a Verdade, isto é o Eu.",
+      "reference": "Chandogya Upanishad 6.8.7"
+    },
+    {
+      "text": "Tão grande quanto este espaço infinito é o espaço dentro do coração. Nele estão contidos o céu e a terra.",
+      "reference": "Chandogya Upanishad 8.1.3"
+    },
+    {
+      "text": "Brahman é a realidade, o conhecimento e o infinito.",
+      "reference": "Taittiriya Upanishad 2.1.1"
+    },
+    {
+      "text": "Que o estudante diga a verdade, pratique o dharma e jamais se descuide da verdade.",
+      "reference": "Taittiriya Upanishad 1.11.1"
+    },
+    {
+      "text": "Seja a mãe para ti como uma divindade; seja o pai como uma divindade; seja o mestre como uma divindade; seja o hóspede como uma divindade.",
+      "reference": "Taittiriya Upanishad 1.11.2"
+    },
+    {
+      "text": "Daquilo de onde as palavras retornam, sem alcançá-lo, junto com a mente, quem o conhece não conhece mais o medo.",
+      "reference": "Taittiriya Upanishad 2.9.1"
+    },
+    {
+      "text": "Aquele que conhece a alegria de Brahman não teme coisa alguma.",
+      "reference": "Taittiriya Upanishad 2.9.1"
+    },
+    {
+      "text": "O Atman não é este corpo, nem os sentidos, nem a mente; o Atman é a testemunha pura e imutável de tudo.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Conduze-me da irrealidade à realidade. Conduze-me das trevas à luz. Conduze-me da morte à imortalidade.",
+      "reference": "Brihadaranyaca Upanishad 1.3.28"
+    },
+    {
+      "text": "Onde há dualidade, ali um vê o outro. Mas onde tudo se tornou o próprio Eu, com que ver, e o que ver?",
+      "reference": "Brihadaranyaca Upanishad 4.5.15"
+    },
+    {
+      "text": "Tal como a pessoa age, assim ela se torna. Quem faz o bem torna-se bom; quem faz o mal torna-se mau.",
+      "reference": "Brihadaranyaca Upanishad 4.4.5"
+    },
+    {
+      "text": "O homem é feito de desejo. Tal como é o seu desejo, assim é a sua determinação; tal a determinação, assim a ação que realiza.",
+      "reference": "Brihadaranyaca Upanishad 4.4.5"
+    },
+    {
+      "text": "Aquele que vê todos os seres no próprio Eu, e o Eu em todos os seres, não sente aversão por ninguém.",
+      "reference": "Brihadaranyaca Upanishad 4.4.23"
+    },
+    {
+      "text": "Que todos os seres sejam felizes; que todos os seres estejam livres de doença; que todos contemplem o que é auspicioso; que ninguém sofra.",
+      "reference": "Brihadaranyaca Upanishad"
+    },
+    {
+      "text": "Aquilo é pleno; isto é pleno. Do pleno surge o pleno. Tirando o pleno do pleno, o pleno ainda permanece.",
+      "reference": "Isha Upanishad, invocação"
+    },
+    {
+      "text": "Que ambos sejamos protegidos; que ambos sejamos nutridos; que trabalhemos juntos com vigor. Que nosso estudo seja luminoso. Que não haja ódio entre nós.",
+      "reference": "Katha Upanishad, invocação"
+    },
+    {
+      "text": "Que haja paz, paz, paz.",
+      "reference": "Upanishads, mantra de paz"
+    },
+    {
+      "text": "Da plenitude do Sol nasce a luz; da plenitude do coração nasce a paz.",
+      "reference": "Vedas"
+    },
+    {
+      "text": "Que nobres pensamentos venham até nós de todas as direções.",
+      "reference": "Rig Veda 1.89.1"
+    },
+    {
+      "text": "A Verdade é una; os sábios a chamam por muitos nomes.",
+      "reference": "Rig Veda 1.164.46"
+    },
+    {
+      "text": "Reúnam-se, falem em harmonia, que suas mentes estejam em concórdia, como os deuses de outrora se unem.",
+      "reference": "Rig Veda 10.191.2"
+    },
+    {
+      "text": "Que seu propósito seja comum, suas reuniões comuns, comum a sua mente e seus pensamentos unidos.",
+      "reference": "Rig Veda 10.191.3"
+    },
+    {
+      "text": "Conduzi-nos pelo bom caminho à riqueza, ó deus que conheces todas as obras. Afasta de nós o pecado que extravia.",
+      "reference": "Rig Veda 1.189.1"
+    },
+    {
+      "text": "Meditemos na glória resplandecente do Sol divino; que ele ilumine os nossos pensamentos.",
+      "reference": "Rig Veda 3.62.10"
+    },
+    {
+      "text": "Onde está a luz eterna, no mundo onde o sol está sempre presente, naquele mundo imortal e imperecível, coloca-me.",
+      "reference": "Rig Veda 9.113.7"
+    },
+    {
+      "text": "Que o vento sopre doçura, que os rios fluam doçura, que as ervas nos sejam doces.",
+      "reference": "Rig Veda 1.90.6"
+    },
+    {
+      "text": "Que doce seja a noite, doce o amanhecer, doce a poeira da terra, doce o céu para nós.",
+      "reference": "Rig Veda 1.90.7"
+    },
+    {
+      "text": "Não há diferença, em verdade, entre aquele que dá e aquele que recebe; ambos são instrumentos do mesmo Senhor.",
+      "reference": "Vedas"
+    },
+    {
+      "text": "Que possamos ouvir com os ouvidos o que é auspicioso; que possamos ver com os olhos o que é auspicioso.",
+      "reference": "Atharva Veda"
+    },
+    {
+      "text": "A terra é a minha mãe e eu sou seu filho.",
+      "reference": "Atharva Veda 12.1.12"
+    },
+    {
+      "text": "Da verdade nasce a justiça; da justiça, a confiança; da confiança, o respeito mútuo.",
+      "reference": "Vedas"
+    },
+    {
+      "text": "Onde a mente não tem medo e a cabeça se mantém erguida, naquele céu de liberdade desperta, ó Senhor.",
+      "reference": "Máxima dos sábios"
+    },
+    {
+      "text": "O Sol não brilha lá, nem a lua, nem as estrelas; quando Ele brilha, tudo brilha após Ele. Pela Sua luz, tudo é iluminado.",
+      "reference": "Katha Upanishad 2.2.15"
+    },
+    {
+      "text": "Aquele que vê a si mesmo em todos os seres e todos os seres em si mesmo, alcança o Brahman supremo, por nenhum outro meio.",
+      "reference": "Kaivalya Upanishad 10"
+    },
+    {
+      "text": "Não pela ação, não pela descendência, não pela riqueza, mas somente pela renúncia alguns alcançam a imortalidade.",
+      "reference": "Kaivalya Upanishad 3"
+    },
+    {
+      "text": "Aquele cujo coração é puro vê o Senhor; aquele que controla a mente encontra a paz que não se desfaz.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "O Atman é a luz das luzes; conhecendo-o, o sábio resplandece de bem-aventurança.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Como uma só lâmpada acende muitas outras sem se apagar, assim o Ser uno habita em todos os seres.",
+      "reference": "Máxima dos sábios"
+    },
+    {
+      "text": "Aquele que renuncia ao fruto da ação encontra a paz duradoura; o ávido pelo fruto permanece preso pelo desejo.",
+      "reference": "Bhagavad Gita 5:12"
+    },
+    {
+      "text": "O homem firme em sabedoria, sem desejos egoístas, encontra a paz; não aquele que persegue desejos.",
+      "reference": "Bhagavad Gita 2:70"
+    },
+    {
+      "text": "Como o oceano permanece imóvel enquanto as águas nele entram, assim o sábio permanece em paz enquanto os desejos passam.",
+      "reference": "Bhagavad Gita 2:70"
+    },
+    {
+      "text": "A pessoa de fé, dedicada à sabedoria e com os sentidos dominados, alcança o conhecimento e, com ele, a paz suprema.",
+      "reference": "Bhagavad Gita 4:39"
+    },
+    {
+      "text": "Aquele que é o mesmo para o amigo e o inimigo, na honra e na vergonha, no calor e no frio, no prazer e na dor, está liberto.",
+      "reference": "Bhagavad Gita 12:18"
+    },
+    {
+      "text": "Quem renunciou a todos os desejos e caminha livre de cobiça, sem 'eu' e sem 'meu', alcança a paz.",
+      "reference": "Bhagavad Gita 2:71"
+    },
+    {
+      "text": "Aquele que oferece a Mim, com devoção e amor, mesmo a oferta mais simples, Eu a recebo com alegria.",
+      "reference": "Bhagavad Gita 9:26"
+    },
+    {
+      "text": "Eu sou o sabor da água, a luz do sol e da lua, a sílaba sagrada nos Vedas, o som no éter e a virilidade no homem.",
+      "reference": "Bhagavad Gita 7:8"
+    },
+    {
+      "text": "Em todos os seres, Eu sou a vida; em todos os ascetas, Eu sou a austeridade.",
+      "reference": "Bhagavad Gita 7:9"
+    },
+    {
+      "text": "Aquele que age oferecendo tudo a Brahman, abandonando o apego, não é manchado pelo pecado.",
+      "reference": "Bhagavad Gita 5:10"
+    },
+    {
+      "text": "O conhecimento verdadeiro vê o único princípio imperecível em todos os seres, indiviso entre os divididos.",
+      "reference": "Bhagavad Gita 18:20"
+    },
+    {
+      "text": "A felicidade que nasce da serenidade da própria mente, do autoconhecimento, é a felicidade da pureza.",
+      "reference": "Bhagavad Gita 18:37"
+    },
+    {
+      "text": "Aquele que se mantém firme no dever, sem apego e dominando os sentidos, eleva-se à perfeição.",
+      "reference": "Bhagavad Gita 3:7"
+    },
+    {
+      "text": "Onde está Krishna, o senhor do yoga, e onde está Arjuna, o arqueiro, ali estão a fortuna, a vitória, a prosperidade e a justiça firme.",
+      "reference": "Bhagavad Gita 18:78"
+    },
+    {
+      "text": "O autoconhecimento é o conhecimento; o resto é ignorância. Assim ensinam os sábios.",
+      "reference": "Bhagavad Gita 13:11"
+    },
+    {
+      "text": "Aquele que pratica a não-violência, a verdade, a ausência de ira, a renúncia, a serenidade e a compaixão, caminha para a luz.",
+      "reference": "Bhagavad Gita 16:2"
+    },
+    {
+      "text": "Destemor, pureza do coração, firmeza no conhecimento, caridade, autocontrole e estudo das escrituras são tesouros divinos.",
+      "reference": "Bhagavad Gita 16:1"
+    },
+    {
+      "text": "A mente é tudo. Aquilo em que pensas, isso te tornas.",
+      "reference": "Máxima dos Upanishads"
+    },
+    {
+      "text": "Quando a mente está em paz, todo o universo repousa em paz.",
+      "reference": "Máxima dos sábios"
+    },
+    {
+      "text": "Que eu não me afaste do bem; que eu não me afaste da verdade; que eu não me afaste do estudo e do ensino.",
+      "reference": "Taittiriya Upanishad 1.4.1"
+    },
+    {
+      "text": "Levante-se, desperte e não pare até alcançar a meta.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Você é capaz de tudo; o poder está dentro de você, basta despertá-lo.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Tudo o que nos fortalece é bom; tudo o que nos enfraquece deve ser deixado de lado.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "A maior religião é ser fiel à sua própria natureza. Tenha fé em si mesmo.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Quem ajuda o próximo ajuda a si mesmo; quem serve a Deus serve em cada criatura.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "O coração e o cérebro devem caminhar juntos; mas, no conflito, siga o coração.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Concentre-se em uma só ideia, faça dela a sua vida, e esse é o caminho do sucesso.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Não busque a Deus aqui ou ali; Ele está no coração de cada ser vivo.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "A força é vida, a fraqueza é morte. A força é felicidade, eterna e imortal.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Cada alma é divina em potencial; a meta é manifestar essa divindade interior.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Não há limite para o poder da mente humana quanto mais concentrada ela está.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "A maior das verdades é simples: ame e sirva a todos como manifestações do Divino.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Saia da escravidão do medo, pois o medo é a maior das superstições.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Onde podemos ir para encontrar Deus se não O vemos no coração de cada ser?",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "O que você pensa, você se torna; encha a mente de pensamentos elevados.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Quando estiver de pé sobre seus próprios pés, será forte como uma rocha.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Deus pode ser visto enxugando as lágrimas dos olhos do necessitado.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Tantos credos, tantos caminhos; todos os rios levam ao mesmo oceano.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "A mente é tudo. Se a mente perde a liberdade, você perde a sua.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Chore a Deus com o coração sincero e Ele certamente Se revelará a você.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Quando a flor desabrocha, as abelhas vêm por si mesmas; cuide do seu coração.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "A água e a bolha na água são uma só; a alma e Deus são um só, com apenas um véu entre eles.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Viva no mundo como a folha de lótus vive na água, sem se deixar molhar.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Deus está em todos os homens, mas nem todos os homens estão em Deus; aí está o sofrimento.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Quanto mais perto você chega de Deus, menos atividade externa precisa.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Quem tem fé tem tudo; quem não tem fé não tem nada.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "O barco pode estar na água, mas a água não deve entrar no barco; viva no mundo sem deixá-lo entrar em você.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "Diferentes credos não passam de diferentes caminhos para alcançar o mesmo Senhor.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "A serenidade é o tesouro mais precioso que a meditação revela à alma.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "Viva cada momento completo, e o futuro cuidará de si mesmo.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "A calma é o ritmo vivo de Deus pulsando através do silêncio do coração.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "Mude o seu interior e mudará todo o seu mundo exterior.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "A felicidade que você busca não está fora; ela floresce do contentamento interior.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "O ambiente é mais forte que a vontade; mantenha boas companhias e bons pensamentos.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "A solidão é o preço da grandeza; busque o silêncio para encontrar a si mesmo.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "Tenha bom senso, paciência e bondade; assim a alma floresce em sabedoria.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "A possessão de coisas materiais sem paz interior é como morrer de sede ao lado de um lago.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "Deus é simples; tudo o mais é complexo. Não busque valores absolutos no mundo relativo.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "Brahman é a única realidade; o mundo é aparência; a alma não é diferente de Brahman.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "O conhecimento do Eu é o único barco que atravessa o oceano da existência.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Assim como a corda confundida com a serpente causa medo, a ignorância faz o mundo parecer real.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Liberte-se do apego ao corpo e contemple a si mesmo como a consciência imutável.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "A mente atada aos sentidos é escravidão; a mente livre dos sentidos é libertação.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Não é o mundo que prende, mas o apego ao mundo; abandone o apego e seja livre.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Tu não és o corpo, nem a mente; tu és a testemunha eterna, sempre livre.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Aquele que conhece Brahman torna-se sereno, contente e firme no Eu.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "A repetição do nome divino purifica o coração mais do que mil rituais.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "O yoga é a cessação das flutuações da mente.",
+      "reference": "Yoga Sutras de Patanjali 1.2"
+    },
+    {
+      "text": "Então a testemunha repousa em sua própria natureza essencial.",
+      "reference": "Yoga Sutras de Patanjali 1.3"
+    },
+    {
+      "text": "A prática constante e o desapego são os dois meios de aquietar a mente.",
+      "reference": "Yoga Sutras de Patanjali 1.12"
+    },
+    {
+      "text": "A prática torna-se firme quando cultivada por longo tempo, sem interrupção e com devoção.",
+      "reference": "Yoga Sutras de Patanjali 1.14"
+    },
+    {
+      "text": "A mente serena-se cultivando a amizade, a compaixão, a alegria e a equanimidade.",
+      "reference": "Yoga Sutras de Patanjali 1.33"
+    },
+    {
+      "text": "Quando firmados na não-violência, cessa toda hostilidade na presença do sábio.",
+      "reference": "Yoga Sutras de Patanjali 2.35"
+    },
+    {
+      "text": "Firme na verdade, o yogi colhe os frutos de suas ações como uma bênção.",
+      "reference": "Yoga Sutras de Patanjali 2.36"
+    },
+    {
+      "text": "Pelo contentamento alcança-se a felicidade suprema e insuperável.",
+      "reference": "Yoga Sutras de Patanjali 2.42"
+    },
+    {
+      "text": "A postura do yoga deve ser firme e confortável, em equilíbrio e relaxamento.",
+      "reference": "Yoga Sutras de Patanjali 2.46"
+    },
+    {
+      "text": "Quando os pensamentos perturbadores surgem, cultive os pensamentos opostos.",
+      "reference": "Yoga Sutras de Patanjali 2.33"
+    },
+    {
+      "text": "A iluminação alcança-se em passos, como o amanhecer que aos poucos clareia o céu.",
+      "reference": "Yoga Sutras de Patanjali 2.27"
+    },
+    {
+      "text": "Da pureza nasce a serenidade da mente e o domínio dos sentidos.",
+      "reference": "Yoga Sutras de Patanjali 2.41"
+    },
+    {
+      "text": "A concentração é a fixação da mente em um único ponto.",
+      "reference": "Yoga Sutras de Patanjali 3.1"
+    },
+    {
+      "text": "O desapego é o domínio daquele que não anseia por nada visto ou ouvido.",
+      "reference": "Yoga Sutras de Patanjali 1.15"
+    },
+    {
+      "text": "Cumpra o seu dever com a mente serena, entregando os frutos ao Divino.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "A dúvida destrói a alma; nem este mundo nem o outro pertencem ao que duvida.",
+      "reference": "Bhagavad Gita 4:40"
+    },
+    {
+      "text": "Quando dominas a mente, ela é a tua maior aliada; quando não, a tua maior inimiga.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Aquele que faz tudo por Mim, livre de apego, sem ódio por ser algum, vem a Mim.",
+      "reference": "Bhagavad Gita 11:55"
+    },
+    {
+      "text": "Mesmo o pior dos pecadores, se Me adora com devoção sincera, deve ser tido como justo.",
+      "reference": "Bhagavad Gita 9:30"
+    },
+    {
+      "text": "Aquele que come com moderação, dorme e trabalha com equilíbrio, vence o sofrimento pelo yoga.",
+      "reference": "Bhagavad Gita 6:17"
+    },
+    {
+      "text": "Quando a mente, disciplinada, repousa só no Eu, livre de todo desejo, então se diz unida.",
+      "reference": "Bhagavad Gita 6:18"
+    },
+    {
+      "text": "Como a lâmpada protegida do vento não tremula, assim é a mente do yogi concentrado.",
+      "reference": "Bhagavad Gita 6:19"
+    },
+    {
+      "text": "Eleve a mente firmemente, pois a mente pode erguer ou afundar a alma.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Aquele que vê a mesma essência em todas as criaturas e em si mesmo alcança a perfeição.",
+      "reference": "Bhagavad Gita 6:32"
+    },
+    {
+      "text": "Nenhum esforço no caminho do bem é jamais perdido; nele não há retrocesso.",
+      "reference": "Bhagavad Gita 2:40"
+    },
+    {
+      "text": "Quem desistir de todos os desejos do coração e encontrar alegria no Eu, esse é firme em sabedoria.",
+      "reference": "Bhagavad Gita 2:55"
+    },
+    {
+      "text": "Do apego nasce o desejo; do desejo, a ira; da ira, a confusão; da confusão, a ruína.",
+      "reference": "Bhagavad Gita 2:62"
+    },
+    {
+      "text": "A devoção pura é o caminho mais doce; ame o Divino e nele se dissolva.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Aquilo que parece veneno no início mas se torna néctar é a felicidade que nasce da serenidade.",
+      "reference": "Bhagavad Gita 18:37"
+    },
+    {
+      "text": "O sábio trata igualmente o torrão de terra, a pedra e o ouro.",
+      "reference": "Bhagavad Gita 6:8"
+    },
+    {
+      "text": "Aquele que perdoa, é contente, firme no propósito e entregue a Mim, esse devoto Me é querido.",
+      "reference": "Bhagavad Gita 12:14"
+    },
+    {
+      "text": "Sem perturbar o mundo, nem se deixar perturbar por ele, vive o devoto que Me é caro.",
+      "reference": "Bhagavad Gita 12:15"
+    },
+    {
+      "text": "Tudo o que você faz, oferece ou doa, faça como oferenda ao Divino.",
+      "reference": "Bhagavad Gita 9:27"
+    },
+    {
+      "text": "O que é noite para todos os seres, para o sábio disciplinado é o tempo de despertar.",
+      "reference": "Bhagavad Gita 2:69"
+    },
+    {
+      "text": "Em qualquer caminho que os homens venham a Mim, por esse mesmo Eu os recebo.",
+      "reference": "Bhagavad Gita 4:11"
+    },
+    {
+      "text": "O alimento puro purifica a mente; a mente pura traz a memória firme do Eu.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "Que a verdade seja a sua palavra e a bondade o seu caminho.",
+      "reference": "Provérbio védico"
+    },
+    {
+      "text": "Aja como se cada gesto fosse uma oferenda ao fogo sagrado da vida.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "Que todos os seres em toda parte sejam felizes e livres.",
+      "reference": "Provérbio védico"
+    },
+    {
+      "text": "O hóspede é como um deus; recebe-o com reverência e coração aberto.",
+      "reference": "Provérbio védico"
+    },
+    {
+      "text": "A não-violência é o mais alto dever; nada a supera em virtude.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "O que não desejas para ti mesmo, não faças aos outros; eis a essência do dharma.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "A paciência é a maior força; a verdade é o maior tesouro; a serenidade, a maior bênção.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "Aquele que controla a ira controla o mundo inteiro.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "O dharma protege quem o protege; quem destrói o dharma é destruído por ele.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "A verdadeira riqueza é o contentamento; quem está satisfeito é o mais rico dos homens.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "A maior maravilha do mundo é que, vendo outros morrerem, ainda nos julgamos imortais.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "O perdão é a virtude do forte; só os fracos guardam rancor.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "Onde está o dharma, ali está a vitória.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "A mente é a raiz de todo sofrimento e de toda libertação.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "Aquele que é firme na verdade e na bondade jamais teme a adversidade.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "O bem que fazemos retorna a nós; a bondade é a semente de toda felicidade.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "Honra teu pai, tua mãe e tua palavra; nisto se sustenta a retidão.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "Quem cumpre a promessa, ainda que lhe custe tudo, é verdadeiramente nobre.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "A coragem nasce da retidão do coração, não da força dos braços.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "A devoção sincera atravessa oceanos e move montanhas.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "Aquele que serve com amor desinteressado torna-se maior do que reis.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "A verdade é a mãe de todas as virtudes; sem ela, nada se sustenta.",
+      "reference": "Ramayana"
+    },
+    {
+      "text": "Tu és Aquilo: a mesma essência que ilumina o sol ilumina o teu coração.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Conhece o Eu e conhecerás tudo; nele repousam todos os mundos.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Aquele que vê a unidade em toda diversidade não conhece o medo.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "O Atman é menor que o menor e maior que o maior, oculto no coração de todos.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Como o sal se dissolve na água e a torna salgada por inteiro, assim Brahman impregna tudo.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Aquele que conhece a alegria de Brahman não teme mais coisa alguma.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Da plenitude surge a plenitude; retirando a plenitude, a plenitude permanece.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Aquilo que não pode ser pensado pela mente, mas pelo qual a mente pensa, sabe que é Brahman.",
+      "reference": "Kena Upanishad"
+    },
+    {
+      "text": "Aquilo que o olho não vê, mas pelo qual o olho vê, sabe que é Brahman.",
+      "reference": "Kena Upanishad"
+    },
+    {
+      "text": "Aquilo que a fala não exprime, mas pelo qual a fala se exprime, sabe que é Brahman.",
+      "reference": "Kena Upanishad"
+    },
+    {
+      "text": "Se julgas conhecer bem Brahman, conheces apenas pouco; tão sutil é a verdade.",
+      "reference": "Kena Upanishad"
+    },
+    {
+      "text": "O Eu não nasce nem morre; eterno, não é destruído quando o corpo é destruído.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "Os sábios que conhecem o Eu como sem som, sem toque, sem forma, libertam-se da morte.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "O bem é uma coisa; o agradável é outra. Feliz é quem escolhe o bem.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "O caminho do conhecimento é estreito como o fio da navalha; difícil de trilhar, dizem os sábios.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "Aquele que medita no Om alcança a paz mais alta e supera o medo.",
+      "reference": "Mandukya Upanishad"
+    },
+    {
+      "text": "O Om é o passado, o presente e o futuro; tudo isto é apenas a sílaba sagrada.",
+      "reference": "Mandukya Upanishad"
+    },
+    {
+      "text": "Como a aranha tece sua teia de si mesma, assim o universo brota do Eterno.",
+      "reference": "Mundaka Upanishad"
+    },
+    {
+      "text": "A verdade vence, jamais a falsidade; pela verdade abre-se o caminho dos deuses.",
+      "reference": "Mundaka Upanishad"
+    },
+    {
+      "text": "Conhecendo o Imperecível, o sábio liberta-se do nó do coração e desfaz toda a dúvida.",
+      "reference": "Mundaka Upanishad"
+    },
+    {
+      "text": "A meditação é o barco; a serenidade, o remo; cruze com eles o rio da mente.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "O silêncio é a linguagem em que o Eterno fala ao coração atento.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Quem domina o desejo domina o mundo; quem é dominado por ele perde a si mesmo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A árvore curva-se carregada de frutos; assim o sábio se inclina em humildade.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Plante boas ações e colherá um destino sereno; tal é a lei do karma.",
+      "reference": "Sabedoria do karma"
+    },
+    {
+      "text": "Cada pensamento é uma semente; cuide do jardim da sua mente.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "O rio não bebe a própria água; a árvore não come o próprio fruto. Viver para os outros é a lei do sábio.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A lâmpada da sabedoria dissipa em um instante a escuridão de mil anos.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Onde há devoção, ali floresce a paz; onde há entrega, ali repousa a alma.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Cante o nome do Divino e o coração se enche de luz.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "A devoção não exige riqueza nem saber; pede apenas um coração sincero.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Quem ama a Deus em todos os seres já encontrou o caminho mais curto à libertação.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "A oração não muda a Deus; muda quem ora.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Renuncie ao fruto e a ação tornar-se-á leve como uma oferenda de flores.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "A serenidade não vem de fugir do mundo, mas de agir sem apego dentro dele.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Aquele que vê a ação correta sem ansiar pela recompensa caminha em liberdade.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "O verdadeiro renunciante não é quem abandona o fogo, mas quem abandona o desejo.",
+      "reference": "Bhagavad Gita 6:1"
+    },
+    {
+      "text": "Faça o seu trabalho com excelência, pois a habilidade na ação é o próprio yoga.",
+      "reference": "Bhagavad Gita 2:50"
+    },
+    {
+      "text": "Quem sente igual prazer no louvor e na crítica permanece firme em sua alma.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Não há purificação maior do que o conhecimento do Eu.",
+      "reference": "Bhagavad Gita 4:38"
+    },
+    {
+      "text": "A fé determina o homem; conforme a sua fé, assim ele é.",
+      "reference": "Bhagavad Gita 17:3"
+    },
+    {
+      "text": "Aquele que se entrega a Mim atravessa, pela Minha graça, todos os obstáculos.",
+      "reference": "Bhagavad Gita 18:58"
+    },
+    {
+      "text": "O Senhor reside no coração de todos os seres, guiando-os como uma roda gira.",
+      "reference": "Bhagavad Gita 18:61"
+    },
+    {
+      "text": "Que cada respiração seja uma lembrança do Eterno que habita em ti.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "O universo inteiro é uma família.",
+      "reference": "Maha Upanishad"
+    },
+    {
+      "text": "Aquele para quem não há nem 'meu' nem 'teu' vê o mundo todo como sua casa.",
+      "reference": "Maha Upanishad"
+    },
+    {
+      "text": "A mente apaziguada é o templo onde o Divino se faz presente.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Liberte-se do 'eu' e do 'meu', e a paz que procura virá ao seu encontro.",
+      "reference": "Bhagavad Gita 2:71"
+    },
+    {
+      "text": "Como o fogo não se mancha pela forma que consome, o Eu não se mancha pela ação.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que conhece a si mesmo conhece o Senhor; eles são uma só luz.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "A vida é uma peregrinação; caminhe leve, sem o peso do apego.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A verdadeira força não está em vencer os outros, mas em vencer a si mesmo.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "A humildade é a porta pela qual a sabedoria entra no coração.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Quem semeia compaixão colhe paz; quem semeia ódio colhe sofrimento.",
+      "reference": "Sabedoria do karma"
+    },
+    {
+      "text": "A meditação é o retorno do rio da mente à sua nascente silenciosa.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que eu veja a unidade em toda a diversidade e nunca odeie criatura alguma.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "O sábio acolhe a alegria e a dor com o mesmo coração tranquilo.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "O autoconhecimento é a maior das viagens, e não exige um único passo para fora.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que ilumina a própria mente ilumina o mundo ao seu redor.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Sirva sem esperar recompensa, e cada ato se tornará uma prece.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Em meio à tempestade dos sentidos, o sábio é uma montanha imóvel.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "O desapego não é frieza; é amar sem aprisionar.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A luz interior nunca se apaga; basta remover as nuvens da ignorância.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Tudo passa; o que permanece é a testemunha silenciosa de todas as mudanças.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "O sábio repousa no Eu como a onda repousa no oceano.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que seus pensamentos sejam claros, suas palavras gentis e suas ações puras.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "Quem encontra alegria no interior já não mendiga a felicidade do mundo.",
+      "reference": "Bhagavad Gita 5:24"
+    },
+    {
+      "text": "A alma que se reconhece imortal já não treme diante da morte.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Como o lótus nasce da lama e permanece puro, assim a alma vive no mundo sem se manchar.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A verdadeira adoração é ver o Divino em cada rosto que encontramos.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "A renúncia ao egoísmo é o início de toda a verdadeira liberdade.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Tudo o que existe é Brahman; nada além disso jamais existiu.",
+      "reference": "Mandukya Upanishad"
+    },
+    {
+      "text": "Quem domina a respiração começa a dominar a mente.",
+      "reference": "Yoga Sutras de Patanjali"
+    },
+    {
+      "text": "A constância na prática transforma o impossível em natural.",
+      "reference": "Yoga Sutras de Patanjali"
+    },
+    {
+      "text": "Acolha o que vem e solte o que vai; nisto está a paz do desapego.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A gratidão é a flor mais doce que cresce no jardim da alma.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que perdoa liberta dois prisioneiros: o outro e a si mesmo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Onde habita o contentamento, a pobreza não pode entrar.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que minha vida seja uma oferenda contínua ao Senhor de todos os seres.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "O Eu resplandece por luz própria; nele o sol, a lua e o fogo encontram o seu brilho.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "Não há felicidade no efêmero; só o Infinito traz alegria duradoura.",
+      "reference": "Chandogya Upanishad"
+    },
+    {
+      "text": "Onde se vê o Infinito, ali está a alegria; no finito não há felicidade.",
+      "reference": "Chandogya Upanishad"
+    },
+    {
+      "text": "Aquele que conhece a unidade de tudo já não chora nem se ilude.",
+      "reference": "Isha Upanishad"
+    },
+    {
+      "text": "Adore o Divino trabalhando, pois o trabalho oferecido com amor é a mais pura devoção.",
+      "reference": "Bhagavad Gita 18:46"
+    },
+    {
+      "text": "Aquele de quem todos os seres surgem e em quem todos repousam: adore-O em seu próprio dever.",
+      "reference": "Bhagavad Gita 18:46"
+    },
+    {
+      "text": "A mente disciplinada é a melhor amiga; a mente desgovernada, o pior inimigo.",
+      "reference": "Bhagavad Gita 6:6"
+    },
+    {
+      "text": "Conquiste a raiva com a calma, o mal com o bem, a avareza com a generosidade.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Pratique a verdade, mas fale a verdade que é agradável; eis a virtude da palavra.",
+      "reference": "Manusmriti"
+    },
+    {
+      "text": "A não-violência, a verdade e o autocontrole são as raízes de toda virtude.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que faz da paciência seu escudo nunca é ferido pela adversidade.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "O coração puro é o melhor templo; nele o Divino habita sem cessar.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Os sentidos arrastam a mente como o vento arrasta o barco nas águas.",
+      "reference": "Bhagavad Gita 2:67"
+    },
+    {
+      "text": "Domine os sentidos e a sabedoria firmar-se-á em ti como a montanha.",
+      "reference": "Bhagavad Gita 2:68"
+    },
+    {
+      "text": "Aquele que abandona o orgulho e a posse, livre de cobiça, alcança a paz suprema.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Quem realiza o seu dever com amor, sem ambição, está perto da libertação.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "A devoção a Deus é como o rio que corre sem cessar para o oceano do amor.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Repita o nome divino e a mente inquieta encontrará o seu repouso.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "A oração sincera é a ponte entre o coração humano e o coração do universo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A alma é como o céu: as nuvens passam, mas ela permanece imutável e clara.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Liberte-se do passado e do futuro; o Eterno só pode ser encontrado no agora.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que minha mente repouse no Divino como o pássaro repousa em sua árvore ao anoitecer.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "Aquele que vê a Deus em tudo nunca está sozinho.",
+      "reference": "Sri Ramakrishna"
+    },
+    {
+      "text": "A mente é como uma corda com nós; desate-os pela meditação e seja livre.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "O conhecimento sem prática é como uma árvore sem frutos.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Cultive a calma interior e o mundo externo perderá o poder de perturbá-lo.",
+      "reference": "Paramahansa Yogananda"
+    },
+    {
+      "text": "A paz começa no instante em que você para de exigir que tudo seja diferente.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que conhece o silêncio conhece a fonte de todas as palavras.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Não busque o Divino nas alturas distantes; Ele respira no seu próprio peito.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "O sábio age no mundo como o ator no palco, sem esquecer quem realmente é.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Renuncie ao apego, não à ação; aja com o coração entregue ao Eterno.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "A semente do divino dorme em cada coração; a meditação é a água que a desperta.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "O homem virtuoso encontra felicidade em si mesmo, pois carrega seu tesouro por dentro.",
+      "reference": "Bhagavad Gita 5:24"
+    },
+    {
+      "text": "Como muitos rios se fundem no mar, todos os caminhos sinceros levam ao Único.",
+      "reference": "Rig Veda"
+    },
+    {
+      "text": "A verdade nua é mais bela que a mentira ornamentada.",
+      "reference": "Provérbio védico"
+    },
+    {
+      "text": "A bondade praticada em segredo floresce mais perfumada que a feita aos olhos do mundo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Quem cuida do dever de hoje não precisa temer o amanhã.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A serenidade do sábio é uma luz que ilumina todos os que dele se aproximam.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que oferece a sua ação ao Divino transforma o trabalho em adoração.",
+      "reference": "Bhagavad Gita 9:27"
+    },
+    {
+      "text": "Que eu seja amigo de todos os seres e inimigo de nenhum.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "Aquele que deseja pouco já possui muito; aquele que nada cobiça é o mais livre.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A compaixão é a flor mais elevada que desabrocha na árvore do dharma.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Como o ouro permanece ouro sob qualquer forma, o Eu permanece imutável sob todos os corpos.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Quem se conhece como a consciência eterna já não teme nascimento nem morte.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "A liberdade verdadeira é a liberdade do desejo, não a satisfação dele.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que o nosso estudo nos torne luminosos e que jamais haja ódio entre nós.",
+      "reference": "Upanishads, mantra de paz"
+    },
+    {
+      "text": "A devoção pura derrete o coração como o sol derrete a neve da montanha.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Aquele que faz das suas mãos um instrumento do Divino transforma o mundo ao seu redor.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A paz que buscamos fora já reside, silenciosa, no fundo do nosso coração.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "O dharma é como a sombra: segue fielmente aquele que o pratica.",
+      "reference": "Mahabharata"
+    },
+    {
+      "text": "Quem domina a língua domina metade das batalhas da vida.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A mente concentrada é como uma lente que reúne os raios e acende o fogo da sabedoria.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Erga-se acima dos pares de opostos e repouse na serenidade do Eu.",
+      "reference": "Bhagavad Gita 2:45"
+    },
+    {
+      "text": "A alma de mente firme não se abala nem na vitória nem na derrota.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "O verdadeiro yogi vê a si mesmo em todos e todos em si mesmo.",
+      "reference": "Bhagavad Gita 6:29"
+    },
+    {
+      "text": "Quem nada despreza e nada cobiça caminha em harmonia com o universo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A meditação dissolve o medo como o amanhecer dissolve a escuridão.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que eu seja como a terra, paciente e generosa, sustentando a todos sem reclamar.",
+      "reference": "Atharva Veda"
+    },
+    {
+      "text": "Aquele que conhece o Eu interior encontrou o tesouro que ladrão algum pode roubar.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "A bondade é a única linguagem que o surdo escuta e o cego enxerga.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Quem oferece o coração ao Senhor recebe em troca uma paz que o mundo não pode dar.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "O Eu é a luz imutável que ilumina a mente, mas que a mente não pode iluminar.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "Aja com firmeza no presente e o futuro nascerá puro de suas mãos.",
+      "reference": "Sabedoria do karma"
+    },
+    {
+      "text": "Quem semeia a paz no coração colhe a paz no mundo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A verdadeira grandeza é servir; a maior alma é a que mais se inclina.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Não tema a queda, pois cada tropeço ensina o caminho de erguer-se.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que cada amanhecer me encontre grato e cada anoitecer, em paz.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "O coração devoto vê o Divino tanto na flor quanto na pedra do caminho.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Liberte a mente do apego e descobrirá que sempre foi livre.",
+      "reference": "Adi Shankara"
+    },
+    {
+      "text": "A vida do sábio é uma chama serena que aquece sem queimar.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que ama sem exigir conhece o segredo da bem-aventurança.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que o meu coração seja templo, a minha respiração, prece, e a minha vida, oferenda.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "O Eu permanece intocado pela alegria e pela dor, como o sol pelas nuvens passageiras.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Quem cultiva a paciência possui a chave que abre todas as portas do espírito.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A mente domada torna-se o cavalo veloz que leva a alma à libertação.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "Sê luz para ti mesmo; dentro de ti arde a lâmpada que nunca se apaga.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que vê o mesmo Senhor em todos os seres jamais fere outra criatura.",
+      "reference": "Bhagavad Gita 13:28"
+    },
+    {
+      "text": "A verdadeira sabedoria é simples: ame, sirva, renuncie ao fruto e repouse no Eterno.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "O som sagrado Om é a corda que afina a mente com o coração do universo.",
+      "reference": "Mandukya Upanishad"
+    },
+    {
+      "text": "Aquele que aquieta a mente ouve a melodia silenciosa do Eterno.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Que eu trate cada ser com a reverência que ofereço ao próprio Divino.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "O desapego é a asa que ergue a alma acima das tempestades do mundo.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Em cada gota de orvalho reflete-se o sol inteiro; em cada alma reflete-se o Eterno.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que conquista o egoísmo conquistou o reino mais difícil de todos.",
+      "reference": "Swami Vivekananda"
+    },
+    {
+      "text": "Quando o desejo silencia, a alma escuta a voz tranquila do Eu.",
+      "reference": "Katha Upanishad"
+    },
+    {
+      "text": "Faça do dever um louvor e da renúncia uma alegria.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "A vida bem vivida é aquela oferecida, gota a gota, ao bem de todos os seres.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A semente de mostarda contém a árvore; a alma contém o infinito.",
+      "reference": "Chandogya Upanishad"
+    },
+    {
+      "text": "Que a minha mente se aquiete, que o meu coração se abra, que a minha alma reconheça o Eterno.",
+      "reference": "Sabedoria dos Vedas"
+    },
+    {
+      "text": "O sábio é aquele que, mesmo agindo, permanece em profunda quietude interior.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "text": "Quem perdoa rápido e ama sem medida está próximo da morada do Divino.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A devoção transforma o devoto até que ele e o amado se tornem um só.",
+      "reference": "Sabedoria da bhakti"
+    },
+    {
+      "text": "Cultive o desapego como se cultiva um jardim: com paciência, dia após dia.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A verdade não precisa de defesa; resplandece por si mesma como o sol ao meio-dia.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Aquele que encontra o Eu encontrou o amigo que jamais o abandona.",
+      "reference": "Upanishads"
+    },
+    {
+      "text": "Que cada passo meu seja firme no dharma e leve no apego.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "A mente quieta é o espelho onde o Eterno contempla a própria face.",
+      "reference": "Provérbio dos sábios"
+    },
+    {
+      "text": "Servir ao próximo é adorar a Deus na forma viva da criação.",
+      "reference": "Swami Vivekananda"
+    }
   ]
 }

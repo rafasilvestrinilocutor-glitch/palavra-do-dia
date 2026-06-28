@@ -1,121 +1,1617 @@
 {
   "id": "jainismo",
   "phrases": [
-    { "text": "Toda vida deseja viver; não fira nenhum ser.", "reference": "Acharanga Sutra" },
-    { "text": "A não-violência é a religião suprema.", "reference": "Tradição Jainista" },
-    { "text": "Assim como a dor é desagradável para ti, também o é para todos os seres vivos.", "reference": "Mahavira" },
-    { "text": "Não mate nem cause dor a nenhuma criatura, pois todos os seres amam a sua própria vida.", "reference": "Acharanga Sutra" },
-    { "text": "Aquele que despreza outros seres vivos despreza a si mesmo.", "reference": "Acharanga Sutra" },
-    { "text": "A alma é a artífice de sua própria felicidade e de seu próprio sofrimento.", "reference": "Tradição Jainista" },
-    { "text": "Vence a ira pela calma, o orgulho pela humildade, o engano pela retidão e a ganância pelo contentamento.", "reference": "Mahavira" },
-    { "text": "O homem desperto deve permanecer alerta; quem dorme em desatenção sofre.", "reference": "Acharanga Sutra" },
-    { "text": "Conquistar a si mesmo é mais difícil e mais nobre do que conquistar mil inimigos em batalha.", "reference": "Mahavira" },
-    { "text": "Vive e deixa viver.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que conquista os próprios sentidos conquista o mundo inteiro.", "reference": "Mahavira" },
-    { "text": "A alma é, por sua natureza, conhecimento puro e consciência infinita.", "reference": "Tradição Jainista" },
-    { "text": "Cada alma é em si mesma divina; a meta é manifestar essa divindade vencendo a matéria que a cobre.", "reference": "Tradição Jainista" },
-    { "text": "Não há qualidade da alma mais sutil do que a não-violência, nem virtude mais elevada do que a reverência pela vida.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que descuida de uma só forma de vida descuida de toda a vida.", "reference": "Acharanga Sutra" },
-    { "text": "As armas podem ser superiores umas às outras, mas a não-violência não tem superior.", "reference": "Acharanga Sutra" },
-    { "text": "Fala apenas palavras verdadeiras, ponderadas e benéficas, que não firam nenhum ser.", "reference": "Tradição Jainista" },
-    { "text": "A verdade é a essência de toda virtude.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que conhece a verdade não fere; aquele que fere não conhece a verdade.", "reference": "Acharanga Sutra" },
-    { "text": "Diga a verdade de forma que não cause dor; calar é melhor do que ferir com palavras verdadeiras.", "reference": "Tradição Jainista" },
-    { "text": "O apego e a aversão são as raízes do sofrimento.", "reference": "Tradição Jainista" },
-    { "text": "Desapegue-se das posses, pois quanto mais possuis, mais te tornas escravo.", "reference": "Tradição Jainista" },
-    { "text": "A verdadeira riqueza não está no que possuímos, mas no que renunciamos.", "reference": "Tradição Jainista" },
-    { "text": "O desejo de bens é tão vasto quanto o céu e nunca pode ser saciado.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que não tem nada nada teme; livre de posses, está em paz.", "reference": "Tradição Jainista" },
-    { "text": "A alma sobe ou desce conforme suas próprias ações.", "reference": "Tradição Jainista" },
-    { "text": "Como tu próprio detestas a dor, sabe que toda criatura também a detesta.", "reference": "Mahavira" },
-    { "text": "Por isso o sábio não fere ninguém, nem manda ferir, nem aprova que se fira.", "reference": "Acharanga Sutra" },
-    { "text": "Trata todas as criaturas do mundo como gostarias de ser tratado.", "reference": "Mahavira" },
-    { "text": "A compaixão por todos os seres vivos é o coração da fé.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que é firme contra a tentação dos sentidos caminha sereno em direção à liberdade.", "reference": "Acharanga Sutra" },
-    { "text": "Não te entregues à preguiça; o tempo passa e a vida é breve.", "reference": "Mahavira" },
-    { "text": "Não desperdices nem um instante, pois a vida humana é difícil de obter.", "reference": "Tradição Jainista" },
-    { "text": "Perdoa e pede perdão; sê amigo de todos os seres e inimigo de nenhum.", "reference": "Tradição Jainista" },
-    { "text": "Eu perdoo todos os seres vivos, que todos os seres vivos me perdoem.", "reference": "Tradição Jainista" },
-    { "text": "A amizade com todos, sem inimizade alguma: este é o voto do coração puro.", "reference": "Tradição Jainista" },
-    { "text": "Conhecimento correto, fé correta e conduta correta são o caminho da libertação.", "reference": "Tattvartha Sutra" },
-    { "text": "A função das almas é ajudar umas às outras.", "reference": "Tattvartha Sutra" },
-    { "text": "A natureza essencial da substância é a permanência através da mudança.", "reference": "Tattvartha Sutra" },
-    { "text": "O sábio considera todas as criaturas do mundo como ele considera a si mesmo.", "reference": "Acharanga Sutra" },
-    { "text": "Aquele que olha para todos os seres com igualdade não conhece o medo.", "reference": "Tradição Jainista" },
-    { "text": "Domina a língua, domina o estômago, domina os sentidos: assim domina a si mesmo.", "reference": "Tradição Jainista" },
-    { "text": "A raiz de toda miséria é o desejo desenfreado.", "reference": "Tradição Jainista" },
-    { "text": "Despoja-te do orgulho, pois o orgulho cega a alma para a verdade.", "reference": "Tradição Jainista" },
-    { "text": "Quem se liberta da cobiça encontra a verdadeira paz interior.", "reference": "Tradição Jainista" },
-    { "text": "A morte de qualquer ser é tão temível para ele quanto a tua o é para ti.", "reference": "Acharanga Sutra" },
-    { "text": "Não há ser tão pequeno que não mereça respeito e proteção.", "reference": "Tradição Jainista" },
-    { "text": "O caminho da alma se faz com cuidado a cada passo, a cada palavra, a cada pensamento.", "reference": "Tradição Jainista" },
-    { "text": "A verdade tem muitas faces; nenhum ponto de vista isolado contém a verdade inteira.", "reference": "Tradição Jainista" },
-    { "text": "Quem reconhece que toda visão é parcial cultiva a humildade e a tolerância.", "reference": "Tradição Jainista" },
-    { "text": "Não te apegues a uma só opinião como se fosse a verdade absoluta.", "reference": "Tradição Jainista" },
-    { "text": "A realidade é vista de muitos ângulos; o sábio respeita todas as perspectivas.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que compreende as muitas faces da verdade não disputa com ninguém.", "reference": "Tradição Jainista" },
-    { "text": "Liberta a alma do peso das ações negativas e ela brilhará por luz própria.", "reference": "Tradição Jainista" },
-    { "text": "Cada ato deixa sua marca na alma; age, pois, com pureza e cuidado.", "reference": "Tradição Jainista" },
-    { "text": "A pureza do pensamento precede a pureza da ação.", "reference": "Tradição Jainista" },
-    { "text": "Não cobices o que pertence a outro; o contentamento é a maior riqueza.", "reference": "Tradição Jainista" },
-    { "text": "A serenidade nasce quando se abandona o apego aos frutos das ações.", "reference": "Tradição Jainista" },
-    { "text": "O ascetismo verdadeiro é o domínio sobre si mesmo, não a tortura do corpo.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que não tem aversão nem desejo permanece intocado pelo sofrimento.", "reference": "Tradição Jainista" },
-    { "text": "Sê cuidadoso ao andar, ao falar, ao comer, ao agir: cada gesto pode ferir a vida.", "reference": "Acharanga Sutra" },
-    { "text": "A não-violência não é covardia, mas a maior das forças da alma.", "reference": "Tradição Jainista" },
-    { "text": "Quem subjuga a ira encontra a paz; quem a alimenta colhe o sofrimento.", "reference": "Mahavira" },
-    { "text": "O sábio não se gaba de suas virtudes nem despreza os defeitos alheios.", "reference": "Tradição Jainista" },
-    { "text": "Renunciar é mais nobre do que adquirir, e dar é mais elevado do que reter.", "reference": "Tradição Jainista" },
-    { "text": "Os que se apegam ao corpo esquecem que a alma é imortal.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que controla a mente vagueante alcança a quietude da alma.", "reference": "Tradição Jainista" },
-    { "text": "Não há felicidade duradoura nos prazeres dos sentidos, apenas inquietude renovada.", "reference": "Tradição Jainista" },
-    { "text": "A vida é como uma folha de orvalho na ponta da grama: breve e passageira.", "reference": "Tradição Jainista" },
-    { "text": "Aprende a desapegar enquanto vives, para partir em paz quando chegar a hora.", "reference": "Tradição Jainista" },
-    { "text": "A alma desperta vê o sofrimento de toda criatura e se compadece.", "reference": "Acharanga Sutra" },
-    { "text": "Não acumules mais do que precisas, pois o excesso de um é a privação de outro.", "reference": "Tradição Jainista" },
-    { "text": "A moderação no comer, no falar e no possuir conduz à serenidade.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que vence o medo da morte vive verdadeiramente livre.", "reference": "Tradição Jainista" },
-    { "text": "O verdadeiro herói é aquele que conquista a si mesmo, não os outros.", "reference": "Mahavira" },
-    { "text": "Não te orgulhes do nascimento, nem da beleza, nem da riqueza: tudo é passageiro.", "reference": "Tradição Jainista" },
-    { "text": "Respeita a vida nas águas, na terra, no ar e no fogo, pois em tudo há almas.", "reference": "Acharanga Sutra" },
-    { "text": "O homem que se domina não precisa de armas para se proteger.", "reference": "Tradição Jainista" },
-    { "text": "Que minha mente, minha fala e meu corpo nunca firam nenhum ser vivo.", "reference": "Tradição Jainista" },
-    { "text": "A compaixão e o autocontrole são as duas asas que elevam a alma.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que é indiferente ao prazer e à dor permanece firme em sua paz.", "reference": "Tradição Jainista" },
-    { "text": "Nenhum ser deseja sofrer; reconhecer isso é o início da sabedoria.", "reference": "Acharanga Sutra" },
-    { "text": "O conhecimento sem conduta correta é como uma lâmpada sem chama.", "reference": "Tradição Jainista" },
-    { "text": "A fé sem entendimento é cega; o entendimento sem fé é estéril.", "reference": "Tradição Jainista" },
-    { "text": "Liberta-te dos quatro inimigos da alma: ira, orgulho, engano e ganância.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que perdoa carrega menos peso do que aquele que guarda rancor.", "reference": "Tradição Jainista" },
-    { "text": "O homem sábio teme cometer o mal mais do que teme o sofrimento.", "reference": "Tradição Jainista" },
-    { "text": "A retidão de conduta é o ornamento mais belo da alma.", "reference": "Tradição Jainista" },
-    { "text": "Não há rio que se possa atravessar duas vezes; cuida do instante presente.", "reference": "Tradição Jainista" },
-    { "text": "Sê uma testemunha serena de teus próprios pensamentos.", "reference": "Tradição Jainista" },
-    { "text": "Quando a alma se purifica de toda paixão, conhece a felicidade infinita.", "reference": "Tradição Jainista" },
-    { "text": "Trate cada criatura com a ternura com que tratarias a ti mesmo.", "reference": "Mahavira" },
-    { "text": "Aquele que é manso é forte; aquele que é violento é fraco por dentro.", "reference": "Tradição Jainista" },
-    { "text": "Não te deixes guiar pela cobiça, pois ela cega o discernimento.", "reference": "Tradição Jainista" },
-    { "text": "Quem nada deseja de outrem nada teme de outrem.", "reference": "Tradição Jainista" },
-    { "text": "A meditação acalma a mente e revela a luz interior da alma.", "reference": "Tradição Jainista" },
-    { "text": "A vida correta começa com o respeito por toda forma de vida.", "reference": "Acharanga Sutra" },
-    { "text": "Não causes dor a nenhum ser, pois toda dor retorna a quem a provoca.", "reference": "Tradição Jainista" },
-    { "text": "Que todos os seres sejam felizes; que ninguém sofra por minhas mãos.", "reference": "Tradição Jainista" },
-    { "text": "A paz exterior nasce da paz interior conquistada pelo autodomínio.", "reference": "Tradição Jainista" },
-    { "text": "O caminho para a libertação é estreito, mas aberto a todo aquele que se disciplina.", "reference": "Tradição Jainista" },
-    { "text": "A alma liberta resplandece com conhecimento, percepção, bem-aventurança e energia infinitos.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que renuncia ao mal, mesmo em pensamento, já caminha rumo à pureza.", "reference": "Tradição Jainista" },
-    { "text": "Sê gentil com os fracos, paciente com os imperfeitos e amigo de todos.", "reference": "Tradição Jainista" },
-    { "text": "Quanto menos uma alma deseja, mais perto está da paz perfeita.", "reference": "Tradição Jainista" },
-    { "text": "A não-posse liberta a mente das correntes da ansiedade.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que enxerga a si mesmo em todos os seres não pode ferir ninguém.", "reference": "Acharanga Sutra" },
-    { "text": "O orgulho derruba; a humildade eleva.", "reference": "Tradição Jainista" },
-    { "text": "Quem domina o desejo é mais rico do que quem possui um reino.", "reference": "Tradição Jainista" },
-    { "text": "A verdadeira vitória é não ter inimigos, porque a todos se ama.", "reference": "Tradição Jainista" },
-    { "text": "Pratica a bondade, fala a verdade, controla os sentidos e serve a vida.", "reference": "Tradição Jainista" },
-    { "text": "Toda alma é capaz de alcançar a perfeição; nenhuma está condenada para sempre.", "reference": "Tradição Jainista" },
-    { "text": "A reverência por toda a vida é a mais elevada das orações.", "reference": "Tradição Jainista" },
-    { "text": "Aquele que se livra do apego se livra também do medo e da tristeza.", "reference": "Tradição Jainista" },
-    { "text": "Cuida de tuas palavras, pois feridas do corpo saram, mas as da língua perduram.", "reference": "Tradição Jainista" },
-    { "text": "Olha para dentro de ti: ali repousa a luz que ilumina todos os caminhos.", "reference": "Tradição Jainista" }
+    {
+      "text": "Toda vida deseja viver; não fira nenhum ser.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A não-violência é a religião suprema.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Assim como a dor é desagradável para ti, também o é para todos os seres vivos.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não mate nem cause dor a nenhuma criatura, pois todos os seres amam a sua própria vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Aquele que despreza outros seres vivos despreza a si mesmo.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A alma é a artífice de sua própria felicidade e de seu próprio sofrimento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Vence a ira pela calma, o orgulho pela humildade, o engano pela retidão e a ganância pelo contentamento.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O homem desperto deve permanecer alerta; quem dorme em desatenção sofre.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Conquistar a si mesmo é mais difícil e mais nobre do que conquistar mil inimigos em batalha.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Vive e deixa viver.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que conquista os próprios sentidos conquista o mundo inteiro.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A alma é, por sua natureza, conhecimento puro e consciência infinita.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Cada alma é em si mesma divina; a meta é manifestar essa divindade vencendo a matéria que a cobre.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não há qualidade da alma mais sutil do que a não-violência, nem virtude mais elevada do que a reverência pela vida.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que descuida de uma só forma de vida descuida de toda a vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "As armas podem ser superiores umas às outras, mas a não-violência não tem superior.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Fala apenas palavras verdadeiras, ponderadas e benéficas, que não firam nenhum ser.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A verdade é a essência de toda virtude.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que conhece a verdade não fere; aquele que fere não conhece a verdade.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Diga a verdade de forma que não cause dor; calar é melhor do que ferir com palavras verdadeiras.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O apego e a aversão são as raízes do sofrimento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Desapegue-se das posses, pois quanto mais possuis, mais te tornas escravo.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A verdadeira riqueza não está no que possuímos, mas no que renunciamos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O desejo de bens é tão vasto quanto o céu e nunca pode ser saciado.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que não tem nada nada teme; livre de posses, está em paz.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A alma sobe ou desce conforme suas próprias ações.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Como tu próprio detestas a dor, sabe que toda criatura também a detesta.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Por isso o sábio não fere ninguém, nem manda ferir, nem aprova que se fira.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Trata todas as criaturas do mundo como gostarias de ser tratado.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A compaixão por todos os seres vivos é o coração da fé.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que é firme contra a tentação dos sentidos caminha sereno em direção à liberdade.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Não te entregues à preguiça; o tempo passa e a vida é breve.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não desperdices nem um instante, pois a vida humana é difícil de obter.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Perdoa e pede perdão; sê amigo de todos os seres e inimigo de nenhum.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Eu perdoo todos os seres vivos, que todos os seres vivos me perdoem.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A amizade com todos, sem inimizade alguma: este é o voto do coração puro.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Conhecimento correto, fé correta e conduta correta são o caminho da libertação.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A função das almas é ajudar umas às outras.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A natureza essencial da substância é a permanência através da mudança.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "O sábio considera todas as criaturas do mundo como ele considera a si mesmo.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Aquele que olha para todos os seres com igualdade não conhece o medo.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Domina a língua, domina o estômago, domina os sentidos: assim domina a si mesmo.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A raiz de toda miséria é o desejo desenfreado.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Despoja-te do orgulho, pois o orgulho cega a alma para a verdade.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quem se liberta da cobiça encontra a verdadeira paz interior.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A morte de qualquer ser é tão temível para ele quanto a tua o é para ti.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Não há ser tão pequeno que não mereça respeito e proteção.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O caminho da alma se faz com cuidado a cada passo, a cada palavra, a cada pensamento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A verdade tem muitas faces; nenhum ponto de vista isolado contém a verdade inteira.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quem reconhece que toda visão é parcial cultiva a humildade e a tolerância.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não te apegues a uma só opinião como se fosse a verdade absoluta.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A realidade é vista de muitos ângulos; o sábio respeita todas as perspectivas.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que compreende as muitas faces da verdade não disputa com ninguém.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Liberta a alma do peso das ações negativas e ela brilhará por luz própria.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Cada ato deixa sua marca na alma; age, pois, com pureza e cuidado.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A pureza do pensamento precede a pureza da ação.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não cobices o que pertence a outro; o contentamento é a maior riqueza.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A serenidade nasce quando se abandona o apego aos frutos das ações.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O ascetismo verdadeiro é o domínio sobre si mesmo, não a tortura do corpo.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que não tem aversão nem desejo permanece intocado pelo sofrimento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Sê cuidadoso ao andar, ao falar, ao comer, ao agir: cada gesto pode ferir a vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A não-violência não é covardia, mas a maior das forças da alma.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quem subjuga a ira encontra a paz; quem a alimenta colhe o sofrimento.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O sábio não se gaba de suas virtudes nem despreza os defeitos alheios.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Renunciar é mais nobre do que adquirir, e dar é mais elevado do que reter.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Os que se apegam ao corpo esquecem que a alma é imortal.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que controla a mente vagueante alcança a quietude da alma.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não há felicidade duradoura nos prazeres dos sentidos, apenas inquietude renovada.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A vida é como uma folha de orvalho na ponta da grama: breve e passageira.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aprende a desapegar enquanto vives, para partir em paz quando chegar a hora.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A alma desperta vê o sofrimento de toda criatura e se compadece.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Não acumules mais do que precisas, pois o excesso de um é a privação de outro.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A moderação no comer, no falar e no possuir conduz à serenidade.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que vence o medo da morte vive verdadeiramente livre.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O verdadeiro herói é aquele que conquista a si mesmo, não os outros.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não te orgulhes do nascimento, nem da beleza, nem da riqueza: tudo é passageiro.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Respeita a vida nas águas, na terra, no ar e no fogo, pois em tudo há almas.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "O homem que se domina não precisa de armas para se proteger.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Que minha mente, minha fala e meu corpo nunca firam nenhum ser vivo.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A compaixão e o autocontrole são as duas asas que elevam a alma.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que é indiferente ao prazer e à dor permanece firme em sua paz.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Nenhum ser deseja sofrer; reconhecer isso é o início da sabedoria.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "O conhecimento sem conduta correta é como uma lâmpada sem chama.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A fé sem entendimento é cega; o entendimento sem fé é estéril.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Liberta-te dos quatro inimigos da alma: ira, orgulho, engano e ganância.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que perdoa carrega menos peso do que aquele que guarda rancor.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O homem sábio teme cometer o mal mais do que teme o sofrimento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A retidão de conduta é o ornamento mais belo da alma.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não há rio que se possa atravessar duas vezes; cuida do instante presente.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Sê uma testemunha serena de teus próprios pensamentos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quando a alma se purifica de toda paixão, conhece a felicidade infinita.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Trate cada criatura com a ternura com que tratarias a ti mesmo.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Aquele que é manso é forte; aquele que é violento é fraco por dentro.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Não te deixes guiar pela cobiça, pois ela cega o discernimento.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quem nada deseja de outrem nada teme de outrem.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A meditação acalma a mente e revela a luz interior da alma.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A vida correta começa com o respeito por toda forma de vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Não causes dor a nenhum ser, pois toda dor retorna a quem a provoca.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Que todos os seres sejam felizes; que ninguém sofra por minhas mãos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A paz exterior nasce da paz interior conquistada pelo autodomínio.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "O caminho para a libertação é estreito, mas aberto a todo aquele que se disciplina.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A alma liberta resplandece com conhecimento, percepção, bem-aventurança e energia infinitos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que renuncia ao mal, mesmo em pensamento, já caminha rumo à pureza.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Sê gentil com os fracos, paciente com os imperfeitos e amigo de todos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quanto menos uma alma deseja, mais perto está da paz perfeita.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A não-posse liberta a mente das correntes da ansiedade.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que enxerga a si mesmo em todos os seres não pode ferir ninguém.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "O orgulho derruba; a humildade eleva.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Quem domina o desejo é mais rico do que quem possui um reino.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A verdadeira vitória é não ter inimigos, porque a todos se ama.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Pratica a bondade, fala a verdade, controla os sentidos e serve a vida.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Toda alma é capaz de alcançar a perfeição; nenhuma está condenada para sempre.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A reverência por toda a vida é a mais elevada das orações.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Aquele que se livra do apego se livra também do medo e da tristeza.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Cuida de tuas palavras, pois feridas do corpo saram, mas as da língua perduram.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "Olha para dentro de ti: ali repousa a luz que ilumina todos os caminhos.",
+      "reference": "Tradição Jainista"
+    },
+    {
+      "text": "A não-violência começa no pensamento, antes de chegar à palavra e à ação.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem protege a menor das criaturas honra a vida em sua totalidade.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Não há sacrifício mais nobre do que poupar a vida de um ser indefeso.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A mão que se recusa a ferir é mais forte do que a que empunha a espada.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada criatura sente o medo da morte como tu o sentes; por isso, sê gentil.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A compaixão é a linguagem que toda alma compreende.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Aquele que poupa a vida alheia preserva a luz da própria alma.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não pises sobre a vida que rasteja nem despreze a que voa: ambas desejam viver.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A reverência por todo ser vivo é o primeiro degrau da escada da alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem fere por hábito endurece o coração; quem cuida por hábito o abranda.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A bondade para com os animais é prova de uma alma desperta.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não tires de nenhum ser aquilo que jamais poderás devolver: a vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "O sábio caminha com cuidado para não esmagar nem a mais humilde criatura.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A verdadeira coragem é proteger, não destruir.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quando paras de ferir, descobres a paz que sempre habitou em ti.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Toda dor que infliges a outro retorna multiplicada à tua própria alma.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Que tua presença seja um abrigo para todos os seres, não uma ameaça.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma que ama a vida em tudo nunca se sente sozinha.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não há ser desprezível; em cada um pulsa a mesma centelha de vida.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A não-violência é a flor mais rara, e desabrocha apenas em corações pacientes.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Renuncia ao desejo de dominar e encontrarás a verdadeira liberdade.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quanto mais leve a bagagem, mais longe a alma viaja.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A posse aprisiona o dono tanto quanto a corrente prende o cativo.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Não és dono daquilo que possuis; tu te tornas servo daquilo que guardas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem precisa de pouco raramente sofre por falta de algo.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O desapego não é abandono do mundo, mas liberdade dentro dele.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A cobiça enche as mãos e esvazia o coração.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Solta o que te aprisiona e a alma se erguerá sem peso.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O contentamento é o tesouro que ladrão nenhum pode roubar.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Reter em excesso é privar a outro do necessário.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Aquele que limita seus desejos amplia sua paz.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A riqueza acumulada por avareza pesa sobre a alma como pedra.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Possuir apenas o essencial é caminhar livre de correntes.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O sábio mede sua riqueza pelo pouco de que precisa.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Onde há ganância, a paz não encontra morada.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Dar com alegria liberta mais do que receber com avidez.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma desapegada repousa serena mesmo em meio à tempestade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem nada agarra nada teme perder.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Limita teus desejos e o mundo inteiro te parecerá abundante.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A verdade tem inúmeras faces; humilde é quem reconhece ver apenas uma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Nenhuma opinião isolada abarca a realidade inteira.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Escuta o ponto de vista do outro: nele pode haver uma verdade que te escapa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A mesma montanha parece diferente conforme o lado de onde se a observa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O sábio sustenta sua convicção sem desprezar a do próximo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem afirma possuir toda a verdade já se afastou dela.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A tolerância nasce de compreender que cada um vê uma face do real.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A realidade é como uma joia de muitas faces; nenhuma reflete sozinha toda a luz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Disputas se dissolvem quando se admite que a verdade é múltipla.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Talvez tenhas razão, e talvez o outro também: assim fala o sábio.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem respeita muitas perspectivas raramente cai no fanatismo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A mente aberta colhe sabedoria de todas as direções.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não confundas tua visão parcial com a totalidade da verdade.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A verdade dita com ódio deixa de ser virtude.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Fala o verdadeiro, mas que tua voz seja suave como a chuva.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A palavra que cura vale mais do que a que apenas acerta.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Antes de falar, pergunta: é verdadeiro, é bondoso, é necessário?",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quem guarda silêncio diante da maldade às vezes fala mais alto que muitos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A verdade não precisa ser gritada para ser ouvida pela alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não jures pelo que não sabes; a honestidade dispensa juramentos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Mentir para si mesmo é a mais perigosa das falsidades.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A língua que fere é mais afiada do que qualquer lâmina.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Que tuas palavras plantem confiança, não suspeita.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não tomes o que não te é dado, nem com a mão, nem com o pensamento.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Roubar o tempo de outro também é uma forma de furto.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem cobiça o que é alheio já roubou em seu próprio coração.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A honestidade nas pequenas coisas constrói a integridade da alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Nada que se obtém pela desonestidade traz paz duradoura.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Devolve sempre o que tomaste emprestado, inclusive a confiança.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O ladrão perde mais do que rouba: perde a si mesmo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Vencer a ira é a primeira das grandes vitórias da alma.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A ira é fogo que primeiro queima o vaso que a contém.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Domina a impaciência e o tempo trabalhará a teu favor.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O orgulho é uma muralha que separa a alma da verdade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A humildade abre portas que o orgulho mantém trancadas.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O engano tece teias que acabam por aprisionar quem as fia.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A retidão é o caminho mais curto entre a alma e a paz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem se conhece não precisa fingir diante de ninguém.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Domina os cinco sentidos e serás senhor de teu próprio destino.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A mente indisciplinada é como cavalo sem rédeas: corre para o precipício.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O autocontrole hoje é a liberdade de amanhã.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem governa seus impulsos não é governado por eles.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A disciplina não aprisiona a alma; ela a liberta das paixões.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Modera o apetite e a mente se aquietará por si mesma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A força de vontade é o músculo invisível que sustenta toda virtude.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem resiste ao impulso passageiro conquista a paz duradoura.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O sábio observa seus desejos sem se deixar arrastar por eles.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Cada vez que dizes não ao excesso, dizes sim à tua liberdade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma é eterna; apenas o corpo é a vestimenta que se troca.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Nenhuma força externa pode manchar a alma que se mantém pura.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Dentro de cada ser dorme uma alma capaz de luz infinita.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A libertação não se recebe de fora; desabrocha de dentro.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma livre não conhece fronteiras de tempo nem de espaço.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Purifica a alma das paixões e ela revelará seu esplendor original.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada ação deixa um vestígio sutil que molda o destino da alma.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A alma sobe pela virtude e desce pelo vício; tu és o artesão.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Liberta-te das amarras que tu mesmo forjaste com teus atos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A meta não é possuir o mundo, mas libertar a alma dele.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Nenhuma alma está perdida para sempre; todas podem despertar.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A bem-aventurança da alma liberta não tem começo nem fim.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Conhece tua alma e conhecerás o sentido de toda a existência.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A luz da alma não se apaga; apenas as nuvens a escondem.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A meditação é o espelho onde a alma contempla a si mesma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Aquieta a mente e ouvirás o silêncio que cura.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Na quietude interior reside o conhecimento que nenhum livro ensina.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Observa teus pensamentos sem julgá-los e eles perderão o poder sobre ti.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A contemplação serena dissolve as nuvens da inquietude.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quem se senta em silêncio aprende mais do que quem fala sem cessar.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A reflexão diária é o banho que purifica a alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Volta o olhar para dentro; ali estão todas as respostas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A mente serena reflete a verdade como um lago sem ondas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O perdão liberta o coração de uma corrente que ele mesmo segurava.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Peço perdão a todos os seres e a todos os seres eu perdoo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Guardar rancor é beber veneno esperando que o outro adoeça.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A amizade universal não exclui nenhum ser de seu abraço.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Sê amigo de todos e inimigo de nenhum: este é o caminho da paz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem perdoa cresce; quem se vinga apenas perpetua a ferida.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A reconciliação vale mais do que mil vitórias na disputa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Trata teu adversário com a gentileza que reservas a um amigo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O coração que perdoa repousa em paz mesmo entre os que ofendem.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Que nenhum ser carregue, por minha causa, o peso do ressentimento.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Conhecimento correto, fé correta e conduta correta caminham juntos.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A fé sem ação é semente que nunca germina.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Saber o bem e não praticá-lo é a mais sutil das ignorâncias.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O conhecimento ilumina, mas é a conduta que conduz à liberdade.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A sabedoria sem compaixão é luz fria que não aquece.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Aprende com humildade, age com firmeza, vive com pureza.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O verdadeiro saber transforma a vida, não apenas enche a memória.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A fé correta é a raiz; o conhecimento é o tronco; a conduta é o fruto.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Não basta ver o caminho; é preciso percorrê-lo passo a passo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A vida humana é rara e preciosa; não a desperdices em vaidades.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O tempo escoa como areia entre os dedos; usa-o com sabedoria.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Hoje é a única hora em que podes purificar tua alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não adies a virtude para amanhã; a morte não consulta calendários.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A vida é breve como o orvalho da manhã; vive-a com plenitude e cuidado.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada instante perdido em distração é um tesouro que não volta.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Aproveita esta vida para libertar a alma, pois nem toda vida é humana.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem desperta para a brevidade da vida desperta para o que importa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O corpo envelhece a cada respiração; cultiva o que não envelhece.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não temas a morte; teme apenas morrer sem ter despertado.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A morte é apenas a troca de uma vestimenta gasta por outra.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Vive de tal modo que a morte te encontre em paz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A verdadeira herança não é a posse, mas a virtude que se deixa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O sábio prepara a alma para a partida enquanto ainda caminha.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem teme perder o corpo esquece que a alma é imperecível.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A morte serena é fruto de uma vida vivida sem causar dano.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Nada que nasce permanece; apenas a alma atravessa todas as margens.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O autodomínio é a maior das conquistas e a mais silenciosa.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Conquistar o próprio coração vale mais do que conquistar reinos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O herói que vence a si mesmo nunca conhece a derrota.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A maior batalha trava-se em silêncio, dentro do próprio peito.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem se vence por dentro já venceu o mundo por fora.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A vitória sobre as paixões é a única que não gera novos inimigos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não há trono mais alto do que o domínio sereno de si.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O forte de espírito não precisa provar sua força aos outros.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A mansidão verdadeira é a força que escolhe não ferir.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem domina o medo dentro de si caminha tranquilo em qualquer lugar.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A pureza do coração é o templo onde a verdade habita.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Purifica primeiro o pensamento e a ação pura virá por si.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma se mancha pelo desejo e se limpa pela renúncia.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Nenhuma água lava a alma como a renúncia ao mal.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A pureza não é ausência de mundo, mas presença sem apego.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Limpa o coração das impurezas e nele florescerá a serenidade.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A virtude pratica-se em silêncio; a vaidade busca aplausos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada pensamento bondoso é uma semente de paz para o mundo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma desperta vigia até os pensamentos mais sutis.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem zela pela pureza interior não teme exame algum.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A serenidade é o perfume natural da alma desapegada.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Permanece imperturbável no ganho e na perda, na honra e na ofensa.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A calma diante da dor é a maior prova do domínio da alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Trata o elogio e a crítica como o vento que passa e não fica.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem encontra a paz interior não a perde diante das tempestades.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O equilíbrio da mente é o fundamento de toda virtude.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Nem o prazer te embriague, nem a dor te abata: permanece firme.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A indiferença serena ao supérfluo é o começo da liberdade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A mente equânime atravessa a vida como o nadador atravessa o rio.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem não se exalta na fortuna não se abate na adversidade.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A paz que depende das circunstâncias não é paz verdadeira.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cultiva a serenidade interior e o mundo perderá seu poder de te ferir.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A bondade silenciosa transforma mais do que mil discursos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Sê gentil com quem erra, pois também tu já tropeçaste.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A mão que ajuda é mais sagrada do que a que apenas reza.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Servir a vida em todas as formas é a mais alta devoção.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Onde há compaixão, ali floresce o jardim da alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A ternura para com o fraco revela a grandeza do forte.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Estende tua bondade até a criatura que ninguém ama.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Compadece-te do que sofre, mesmo que jamais venhas a conhecê-lo.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A caridade que não espera retorno é a mais pura de todas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem alivia o sofrimento de um ser ilumina o mundo inteiro.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A gentileza é a virtude que não custa nada e vale tudo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Aquele que cobiça muito vive sempre na pobreza do desejo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O apego é a corda que prende a alma à roda do sofrimento.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Solta o que amas demais e amarás sem te perderes.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Tudo o que agarras com força acaba por te escapar.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O coração desapegado ama mais e sofre menos.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não te identifiques com o que possuis, e nada poderá te diminuir.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O apego cega; o desapego enxerga com clareza.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem nada espera não se decepciona; quem nada agarra não perde.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A liberdade interior começa onde termina o apego.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Renuncia ao desejo de resultados e age com o coração leve.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O excesso de zelo pelas coisas rouba o tempo do cuidado com a alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A moderação é a estrada larga entre o excesso e a privação.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Come para viver, não vivas para comer.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A sobriedade no necessário traz clareza ao espírito.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem se contenta com o suficiente nunca conhece a verdadeira falta.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "O caminho do meio evita tanto a indulgência quanto a tortura.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A simplicidade da vida é a riqueza da alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Reduz teus desejos e multiplicarás tua paz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O sábio toma da vida apenas o que precisa e devolve o resto ao mundo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Na moderação encontra-se a saúde do corpo e a serenidade da mente.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A vigilância constante é a guardiã da alma desperta.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Quem dorme em descuido perde os tesouros do instante.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Permanece desperto, pois o descuido é a porta de todo mal.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A consciência atenta transforma cada gesto em oração.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Caminha consciente, fala consciente, age consciente: assim se vive bem.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A atenção plena é o escudo que protege a alma do erro.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem vive distraído desperdiça o dom de estar vivo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Estar presente em cada ato é o segredo de uma vida pura.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O descuidado tropeça onde o atento passa em paz.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Observa cada passo, e a vida não te surpreenderá com remorsos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A humildade é o solo fértil onde toda virtude cresce.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não te exaltes pelo que sabes; o sábio sente o quanto ainda ignora.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quem se julga grande já começou a diminuir.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A vaidade infla a casca e esvazia o âmago.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O verdadeiro mestre se faz pequeno diante da verdade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Curva-te como o ramo carregado de frutos, não como o galho seco e rígido.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A modéstia é a roupagem natural de toda alma sábia.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quem reconhece seus erros já deu o primeiro passo para corrigi-los.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A arrogância surda nunca escuta a voz da sabedoria.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Sê humilde na vitória e digno na derrota.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Toda criatura, da menor à maior, partilha o mesmo desejo de viver.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Na água, na terra, no vento e na semente pulsa a vida que merece respeito.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "Reconhece a vida onde os olhos distraídos não a percebem.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma habita até a mais humilde das formas; honra-a em todas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem despreza um único ser desonra o sopro que anima a todos.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A teia da vida é tecida com fios invisíveis que nos unem a tudo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Sente o parentesco que te liga a cada criatura sob o mesmo céu.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Ferir a natureza é ferir a si mesmo, pois dela somos parte.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A reverência pela vida é a sabedoria que dispensa palavras.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Vê-te refletido nos olhos de toda criatura e não poderás feri-la.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A felicidade que buscas fora já mora silenciosa dentro de ti.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Os prazeres dos sentidos são fogos que se apagam e deixam cinzas.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alegria duradoura nasce da virtude, não da posse.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Quem busca felicidade no exterior persegue a própria sombra.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A paz interior é a única riqueza que a morte não pode tomar.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A bem-aventurança da alma desperta supera todo prazer passageiro.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não confundas o prazer fugaz com a felicidade verdadeira.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O contentamento interior independe das circunstâncias externas.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A alegria que vem de dentro não se apaga quando o mundo escurece.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Encontra a fonte da paz em ti, e nunca terás sede.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada boa ação acende uma luz que ilumina o próprio caminho.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Semeia bondade hoje e colherás serenidade amanhã.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "A intenção pura abençoa até os atos mais simples.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O bem que fazes em silêncio ecoa por toda a tua alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não há ato pequeno quando feito com grande compaixão.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "As ações nascem do pensamento; cuida primeiro da raiz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem age com pureza não teme as consequências de seus atos.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O fruto de cada ação amadurece no jardim da própria alma.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Age sempre como se cada gesto pudesse tocar toda a vida.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A bondade verdadeira não escolhe a quem ajuda.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O caminho da libertação é estreito, mas cada passo o alarga.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A disciplina de hoje é a liberdade da alma amanhã.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Sobe a montanha da alma um degrau de cada vez, sem pressa nem descuido.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A libertação não é um destino distante, mas um despertar interior.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Cada renúncia ao mal aproxima a alma de sua luz original.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O peregrino da alma carrega pouca bagagem e muita determinação.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A meta de toda vida é despertar a alma para sua liberdade.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Não desanimes no caminho; cada esforço purifica um pouco mais.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A perfeição da alma é possível a todo aquele que persevera.",
+      "reference": "Tattvartha Sutra"
+    },
+    {
+      "text": "Liberta-te das paixões e descobrirás que sempre foste livre.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A alma que se purifica não renasce no sofrimento, mas repousa na paz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Toda manhã é uma nova chance de purificar a alma.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Reconhece teus erros sem te condenares e segue em direção à luz.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A coragem de mudar é o primeiro passo de toda transformação.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Não esperes que o mundo melhore; começa por melhorar a ti mesmo.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Quem se reforma por dentro reforma o mundo ao seu redor.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Cada hábito bom que cultivas enfraquece um hábito ruim.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A paciência transforma a pedra dura em areia fina.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Persevera na virtude e ela se tornará tua segunda natureza.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "A vida correta é construída com pequenos atos repetidos com amor.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Que minha alma se torne um pouco mais pura a cada dia que passa.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Sê para o mundo a paz que desejas encontrar nele.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "O verdadeiro santo não fere nem com o pensamento mais fugaz.",
+      "reference": "Acharanga Sutra"
+    },
+    {
+      "text": "A alma serena é como o lótus: nasce na lama e não se mancha.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "Que cada respiração seja um voto de não causar dano a ser algum.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A grandeza da alma mede-se pela bondade que dispensa aos pequenos.",
+      "reference": "Mahavira"
+    },
+    {
+      "text": "Vive simples, ama todos, fere ninguém: este é o caminho.",
+      "reference": "Sabedoria Jainista"
+    },
+    {
+      "text": "A luz interior, uma vez desperta, ilumina cada esquina da existência.",
+      "reference": "Sabedoria Jainista"
+    }
   ]
 }

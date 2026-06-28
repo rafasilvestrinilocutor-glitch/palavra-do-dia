@@ -1,139 +1,1769 @@
 {
   "id": "taoismo",
   "phrases": [
-    { "text": "Uma jornada de mil milhas começa com um único passo.", "reference": "Tao Te Ching 64" },
-    { "text": "O Tao que pode ser nomeado não é o Tao eterno.", "reference": "Tao Te Ching 1" },
-    { "text": "Aquele que conhece os outros é sábio; aquele que conhece a si mesmo é iluminado.", "reference": "Tao Te Ching 33" },
-    { "text": "Aquele que vence os outros é forte; aquele que vence a si mesmo é poderoso.", "reference": "Tao Te Ching 33" },
-    { "text": "Quem se contenta com o que tem é rico.", "reference": "Tao Te Ching 33" },
-    { "text": "Nada no mundo é mais suave e flexível que a água, mas nada a supera ao desgastar o duro e o forte.", "reference": "Tao Te Ching 78" },
-    { "text": "A árvore mais alta nasceu de um pequeno broto.", "reference": "Tao Te Ching 64" },
-    { "text": "O Tao nunca age, e contudo nada deixa por fazer.", "reference": "Tao Te Ching 37" },
-    { "text": "Conhecer a constância é iluminação; ignorá-la conduz ao desastre.", "reference": "Tao Te Ching 16" },
-    { "text": "Aquele que sabe não fala; aquele que fala não sabe.", "reference": "Tao Te Ching 56" },
-    { "text": "O sábio cuida de seu interior e não dos sentidos exteriores.", "reference": "Tao Te Ching 12" },
-    { "text": "A maior virtude é como a água, que beneficia todas as coisas sem disputar.", "reference": "Tao Te Ching 8" },
-    { "text": "Quem está em paz consigo mesmo cumpre sua tarefa e a deixa para trás.", "reference": "Tao Te Ching 9" },
-    { "text": "Encha sua taça até a borda e ela transbordará.", "reference": "Tao Te Ching 9" },
-    { "text": "Esvazia-te de tudo e deixa a mente repousar em paz.", "reference": "Tao Te Ching 16" },
-    { "text": "Retornar à raiz é encontrar a quietude.", "reference": "Tao Te Ching 16" },
-    { "text": "Manifesta a simplicidade, abraça a singeleza, reduz o egoísmo, diminui os desejos.", "reference": "Tao Te Ching 19" },
-    { "text": "O sábio não exibe a si mesmo, por isso brilha.", "reference": "Tao Te Ching 22" },
-    { "text": "Quem se curva permanece inteiro; quem se dobra será endireitado.", "reference": "Tao Te Ching 22" },
-    { "text": "Por não disputar com ninguém, ninguém no mundo pode disputar com ele.", "reference": "Tao Te Ching 22" },
-    { "text": "Quem fica na ponta dos pés não se mantém firme.", "reference": "Tao Te Ching 24" },
-    { "text": "Quem dá passos largos demais não anda muito longe.", "reference": "Tao Te Ching 24" },
-    { "text": "Conhece o masculino, mas conserva o feminino, e serás o leito do mundo.", "reference": "Tao Te Ching 28" },
-    { "text": "Quem quiser dominar o mundo e moldá-lo ao seu desejo não terá êxito.", "reference": "Tao Te Ching 29" },
-    { "text": "Aquilo que floresce demais cedo definha; isso não é o Tao.", "reference": "Tao Te Ching 30" },
-    { "text": "As armas são instrumentos de mau agouro; o sábio só as usa quando não há remédio.", "reference": "Tao Te Ching 31" },
-    { "text": "O Tao é eterno e não tem nome; embora simples, nada no mundo ousa subjugá-lo.", "reference": "Tao Te Ching 32" },
-    { "text": "Aquele que não perde o seu lugar permanece; aquele que morre sem perecer tem vida longa.", "reference": "Tao Te Ching 33" },
-    { "text": "O grande Tao flui por toda parte, à esquerda e à direita.", "reference": "Tao Te Ching 34" },
-    { "text": "Por não se julgar grande, o sábio realiza sua grandeza.", "reference": "Tao Te Ching 34" },
-    { "text": "O mole vence o duro; o fraco vence o forte.", "reference": "Tao Te Ching 36" },
-    { "text": "Se os reis e senhores guardassem a simplicidade, todas as coisas se ordenariam por si mesmas.", "reference": "Tao Te Ching 37" },
-    { "text": "A virtude superior não age e nada deixa por fazer.", "reference": "Tao Te Ching 38" },
-    { "text": "O retorno é o movimento do Tao; a fraqueza é o uso do Tao.", "reference": "Tao Te Ching 40" },
-    { "text": "Todas as coisas do mundo nascem do ser, e o ser nasce do não-ser.", "reference": "Tao Te Ching 40" },
-    { "text": "O grande quadrado não tem cantos; o grande talento amadurece tarde.", "reference": "Tao Te Ching 41" },
-    { "text": "O grande som é quase inaudível; a grande forma não tem contornos.", "reference": "Tao Te Ching 41" },
-    { "text": "O mais suave do mundo cavalga sobre o mais duro do mundo.", "reference": "Tao Te Ching 43" },
-    { "text": "O ensino sem palavras e o proveito da não-ação, poucos no mundo os alcançam.", "reference": "Tao Te Ching 43" },
-    { "text": "Fama ou vida: o que te é mais querido? Vida ou riqueza: o que vale mais?", "reference": "Tao Te Ching 44" },
-    { "text": "Quem se contenta não conhece a humilhação; quem sabe parar não corre perigo.", "reference": "Tao Te Ching 44" },
-    { "text": "A grande perfeição parece imperfeita, mas seu uso jamais se esgota.", "reference": "Tao Te Ching 45" },
-    { "text": "A grande plenitude parece vazia, mas seu uso é inesgotável.", "reference": "Tao Te Ching 45" },
-    { "text": "A quietude vence a agitação; o frio vence o calor.", "reference": "Tao Te Ching 45" },
-    { "text": "Não há maior desgraça que não saber contentar-se.", "reference": "Tao Te Ching 46" },
-    { "text": "Não há maior culpa que ceder à cobiça.", "reference": "Tao Te Ching 46" },
-    { "text": "Quem sabe que o bastante é suficiente sempre terá o suficiente.", "reference": "Tao Te Ching 46" },
-    { "text": "Sem sair da porta, pode-se conhecer o mundo.", "reference": "Tao Te Ching 47" },
-    { "text": "Quanto mais longe se vai, menos se sabe.", "reference": "Tao Te Ching 47" },
-    { "text": "No estudo, ganha-se a cada dia; no Tao, perde-se a cada dia.", "reference": "Tao Te Ching 48" },
-    { "text": "Perdendo e perdendo, chega-se à não-ação; nada se faz, e nada fica por fazer.", "reference": "Tao Te Ching 48" },
-    { "text": "O sábio não tem coração próprio; faz do coração do povo o seu coração.", "reference": "Tao Te Ching 49" },
-    { "text": "Aos bons sou bom; aos não bons também sou bom: assim se alcança a bondade.", "reference": "Tao Te Ching 49" },
-    { "text": "O Tao gera; a virtude nutre.", "reference": "Tao Te Ching 51" },
-    { "text": "Quem conhece a mãe conhece também o filho.", "reference": "Tao Te Ching 52" },
-    { "text": "Tapa as aberturas, fecha as portas, e até o fim da vida estarás sem fadiga.", "reference": "Tao Te Ching 52" },
-    { "text": "Ver o pequeno é clareza; guardar a brandura é força.", "reference": "Tao Te Ching 52" },
-    { "text": "O caminho reto é fácil, mas o povo prefere os atalhos.", "reference": "Tao Te Ching 53" },
-    { "text": "O bem firmemente plantado não se arranca; o bem bem abraçado não se solta.", "reference": "Tao Te Ching 54" },
-    { "text": "Quem possui a virtude em plenitude é como uma criança recém-nascida.", "reference": "Tao Te Ching 55" },
-    { "text": "Conhecer a harmonia é conhecer o eterno; conhecer o eterno é iluminação.", "reference": "Tao Te Ching 55" },
-    { "text": "Suaviza o brilho e une-te à poeira do mundo.", "reference": "Tao Te Ching 56" },
-    { "text": "Governa o reino com retidão; faz a guerra com surpresa; conquista o mundo com a não-ação.", "reference": "Tao Te Ching 57" },
-    { "text": "Eu nada faço e o povo transforma-se por si mesmo.", "reference": "Tao Te Ching 57" },
-    { "text": "Amo a quietude e o povo torna-se reto por si mesmo.", "reference": "Tao Te Ching 57" },
-    { "text": "A desgraça é o apoio em que repousa a ventura; a ventura é o esconderijo onde espreita a desgraça.", "reference": "Tao Te Ching 58" },
-    { "text": "Para governar os homens e servir ao céu, nada como a moderação.", "reference": "Tao Te Ching 59" },
-    { "text": "Governar um grande reino é como fritar um peixe pequeno.", "reference": "Tao Te Ching 60" },
-    { "text": "O grande reino, mantendo-se embaixo, conquista o pequeno.", "reference": "Tao Te Ching 61" },
-    { "text": "O Tao é o refúgio de todas as coisas, tesouro do bom e amparo do que não é bom.", "reference": "Tao Te Ching 62" },
-    { "text": "Pratica a não-ação, ocupa-te do não ocupar-te, saboreia o que não tem sabor.", "reference": "Tao Te Ching 63" },
-    { "text": "Enfrenta o difícil enquanto ainda é fácil; realiza o grande enquanto ainda é pequeno.", "reference": "Tao Te Ching 63" },
-    { "text": "As coisas difíceis do mundo nascem sempre quando ainda são fáceis.", "reference": "Tao Te Ching 63" },
-    { "text": "Quem promete com leveza raramente cumpre.", "reference": "Tao Te Ching 63" },
-    { "text": "O que está em repouso é fácil de conservar; o que ainda não surgiu é fácil de prevenir.", "reference": "Tao Te Ching 64" },
-    { "text": "O sábio deseja não desejar e não dá valor aos bens difíceis de obter.", "reference": "Tao Te Ching 64" },
-    { "text": "Os rios e os mares são reis de cem vales porque sabem manter-se abaixo deles.", "reference": "Tao Te Ching 66" },
-    { "text": "Por estar abaixo do povo, o sábio que o conduz não lhe pesa.", "reference": "Tao Te Ching 66" },
-    { "text": "Tenho três tesouros que guardo e prezo: a compaixão, a moderação e não ousar pôr-me à frente do mundo.", "reference": "Tao Te Ching 67" },
-    { "text": "Pela compaixão pode-se ser corajoso; pela moderação pode-se ser generoso.", "reference": "Tao Te Ching 67" },
-    { "text": "O bom guerreiro não é belicoso; o bom vencedor não se ira.", "reference": "Tao Te Ching 68" },
-    { "text": "Esta é a virtude de não disputar; esta é a força que sabe usar os homens.", "reference": "Tao Te Ching 68" },
-    { "text": "Não há erro maior que subestimar o adversário.", "reference": "Tao Te Ching 69" },
-    { "text": "Minhas palavras são fáceis de entender e fáceis de praticar, mas ninguém as entende nem as pratica.", "reference": "Tao Te Ching 70" },
-    { "text": "Saber que não se sabe é o melhor; não saber e julgar que se sabe é a doença.", "reference": "Tao Te Ching 71" },
-    { "text": "O sábio conhece a si mesmo, mas não se exibe; ama a si mesmo, mas não se exalta.", "reference": "Tao Te Ching 72" },
-    { "text": "A rede do céu é vasta; suas malhas são largas, e nada lhe escapa.", "reference": "Tao Te Ching 73" },
-    { "text": "O que é firme e rígido é companheiro da morte; o que é tenro e flexível é companheiro da vida.", "reference": "Tao Te Ching 76" },
-    { "text": "O Tao do céu é como o ato de retesar o arco: abaixa o que está alto e ergue o que está baixo.", "reference": "Tao Te Ching 77" },
-    { "text": "O céu tira do que tem demais e dá ao que tem de menos.", "reference": "Tao Te Ching 77" },
-    { "text": "O fraco vence o forte, e o mole vence o duro; todos o sabem, mas ninguém o pratica.", "reference": "Tao Te Ching 78" },
-    { "text": "As palavras verdadeiras não são agradáveis; as palavras agradáveis não são verdadeiras.", "reference": "Tao Te Ching 81" },
-    { "text": "O homem bom não discute; o que discute não é bom.", "reference": "Tao Te Ching 81" },
-    { "text": "O sábio não acumula; quanto mais faz pelos outros, mais possui.", "reference": "Tao Te Ching 81" },
-    { "text": "O Tao do céu beneficia e não prejudica; o Tao do sábio age e não disputa.", "reference": "Tao Te Ching 81" },
-    { "text": "Quem entende os outros é inteligente; quem entende a si mesmo é iluminado.", "reference": "Lao-Tsé" },
-    { "text": "A bondade nas palavras cria confiança; a bondade no pensar cria profundidade.", "reference": "Lao-Tsé" },
-    { "text": "Cede e te conservarás inteiro; curva-te e te endireitarás.", "reference": "Tao Te Ching 22" },
-    { "text": "Esvazia-te e te encherás; gasta-te e te renovarás.", "reference": "Tao Te Ching 22" },
-    { "text": "Quem age estraga; quem retém perde; por isso o sábio não age e nada estraga.", "reference": "Tao Te Ching 64" },
-    { "text": "Termina a tarefa tão cuidadosamente como a começaste, e nada se perderá.", "reference": "Tao Te Ching 64" },
-    { "text": "Há quem queira tomar o mundo e agir sobre ele; mas o mundo é um vaso sagrado que não se manipula.", "reference": "Tao Te Ching 29" },
-    { "text": "Por isso o sábio evita o excesso, a extravagância e a soberba.", "reference": "Tao Te Ching 29" },
-    { "text": "O Tao na sua marcha pelo mundo é como os regatos dos vales que correm para os rios e o mar.", "reference": "Tao Te Ching 32" },
-    { "text": "A pessoa de virtude superior não se vangloria de sua virtude, e por isso a possui.", "reference": "Tao Te Ching 38" },
-    { "text": "O que está completo parece imperfeito, mas seu uso não falha.", "reference": "Tao Te Ching 45" },
-    { "text": "A grande retidão parece torta; a grande habilidade parece desajeitada.", "reference": "Tao Te Ching 45" },
-    { "text": "Quando o sábio governa, o povo mal percebe que ele existe.", "reference": "Tao Te Ching 17" },
-    { "text": "Quando a obra está concluída, o povo diz: foi assim por nós mesmos.", "reference": "Tao Te Ching 17" },
-    { "text": "Abandona a sabedoria afetada e o povo voltará à simplicidade.", "reference": "Tao Te Ching 19" },
-    { "text": "Trinta raios convergem para o cubo, mas é o vazio do centro que faz útil a roda.", "reference": "Tao Te Ching 11" },
-    { "text": "Modela-se o barro para fazer um vaso, mas é o vazio interior que o torna útil.", "reference": "Tao Te Ching 11" },
-    { "text": "Assim, o ser proporciona vantagem, mas é o não-ser que dá utilidade.", "reference": "Tao Te Ching 11" },
-    { "text": "Quem sabe contentar-se com pouco sempre terá o bastante.", "reference": "Lao-Tsé" },
-    { "text": "O homem perfeito usa a mente como um espelho: nada agarra, nada recusa; recebe, mas não retém.", "reference": "Zhuangzi" },
-    { "text": "A felicidade perfeita está em estar livre da preocupação com a felicidade.", "reference": "Zhuangzi" },
-    { "text": "Flui com o que pode acontecer e deixa a tua mente livre; permanece centrado aceitando tudo o que fazes.", "reference": "Zhuangzi" },
-    { "text": "Quando os sapatos servem, os pés são esquecidos; quando o cinto serve, a cintura é esquecida.", "reference": "Zhuangzi" },
-    { "text": "Tudo tem o seu sim e o seu não; tudo tem o seu certo e o seu errado.", "reference": "Zhuangzi" },
-    { "text": "O homem sábio não procura acumular; quanto mais dá aos outros, mais possui para si.", "reference": "Zhuangzi" },
-    { "text": "Outrora sonhei que era uma borboleta, vagando feliz; agora não sei se sou homem que sonhou ser borboleta ou borboleta que sonha ser homem.", "reference": "Zhuangzi" },
-    { "text": "A vida tem um limite, mas o saber não tem limite.", "reference": "Zhuangzi" },
-    { "text": "O verdadeiro homem respira com os calcanhares; o homem comum respira apenas com a garganta.", "reference": "Zhuangzi" },
-    { "text": "Não te deixes levar por aplausos nem te abatas com a censura.", "reference": "Zhuangzi" },
-    { "text": "A árvore inútil, que ninguém corta, é a que alcança a velhice plena.", "reference": "Zhuangzi" },
-    { "text": "O homem que segue o Tao perde-se nele e nele encontra a sua liberdade.", "reference": "Zhuangzi" },
-    { "text": "Quem domina a si mesmo nada teme do céu nem dos homens.", "reference": "Zhuangzi" },
-    { "text": "A nascente seca, e os peixes ficam juntos em terra, umedecendo-se mutuamente; melhor seria esquecerem-se uns dos outros nos rios e lagos.", "reference": "Zhuangzi" },
-    { "text": "O Tao não tem começo nem fim; as coisas nascem e morrem, sem que ele se altere.", "reference": "Zhuangzi" },
-    { "text": "Aquele que se conforma com o tempo e segue o curso natural está além da alegria e da tristeza.", "reference": "Zhuangzi" },
-    { "text": "O bom cozinheiro corta seguindo as juntas naturais e jamais cega sua faca.", "reference": "Zhuangzi" },
-    { "text": "Aquele que conhece o suficiente para parar onde não pode conhecer atingiu o auge.", "reference": "Zhuangzi" },
-    { "text": "O grande Tao não se nomeia; a grande discussão não se exprime em palavras.", "reference": "Zhuangzi" },
-    { "text": "Quem persegue as coisas exteriores perde o seu interior.", "reference": "Zhuangzi" }
+    {
+      "text": "Uma jornada de mil milhas começa com um único passo.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "O Tao que pode ser nomeado não é o Tao eterno.",
+      "reference": "Tao Te Ching 1"
+    },
+    {
+      "text": "Aquele que conhece os outros é sábio; aquele que conhece a si mesmo é iluminado.",
+      "reference": "Tao Te Ching 33"
+    },
+    {
+      "text": "Aquele que vence os outros é forte; aquele que vence a si mesmo é poderoso.",
+      "reference": "Tao Te Ching 33"
+    },
+    {
+      "text": "Quem se contenta com o que tem é rico.",
+      "reference": "Tao Te Ching 33"
+    },
+    {
+      "text": "Nada no mundo é mais suave e flexível que a água, mas nada a supera ao desgastar o duro e o forte.",
+      "reference": "Tao Te Ching 78"
+    },
+    {
+      "text": "A árvore mais alta nasceu de um pequeno broto.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "O Tao nunca age, e contudo nada deixa por fazer.",
+      "reference": "Tao Te Ching 37"
+    },
+    {
+      "text": "Conhecer a constância é iluminação; ignorá-la conduz ao desastre.",
+      "reference": "Tao Te Ching 16"
+    },
+    {
+      "text": "Aquele que sabe não fala; aquele que fala não sabe.",
+      "reference": "Tao Te Ching 56"
+    },
+    {
+      "text": "O sábio cuida de seu interior e não dos sentidos exteriores.",
+      "reference": "Tao Te Ching 12"
+    },
+    {
+      "text": "A maior virtude é como a água, que beneficia todas as coisas sem disputar.",
+      "reference": "Tao Te Ching 8"
+    },
+    {
+      "text": "Quem está em paz consigo mesmo cumpre sua tarefa e a deixa para trás.",
+      "reference": "Tao Te Ching 9"
+    },
+    {
+      "text": "Encha sua taça até a borda e ela transbordará.",
+      "reference": "Tao Te Ching 9"
+    },
+    {
+      "text": "Esvazia-te de tudo e deixa a mente repousar em paz.",
+      "reference": "Tao Te Ching 16"
+    },
+    {
+      "text": "Retornar à raiz é encontrar a quietude.",
+      "reference": "Tao Te Ching 16"
+    },
+    {
+      "text": "Manifesta a simplicidade, abraça a singeleza, reduz o egoísmo, diminui os desejos.",
+      "reference": "Tao Te Ching 19"
+    },
+    {
+      "text": "O sábio não exibe a si mesmo, por isso brilha.",
+      "reference": "Tao Te Ching 22"
+    },
+    {
+      "text": "Quem se curva permanece inteiro; quem se dobra será endireitado.",
+      "reference": "Tao Te Ching 22"
+    },
+    {
+      "text": "Por não disputar com ninguém, ninguém no mundo pode disputar com ele.",
+      "reference": "Tao Te Ching 22"
+    },
+    {
+      "text": "Quem fica na ponta dos pés não se mantém firme.",
+      "reference": "Tao Te Ching 24"
+    },
+    {
+      "text": "Quem dá passos largos demais não anda muito longe.",
+      "reference": "Tao Te Ching 24"
+    },
+    {
+      "text": "Conhece o masculino, mas conserva o feminino, e serás o leito do mundo.",
+      "reference": "Tao Te Ching 28"
+    },
+    {
+      "text": "Quem quiser dominar o mundo e moldá-lo ao seu desejo não terá êxito.",
+      "reference": "Tao Te Ching 29"
+    },
+    {
+      "text": "Aquilo que floresce demais cedo definha; isso não é o Tao.",
+      "reference": "Tao Te Ching 30"
+    },
+    {
+      "text": "As armas são instrumentos de mau agouro; o sábio só as usa quando não há remédio.",
+      "reference": "Tao Te Ching 31"
+    },
+    {
+      "text": "O Tao é eterno e não tem nome; embora simples, nada no mundo ousa subjugá-lo.",
+      "reference": "Tao Te Ching 32"
+    },
+    {
+      "text": "Aquele que não perde o seu lugar permanece; aquele que morre sem perecer tem vida longa.",
+      "reference": "Tao Te Ching 33"
+    },
+    {
+      "text": "O grande Tao flui por toda parte, à esquerda e à direita.",
+      "reference": "Tao Te Ching 34"
+    },
+    {
+      "text": "Por não se julgar grande, o sábio realiza sua grandeza.",
+      "reference": "Tao Te Ching 34"
+    },
+    {
+      "text": "O mole vence o duro; o fraco vence o forte.",
+      "reference": "Tao Te Ching 36"
+    },
+    {
+      "text": "Se os reis e senhores guardassem a simplicidade, todas as coisas se ordenariam por si mesmas.",
+      "reference": "Tao Te Ching 37"
+    },
+    {
+      "text": "A virtude superior não age e nada deixa por fazer.",
+      "reference": "Tao Te Ching 38"
+    },
+    {
+      "text": "O retorno é o movimento do Tao; a fraqueza é o uso do Tao.",
+      "reference": "Tao Te Ching 40"
+    },
+    {
+      "text": "Todas as coisas do mundo nascem do ser, e o ser nasce do não-ser.",
+      "reference": "Tao Te Ching 40"
+    },
+    {
+      "text": "O grande quadrado não tem cantos; o grande talento amadurece tarde.",
+      "reference": "Tao Te Ching 41"
+    },
+    {
+      "text": "O grande som é quase inaudível; a grande forma não tem contornos.",
+      "reference": "Tao Te Ching 41"
+    },
+    {
+      "text": "O mais suave do mundo cavalga sobre o mais duro do mundo.",
+      "reference": "Tao Te Ching 43"
+    },
+    {
+      "text": "O ensino sem palavras e o proveito da não-ação, poucos no mundo os alcançam.",
+      "reference": "Tao Te Ching 43"
+    },
+    {
+      "text": "Fama ou vida: o que te é mais querido? Vida ou riqueza: o que vale mais?",
+      "reference": "Tao Te Ching 44"
+    },
+    {
+      "text": "Quem se contenta não conhece a humilhação; quem sabe parar não corre perigo.",
+      "reference": "Tao Te Ching 44"
+    },
+    {
+      "text": "A grande perfeição parece imperfeita, mas seu uso jamais se esgota.",
+      "reference": "Tao Te Ching 45"
+    },
+    {
+      "text": "A grande plenitude parece vazia, mas seu uso é inesgotável.",
+      "reference": "Tao Te Ching 45"
+    },
+    {
+      "text": "A quietude vence a agitação; o frio vence o calor.",
+      "reference": "Tao Te Ching 45"
+    },
+    {
+      "text": "Não há maior desgraça que não saber contentar-se.",
+      "reference": "Tao Te Ching 46"
+    },
+    {
+      "text": "Não há maior culpa que ceder à cobiça.",
+      "reference": "Tao Te Ching 46"
+    },
+    {
+      "text": "Quem sabe que o bastante é suficiente sempre terá o suficiente.",
+      "reference": "Tao Te Ching 46"
+    },
+    {
+      "text": "Sem sair da porta, pode-se conhecer o mundo.",
+      "reference": "Tao Te Ching 47"
+    },
+    {
+      "text": "Quanto mais longe se vai, menos se sabe.",
+      "reference": "Tao Te Ching 47"
+    },
+    {
+      "text": "No estudo, ganha-se a cada dia; no Tao, perde-se a cada dia.",
+      "reference": "Tao Te Ching 48"
+    },
+    {
+      "text": "Perdendo e perdendo, chega-se à não-ação; nada se faz, e nada fica por fazer.",
+      "reference": "Tao Te Ching 48"
+    },
+    {
+      "text": "O sábio não tem coração próprio; faz do coração do povo o seu coração.",
+      "reference": "Tao Te Ching 49"
+    },
+    {
+      "text": "Aos bons sou bom; aos não bons também sou bom: assim se alcança a bondade.",
+      "reference": "Tao Te Ching 49"
+    },
+    {
+      "text": "O Tao gera; a virtude nutre.",
+      "reference": "Tao Te Ching 51"
+    },
+    {
+      "text": "Quem conhece a mãe conhece também o filho.",
+      "reference": "Tao Te Ching 52"
+    },
+    {
+      "text": "Tapa as aberturas, fecha as portas, e até o fim da vida estarás sem fadiga.",
+      "reference": "Tao Te Ching 52"
+    },
+    {
+      "text": "Ver o pequeno é clareza; guardar a brandura é força.",
+      "reference": "Tao Te Ching 52"
+    },
+    {
+      "text": "O caminho reto é fácil, mas o povo prefere os atalhos.",
+      "reference": "Tao Te Ching 53"
+    },
+    {
+      "text": "O bem firmemente plantado não se arranca; o bem bem abraçado não se solta.",
+      "reference": "Tao Te Ching 54"
+    },
+    {
+      "text": "Quem possui a virtude em plenitude é como uma criança recém-nascida.",
+      "reference": "Tao Te Ching 55"
+    },
+    {
+      "text": "Conhecer a harmonia é conhecer o eterno; conhecer o eterno é iluminação.",
+      "reference": "Tao Te Ching 55"
+    },
+    {
+      "text": "Suaviza o brilho e une-te à poeira do mundo.",
+      "reference": "Tao Te Ching 56"
+    },
+    {
+      "text": "Governa o reino com retidão; faz a guerra com surpresa; conquista o mundo com a não-ação.",
+      "reference": "Tao Te Ching 57"
+    },
+    {
+      "text": "Eu nada faço e o povo transforma-se por si mesmo.",
+      "reference": "Tao Te Ching 57"
+    },
+    {
+      "text": "Amo a quietude e o povo torna-se reto por si mesmo.",
+      "reference": "Tao Te Ching 57"
+    },
+    {
+      "text": "A desgraça é o apoio em que repousa a ventura; a ventura é o esconderijo onde espreita a desgraça.",
+      "reference": "Tao Te Ching 58"
+    },
+    {
+      "text": "Para governar os homens e servir ao céu, nada como a moderação.",
+      "reference": "Tao Te Ching 59"
+    },
+    {
+      "text": "Governar um grande reino é como fritar um peixe pequeno.",
+      "reference": "Tao Te Ching 60"
+    },
+    {
+      "text": "O grande reino, mantendo-se embaixo, conquista o pequeno.",
+      "reference": "Tao Te Ching 61"
+    },
+    {
+      "text": "O Tao é o refúgio de todas as coisas, tesouro do bom e amparo do que não é bom.",
+      "reference": "Tao Te Ching 62"
+    },
+    {
+      "text": "Pratica a não-ação, ocupa-te do não ocupar-te, saboreia o que não tem sabor.",
+      "reference": "Tao Te Ching 63"
+    },
+    {
+      "text": "Enfrenta o difícil enquanto ainda é fácil; realiza o grande enquanto ainda é pequeno.",
+      "reference": "Tao Te Ching 63"
+    },
+    {
+      "text": "As coisas difíceis do mundo nascem sempre quando ainda são fáceis.",
+      "reference": "Tao Te Ching 63"
+    },
+    {
+      "text": "Quem promete com leveza raramente cumpre.",
+      "reference": "Tao Te Ching 63"
+    },
+    {
+      "text": "O que está em repouso é fácil de conservar; o que ainda não surgiu é fácil de prevenir.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "O sábio deseja não desejar e não dá valor aos bens difíceis de obter.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "Os rios e os mares são reis de cem vales porque sabem manter-se abaixo deles.",
+      "reference": "Tao Te Ching 66"
+    },
+    {
+      "text": "Por estar abaixo do povo, o sábio que o conduz não lhe pesa.",
+      "reference": "Tao Te Ching 66"
+    },
+    {
+      "text": "Tenho três tesouros que guardo e prezo: a compaixão, a moderação e não ousar pôr-me à frente do mundo.",
+      "reference": "Tao Te Ching 67"
+    },
+    {
+      "text": "Pela compaixão pode-se ser corajoso; pela moderação pode-se ser generoso.",
+      "reference": "Tao Te Ching 67"
+    },
+    {
+      "text": "O bom guerreiro não é belicoso; o bom vencedor não se ira.",
+      "reference": "Tao Te Ching 68"
+    },
+    {
+      "text": "Esta é a virtude de não disputar; esta é a força que sabe usar os homens.",
+      "reference": "Tao Te Ching 68"
+    },
+    {
+      "text": "Não há erro maior que subestimar o adversário.",
+      "reference": "Tao Te Ching 69"
+    },
+    {
+      "text": "Minhas palavras são fáceis de entender e fáceis de praticar, mas ninguém as entende nem as pratica.",
+      "reference": "Tao Te Ching 70"
+    },
+    {
+      "text": "Saber que não se sabe é o melhor; não saber e julgar que se sabe é a doença.",
+      "reference": "Tao Te Ching 71"
+    },
+    {
+      "text": "O sábio conhece a si mesmo, mas não se exibe; ama a si mesmo, mas não se exalta.",
+      "reference": "Tao Te Ching 72"
+    },
+    {
+      "text": "A rede do céu é vasta; suas malhas são largas, e nada lhe escapa.",
+      "reference": "Tao Te Ching 73"
+    },
+    {
+      "text": "O que é firme e rígido é companheiro da morte; o que é tenro e flexível é companheiro da vida.",
+      "reference": "Tao Te Ching 76"
+    },
+    {
+      "text": "O Tao do céu é como o ato de retesar o arco: abaixa o que está alto e ergue o que está baixo.",
+      "reference": "Tao Te Ching 77"
+    },
+    {
+      "text": "O céu tira do que tem demais e dá ao que tem de menos.",
+      "reference": "Tao Te Ching 77"
+    },
+    {
+      "text": "O fraco vence o forte, e o mole vence o duro; todos o sabem, mas ninguém o pratica.",
+      "reference": "Tao Te Ching 78"
+    },
+    {
+      "text": "As palavras verdadeiras não são agradáveis; as palavras agradáveis não são verdadeiras.",
+      "reference": "Tao Te Ching 81"
+    },
+    {
+      "text": "O homem bom não discute; o que discute não é bom.",
+      "reference": "Tao Te Ching 81"
+    },
+    {
+      "text": "O sábio não acumula; quanto mais faz pelos outros, mais possui.",
+      "reference": "Tao Te Ching 81"
+    },
+    {
+      "text": "O Tao do céu beneficia e não prejudica; o Tao do sábio age e não disputa.",
+      "reference": "Tao Te Ching 81"
+    },
+    {
+      "text": "Quem entende os outros é inteligente; quem entende a si mesmo é iluminado.",
+      "reference": "Lao-Tsé"
+    },
+    {
+      "text": "A bondade nas palavras cria confiança; a bondade no pensar cria profundidade.",
+      "reference": "Lao-Tsé"
+    },
+    {
+      "text": "Cede e te conservarás inteiro; curva-te e te endireitarás.",
+      "reference": "Tao Te Ching 22"
+    },
+    {
+      "text": "Esvazia-te e te encherás; gasta-te e te renovarás.",
+      "reference": "Tao Te Ching 22"
+    },
+    {
+      "text": "Quem age estraga; quem retém perde; por isso o sábio não age e nada estraga.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "Termina a tarefa tão cuidadosamente como a começaste, e nada se perderá.",
+      "reference": "Tao Te Ching 64"
+    },
+    {
+      "text": "Há quem queira tomar o mundo e agir sobre ele; mas o mundo é um vaso sagrado que não se manipula.",
+      "reference": "Tao Te Ching 29"
+    },
+    {
+      "text": "Por isso o sábio evita o excesso, a extravagância e a soberba.",
+      "reference": "Tao Te Ching 29"
+    },
+    {
+      "text": "O Tao na sua marcha pelo mundo é como os regatos dos vales que correm para os rios e o mar.",
+      "reference": "Tao Te Ching 32"
+    },
+    {
+      "text": "A pessoa de virtude superior não se vangloria de sua virtude, e por isso a possui.",
+      "reference": "Tao Te Ching 38"
+    },
+    {
+      "text": "O que está completo parece imperfeito, mas seu uso não falha.",
+      "reference": "Tao Te Ching 45"
+    },
+    {
+      "text": "A grande retidão parece torta; a grande habilidade parece desajeitada.",
+      "reference": "Tao Te Ching 45"
+    },
+    {
+      "text": "Quando o sábio governa, o povo mal percebe que ele existe.",
+      "reference": "Tao Te Ching 17"
+    },
+    {
+      "text": "Quando a obra está concluída, o povo diz: foi assim por nós mesmos.",
+      "reference": "Tao Te Ching 17"
+    },
+    {
+      "text": "Abandona a sabedoria afetada e o povo voltará à simplicidade.",
+      "reference": "Tao Te Ching 19"
+    },
+    {
+      "text": "Trinta raios convergem para o cubo, mas é o vazio do centro que faz útil a roda.",
+      "reference": "Tao Te Ching 11"
+    },
+    {
+      "text": "Modela-se o barro para fazer um vaso, mas é o vazio interior que o torna útil.",
+      "reference": "Tao Te Ching 11"
+    },
+    {
+      "text": "Assim, o ser proporciona vantagem, mas é o não-ser que dá utilidade.",
+      "reference": "Tao Te Ching 11"
+    },
+    {
+      "text": "Quem sabe contentar-se com pouco sempre terá o bastante.",
+      "reference": "Lao-Tsé"
+    },
+    {
+      "text": "O homem perfeito usa a mente como um espelho: nada agarra, nada recusa; recebe, mas não retém.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A felicidade perfeita está em estar livre da preocupação com a felicidade.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Flui com o que pode acontecer e deixa a tua mente livre; permanece centrado aceitando tudo o que fazes.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quando os sapatos servem, os pés são esquecidos; quando o cinto serve, a cintura é esquecida.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Tudo tem o seu sim e o seu não; tudo tem o seu certo e o seu errado.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem sábio não procura acumular; quanto mais dá aos outros, mais possui para si.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Outrora sonhei que era uma borboleta, vagando feliz; agora não sei se sou homem que sonhou ser borboleta ou borboleta que sonha ser homem.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A vida tem um limite, mas o saber não tem limite.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O verdadeiro homem respira com os calcanhares; o homem comum respira apenas com a garganta.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Não te deixes levar por aplausos nem te abatas com a censura.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A árvore inútil, que ninguém corta, é a que alcança a velhice plena.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem que segue o Tao perde-se nele e nele encontra a sua liberdade.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem domina a si mesmo nada teme do céu nem dos homens.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A nascente seca, e os peixes ficam juntos em terra, umedecendo-se mutuamente; melhor seria esquecerem-se uns dos outros nos rios e lagos.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O Tao não tem começo nem fim; as coisas nascem e morrem, sem que ele se altere.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Aquele que se conforma com o tempo e segue o curso natural está além da alegria e da tristeza.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O bom cozinheiro corta seguindo as juntas naturais e jamais cega sua faca.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Aquele que conhece o suficiente para parar onde não pode conhecer atingiu o auge.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O grande Tao não se nomeia; a grande discussão não se exprime em palavras.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem persegue as coisas exteriores perde o seu interior.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O Tao está em toda parte, mas só o silêncio o revela.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem age sem forçar segue o curso do céu.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A água não disputa com a pedra, e ainda assim a desgasta.",
+      "reference": "Tao Te Ching, cap. 78"
+    },
+    {
+      "text": "Sê como a água: encontra teu caminho contornando o obstáculo.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O vazio do copo é o que permite enchê-lo.",
+      "reference": "Tao Te Ching, cap. 11"
+    },
+    {
+      "text": "O sábio realiza muito porque nada disputa.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A flexibilidade vence a rigidez como o junco vence o vento.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Não-agir não é nada fazer, é não forçar nada.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O bambu se curva na tempestade e por isso não se quebra.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem se conhece por dentro não precisa do brilho de fora.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A quietude é a senhora da agitação.",
+      "reference": "Tao Te Ching, cap. 26"
+    },
+    {
+      "text": "O pesado é a raiz do leve; a quietude é o senhor do movimento.",
+      "reference": "Tao Te Ching, cap. 26"
+    },
+    {
+      "text": "Quem caminha bem não deixa rastros.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "Quem fala bem não comete deslizes.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "O bom contador não precisa de ábaco.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "A porta bem fechada não tem fechadura, e ninguém a abre.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "O sábio sempre socorre os homens e a ninguém abandona.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "O homem bom é mestre do que não é bom; o que não é bom é matéria do homem bom.",
+      "reference": "Tao Te Ching, cap. 27"
+    },
+    {
+      "text": "Conhece o branco, mas conserva o negro, e serás modelo do mundo.",
+      "reference": "Tao Te Ching, cap. 28"
+    },
+    {
+      "text": "Quem volta à simplicidade do tronco bruto torna-se instrumento de tudo.",
+      "reference": "Tao Te Ching, cap. 28"
+    },
+    {
+      "text": "O grande corte não fere; a grande ordem não divide.",
+      "reference": "Tao Te Ching, cap. 28"
+    },
+    {
+      "text": "Há tempo de avançar e tempo de recuar.",
+      "reference": "Tao Te Ching, cap. 29"
+    },
+    {
+      "text": "Há tempo de soprar quente e tempo de soprar frio.",
+      "reference": "Tao Te Ching, cap. 29"
+    },
+    {
+      "text": "Quem ajuda um governante pela via do Tao não impõe o domínio pelas armas.",
+      "reference": "Tao Te Ching, cap. 30"
+    },
+    {
+      "text": "Onde acampam exércitos crescem espinhos.",
+      "reference": "Tao Te Ching, cap. 30"
+    },
+    {
+      "text": "O bom comandante alcança seu fim e ali se detém, sem abusar da força.",
+      "reference": "Tao Te Ching, cap. 30"
+    },
+    {
+      "text": "Alcança teu fim sem te vangloriares, sem te orgulhares, sem te ensoberbeceres.",
+      "reference": "Tao Te Ching, cap. 30"
+    },
+    {
+      "text": "A vitória não é coisa para se celebrar com alegria.",
+      "reference": "Tao Te Ching, cap. 31"
+    },
+    {
+      "text": "Quem se compraz em matar homens não realizará seu intento no mundo.",
+      "reference": "Tao Te Ching, cap. 31"
+    },
+    {
+      "text": "Saber deter-se é estar livre do perigo.",
+      "reference": "Tao Te Ching, cap. 32"
+    },
+    {
+      "text": "Aquele que vence a si mesmo possui verdadeira força.",
+      "reference": "Tao Te Ching, cap. 33"
+    },
+    {
+      "text": "O grande Tao tudo cobre como um manto, e a nada se impõe como dono.",
+      "reference": "Tao Te Ching, cap. 34"
+    },
+    {
+      "text": "Todas as coisas voltam ao Tao, e ele não se faz senhor delas.",
+      "reference": "Tao Te Ching, cap. 34"
+    },
+    {
+      "text": "Guarda a grande imagem e o mundo virá a ti.",
+      "reference": "Tao Te Ching, cap. 35"
+    },
+    {
+      "text": "Virá a ti e não sofrerá dano, mas repousará em grande paz.",
+      "reference": "Tao Te Ching, cap. 35"
+    },
+    {
+      "text": "A música e o banquete fazem o viajante parar; mas o Tao, dito, parece sem sabor.",
+      "reference": "Tao Te Ching, cap. 35"
+    },
+    {
+      "text": "O Tao, olhado, não se vê; ouvido, não se escuta; usado, não se esgota.",
+      "reference": "Tao Te Ching, cap. 35"
+    },
+    {
+      "text": "Para encolher algo, primeiro deixa-o expandir-se.",
+      "reference": "Tao Te Ching, cap. 36"
+    },
+    {
+      "text": "Para enfraquecer algo, primeiro deixa-o fortalecer-se.",
+      "reference": "Tao Te Ching, cap. 36"
+    },
+    {
+      "text": "O peixe não deve sair das profundezas das águas.",
+      "reference": "Tao Te Ching, cap. 36"
+    },
+    {
+      "text": "Sem desejos há quietude, e o mundo por si mesmo se aquieta.",
+      "reference": "Tao Te Ching, cap. 37"
+    },
+    {
+      "text": "Quem tem virtude verdadeira não se ocupa em parecer virtuoso.",
+      "reference": "Tao Te Ching, cap. 38"
+    },
+    {
+      "text": "Perdido o Tao, vem a virtude; perdida a virtude, vem a bondade.",
+      "reference": "Tao Te Ching, cap. 38"
+    },
+    {
+      "text": "O sábio prefere o que é sólido ao que é vistoso.",
+      "reference": "Tao Te Ching, cap. 38"
+    },
+    {
+      "text": "O céu, alcançando a unidade, tornou-se límpido.",
+      "reference": "Tao Te Ching, cap. 39"
+    },
+    {
+      "text": "A terra, alcançando a unidade, tornou-se firme.",
+      "reference": "Tao Te Ching, cap. 39"
+    },
+    {
+      "text": "O nobre tem por raiz o humilde; o alto tem por base o baixo.",
+      "reference": "Tao Te Ching, cap. 39"
+    },
+    {
+      "text": "Prefere ser uma pedra comum a ser uma joia rara.",
+      "reference": "Tao Te Ching, cap. 39"
+    },
+    {
+      "text": "O sábio de talento médio ouve o Tao e ora o segue, ora o esquece.",
+      "reference": "Tao Te Ching, cap. 41"
+    },
+    {
+      "text": "O homem inferior ouve o Tao e cai na gargalhada; se não rissem, não seria o Tao.",
+      "reference": "Tao Te Ching, cap. 41"
+    },
+    {
+      "text": "O caminho luminoso parece escuro; o caminho que avança parece recuar.",
+      "reference": "Tao Te Ching, cap. 41"
+    },
+    {
+      "text": "O Tao gera o um, o um gera o dois, o dois gera o três, e o três gera todas as coisas.",
+      "reference": "Tao Te Ching, cap. 42"
+    },
+    {
+      "text": "Todas as coisas carregam o yin e abraçam o yang.",
+      "reference": "Tao Te Ching, cap. 42"
+    },
+    {
+      "text": "O que os homens detestam, ser órfão e desvalido, o sábio toma por título.",
+      "reference": "Tao Te Ching, cap. 42"
+    },
+    {
+      "text": "Às vezes ganha-se perdendo, e perde-se ganhando.",
+      "reference": "Tao Te Ching, cap. 42"
+    },
+    {
+      "text": "O excessivo apego custa caro; o muito acumular leva à grande perda.",
+      "reference": "Tao Te Ching, cap. 44"
+    },
+    {
+      "text": "Quem sabe contentar-se evita a desonra.",
+      "reference": "Tao Te Ching, cap. 44"
+    },
+    {
+      "text": "Quem sabe parar a tempo dura muito.",
+      "reference": "Tao Te Ching, cap. 44"
+    },
+    {
+      "text": "Quando o Tao reina, os cavalos adubam os campos.",
+      "reference": "Tao Te Ching, cap. 46"
+    },
+    {
+      "text": "Quando o Tao falta, os cavalos de guerra nascem nas fronteiras.",
+      "reference": "Tao Te Ching, cap. 46"
+    },
+    {
+      "text": "Sem olhar pela janela, vê-se o caminho do céu.",
+      "reference": "Tao Te Ching, cap. 47"
+    },
+    {
+      "text": "O sábio conhece sem viajar, compreende sem ver e realiza sem agir.",
+      "reference": "Tao Te Ching, cap. 47"
+    },
+    {
+      "text": "Quem conquista o mundo o faz sempre pela não-ação.",
+      "reference": "Tao Te Ching, cap. 48"
+    },
+    {
+      "text": "Confio no que é digno de confiança, e também no que não é: assim alcanço a confiança.",
+      "reference": "Tao Te Ching, cap. 49"
+    },
+    {
+      "text": "O sábio vive no mundo sereno, e por todos faz simples o seu coração.",
+      "reference": "Tao Te Ching, cap. 49"
+    },
+    {
+      "text": "Entre nascer e morrer, três em dez seguem a vida e três em dez seguem a morte.",
+      "reference": "Tao Te Ching, cap. 50"
+    },
+    {
+      "text": "Quem sabe cuidar da vida não encontra no caminho rinoceronte nem tigre.",
+      "reference": "Tao Te Ching, cap. 50"
+    },
+    {
+      "text": "Nele a morte não acha lugar onde cravar suas garras.",
+      "reference": "Tao Te Ching, cap. 50"
+    },
+    {
+      "text": "O Tao gera as coisas, a virtude as nutre, a matéria as forma, o ambiente as completa.",
+      "reference": "Tao Te Ching, cap. 51"
+    },
+    {
+      "text": "Gerar sem possuir, agir sem reter, guiar sem dominar: eis a virtude profunda.",
+      "reference": "Tao Te Ching, cap. 51"
+    },
+    {
+      "text": "O mundo tem um princípio que é a mãe de todas as coisas.",
+      "reference": "Tao Te Ching, cap. 52"
+    },
+    {
+      "text": "Quem retorna à luz e nela se guarda não se expõe ao desastre.",
+      "reference": "Tao Te Ching, cap. 52"
+    },
+    {
+      "text": "Quando os palácios resplandecem, os campos estão cheios de ervas daninhas.",
+      "reference": "Tao Te Ching, cap. 53"
+    },
+    {
+      "text": "Vestir-se de luxo e empanturrar-se de bens é o orgulho do ladrão, não o Tao.",
+      "reference": "Tao Te Ching, cap. 53"
+    },
+    {
+      "text": "Cultiva a virtude em ti, e ela será verdadeira.",
+      "reference": "Tao Te Ching, cap. 54"
+    },
+    {
+      "text": "Cultiva a virtude na família, e ela transbordará.",
+      "reference": "Tao Te Ching, cap. 54"
+    },
+    {
+      "text": "A abelha não o pica, a fera não o ataca, a ave de rapina não o agarra.",
+      "reference": "Tao Te Ching, cap. 55"
+    },
+    {
+      "text": "Forçar o crescimento é violar a natureza, e o que a viola logo perece.",
+      "reference": "Tao Te Ching, cap. 55"
+    },
+    {
+      "text": "Quanto mais leis e proibições, mais pobre se torna o povo.",
+      "reference": "Tao Te Ching, cap. 57"
+    },
+    {
+      "text": "Quanto mais decretos se promulgam, mais ladrões aparecem.",
+      "reference": "Tao Te Ching, cap. 57"
+    },
+    {
+      "text": "Nada desejo, e o povo torna-se simples por si mesmo.",
+      "reference": "Tao Te Ching, cap. 57"
+    },
+    {
+      "text": "Quando o governo é discreto, o povo é honesto e inteiro.",
+      "reference": "Tao Te Ching, cap. 58"
+    },
+    {
+      "text": "Quando o governo é minucioso, o povo torna-se manhoso e dividido.",
+      "reference": "Tao Te Ching, cap. 58"
+    },
+    {
+      "text": "O sábio é reto sem ser cortante, agudo sem ferir, luminoso sem ofuscar.",
+      "reference": "Tao Te Ching, cap. 58"
+    },
+    {
+      "text": "Quem economiza forças cedo se prepara para o caminho.",
+      "reference": "Tao Te Ching, cap. 59"
+    },
+    {
+      "text": "Acumular virtude é poder superar tudo; e desse poder ninguém conhece o limite.",
+      "reference": "Tao Te Ching, cap. 59"
+    },
+    {
+      "text": "Quando o reino é governado pelo Tao, os espíritos não fazem mal aos homens.",
+      "reference": "Tao Te Ching, cap. 60"
+    },
+    {
+      "text": "O grande reino deve manter-se embaixo, como o vale para onde correm as águas.",
+      "reference": "Tao Te Ching, cap. 61"
+    },
+    {
+      "text": "O feminino vence o masculino pela quietude, mantendo-se humilde.",
+      "reference": "Tao Te Ching, cap. 61"
+    },
+    {
+      "text": "O Tao é o tesouro do homem bom e o refúgio do que ainda não é bom.",
+      "reference": "Tao Te Ching, cap. 62"
+    },
+    {
+      "text": "Por que os antigos prezavam o Tao? Porque nele quem busca encontra e quem erra é perdoado.",
+      "reference": "Tao Te Ching, cap. 62"
+    },
+    {
+      "text": "Retribui o ódio com bondade.",
+      "reference": "Tao Te Ching, cap. 63"
+    },
+    {
+      "text": "O grande nasce do pequeno; o muito nasce do pouco.",
+      "reference": "Tao Te Ching, cap. 63"
+    },
+    {
+      "text": "O sábio nunca tenta o grande, e por isso realiza a grandeza.",
+      "reference": "Tao Te Ching, cap. 63"
+    },
+    {
+      "text": "Quem acha tudo fácil acabará achando tudo difícil.",
+      "reference": "Tao Te Ching, cap. 63"
+    },
+    {
+      "text": "Uma torre de nove andares ergueu-se de um punhado de terra.",
+      "reference": "Tao Te Ching, cap. 64"
+    },
+    {
+      "text": "Trata as coisas antes que existam; ordena-as antes que se desordenem.",
+      "reference": "Tao Te Ching, cap. 64"
+    },
+    {
+      "text": "Muitos fracassam à beira do êxito por não cuidarem do fim como do começo.",
+      "reference": "Tao Te Ching, cap. 64"
+    },
+    {
+      "text": "Os antigos que seguiam o Tao não esclareciam o povo, mas o mantinham simples.",
+      "reference": "Tao Te Ching, cap. 65"
+    },
+    {
+      "text": "O povo é difícil de governar quando sabe demais.",
+      "reference": "Tao Te Ching, cap. 65"
+    },
+    {
+      "text": "Para conduzir o povo, o sábio se coloca atrás dele.",
+      "reference": "Tao Te Ching, cap. 66"
+    },
+    {
+      "text": "Ele está acima, e o povo não sente o seu peso; está à frente, e o povo não sente o seu dano.",
+      "reference": "Tao Te Ching, cap. 66"
+    },
+    {
+      "text": "Porque a ninguém disputa, ninguém no mundo pode disputar com ele.",
+      "reference": "Tao Te Ching, cap. 66"
+    },
+    {
+      "text": "Meu Tao é grande justamente por não se parecer com nada.",
+      "reference": "Tao Te Ching, cap. 67"
+    },
+    {
+      "text": "Quem é compassivo pode ser valente; quem é moderado pode ser largo.",
+      "reference": "Tao Te Ching, cap. 67"
+    },
+    {
+      "text": "Quem não ousa pôr-se à frente do mundo torna-se guia dos que agem.",
+      "reference": "Tao Te Ching, cap. 67"
+    },
+    {
+      "text": "O céu protege o compassivo e com a compaixão o ampara.",
+      "reference": "Tao Te Ching, cap. 67"
+    },
+    {
+      "text": "O bom combatente não se deixa levar pela ira.",
+      "reference": "Tao Te Ching, cap. 68"
+    },
+    {
+      "text": "Quem sabe vencer o inimigo não se mede com ele.",
+      "reference": "Tao Te Ching, cap. 68"
+    },
+    {
+      "text": "Não há erro maior que tomar o adversário por insignificante.",
+      "reference": "Tao Te Ching, cap. 69"
+    },
+    {
+      "text": "Quando dois exércitos se enfrentam, vence o que combate com pesar.",
+      "reference": "Tao Te Ching, cap. 69"
+    },
+    {
+      "text": "Minhas palavras têm um princípio; meus atos têm um senhor.",
+      "reference": "Tao Te Ching, cap. 70"
+    },
+    {
+      "text": "Como os homens não conhecem isso, é que não me conhecem.",
+      "reference": "Tao Te Ching, cap. 70"
+    },
+    {
+      "text": "O sábio veste-se de pano grosso, mas guarda jade no peito.",
+      "reference": "Tao Te Ching, cap. 70"
+    },
+    {
+      "text": "Quem reconhece sua doença como doença está livre dela.",
+      "reference": "Tao Te Ching, cap. 71"
+    },
+    {
+      "text": "Quando o povo não teme o poder, vem o grande terror.",
+      "reference": "Tao Te Ching, cap. 72"
+    },
+    {
+      "text": "O sábio se conhece, mas não se faz notar; ama-se, mas não se enaltece.",
+      "reference": "Tao Te Ching, cap. 72"
+    },
+    {
+      "text": "O Tao do céu vence sem disputar, responde sem falar e atrai sem chamar.",
+      "reference": "Tao Te Ching, cap. 73"
+    },
+    {
+      "text": "Quem ousa na audácia perece; quem ousa na prudência vive.",
+      "reference": "Tao Te Ching, cap. 73"
+    },
+    {
+      "text": "Quem corta a madeira no lugar do carpinteiro raramente escapa de ferir a mão.",
+      "reference": "Tao Te Ching, cap. 74"
+    },
+    {
+      "text": "O povo passa fome porque os de cima devoram impostos demais.",
+      "reference": "Tao Te Ching, cap. 75"
+    },
+    {
+      "text": "Somente quem não se agarra à vida sabe verdadeiramente vivê-la.",
+      "reference": "Tao Te Ching, cap. 75"
+    },
+    {
+      "text": "O homem nasce tenro e flexível; ao morrer, fica duro e rígido.",
+      "reference": "Tao Te Ching, cap. 76"
+    },
+    {
+      "text": "As plantas nascem tenras e viçosas; ao morrer, ficam secas e quebradiças.",
+      "reference": "Tao Te Ching, cap. 76"
+    },
+    {
+      "text": "O exército forte demais não vence; a árvore rija demais se parte.",
+      "reference": "Tao Te Ching, cap. 76"
+    },
+    {
+      "text": "O forte e o grande ficam embaixo; o tenro e o fraco ficam em cima.",
+      "reference": "Tao Te Ching, cap. 76"
+    },
+    {
+      "text": "Só o que tem o Tao oferece aos outros o que lhe sobra.",
+      "reference": "Tao Te Ching, cap. 77"
+    },
+    {
+      "text": "O sábio age e não se apega; cumpre a obra e não se atribui o mérito.",
+      "reference": "Tao Te Ching, cap. 77"
+    },
+    {
+      "text": "Quem assume as misérias do reino é digno de ser seu senhor.",
+      "reference": "Tao Te Ching, cap. 78"
+    },
+    {
+      "text": "As verdades parecem paradoxos.",
+      "reference": "Tao Te Ching, cap. 78"
+    },
+    {
+      "text": "Apaziguada uma grande inimizade, sempre resta algum rancor; como isso pode ser bom?",
+      "reference": "Tao Te Ching, cap. 79"
+    },
+    {
+      "text": "O sábio cumpre sua parte e nada exige do outro.",
+      "reference": "Tao Te Ching, cap. 79"
+    },
+    {
+      "text": "O Tao do céu não tem favoritos; está sempre com o homem bom.",
+      "reference": "Tao Te Ching, cap. 79"
+    },
+    {
+      "text": "Num pequeno reino de poucos habitantes, que o povo ache doce o seu pão e belas as suas roupas.",
+      "reference": "Tao Te Ching, cap. 80"
+    },
+    {
+      "text": "Que o povo encontre paz em seus lares e alegria em seus costumes.",
+      "reference": "Tao Te Ching, cap. 80"
+    },
+    {
+      "text": "Quem sabe não é erudito; o erudito não sabe.",
+      "reference": "Tao Te Ching, cap. 81"
+    },
+    {
+      "text": "Quanto mais o sábio dá aos outros, mais possui.",
+      "reference": "Tao Te Ching, cap. 81"
+    },
+    {
+      "text": "Olha-se e não se vê: chama-se o invisível.",
+      "reference": "Tao Te Ching, cap. 14"
+    },
+    {
+      "text": "Escuta-se e não se ouve: chama-se o inaudível.",
+      "reference": "Tao Te Ching, cap. 14"
+    },
+    {
+      "text": "Toca-se e não se sente: chama-se o impalpável.",
+      "reference": "Tao Te Ching, cap. 14"
+    },
+    {
+      "text": "Segue o Tao antigo para conduzir as coisas de hoje.",
+      "reference": "Tao Te Ching, cap. 14"
+    },
+    {
+      "text": "Os antigos sábios eram tão profundos que não se podiam compreender.",
+      "reference": "Tao Te Ching, cap. 15"
+    },
+    {
+      "text": "Cautelosos como quem atravessa um rio gelado no inverno.",
+      "reference": "Tao Te Ching, cap. 15"
+    },
+    {
+      "text": "Reservados como o hóspede em casa alheia.",
+      "reference": "Tao Te Ching, cap. 15"
+    },
+    {
+      "text": "Modestos como o vale; abertos como a água turva que se aclara no repouso.",
+      "reference": "Tao Te Ching, cap. 15"
+    },
+    {
+      "text": "Quem segue o Tao não busca encher-se, e por não se encher pode renovar-se.",
+      "reference": "Tao Te Ching, cap. 15"
+    },
+    {
+      "text": "Todas as coisas florescem e cada uma retorna à sua raiz.",
+      "reference": "Tao Te Ching, cap. 16"
+    },
+    {
+      "text": "Quem conhece o eterno é tolerante; quem é tolerante é justo.",
+      "reference": "Tao Te Ching, cap. 16"
+    },
+    {
+      "text": "Quem conhece o eterno abraça tudo, e quem tudo abraça é imparcial.",
+      "reference": "Tao Te Ching, cap. 16"
+    },
+    {
+      "text": "Quando o grande Tao se esquece, surgem a bondade e a justiça afetadas.",
+      "reference": "Tao Te Ching, cap. 18"
+    },
+    {
+      "text": "Quando reina a discórdia na família, fala-se muito de piedade filial.",
+      "reference": "Tao Te Ching, cap. 18"
+    },
+    {
+      "text": "Quando o reino mergulha na desordem, exaltam-se os ministros leais.",
+      "reference": "Tao Te Ching, cap. 18"
+    },
+    {
+      "text": "Abandona a astúcia e o lucro, e não haverá ladrões nem salteadores.",
+      "reference": "Tao Te Ching, cap. 19"
+    },
+    {
+      "text": "Mostra a pureza, abraça a singeleza, reduz o egoísmo e diminui os desejos.",
+      "reference": "Tao Te Ching, cap. 19"
+    },
+    {
+      "text": "Entre o sim e o não, qual a verdadeira diferença?",
+      "reference": "Tao Te Ching, cap. 20"
+    },
+    {
+      "text": "A multidão se alegra como num banquete de festa; eu, só, permaneço quieto, sem sinal.",
+      "reference": "Tao Te Ching, cap. 20"
+    },
+    {
+      "text": "Os outros têm de sobra; só eu pareço ter deixado tudo para trás.",
+      "reference": "Tao Te Ching, cap. 20"
+    },
+    {
+      "text": "Sou diferente dos demais homens porque me nutro da Mãe.",
+      "reference": "Tao Te Ching, cap. 20"
+    },
+    {
+      "text": "A grande virtude segue unicamente o Tao.",
+      "reference": "Tao Te Ching, cap. 21"
+    },
+    {
+      "text": "O Tao é vago e indefinido, mas dentro dele há imagens e essência.",
+      "reference": "Tao Te Ching, cap. 21"
+    },
+    {
+      "text": "Falar pouco é o que convém à natureza.",
+      "reference": "Tao Te Ching, cap. 23"
+    },
+    {
+      "text": "O vendaval não dura a manhã inteira, nem a tempestade o dia todo.",
+      "reference": "Tao Te Ching, cap. 23"
+    },
+    {
+      "text": "Se nem o céu e a terra fazem durar o excesso, quanto menos o homem.",
+      "reference": "Tao Te Ching, cap. 23"
+    },
+    {
+      "text": "Quem se exibe não brilha; quem se gaba não tem mérito.",
+      "reference": "Tao Te Ching, cap. 24"
+    },
+    {
+      "text": "Quem se vangloria não perdura.",
+      "reference": "Tao Te Ching, cap. 24"
+    },
+    {
+      "text": "Havia algo informe e completo antes de nascerem o céu e a terra.",
+      "reference": "Tao Te Ching, cap. 25"
+    },
+    {
+      "text": "Silencioso e vazio, só existe e não muda; gira sem cessar e não se cansa.",
+      "reference": "Tao Te Ching, cap. 25"
+    },
+    {
+      "text": "O homem segue a terra, a terra segue o céu, o céu segue o Tao, e o Tao segue a si mesmo.",
+      "reference": "Tao Te Ching, cap. 25"
+    },
+    {
+      "text": "O sábio viaja o dia todo sem se afastar de sua bagagem.",
+      "reference": "Tao Te Ching, cap. 26"
+    },
+    {
+      "text": "Como pode o senhor de dez mil carros agir com leviandade no mundo?",
+      "reference": "Tao Te Ching, cap. 26"
+    },
+    {
+      "text": "O Tao é como o vazio de um fole: esvazia-se e nunca se exaure.",
+      "reference": "Tao Te Ching, cap. 5"
+    },
+    {
+      "text": "Quanto mais se move, mais ar produz.",
+      "reference": "Tao Te Ching, cap. 5"
+    },
+    {
+      "text": "O excesso de palavras esgota; melhor é guardar o centro.",
+      "reference": "Tao Te Ching, cap. 5"
+    },
+    {
+      "text": "O espírito do vale nunca morre; é a misteriosa fêmea.",
+      "reference": "Tao Te Ching, cap. 6"
+    },
+    {
+      "text": "A porta da misteriosa fêmea é a raiz do céu e da terra.",
+      "reference": "Tao Te Ching, cap. 6"
+    },
+    {
+      "text": "Tênue e contínua, ela existe; usada, jamais se esgota.",
+      "reference": "Tao Te Ching, cap. 6"
+    },
+    {
+      "text": "O céu é duradouro e a terra é antiga porque não vivem para si mesmos.",
+      "reference": "Tao Te Ching, cap. 7"
+    },
+    {
+      "text": "O sábio se põe em último lugar e acaba à frente.",
+      "reference": "Tao Te Ching, cap. 7"
+    },
+    {
+      "text": "Por nada querer para si, o sábio realiza tudo o que é seu.",
+      "reference": "Tao Te Ching, cap. 7"
+    },
+    {
+      "text": "No habitar, a virtude está em escolher um lugar simples.",
+      "reference": "Tao Te Ching, cap. 8"
+    },
+    {
+      "text": "No pensar, a virtude está na profundidade do silêncio.",
+      "reference": "Tao Te Ching, cap. 8"
+    },
+    {
+      "text": "No dar, a virtude está na bondade sem cálculo.",
+      "reference": "Tao Te Ching, cap. 8"
+    },
+    {
+      "text": "No falar, a virtude está na sinceridade; no agir, na oportunidade.",
+      "reference": "Tao Te Ching, cap. 8"
+    },
+    {
+      "text": "Porque a água não disputa, ela não comete falta.",
+      "reference": "Tao Te Ching, cap. 8"
+    },
+    {
+      "text": "Forjar e afiar uma lâmina sem cessar não conserva por muito tempo o seu gume.",
+      "reference": "Tao Te Ching, cap. 9"
+    },
+    {
+      "text": "Acumular ouro e jade numa sala: ninguém poderá guardá-los.",
+      "reference": "Tao Te Ching, cap. 9"
+    },
+    {
+      "text": "Riqueza e honras com soberba atraem por si mesmas a desgraça.",
+      "reference": "Tao Te Ching, cap. 9"
+    },
+    {
+      "text": "Podes manter o corpo e a alma abraçados, sem que se separem?",
+      "reference": "Tao Te Ching, cap. 10"
+    },
+    {
+      "text": "Podes concentrar o teu sopro e tornar-te flexível como um recém-nascido?",
+      "reference": "Tao Te Ching, cap. 10"
+    },
+    {
+      "text": "Gerar e nutrir, gerar sem possuir: eis a virtude misteriosa.",
+      "reference": "Tao Te Ching, cap. 10"
+    },
+    {
+      "text": "Abre-se uma janela na parede, e é o vazio que dá luz à casa.",
+      "reference": "Tao Te Ching, cap. 11"
+    },
+    {
+      "text": "As cinco cores cegam os olhos do homem.",
+      "reference": "Tao Te Ching, cap. 12"
+    },
+    {
+      "text": "Os cinco sons ensurdecem os ouvidos do homem.",
+      "reference": "Tao Te Ching, cap. 12"
+    },
+    {
+      "text": "A caçada desenfreada enlouquece o coração do homem.",
+      "reference": "Tao Te Ching, cap. 12"
+    },
+    {
+      "text": "Favor e desgraça assustam por igual; trata teu corpo como tratas o grande temor.",
+      "reference": "Tao Te Ching, cap. 13"
+    },
+    {
+      "text": "Quem se entrega ao mundo como entrega a si mesmo pode receber o mundo em confiança.",
+      "reference": "Tao Te Ching, cap. 13"
+    },
+    {
+      "text": "O homem perfeito é como a água, que se molda a todo recipiente.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O sábio não disputa, e por isso ninguém o derrota.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Antes de querer iluminar os outros, acende a tua própria lâmpada.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem domina os outros é forte; quem domina a si mesmo é invencível.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A semente do gigante dorme na pequena noz.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Aceita o mundo como ele é, e o mundo se renderá a ti.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quando largas o que és, tornas-te o que poderias ser.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Apressar o passo é cansar-se à toa; o Tao não tem pressa.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O silêncio é a língua materna do Tao.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O sábio não guarda nada para si e por isso nada lhe falta.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Plantar o bem hoje é colher harmonia amanhã.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem confia na vida flui com ela, como o rio flui ao mar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Conhecer os limites é a porta da paz.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O vento não escreve no céu, mas todos sentem sua passagem.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem nada teme perder caminha leve pelo mundo.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O sábio observa a flor abrir-se sem puxar suas pétalas.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Onde há contentamento, há riqueza sem fim.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A montanha não se move, e contudo todos os caminhos a contornam.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem espera o tempo certo colhe sem esforço.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Ser humilde como o vale é receber as águas de todos os montes.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A árvore que não disputa o sol cresce à própria sombra em paz.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O que é mole por dentro vence o que é duro por fora.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A maior força é aquela que não precisa se mostrar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem caminha com o Tao nunca anda só.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Deixa a água assentar e ela mesma se aclarará.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O homem que sabe esperar tem o tempo a seu favor.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem nada force, nada quebra.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O verdadeiro mestre ensina sem palavras e age sem alarde.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Esvaziar a mente é o começo de toda sabedoria.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A perfeição do céu está em nada exigir e tudo sustentar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem se apega às folhas perde a árvore.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem que sabe não precisa provar; quem precisa provar não sabe.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A grande sabedoria é ampla e tranquila; a pequena sabedoria é miúda e inquieta.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O peixe esquece a água em que vive, e o homem esquece o Tao em que existe.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A nassa serve para pegar o peixe; pego o peixe, esquece-se a nassa.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "As palavras servem para captar a ideia; captada a ideia, esquecem-se as palavras.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Onde acharei um homem que esqueceu as palavras, para com ele conversar?",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem perfeito não tem eu; o homem inspirado não tem mérito; o sábio não tem nome.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A ave que voa alto demais será alvo da flecha do caçador.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A fonte que jorra mais forte é a primeira a secar.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A grande terra me dá o corpo, a vida me dá o trabalho, a velhice o repouso, a morte o descanso.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem considera boa a sua vida considera boa também a sua morte.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem reto flui com as coisas e não se apega a nenhuma.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Não busques a perfeição fora; a tartaruga prefere arrastar a cauda na lama a ser venerada num templo.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem se mede pela opinião dos outros nunca encontra repouso.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O verdadeiro descanso está em deixar de perseguir.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A roda do oleiro gira no centro imóvel; aí repousa o sábio.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Aquele que entende o Tao da natureza não força nada ao seu modo.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O lenhador que conhece a madeira corta no veio e não se cansa.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quando a mente está em paz, o mundo inteiro repousa.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A grande viagem do espírito não tem mapa nem destino.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem aceita as transformações da vida cavalga sobre elas livremente.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O céu e a terra nasceram comigo, e todas as coisas são uma comigo.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem mede o oceano com uma concha jamais conhecerá sua grandeza.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O sapo do poço não pode falar do mar, pois conhece só o seu buraco.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O inseto do verão nada sabe do gelo, pois vive preso ao seu tempo.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem de espírito estreito não pode falar do Tao, pois está preso à sua doutrina.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Aquele que se contenta com seu lugar está livre, vá para onde for.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O vento sopra de mil maneiras pelos buracos da montanha, mas é sempre o mesmo vento.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A música do céu sopra através de cada coisa, e cada coisa soa à sua maneira.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O homem que dorme tranquilo não sonha com a febre do dia.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Esquecer-se de si é o caminho para encontrar o Tao.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem cavalga o vento e as nuvens não depende de nada.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A ave gigante leva meio ano para alcançar o céu do sul, e a pequena rola dela ri sem entender.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Cada ser tem o seu próprio tamanho de felicidade.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "O sábio governa o coração, não as aparências.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Quem se livra do desejo de ser útil descobre a grande utilidade.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Vazia tua barca, e ninguém se irará ao chocar-se contigo no rio.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "Esvazia-te de ti, e atravessarás o mundo sem conflito.",
+      "reference": "Zhuangzi"
+    },
+    {
+      "text": "A nuvem não decide chover; chove quando é a hora.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem não teme a morte não pode ser amedrontado pela vida.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O homem que não cobiça nada possui todas as coisas.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O vento e as ondas favorecem sempre o melhor navegador.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem aprende a flutuar não luta contra a corrente.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O sábio entra na água e não se afoga, entra no fogo e não se queima, porque se uniu ao Tao.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem perdeu a ovelha por muitos caminhos descobre que a verdade tem muitas trilhas.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O céu não desaba, e quem se aflige com isso perde a paz de hoje.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem teme que o céu caia ignora que o céu é apenas ar acumulado.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O velho que removia a montanha sabia que seus filhos e netos continuariam a obra.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "A persistência tranquila vence a montanha mais alta.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem perde a foice acusa o vizinho; achada a foice, vê que o vizinho era inocente.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "A mente suspeitosa transforma o inocente em culpado.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O homem que esqueceu seu cavalo cavalgava-o sem o saber.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Sorte e azar trocam de roupa com o tempo; quem sabe qual é qual?",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O velho da fronteira perdeu o cavalo, e quem sabia se não era uma bênção?",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O que hoje parece desgraça pode amanhã revelar-se fortuna.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem domina a arte aprendeu a esquecer a técnica.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Depois de muitos anos, o arqueiro acerta sem mirar.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O cocheiro perfeito é um só com os cavalos, a estrada e o vento.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Não procures o tesouro nas margens do rio quando ele dorme no teu próprio quintal.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O homem tranquilo não distingue o sonho da vigília, pois em ambos repousa.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "Quem entendeu o Tao não se perturba com ganho nem com perda.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O bom nadador esqueceu a água; por isso ela já não o assusta.",
+      "reference": "Lieh Tzu"
+    },
+    {
+      "text": "O coração que nada deseja é como um lago sem ondas.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Não enchas a vida de coisas; deixa espaço para o Tao respirar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A folha que se solta da árvore não briga com o vento.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem aprende a parar descobre quanto caminho já fez.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O sábio acolhe a noite como acolhe o dia.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Toda subida tem sua descida; toda cheia, sua vazante.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem age no momento certo poupa mil esforços inúteis.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A brandura é a roupa que veste a verdadeira força.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O orvalho não dura, mas alimenta a flor da manhã.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem se faz pequeno cabe em toda parte.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A estrada longa se faz curta para quem caminha sem pressa e sem parar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O sábio não enche os celeiros do desejo, e por isso colhe a paz.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Deixa cada coisa cumprir o seu tempo, e tudo amadurece.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem ouve o silêncio entende mais que quem grita.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "O rio nunca volta atrás, mas sempre chega ao mar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A mansidão do mar acolhe todos os rios sem reclamar.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "Quem nada disputa não conhece a derrota.",
+      "reference": "Lao Tzu"
+    },
+    {
+      "text": "A grande paz não se conquista; deixa-se acontecer.",
+      "reference": "Lao Tzu"
+    }
   ]
 }

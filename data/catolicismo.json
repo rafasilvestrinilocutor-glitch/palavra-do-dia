@@ -1,132 +1,1649 @@
 {
   "id": "catolicismo",
   "phrases": [
-    { "text": "Onde houver ódio, que eu leve o amor.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver ofensa, que eu leve o perdão.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver discórdia, que eu leve a união.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver dúvida, que eu leve a fé.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver desespero, que eu leve a esperança.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver trevas, que eu leve a luz.", "reference": "São Francisco de Assis" },
-    { "text": "Onde houver tristeza, que eu leve a alegria.", "reference": "São Francisco de Assis" },
-    { "text": "É dando que se recebe, é perdoando que se é perdoado, e é morrendo que se vive para a vida eterna.", "reference": "São Francisco de Assis" },
-    { "text": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.", "reference": "São Francisco de Assis" },
-    { "text": "Pregai o Evangelho a todo instante; se necessário, usai palavras.", "reference": "São Francisco de Assis" },
-    { "text": "O Senhor te dê a paz.", "reference": "São Francisco de Assis" },
-    { "text": "Tarde te amei, ó beleza tão antiga e tão nova, tarde te amei!", "reference": "Santo Agostinho" },
-    { "text": "Fizeste-nos para Ti, Senhor, e o nosso coração está inquieto enquanto não repousa em Ti.", "reference": "Santo Agostinho" },
-    { "text": "Ama e faze o que quiseres.", "reference": "Santo Agostinho" },
-    { "text": "Deus está mais perto de mim do que eu de mim mesmo.", "reference": "Santo Agostinho" },
-    { "text": "Cantar é próprio de quem ama.", "reference": "Santo Agostinho" },
-    { "text": "A medida do amor é amar sem medida.", "reference": "Santo Agostinho" },
-    { "text": "Onde o amor existe, não há trabalho; e se há trabalho, esse trabalho também é amado.", "reference": "Santo Agostinho" },
-    { "text": "Confia o passado à misericórdia de Deus, o presente ao seu amor e o futuro à sua providência.", "reference": "Santo Agostinho" },
-    { "text": "Quem canta reza duas vezes.", "reference": "Santo Agostinho" },
-    { "text": "Nada do bem é perdido por quem o pratica com amor.", "reference": "Santo Agostinho" },
-    { "text": "Nada te perturbe, nada te espante; tudo passa, Deus não muda. A paciência tudo alcança. Quem a Deus tem nada lhe falta. Só Deus basta.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "A oração é um relacionamento de amizade, um falar frequente e a sós com Aquele que sabemos que nos ama.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "Mais lágrimas se derramam por orações atendidas do que por orações não atendidas.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "Cristo não tem corpo agora na terra senão o teu; teus são os olhos com que Ele olha de compaixão para o mundo.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "A humildade é andar na verdade.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "Tudo passa, só Deus não muda.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "Quem tem Deus, nada lhe falta: só Deus basta.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "A paciência tudo alcança.", "reference": "Santa Teresa d'Ávila" },
-    { "text": "Minha vocação é o amor.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Quero passar o meu céu fazendo o bem na terra.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Tudo é graça.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Recolher uma agulha por amor pode converter uma alma.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "O meu caminho é todo de confiança e de amor.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Não posso crescer, por isso quero suportar a minha pequenez e os meus defeitos.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "A santidade não consiste nesta ou naquela prática: consiste numa disposição do coração.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "No coração da Igreja, minha Mãe, eu serei o amor.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Faço tudo o que faço por amor.", "reference": "Santa Teresinha do Menino Jesus" },
-    { "text": "Deus não nos pediu para sermos bem-sucedidos, mas fiéis.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Não podemos fazer grandes coisas, apenas pequenas coisas com grande amor.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "A paz começa com um sorriso.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Faça pequenas coisas com grande amor.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "O fruto do silêncio é a oração, o fruto da oração é a fé, o fruto da fé é o amor.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Não deixe que ninguém jamais venha até você sem sair melhor e mais feliz.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Espalhe amor por onde for: antes de tudo, em sua própria casa.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "A solidão e o sentimento de não ser amado é a mais terrível pobreza.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Há mais fome de amor e de apreço neste mundo do que de pão.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Cada ato de amor é uma oração.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Dê ao mundo o melhor de você, mesmo que isso nunca seja suficiente.", "reference": "Madre Teresa de Calcutá" },
-    { "text": "Os que amam tendem a se tornar semelhantes àquilo que amam.", "reference": "São Tomás de Aquino" },
-    { "text": "A fé tem a ver com coisas que não se veem, e a esperança com coisas que não estão à mão.", "reference": "São Tomás de Aquino" },
-    { "text": "Conceda-me, ó Deus misericordioso, desejar ardentemente aquilo que vos agrada.", "reference": "São Tomás de Aquino" },
-    { "text": "A coisa mais elevada de que o homem é capaz é amar a Deus.", "reference": "São Tomás de Aquino" },
-    { "text": "Sem amor a vida não tem sentido.", "reference": "São Tomás de Aquino" },
-    { "text": "A boa consciência vale por mil testemunhas.", "reference": "São Tomás de Aquino" },
-    { "text": "Tomai, Senhor, e recebei toda a minha liberdade, a minha memória, o meu entendimento e toda a minha vontade.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Dai-me somente o vosso amor e a vossa graça, que isto me basta.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Em tudo amar e servir.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Ide e incendiai o mundo.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Trabalha como se tudo dependesse de ti e confia como se tudo dependesse de Deus.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Tudo para a maior glória de Deus.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Não é o muito saber que sacia a alma, mas o sentir e saborear as coisas internamente.", "reference": "Santo Inácio de Loyola" },
-    { "text": "Não tenham medo. Abram, escancarem as portas a Cristo!", "reference": "Papa São João Paulo II" },
-    { "text": "O homem não pode viver sem amor.", "reference": "Papa São João Paulo II" },
-    { "text": "Vós sois jovens, e o Papa é velho: cuidem deste mundo que vos confiamos.", "reference": "Papa São João Paulo II" },
-    { "text": "A fé e a razão são como duas asas pelas quais o espírito humano se eleva à contemplação da verdade.", "reference": "Papa São João Paulo II" },
-    { "text": "Totus Tuus: sou todo Vosso, ó Maria.", "reference": "Papa São João Paulo II" },
-    { "text": "O futuro começa hoje, não amanhã.", "reference": "Papa São João Paulo II" },
-    { "text": "A liberdade consiste não em fazer o que queremos, mas em ter o direito de fazer o que devemos.", "reference": "Papa São João Paulo II" },
-    { "text": "A juventude é a guarda avançada da humanidade.", "reference": "Papa São João Paulo II" },
-    { "text": "A oração é a força do homem e a fraqueza de Deus.", "reference": "Papa São João Paulo II" },
-    { "text": "Deus nunca se cansa de perdoar; somos nós que nos cansamos de pedir a sua misericórdia.", "reference": "Papa Francisco" },
-    { "text": "Um pouco de misericórdia torna o mundo menos frio e mais justo.", "reference": "Papa Francisco" },
-    { "text": "A verdadeira caridade requer coragem: vençamos o medo de nos sujarmos as mãos para ajudar os necessitados.", "reference": "Papa Francisco" },
-    { "text": "Quem não vive para servir, não serve para viver.", "reference": "Papa Francisco" },
-    { "text": "A esperança não desilude.", "reference": "Papa Francisco" },
-    { "text": "Rezar não é falar muito, mas amar muito.", "reference": "Papa Francisco" },
-    { "text": "Não deixem que vos roubem a esperança.", "reference": "Papa Francisco" },
-    { "text": "Façam barulho, mas depois construam a paz com vossa vida.", "reference": "Papa Francisco" },
-    { "text": "O nome de Deus é misericórdia.", "reference": "Papa Francisco" },
-    { "text": "Onde há um irmão necessitado, ali está Cristo que nos espera.", "reference": "Papa Francisco" },
-    { "text": "A alegria do Evangelho enche o coração e a vida inteira daqueles que se encontram com Jesus.", "reference": "Papa Francisco" },
-    { "text": "Cada um de nós é uma história de amor que Deus escreve nesta terra.", "reference": "Papa Francisco" },
-    { "text": "Pai nosso que estais nos céus, santificado seja o vosso nome.", "reference": "Oração do Pai-Nosso" },
-    { "text": "Venha a nós o vosso reino, seja feita a vossa vontade, assim na terra como no céu.", "reference": "Oração do Pai-Nosso" },
-    { "text": "O pão nosso de cada dia nos dai hoje.", "reference": "Oração do Pai-Nosso" },
-    { "text": "Perdoai as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido.", "reference": "Oração do Pai-Nosso" },
-    { "text": "Não nos deixeis cair em tentação, mas livrai-nos do mal.", "reference": "Oração do Pai-Nosso" },
-    { "text": "Ave Maria, cheia de graça, o Senhor é convosco.", "reference": "Oração da Ave-Maria" },
-    { "text": "Bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.", "reference": "Oração da Ave-Maria" },
-    { "text": "Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte.", "reference": "Oração da Ave-Maria" },
-    { "text": "Lembrai-vos, ó piíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que recorreram à vossa proteção tenha sido por vós desamparado.", "reference": "Oração da Memorare" },
-    { "text": "A vós, ó Virgem das virgens, ó minha Mãe, recorro; e, gemendo sob o peso dos meus pecados, me prostro a vossos pés.", "reference": "Oração da Memorare" },
-    { "text": "Senhor, fazei-me instrumento de vossa paz.", "reference": "Oração de São Francisco" },
-    { "text": "Ó Maria concebida sem pecado, rogai por nós que recorremos a vós.", "reference": "Tradição Católica" },
-    { "text": "Concedei-me, Senhor, a serenidade para aceitar as coisas que não posso mudar.", "reference": "Oração da Serenidade" },
-    { "text": "Concedei-me a coragem para mudar as coisas que posso, e a sabedoria para distinguir umas das outras.", "reference": "Oração da Serenidade" },
-    { "text": "Vivendo um dia de cada vez, desfrutando um momento de cada vez.", "reference": "Oração da Serenidade" },
-    { "text": "Jesus, manso e humilde de coração, fazei o meu coração semelhante ao vosso.", "reference": "Tradição Católica" },
-    { "text": "Sagrado Coração de Jesus, eu confio em Vós.", "reference": "Tradição Católica" },
-    { "text": "Doce Coração de Maria, sede a minha salvação.", "reference": "Tradição Católica" },
-    { "text": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor.", "reference": "Oração ao Espírito Santo" },
-    { "text": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, guarda, governa e ilumina.", "reference": "Oração ao Anjo da Guarda" },
-    { "text": "Eu vos adoro, ó Cristo, e vos bendigo, porque pela vossa santa cruz remistes o mundo.", "reference": "Tradição Católica" },
-    { "text": "Eterno repouso concedei-lhe, Senhor, e brilhe para ele a luz que não tem fim.", "reference": "Tradição Católica" },
-    { "text": "Maria, Mãe da esperança, caminhai conosco.", "reference": "Tradição Católica" },
-    { "text": "Sob vossa proteção nos refugiamos, Santa Mãe de Deus.", "reference": "Oração Sub Tuum Praesidium" },
-    { "text": "Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita.", "reference": "Oração Sub Tuum Praesidium" },
-    { "text": "Rezai o terço todos os dias para alcançar a paz para o mundo.", "reference": "Nossa Senhora de Fátima" },
-    { "text": "Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu.", "reference": "Oração de Fátima" },
-    { "text": "No fim, o meu Imaculado Coração triunfará.", "reference": "Nossa Senhora de Fátima" },
-    { "text": "Fazei tudo o que Ele vos disser.", "reference": "Tradição Católica" },
-    { "text": "A glória de Deus é o homem vivo.", "reference": "Santo Irineu de Lyon" },
-    { "text": "Tu nos chamas e nos fazes encontrar alegria em vos louvar, porque nos fizestes para Ti.", "reference": "Santo Agostinho" },
-    { "text": "Quem trabalha com as mãos é um trabalhador; quem trabalha com as mãos e a cabeça é um artesão; quem trabalha com as mãos, a cabeça e o coração é um artista.", "reference": "São Francisco de Assis" },
-    { "text": "Bem-aventurados os pacíficos, porque serão chamados filhos de Deus.", "reference": "As Bem-Aventuranças" },
-    { "text": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia.", "reference": "As Bem-Aventuranças" },
-    { "text": "Bem-aventurados os puros de coração, porque verão a Deus.", "reference": "As Bem-Aventuranças" },
-    { "text": "Que nada te perturbe, busca a Deus em tudo.", "reference": "Tradição Católica" },
-    { "text": "Servir é reinar.", "reference": "Tradição Católica" },
-    { "text": "A cruz é o sinal do amor maior.", "reference": "Tradição Católica" },
-    { "text": "Quem reza se salva, quem não reza se condena.", "reference": "Santo Afonso Maria de Ligório" },
-    { "text": "Não basta amar a Deus se não O amamos o suficiente.", "reference": "Santo Afonso Maria de Ligório" },
-    { "text": "Toda a santidade consiste no amor a Deus, e todo o amor a Deus consiste em fazer a sua vontade.", "reference": "Santo Afonso Maria de Ligório" },
-    { "text": "A confiança em Deus é a alma da oração.", "reference": "Tradição Católica" },
-    { "text": "Deus escreve direito por linhas tortas.", "reference": "Tradição Católica" },
-    { "text": "Quem encontrou o amor de Deus encontrou o tesouro escondido.", "reference": "Tradição Católica" }
+    {
+      "text": "Onde houver ódio, que eu leve o amor.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver ofensa, que eu leve o perdão.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver discórdia, que eu leve a união.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver dúvida, que eu leve a fé.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver desespero, que eu leve a esperança.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver trevas, que eu leve a luz.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Onde houver tristeza, que eu leve a alegria.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "É dando que se recebe, é perdoando que se é perdoado, e é morrendo que se vive para a vida eterna.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Pregai o Evangelho a todo instante; se necessário, usai palavras.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "O Senhor te dê a paz.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Tarde te amei, ó beleza tão antiga e tão nova, tarde te amei!",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Fizeste-nos para Ti, Senhor, e o nosso coração está inquieto enquanto não repousa em Ti.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Ama e faze o que quiseres.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Deus está mais perto de mim do que eu de mim mesmo.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Cantar é próprio de quem ama.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "A medida do amor é amar sem medida.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Onde o amor existe, não há trabalho; e se há trabalho, esse trabalho também é amado.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Confia o passado à misericórdia de Deus, o presente ao seu amor e o futuro à sua providência.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Quem canta reza duas vezes.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Nada do bem é perdido por quem o pratica com amor.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Nada te perturbe, nada te espante; tudo passa, Deus não muda. A paciência tudo alcança. Quem a Deus tem nada lhe falta. Só Deus basta.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "A oração é um relacionamento de amizade, um falar frequente e a sós com Aquele que sabemos que nos ama.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Mais lágrimas se derramam por orações atendidas do que por orações não atendidas.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Cristo não tem corpo agora na terra senão o teu; teus são os olhos com que Ele olha de compaixão para o mundo.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "A humildade é andar na verdade.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Tudo passa, só Deus não muda.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Quem tem Deus, nada lhe falta: só Deus basta.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "A paciência tudo alcança.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Minha vocação é o amor.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Quero passar o meu céu fazendo o bem na terra.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Tudo é graça.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Recolher uma agulha por amor pode converter uma alma.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "O meu caminho é todo de confiança e de amor.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Não posso crescer, por isso quero suportar a minha pequenez e os meus defeitos.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "A santidade não consiste nesta ou naquela prática: consiste numa disposição do coração.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "No coração da Igreja, minha Mãe, eu serei o amor.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Faço tudo o que faço por amor.",
+      "reference": "Santa Teresinha do Menino Jesus"
+    },
+    {
+      "text": "Deus não nos pediu para sermos bem-sucedidos, mas fiéis.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Não podemos fazer grandes coisas, apenas pequenas coisas com grande amor.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "A paz começa com um sorriso.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Faça pequenas coisas com grande amor.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "O fruto do silêncio é a oração, o fruto da oração é a fé, o fruto da fé é o amor.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Não deixe que ninguém jamais venha até você sem sair melhor e mais feliz.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Espalhe amor por onde for: antes de tudo, em sua própria casa.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "A solidão e o sentimento de não ser amado é a mais terrível pobreza.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Há mais fome de amor e de apreço neste mundo do que de pão.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Cada ato de amor é uma oração.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Dê ao mundo o melhor de você, mesmo que isso nunca seja suficiente.",
+      "reference": "Madre Teresa de Calcutá"
+    },
+    {
+      "text": "Os que amam tendem a se tornar semelhantes àquilo que amam.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "A fé tem a ver com coisas que não se veem, e a esperança com coisas que não estão à mão.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Conceda-me, ó Deus misericordioso, desejar ardentemente aquilo que vos agrada.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "A coisa mais elevada de que o homem é capaz é amar a Deus.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Sem amor a vida não tem sentido.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "A boa consciência vale por mil testemunhas.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Tomai, Senhor, e recebei toda a minha liberdade, a minha memória, o meu entendimento e toda a minha vontade.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Dai-me somente o vosso amor e a vossa graça, que isto me basta.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Em tudo amar e servir.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Ide e incendiai o mundo.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Trabalha como se tudo dependesse de ti e confia como se tudo dependesse de Deus.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Tudo para a maior glória de Deus.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Não é o muito saber que sacia a alma, mas o sentir e saborear as coisas internamente.",
+      "reference": "Santo Inácio de Loyola"
+    },
+    {
+      "text": "Não tenham medo. Abram, escancarem as portas a Cristo!",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "O homem não pode viver sem amor.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "Vós sois jovens, e o Papa é velho: cuidem deste mundo que vos confiamos.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "A fé e a razão são como duas asas pelas quais o espírito humano se eleva à contemplação da verdade.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "Totus Tuus: sou todo Vosso, ó Maria.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "O futuro começa hoje, não amanhã.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "A liberdade consiste não em fazer o que queremos, mas em ter o direito de fazer o que devemos.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "A juventude é a guarda avançada da humanidade.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "A oração é a força do homem e a fraqueza de Deus.",
+      "reference": "Papa São João Paulo II"
+    },
+    {
+      "text": "Deus nunca se cansa de perdoar; somos nós que nos cansamos de pedir a sua misericórdia.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Um pouco de misericórdia torna o mundo menos frio e mais justo.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A verdadeira caridade requer coragem: vençamos o medo de nos sujarmos as mãos para ajudar os necessitados.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Quem não vive para servir, não serve para viver.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A esperança não desilude.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Rezar não é falar muito, mas amar muito.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Não deixem que vos roubem a esperança.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Façam barulho, mas depois construam a paz com vossa vida.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "O nome de Deus é misericórdia.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Onde há um irmão necessitado, ali está Cristo que nos espera.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A alegria do Evangelho enche o coração e a vida inteira daqueles que se encontram com Jesus.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Cada um de nós é uma história de amor que Deus escreve nesta terra.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Pai nosso que estais nos céus, santificado seja o vosso nome.",
+      "reference": "Oração do Pai-Nosso"
+    },
+    {
+      "text": "Venha a nós o vosso reino, seja feita a vossa vontade, assim na terra como no céu.",
+      "reference": "Oração do Pai-Nosso"
+    },
+    {
+      "text": "O pão nosso de cada dia nos dai hoje.",
+      "reference": "Oração do Pai-Nosso"
+    },
+    {
+      "text": "Perdoai as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido.",
+      "reference": "Oração do Pai-Nosso"
+    },
+    {
+      "text": "Não nos deixeis cair em tentação, mas livrai-nos do mal.",
+      "reference": "Oração do Pai-Nosso"
+    },
+    {
+      "text": "Ave Maria, cheia de graça, o Senhor é convosco.",
+      "reference": "Oração da Ave-Maria"
+    },
+    {
+      "text": "Bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.",
+      "reference": "Oração da Ave-Maria"
+    },
+    {
+      "text": "Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte.",
+      "reference": "Oração da Ave-Maria"
+    },
+    {
+      "text": "Lembrai-vos, ó piíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que recorreram à vossa proteção tenha sido por vós desamparado.",
+      "reference": "Oração da Memorare"
+    },
+    {
+      "text": "A vós, ó Virgem das virgens, ó minha Mãe, recorro; e, gemendo sob o peso dos meus pecados, me prostro a vossos pés.",
+      "reference": "Oração da Memorare"
+    },
+    {
+      "text": "Senhor, fazei-me instrumento de vossa paz.",
+      "reference": "Oração de São Francisco"
+    },
+    {
+      "text": "Ó Maria concebida sem pecado, rogai por nós que recorremos a vós.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Concedei-me, Senhor, a serenidade para aceitar as coisas que não posso mudar.",
+      "reference": "Oração da Serenidade"
+    },
+    {
+      "text": "Concedei-me a coragem para mudar as coisas que posso, e a sabedoria para distinguir umas das outras.",
+      "reference": "Oração da Serenidade"
+    },
+    {
+      "text": "Vivendo um dia de cada vez, desfrutando um momento de cada vez.",
+      "reference": "Oração da Serenidade"
+    },
+    {
+      "text": "Jesus, manso e humilde de coração, fazei o meu coração semelhante ao vosso.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Sagrado Coração de Jesus, eu confio em Vós.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Doce Coração de Maria, sede a minha salvação.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor.",
+      "reference": "Oração ao Espírito Santo"
+    },
+    {
+      "text": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, guarda, governa e ilumina.",
+      "reference": "Oração ao Anjo da Guarda"
+    },
+    {
+      "text": "Eu vos adoro, ó Cristo, e vos bendigo, porque pela vossa santa cruz remistes o mundo.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Eterno repouso concedei-lhe, Senhor, e brilhe para ele a luz que não tem fim.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Maria, Mãe da esperança, caminhai conosco.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Sob vossa proteção nos refugiamos, Santa Mãe de Deus.",
+      "reference": "Oração Sub Tuum Praesidium"
+    },
+    {
+      "text": "Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita.",
+      "reference": "Oração Sub Tuum Praesidium"
+    },
+    {
+      "text": "Rezai o terço todos os dias para alcançar a paz para o mundo.",
+      "reference": "Nossa Senhora de Fátima"
+    },
+    {
+      "text": "Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu.",
+      "reference": "Oração de Fátima"
+    },
+    {
+      "text": "No fim, o meu Imaculado Coração triunfará.",
+      "reference": "Nossa Senhora de Fátima"
+    },
+    {
+      "text": "Fazei tudo o que Ele vos disser.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "A glória de Deus é o homem vivo.",
+      "reference": "Santo Irineu de Lyon"
+    },
+    {
+      "text": "Tu nos chamas e nos fazes encontrar alegria em vos louvar, porque nos fizestes para Ti.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Quem trabalha com as mãos é um trabalhador; quem trabalha com as mãos e a cabeça é um artesão; quem trabalha com as mãos, a cabeça e o coração é um artista.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Bem-aventurados os pacíficos, porque serão chamados filhos de Deus.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os puros de coração, porque verão a Deus.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Que nada te perturbe, busca a Deus em tudo.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Servir é reinar.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "A cruz é o sinal do amor maior.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Quem reza se salva, quem não reza se condena.",
+      "reference": "Santo Afonso Maria de Ligório"
+    },
+    {
+      "text": "Não basta amar a Deus se não O amamos o suficiente.",
+      "reference": "Santo Afonso Maria de Ligório"
+    },
+    {
+      "text": "Toda a santidade consiste no amor a Deus, e todo o amor a Deus consiste em fazer a sua vontade.",
+      "reference": "Santo Afonso Maria de Ligório"
+    },
+    {
+      "text": "A confiança em Deus é a alma da oração.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Deus escreve direito por linhas tortas.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Quem encontrou o amor de Deus encontrou o tesouro escondido.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "O Senhor é o meu pastor, nada me faltará.",
+      "reference": "Salmo 23:1"
+    },
+    {
+      "text": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo.",
+      "reference": "Salmo 23:4"
+    },
+    {
+      "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+      "reference": "Salmo 46:1"
+    },
+    {
+      "text": "Aquietai-vos e sabei que eu sou Deus.",
+      "reference": "Salmo 46:10"
+    },
+    {
+      "text": "Criai em mim, ó Deus, um coração puro e renovai dentro de mim um espírito reto.",
+      "reference": "Salmo 51:10"
+    },
+    {
+      "text": "A minha alma tem sede de Deus, do Deus vivo.",
+      "reference": "Salmo 42:2"
+    },
+    {
+      "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
+      "reference": "Salmo 119:105"
+    },
+    {
+      "text": "Este é o dia que o Senhor fez; regozijemo-nos e alegremo-nos nele.",
+      "reference": "Salmo 118:24"
+    },
+    {
+      "text": "Bom é render graças ao Senhor, porque a sua misericórdia dura para sempre.",
+      "reference": "Salmo 118:1"
+    },
+    {
+      "text": "Entrega o teu caminho ao Senhor, confia nele, e ele tudo fará.",
+      "reference": "Salmo 37:5"
+    },
+    {
+      "text": "Os que confiam no Senhor renovarão as suas forças.",
+      "reference": "Isaías 40:31"
+    },
+    {
+      "text": "Deleita-te no Senhor, e ele satisfará os desejos do teu coração.",
+      "reference": "Salmo 37:4"
+    },
+    {
+      "text": "Buscai primeiro o Reino de Deus e a sua justiça, e tudo o mais vos será acrescentado.",
+      "reference": "Mateus 6:33"
+    },
+    {
+      "text": "Vinde a mim todos os que estais cansados e oprimidos, e eu vos aliviarei.",
+      "reference": "Mateus 11:28"
+    },
+    {
+      "text": "Tomai sobre vós o meu jugo, porque sou manso e humilde de coração.",
+      "reference": "Mateus 11:29"
+    },
+    {
+      "text": "Onde estiver o teu tesouro, ali estará também o teu coração.",
+      "reference": "Mateus 6:21"
+    },
+    {
+      "text": "Ninguém pode servir a dois senhores.",
+      "reference": "Mateus 6:24"
+    },
+    {
+      "text": "Pedi e dar-se-vos-á; buscai e achareis; batei e abrir-se-vos-á.",
+      "reference": "Mateus 7:7"
+    },
+    {
+      "text": "Tudo quanto quiserdes que os homens vos façam, fazei-o também a eles.",
+      "reference": "Mateus 7:12"
+    },
+    {
+      "text": "Vós sois a luz do mundo.",
+      "reference": "Mateus 5:14"
+    },
+    {
+      "text": "Brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras.",
+      "reference": "Mateus 5:16"
+    },
+    {
+      "text": "Amai os vossos inimigos e orai pelos que vos perseguem.",
+      "reference": "Mateus 5:44"
+    },
+    {
+      "text": "Sede, pois, vós perfeitos, como perfeito é o vosso Pai celeste.",
+      "reference": "Mateus 5:48"
+    },
+    {
+      "text": "Não andeis ansiosos pelo dia de amanhã; basta a cada dia o seu mal.",
+      "reference": "Mateus 6:34"
+    },
+    {
+      "text": "Olhai as aves do céu: não semeiam nem ceifam, e o vosso Pai celeste as alimenta.",
+      "reference": "Mateus 6:26"
+    },
+    {
+      "text": "Eu estou convosco todos os dias, até o fim do mundo.",
+      "reference": "Mateus 28:20"
+    },
+    {
+      "text": "Onde dois ou três estiverem reunidos em meu nome, ali estou no meio deles.",
+      "reference": "Mateus 18:20"
+    },
+    {
+      "text": "O que é impossível aos homens é possível a Deus.",
+      "reference": "Lucas 18:27"
+    },
+    {
+      "text": "A minha alma engrandece o Senhor e o meu espírito se alegra em Deus, meu Salvador.",
+      "reference": "Lucas 1:46-47"
+    },
+    {
+      "text": "Faça-se em mim segundo a tua palavra.",
+      "reference": "Lucas 1:38"
+    },
+    {
+      "text": "Glória a Deus nas alturas e paz na terra aos homens por Ele amados.",
+      "reference": "Lucas 2:14"
+    },
+    {
+      "text": "Pai, perdoa-lhes, porque não sabem o que fazem.",
+      "reference": "Lucas 23:34"
+    },
+    {
+      "text": "Pai, nas tuas mãos entrego o meu espírito.",
+      "reference": "Lucas 23:46"
+    },
+    {
+      "text": "Bem-aventurados os que ouvem a palavra de Deus e a guardam.",
+      "reference": "Lucas 11:28"
+    },
+    {
+      "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
+      "reference": "João 3:16"
+    },
+    {
+      "text": "Eu sou o caminho, a verdade e a vida.",
+      "reference": "João 14:6"
+    },
+    {
+      "text": "Eu sou a luz do mundo; quem me segue não andará em trevas.",
+      "reference": "João 8:12"
+    },
+    {
+      "text": "Conhecereis a verdade, e a verdade vos libertará.",
+      "reference": "João 8:32"
+    },
+    {
+      "text": "Eu sou o pão da vida; quem vem a mim jamais terá fome.",
+      "reference": "João 6:35"
+    },
+    {
+      "text": "Eu sou a videira, vós sois os ramos.",
+      "reference": "João 15:5"
+    },
+    {
+      "text": "Sem mim nada podeis fazer.",
+      "reference": "João 15:5"
+    },
+    {
+      "text": "Permanecei no meu amor.",
+      "reference": "João 15:9"
+    },
+    {
+      "text": "Ninguém tem maior amor do que aquele que dá a vida pelos seus amigos.",
+      "reference": "João 15:13"
+    },
+    {
+      "text": "Amai-vos uns aos outros como eu vos amei.",
+      "reference": "João 13:34"
+    },
+    {
+      "text": "A paz vos deixo, a minha paz vos dou.",
+      "reference": "João 14:27"
+    },
+    {
+      "text": "Não se perturbe o vosso coração nem se atemorize.",
+      "reference": "João 14:27"
+    },
+    {
+      "text": "Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá.",
+      "reference": "João 11:25"
+    },
+    {
+      "text": "Eu vim para que tenham vida e a tenham em abundância.",
+      "reference": "João 10:10"
+    },
+    {
+      "text": "Eu sou o bom pastor; o bom pastor dá a vida pelas suas ovelhas.",
+      "reference": "João 10:11"
+    },
+    {
+      "text": "Tudo é possível ao que crê.",
+      "reference": "Marcos 9:23"
+    },
+    {
+      "text": "O sábado foi feito para o homem, e não o homem para o sábado.",
+      "reference": "Marcos 2:27"
+    },
+    {
+      "text": "Tem ânimo, sou eu; não temas.",
+      "reference": "Marcos 6:50"
+    },
+    {
+      "text": "Ama o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento.",
+      "reference": "Marcos 12:30"
+    },
+    {
+      "text": "Amarás o teu próximo como a ti mesmo.",
+      "reference": "Marcos 12:31"
+    },
+    {
+      "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+      "reference": "João 1:1"
+    },
+    {
+      "text": "A luz brilha nas trevas, e as trevas não a sufocaram.",
+      "reference": "João 1:5"
+    },
+    {
+      "text": "O amor é paciente, o amor é benigno.",
+      "reference": "1 Coríntios 13:4"
+    },
+    {
+      "text": "O amor tudo desculpa, tudo crê, tudo espera, tudo suporta.",
+      "reference": "1 Coríntios 13:7"
+    },
+    {
+      "text": "Agora permanecem a fé, a esperança e o amor; mas o maior deles é o amor.",
+      "reference": "1 Coríntios 13:13"
+    },
+    {
+      "text": "Ainda que eu falasse as línguas dos homens e dos anjos, se não tivesse amor, nada seria.",
+      "reference": "1 Coríntios 13:1"
+    },
+    {
+      "text": "Tudo posso naquele que me fortalece.",
+      "reference": "Filipenses 4:13"
+    },
+    {
+      "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+      "reference": "Filipenses 4:4"
+    },
+    {
+      "text": "A paz de Deus, que excede todo o entendimento, guardará os vossos corações.",
+      "reference": "Filipenses 4:7"
+    },
+    {
+      "text": "Não andeis ansiosos por coisa alguma; em tudo, pela oração, apresentai a Deus os vossos pedidos.",
+      "reference": "Filipenses 4:6"
+    },
+    {
+      "text": "Para mim, o viver é Cristo, e o morrer é lucro.",
+      "reference": "Filipenses 1:21"
+    },
+    {
+      "text": "Combati o bom combate, completei a corrida, guardei a fé.",
+      "reference": "2 Timóteo 4:7"
+    },
+    {
+      "text": "Deus não nos deu um espírito de timidez, mas de fortaleza, de amor e de moderação.",
+      "reference": "2 Timóteo 1:7"
+    },
+    {
+      "text": "Todas as coisas concorrem para o bem daqueles que amam a Deus.",
+      "reference": "Romanos 8:28"
+    },
+    {
+      "text": "Se Deus é por nós, quem será contra nós?",
+      "reference": "Romanos 8:31"
+    },
+    {
+      "text": "Nem a morte, nem a vida poderão nos separar do amor de Deus.",
+      "reference": "Romanos 8:38-39"
+    },
+    {
+      "text": "Não te deixes vencer pelo mal, mas vence o mal com o bem.",
+      "reference": "Romanos 12:21"
+    },
+    {
+      "text": "Alegrai-vos com os que se alegram e chorai com os que choram.",
+      "reference": "Romanos 12:15"
+    },
+    {
+      "text": "A fé vem pela pregação, e a pregação, pela palavra de Cristo.",
+      "reference": "Romanos 10:17"
+    },
+    {
+      "text": "A esperança não decepciona, porque o amor de Deus foi derramado em nossos corações.",
+      "reference": "Romanos 5:5"
+    },
+    {
+      "text": "A fé é a certeza das coisas que se esperam e a prova das que não se veem.",
+      "reference": "Hebreus 11:1"
+    },
+    {
+      "text": "Jesus Cristo é o mesmo, ontem, hoje e para sempre.",
+      "reference": "Hebreus 13:8"
+    },
+    {
+      "text": "Deus é amor; quem permanece no amor permanece em Deus.",
+      "reference": "1 João 4:16"
+    },
+    {
+      "text": "Nós amamos porque Ele nos amou primeiro.",
+      "reference": "1 João 4:19"
+    },
+    {
+      "text": "No amor não há medo; o perfeito amor lança fora o medo.",
+      "reference": "1 João 4:18"
+    },
+    {
+      "text": "Sede praticantes da palavra e não somente ouvintes.",
+      "reference": "Tiago 1:22"
+    },
+    {
+      "text": "A fé sem obras é morta.",
+      "reference": "Tiago 2:17"
+    },
+    {
+      "text": "Lançai sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós.",
+      "reference": "1 Pedro 5:7"
+    },
+    {
+      "text": "Acima de tudo, tende ardente amor uns para com os outros, pois o amor cobre uma multidão de pecados.",
+      "reference": "1 Pedro 4:8"
+    },
+    {
+      "text": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento.",
+      "reference": "Provérbios 3:5"
+    },
+    {
+      "text": "O temor do Senhor é o princípio da sabedoria.",
+      "reference": "Provérbios 9:10"
+    },
+    {
+      "text": "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida.",
+      "reference": "Provérbios 4:23"
+    },
+    {
+      "text": "Uma resposta branda desvia o furor.",
+      "reference": "Provérbios 15:1"
+    },
+    {
+      "text": "Há tempo para tudo, e tempo para todo propósito debaixo do céu.",
+      "reference": "Eclesiastes 3:1"
+    },
+    {
+      "text": "Não temas, porque eu estou contigo; não te assombres, porque eu sou o teu Deus.",
+      "reference": "Isaías 41:10"
+    },
+    {
+      "text": "Eu te chamei pelo teu nome, tu és meu.",
+      "reference": "Isaías 43:1"
+    },
+    {
+      "text": "Ainda que uma mãe se esquecesse do seu filho, eu jamais me esquecerei de ti.",
+      "reference": "Isaías 49:15"
+    },
+    {
+      "text": "Eis-me aqui, envia-me a mim.",
+      "reference": "Isaías 6:8"
+    },
+    {
+      "text": "Com amor eterno eu te amei; por isso te conservei a minha benignidade.",
+      "reference": "Jeremias 31:3"
+    },
+    {
+      "text": "Antes que eu te formasse no ventre, eu te conheci.",
+      "reference": "Jeremias 1:5"
+    },
+    {
+      "text": "As misericórdias do Senhor renovam-se a cada manhã; grande é a tua fidelidade.",
+      "reference": "Lamentações 3:22-23"
+    },
+    {
+      "text": "Sê forte e corajoso; o Senhor teu Deus está contigo por onde quer que andares.",
+      "reference": "Josué 1:9"
+    },
+    {
+      "text": "Quanto a mim e à minha casa, serviremos ao Senhor.",
+      "reference": "Josué 24:15"
+    },
+    {
+      "text": "Fala, Senhor, que o teu servo escuta.",
+      "reference": "1 Samuel 3:9"
+    },
+    {
+      "text": "O homem vê a aparência, mas o Senhor olha o coração.",
+      "reference": "1 Samuel 16:7"
+    },
+    {
+      "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti.",
+      "reference": "Números 6:24-25"
+    },
+    {
+      "text": "Não só de pão vive o homem, mas de toda palavra que sai da boca de Deus.",
+      "reference": "Deuteronômio 8:3"
+    },
+    {
+      "text": "Eis que faço novas todas as coisas.",
+      "reference": "Apocalipse 21:5"
+    },
+    {
+      "text": "Deus enxugará dos seus olhos toda lágrima; já não haverá morte, nem pranto, nem dor.",
+      "reference": "Apocalipse 21:4"
+    },
+    {
+      "text": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei.",
+      "reference": "Apocalipse 3:20"
+    },
+    {
+      "text": "A minha graça te basta, porque a força se aperfeiçoa na fraqueza.",
+      "reference": "2 Coríntios 12:9"
+    },
+    {
+      "text": "Caminhamos pela fé e não pela visão.",
+      "reference": "2 Coríntios 5:7"
+    },
+    {
+      "text": "Deus ama a quem dá com alegria.",
+      "reference": "2 Coríntios 9:7"
+    },
+    {
+      "text": "Já não sou eu que vivo, mas Cristo é que vive em mim.",
+      "reference": "Gálatas 2:20"
+    },
+    {
+      "text": "O fruto do Espírito é amor, alegria, paz, paciência, bondade.",
+      "reference": "Gálatas 5:22"
+    },
+    {
+      "text": "Levai as cargas uns dos outros e assim cumprireis a lei de Cristo.",
+      "reference": "Gálatas 6:2"
+    },
+    {
+      "text": "Não nos cansemos de fazer o bem, pois a seu tempo ceifaremos.",
+      "reference": "Gálatas 6:9"
+    },
+    {
+      "text": "Pela graça sois salvos, mediante a fé.",
+      "reference": "Efésios 2:8"
+    },
+    {
+      "text": "Sede bondosos e compassivos uns para com os outros, perdoando-vos mutuamente.",
+      "reference": "Efésios 4:32"
+    },
+    {
+      "text": "Tudo quanto fizerdes, fazei-o de coração, como para o Senhor.",
+      "reference": "Colossenses 3:23"
+    },
+    {
+      "text": "Acima de tudo, revesti-vos do amor, que é o vínculo da perfeição.",
+      "reference": "Colossenses 3:14"
+    },
+    {
+      "text": "Orai sem cessar; em tudo dai graças.",
+      "reference": "1 Tessalonicenses 5:17-18"
+    },
+    {
+      "text": "Examinai tudo; retende o que é bom.",
+      "reference": "1 Tessalonicenses 5:21"
+    },
+    {
+      "text": "Bem-aventurados os pobres de espírito, porque deles é o Reino dos Céus.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os que choram, porque serão consolados.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os mansos, porque herdarão a terra.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.",
+      "reference": "As Bem-Aventuranças"
+    },
+    {
+      "text": "Glória ao Pai, ao Filho e ao Espírito Santo.",
+      "reference": "Oração do Glória"
+    },
+    {
+      "text": "Como era no princípio, agora e sempre, pelos séculos dos séculos. Amém.",
+      "reference": "Oração do Glória"
+    },
+    {
+      "text": "Creio em Deus Pai todo-poderoso, criador do céu e da terra.",
+      "reference": "Credo dos Apóstolos"
+    },
+    {
+      "text": "Creio na comunhão dos santos, na remissão dos pecados e na vida eterna.",
+      "reference": "Credo dos Apóstolos"
+    },
+    {
+      "text": "Senhor, tende piedade de nós. Cristo, tende piedade de nós.",
+      "reference": "Oração do Kyrie"
+    },
+    {
+      "text": "Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.",
+      "reference": "Oração do Agnus Dei"
+    },
+    {
+      "text": "Senhor, eu não sou digno de que entreis em minha morada, mas dizei uma palavra e serei salvo.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Santo, Santo, Santo é o Senhor Deus do universo.",
+      "reference": "Oração do Sanctus"
+    },
+    {
+      "text": "Eu confesso a Deus todo-poderoso que pequei muitas vezes por pensamentos e palavras, atos e omissões.",
+      "reference": "Oração do Confiteor"
+    },
+    {
+      "text": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve!",
+      "reference": "Oração Salve-Rainha"
+    },
+    {
+      "text": "A vós bradamos, os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas.",
+      "reference": "Oração Salve-Rainha"
+    },
+    {
+      "text": "Ó clemente, ó piedosa, ó doce sempre Virgem Maria.",
+      "reference": "Oração Salve-Rainha"
+    },
+    {
+      "text": "Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo.",
+      "reference": "Oração Salve-Rainha"
+    },
+    {
+      "text": "Vinde, Senhor Jesus.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Da vossa luz, ó Espírito Santo, iluminai os nossos sentidos.",
+      "reference": "Oração ao Espírito Santo"
+    },
+    {
+      "text": "Enviai o vosso Espírito e tudo será criado, e renovareis a face da terra.",
+      "reference": "Oração ao Espírito Santo"
+    },
+    {
+      "text": "Alma de Cristo, santificai-me. Corpo de Cristo, salvai-me.",
+      "reference": "Oração Alma de Cristo"
+    },
+    {
+      "text": "Dentro das vossas chagas, escondei-me; não permitais que eu me separe de vós.",
+      "reference": "Oração Alma de Cristo"
+    },
+    {
+      "text": "Ó bom Jesus, ouvi-me; na hora da minha morte, chamai-me.",
+      "reference": "Oração Alma de Cristo"
+    },
+    {
+      "text": "Senhor Jesus Cristo, Filho de Deus, tende piedade de mim, pecador.",
+      "reference": "Oração do Coração"
+    },
+    {
+      "text": "Doce Coração de Maria, sede o meu refúgio.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Vós sois minha Mãe, ó Virgem Maria; guardai-me e defendei-me como filho vosso.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Ó Santíssima, ó piíssima, doce Virgem Maria, a vós a nossa vida e esperança.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Maria, desatadora dos nós, rogai por nós.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Nossa Senhora Aparecida, padroeira do Brasil, rogai por nós.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "São José, modelo dos trabalhadores, rogai por nós.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "São Miguel Arcanjo, defendei-nos no combate.",
+      "reference": "Oração a São Miguel"
+    },
+    {
+      "text": "Que sejais o nosso amparo contra a maldade e as ciladas do demônio.",
+      "reference": "Oração a São Miguel"
+    },
+    {
+      "text": "Que a luz perpétua brilhe para os que partiram, e descansem em paz.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Ofereço-vos, Senhor, as minhas orações, obras, alegrias e sofrimentos deste dia.",
+      "reference": "Oração do Oferecimento"
+    },
+    {
+      "text": "Vede, Senhor, que vos amo; e se ainda amo pouco, fazei que vos ame mais.",
+      "reference": "Tradição Católica"
+    },
+    {
+      "text": "Quanto mais te abaixas, mais Deus te eleva.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "A esperança tem duas filhas lindas: a indignação e a coragem.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "O homem nasce no tempo, mas é feito para a eternidade.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Reza como se tudo dependesse de Deus; trabalha como se tudo dependesse de ti.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Não vás para fora; volta para dentro de ti, pois é no interior do homem que habita a verdade.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Deus, que te criou sem ti, não te salvará sem ti.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "A paz é a tranquilidade na ordem.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Compreende para creres, crê para compreenderes.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "O coração inquieto só encontra descanso em Deus.",
+      "reference": "Santo Agostinho"
+    },
+    {
+      "text": "Tudo passa; só o amor permanece.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Não há santo sem passado, nem pecador sem futuro.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A graça não destrói a natureza, mas a aperfeiçoa.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "O amor é a forma de todas as virtudes.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Temer a Deus é não querer separar-se dele.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "A esperança é a virtude do caminhante.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Dai-me, Senhor, um coração que vos busque e uma alma que vos contemple.",
+      "reference": "São Tomás de Aquino"
+    },
+    {
+      "text": "Na cruz está a salvação, na cruz está a vida, na cruz está a força do coração.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Quem segue a mim não anda em trevas, diz o Senhor.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Vaidade das vaidades: tudo é vaidade, exceto amar a Deus e só a Ele servir.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Procura fazer a vontade dos outros mais do que a tua própria.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "É melhor sentir compunção do que saber definir-la.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Em toda parte busquei o descanso e só o encontrei num cantinho, com um livro.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Sem o caminho, não se vai; sem a verdade, não se conhece; sem a vida, não se vive.",
+      "reference": "Imitação de Cristo"
+    },
+    {
+      "text": "Na noite escura da alma, é a fé que ilumina os passos.",
+      "reference": "São João da Cruz"
+    },
+    {
+      "text": "No fim da vida, seremos julgados pelo amor.",
+      "reference": "São João da Cruz"
+    },
+    {
+      "text": "Onde não há amor, ponha amor e encontrará amor.",
+      "reference": "São João da Cruz"
+    },
+    {
+      "text": "Para chegar ao que não sabes, hás de ir por onde não sabes.",
+      "reference": "São João da Cruz"
+    },
+    {
+      "text": "A alma que caminha no amor não cansa nem se cansa.",
+      "reference": "São João da Cruz"
+    },
+    {
+      "text": "Vive como se hoje fosse o último dia, e nunca pecarás.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Deus basta a quem o tem por herança.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "A oração mental nada mais é do que tratar de amizade com Deus.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Tende grandes desejos, porque Deus é amigo de almas valentes.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Quem possui a Deus de nada mais precisa.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Entre os caçarolas também anda o Senhor.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Aprende a amar como queres ser amado.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quero ver a Deus, e para vê-Lo é preciso morrer.",
+      "reference": "Santa Teresa d'Ávila"
+    },
+    {
+      "text": "Reza e confia; a inquietude de nada serve.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "Reze, espere e não se preocupe.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "A preocupação é inútil; Deus é misericordioso e ouvirá a tua oração.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "Mantenha-se perto de Jesus, e ele cuidará de tudo.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "A oração é a melhor arma que possuímos; é a chave que abre o coração de Deus.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "Confie no passado à misericórdia, o presente ao amor e o futuro à providência.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "Nas tribulações, refugia-te junto a Deus com confiança.",
+      "reference": "São Padre Pio"
+    },
+    {
+      "text": "Atrás de cada cruz está sempre a graça de Deus.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Faça o bem e o faça bem feito.",
+      "reference": "São João Bosco"
+    },
+    {
+      "text": "Alegria, estudo e piedade: este é o melhor programa para ser feliz.",
+      "reference": "São João Bosco"
+    },
+    {
+      "text": "Quem ganha a juventude ganha tudo.",
+      "reference": "São João Bosco"
+    },
+    {
+      "text": "Que a vossa fortaleza seja a oração frequente.",
+      "reference": "São João Bosco"
+    },
+    {
+      "text": "Basta que sejais jovens para que eu vos ame.",
+      "reference": "São João Bosco"
+    },
+    {
+      "text": "Deus não se cansa de perdoar; nós é que nos cansamos de pedir perdão.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "O tempo é superior ao espaço; iniciar processos é mais importante que ocupar lugares.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A realidade é mais importante que a ideia.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A misericórdia é a viga mestra que sustenta a vida da Igreja.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "A terra, nossa casa comum, é também como uma irmã.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Tudo está interligado, e o cuidado da nossa vida e a relação com a natureza são inseparáveis.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Um cristão triste é um triste cristão.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Quem ama, eleva; quem serve, cresce.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A santidade é feita de pequenos gestos quotidianos.",
+      "reference": "Papa Francisco"
+    },
+    {
+      "text": "Aprendei a ler o vosso coração; ali Deus vos fala.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quem confia em Deus nada teme, pois Deus é a sua força.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Reze, e Deus fará o resto.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Cada manhã é uma nova oportunidade para amar.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Sorri a Deus mesmo na dor; a fé transforma a cruz em luz.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A humildade é a base de todas as virtudes.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quem semeia bondade colhe paz.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "O silêncio é a linguagem em que Deus mais fala.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Confia: Deus nunca chega atrasado.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "O perdão liberta o coração que o oferece.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Faz da tua vida uma oração contínua.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Onde está Deus, ali está a paz.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A oração não muda Deus, mas muda quem reza.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Nas mãos de Deus, até as lágrimas viram sementes.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quanto maior a cruz, maior será a glória.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Toda alma vale o preço do sangue de Cristo.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Reze pelos outros, pois a caridade tudo alcança.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "O céu começa na alma que ama.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A gratidão é a memória do coração.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Tudo o que tens, recebeste de Deus.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quem se confia a Maria nunca caminha sozinho.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "A esmola apaga os pecados como a água apaga o fogo.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "O dever de cada instante é a vontade de Deus para nós.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "A glória de Deus consiste em ver o homem plenamente vivo.",
+      "reference": "Santo Irineu de Lyon"
+    },
+    {
+      "text": "A vida do homem consiste em ver a Deus.",
+      "reference": "Santo Irineu de Lyon"
+    },
+    {
+      "text": "O sangue dos mártires é semente de novos cristãos.",
+      "reference": "Tertuliano"
+    },
+    {
+      "text": "Para Deus nada é pequeno quando se faz com amor.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "Ama a Deus sobre todas as coisas e ao próximo como a ti mesmo.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "A finalidade do homem é conhecer, amar e servir a Deus.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "O desejo de Deus está inscrito no coração do homem.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A oração é a elevação da alma a Deus.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A Eucaristia é fonte e ápice de toda a vida cristã.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A fé é uma resposta pessoal de adesão a Deus que se revela.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A esperança é a virtude pela qual desejamos o Reino dos Céus e a vida eterna.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A caridade é a virtude pela qual amamos a Deus sobre todas as coisas.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A consciência é o núcleo mais secreto e o santuário do homem.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "O homem é capaz de Deus.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "Crer é um ato humano consciente e livre.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "A oração cristã é uma relação de aliança entre Deus e o homem em Cristo.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "O trabalho é um dever para o homem e participa da obra criadora de Deus.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "Maria é a Mãe dos membros de Cristo, porque cooperou com a sua caridade.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "O domingo é o dia do Senhor por excelência.",
+      "reference": "Catecismo da Igreja Católica"
+    },
+    {
+      "text": "Por baixo da tua misericórdia nos refugiamos, ó Mãe de Deus.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "Bendito sejais, Senhor, por toda a vossa criação.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Louvado sejas, meu Senhor, por nossa irmã, a mãe terra.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Louvado sejas, meu Senhor, pelo irmão sol, que traz o dia e a luz.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Louvado sejas, meu Senhor, pela irmã lua e as estrelas.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Louvado sejas, meu Senhor, pela irmã água, tão útil e humilde.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Bem-aventurados os que perdoam por amor de vós, meu Senhor.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Comecemos, irmãos, a servir ao Senhor, pois até agora pouco temos feito.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Meu Deus e meu tudo.",
+      "reference": "São Francisco de Assis"
+    },
+    {
+      "text": "Santifica-te e santificarás a sociedade.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A cada um Deus confiou um pedaço de seu Reino para cultivar com amor.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "O verdadeiro amor não conhece medida; cresce sempre.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Cala-te e deixa Deus falar ao teu coração.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Onde reina a caridade, reina a presença de Deus.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "Da pequenez de um grão de mostarda nasce o Reino dos Céus.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Reconcilia-te com Deus, e a paz inundará a tua alma.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quem reza com fé já tem meio caminho andado.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A Virgem Maria é o caminho mais curto e seguro até Jesus.",
+      "reference": "São Luís Maria Grignion de Montfort"
+    },
+    {
+      "text": "Tudo a Jesus por Maria, tudo a Maria por Jesus.",
+      "reference": "São Luís Maria Grignion de Montfort"
+    },
+    {
+      "text": "Quem encontra Maria encontra a vida.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "Acolhei a vontade de Deus como a melhor parte da vossa vida.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "A cruz carregada com amor torna-se leve.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Tudo passa, mas quem faz a vontade de Deus permanece para sempre.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Reza ao Senhor com o coração, e Ele te ouvirá.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "O amor verdadeiro começa onde nada se espera em troca.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Deixa Deus agir; Ele faz tudo no tempo certo.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Quem confia em Deus já venceu metade da batalha.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Na fraqueza, busca a força em Cristo.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Maria guarda em seu coração todos que a invocam.",
+      "reference": "Tradição da Igreja"
+    },
+    {
+      "text": "A oração é o respiro da alma.",
+      "reference": "Sabedoria católica"
+    },
+    {
+      "text": "Vai em paz, e que o amor de Deus te acompanhe.",
+      "reference": "Tradição da Igreja"
+    }
   ]
 }

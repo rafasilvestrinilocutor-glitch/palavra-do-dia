@@ -98,6 +98,7 @@
       </header>
 
       <div class="reader__stage">
+        <p id="phrase-day" class="phrase-day">Hoje</p>
         <p id="phrase-label" class="phrase-label">Palavra do Dia</p>
         <blockquote id="phrase-card" class="phrase-card" aria-live="polite">
           <p id="phrase-text" class="phrase-text">…</p>
@@ -107,7 +108,8 @@
       </div>
 
       <div class="reader__actions">
-        <button id="new-btn" class="primary-btn">Nova palavra</button>
+        <button id="prev-day-btn" class="day-btn" type="button" aria-label="Ver a palavra de ontem">‹ Ver a de ontem</button>
+        <button id="today-btn" class="day-btn day-btn--ghost" type="button" aria-label="Voltar para a palavra de hoje" hidden>Voltar para hoje ›</button>
         <button id="share-btn" class="icon-btn" aria-label="Compartilhar a palavra" title="Compartilhar" aria-haspopup="true" aria-expanded="false">
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a3 3 0 1 0-2.8-4L9 7.2a3 3 0 1 0 0 9.6l6.2 3.2A3 3 0 1 0 18 16a3 3 0 0 0-2.4 1.2L9.4 14a3 3 0 0 0 0-4l6.2-3.2A3 3 0 0 0 18 8z" fill="currentColor"/></svg>
         </button>

@@ -1,121 +1,1625 @@
 {
   "id": "wicca",
   "phrases": [
-    { "text": "Não ferindo a ninguém, faze o que quiseres.", "reference": "Wiccan Rede" },
-    { "text": "Faze o que for tua vontade, contanto que a ninguém prejudiques.", "reference": "Wiccan Rede" },
-    { "text": "Em perfeito amor e perfeita confiança, caminhamos juntos.", "reference": "Tradição Wicca" },
-    { "text": "Tudo aquilo que envias ao mundo retorna a ti três vezes mais forte.", "reference": "Lei Tríplice" },
-    { "text": "O bem que praticas volta triplicado; cuida, então, do que semeias.", "reference": "Lei Tríplice" },
-    { "text": "Sou a beleza da terra verdejante e a lua branca entre as estrelas.", "reference": "A Carga da Deusa" },
-    { "text": "Procura-me dentro de ti, e ali me encontrarás, pois se não me achas dentro, jamais me acharás fora.", "reference": "A Carga da Deusa" },
-    { "text": "De mim todas as coisas surgem e a mim todas as coisas devem retornar.", "reference": "A Carga da Deusa" },
-    { "text": "Onde quer que celebres meus ritos, ali estarei presente.", "reference": "A Carga da Deusa" },
-    { "text": "Que haja beleza e força, poder e compaixão, honra e humildade, alegria e reverência em teu coração.", "reference": "A Carga da Deusa" },
-    { "text": "A Terra é sagrada; cada folha, cada pedra e cada gota guarda um pouco do divino.", "reference": "Sabedoria Pagã" },
-    { "text": "Honra a Roda do Ano, pois nela giram o nascer, o florescer, o colher e o descansar.", "reference": "Tradição Wicca" },
-    { "text": "Assim como a Lua cresce e mingua, também tua vida tem suas marés. Confia no ciclo.", "reference": "Sabedoria Pagã" },
-    { "text": "A Deusa é a teia que tudo une; o Deus é a força que tudo move.", "reference": "Tradição Wicca" },
-    { "text": "Caminha com leveza sobre a Terra, pois ela é o corpo da Mãe.", "reference": "Sabedoria Pagã" },
-    { "text": "Magia é intenção vestida de cuidado; pensa bem no que desejas, pois palavras criam mundos.", "reference": "Tradição Wicca" },
-    { "text": "O inverno ensina o repouso; a primavera, a esperança; o verão, a plenitude; o outono, a gratidão.", "reference": "Roda do Ano" },
-    { "text": "Toda colheita começa com uma semente plantada em fé.", "reference": "Sabedoria Pagã" },
-    { "text": "A noite mais escura sempre precede o retorno do Sol; tem paciência com a tua sombra.", "reference": "Roda do Ano" },
-    { "text": "Reverencia a água que te limpa, o ar que te sustenta, o fogo que te aquece e a terra que te nutre.", "reference": "Tradição Wicca" },
-    { "text": "Cada amanhecer é um pequeno Yule; cada renascimento, uma promessa cumprida.", "reference": "Sabedoria Pagã" },
-    { "text": "Aquele que respeita a vida em todas as suas formas encontra-se em harmonia com o Todo.", "reference": "Sabedoria Pagã" },
-    { "text": "A roda gira sem cessar; nada se perde, tudo se transforma.", "reference": "Tradição Wicca" },
-    { "text": "Que tua palavra seja gentil, pois ela vai e volta pelos caminhos do mundo.", "reference": "Lei Tríplice" },
-    { "text": "Escuta o vento, e ele te contará segredos antigos guardados pela floresta.", "reference": "Sabedoria Pagã" },
-    { "text": "A Deusa sorri em cada flor que se abre ao amanhecer.", "reference": "Sabedoria Pagã" },
-    { "text": "Responsável és por cada feitiço de tua vontade; assume tuas escolhas com coragem.", "reference": "Tradição Wicca" },
-    { "text": "Em Samhain, lembramos os que partiram, pois o véu se faz fino e o amor atravessa.", "reference": "Roda do Ano" },
-    { "text": "A semente que dorme sob a neve confia que a primavera virá.", "reference": "Sabedoria Pagã" },
-    { "text": "O verdadeiro poder não domina a natureza; dança com ela.", "reference": "Sabedoria Pagã" },
-    { "text": "Cuida das tuas raízes e teus galhos alcançarão o céu.", "reference": "Sabedoria Pagã" },
-    { "text": "A lua cheia ilumina não só a noite, mas também os recantos esquecidos do coração.", "reference": "Sabedoria Pagã" },
-    { "text": "Tudo que vive merece respeito, do menor inseto à mais alta árvore.", "reference": "Sabedoria Pagã" },
-    { "text": "Que tuas mãos plantem mais do que colhem, e o mundo florescerá ao teu redor.", "reference": "Sabedoria Pagã" },
-    { "text": "O círculo que traçamos não tem começo nem fim, como o amor da Deusa.", "reference": "Tradição Wicca" },
-    { "text": "Honra teus antepassados, pois neles está a memória da Terra.", "reference": "Sabedoria Pagã" },
-    { "text": "A chama da vela acesa com intenção pura ilumina caminhos invisíveis.", "reference": "Tradição Wicca" },
-    { "text": "Sê como o rio: firme em teu propósito, gentil em teu fluir.", "reference": "Sabedoria Pagã" },
-    { "text": "O equilíbrio entre luz e sombra mora dentro de ti; abraça os dois.", "reference": "Tradição Wicca" },
-    { "text": "Na Roda do Ano aprendemos que toda despedida prepara um reencontro.", "reference": "Roda do Ano" },
-    { "text": "A magia mais poderosa é o amor oferecido sem esperar retorno.", "reference": "Sabedoria Pagã" },
-    { "text": "Caminha descalço pela terra e sentirás o pulso da Mãe sob teus pés.", "reference": "Sabedoria Pagã" },
-    { "text": "Aquilo que feres no mundo, feres em ti; aquilo que curas, em ti se cura.", "reference": "Lei Tríplice" },
-    { "text": "O Sol que morre em Mabon renasce em Yule; assim também é a tua jornada.", "reference": "Roda do Ano" },
-    { "text": "Respeita o silêncio da floresta, pois nele a Deusa sussurra.", "reference": "Sabedoria Pagã" },
-    { "text": "Tua intenção é a semente; teu cuidado, a água; teu amor, o sol que a faz crescer.", "reference": "Tradição Wicca" },
-    { "text": "Que a estrela de cinco pontas te lembre: espírito, ar, fogo, água e terra vivem em harmonia.", "reference": "Tradição Wicca" },
-    { "text": "A Mãe Terra dá sem pedir; aprende com ela a generosidade.", "reference": "Sabedoria Pagã" },
-    { "text": "Celebra Beltane com alegria, pois a vida transborda e o amor floresce.", "reference": "Roda do Ano" },
-    { "text": "Nada que fazes em segredo escapa à teia; tudo retorna por seus fios.", "reference": "Lei Tríplice" },
-    { "text": "Aquele que escuta a natureza nunca caminha sozinho.", "reference": "Sabedoria Pagã" },
-    { "text": "Em Litha, o Sol está no auge; celebra tua própria força e luz interior.", "reference": "Roda do Ano" },
-    { "text": "Toda lua nova é um convite para recomeçar.", "reference": "Sabedoria Pagã" },
-    { "text": "A Deusa é a taça que acolhe; o Deus é a lâmina que protege. Ambos são sagrados.", "reference": "Tradição Wicca" },
-    { "text": "Sê grato pelo pão na mesa, pois nele estão o sol, a chuva e o trabalho da terra.", "reference": "Sabedoria Pagã" },
-    { "text": "Em Lughnasadh, agradecemos a primeira colheita e honramos o esforço que a trouxe.", "reference": "Roda do Ano" },
-    { "text": "Tua sombra não é tua inimiga; é parte de ti pedindo para ser amada.", "reference": "Sabedoria Pagã" },
-    { "text": "A reverência à natureza é a mais antiga das orações.", "reference": "Sabedoria Pagã" },
-    { "text": "Acende tua chama interior, mas jamais com o fogo que queima o outro.", "reference": "Tradição Wicca" },
-    { "text": "O ciclo das estações nos ensina que descanso também é sagrado.", "reference": "Roda do Ano" },
-    { "text": "Cada gota de chuva é uma bênção da Deusa sobre a terra sedenta.", "reference": "Sabedoria Pagã" },
-    { "text": "Trata os animais como irmãos, pois partilham contigo o sopro da vida.", "reference": "Sabedoria Pagã" },
-    { "text": "A verdadeira bruxaria começa no respeito por toda forma de vida.", "reference": "Tradição Wicca" },
-    { "text": "Em Imbolc, a primeira luz desperta; acende uma vela e renova tua esperança.", "reference": "Roda do Ano" },
-    { "text": "Quando plantas amor, colhes amor; quando plantas raiva, colhes tempestade.", "reference": "Lei Tríplice" },
-    { "text": "A teia da vida liga todas as coisas; ao tocar um fio, vibram todos.", "reference": "Sabedoria Pagã" },
-    { "text": "Honra o equinócio de Ostara, quando luz e sombra dançam em equilíbrio.", "reference": "Roda do Ano" },
-    { "text": "A Deusa não pede sacrifício, mas presença; não pede medo, mas amor.", "reference": "A Carga da Deusa" },
-    { "text": "O Deus chifrudo guarda a floresta e ensina o ciclo da caça e da entrega.", "reference": "Tradição Wicca" },
-    { "text": "Que cada passo teu sobre a terra seja um agradecimento.", "reference": "Sabedoria Pagã" },
-    { "text": "A lua minguante ensina a soltar o que já não te serve.", "reference": "Sabedoria Pagã" },
-    { "text": "Em Mabon, agradecemos a colheita e nos preparamos para o repouso do inverno.", "reference": "Roda do Ano" },
-    { "text": "Tua casa é um templo; mantém nela paz, luz e respeito.", "reference": "Sabedoria Pagã" },
-    { "text": "Aquele que cura a terra cura a si mesmo.", "reference": "Sabedoria Pagã" },
-    { "text": "Não há magia sem responsabilidade, nem poder sem cuidado.", "reference": "Tradição Wicca" },
-    { "text": "A roda nunca para; honra cada estação por aquilo que ela te ensina.", "reference": "Roda do Ano" },
-    { "text": "Que teu coração seja tão aberto quanto o céu e tão firme quanto a montanha.", "reference": "Sabedoria Pagã" },
-    { "text": "A água lembra tudo; abençoa-a com gratidão antes de beber.", "reference": "Sabedoria Pagã" },
-    { "text": "Em cada semente dorme uma floresta; em cada gesto dorme um destino.", "reference": "Sabedoria Pagã" },
-    { "text": "O fogo transforma, mas também aquece; usa teu poder para nutrir, não para destruir.", "reference": "Tradição Wicca" },
-    { "text": "A Deusa é mãe, donzela e anciã; em cada fase da vida ela te acompanha.", "reference": "A Carga da Deusa" },
-    { "text": "Reverencia a velhice, pois nela mora a sabedoria das muitas voltas da roda.", "reference": "Sabedoria Pagã" },
-    { "text": "Não busques dominar o vento; aprende a ajustar tuas velas.", "reference": "Sabedoria Pagã" },
-    { "text": "Cada árvore plantada é uma oração que crescerá por gerações.", "reference": "Sabedoria Pagã" },
-    { "text": "O sagrado não está apenas no templo, mas no orvalho da manhã e no canto do pássaro.", "reference": "Sabedoria Pagã" },
-    { "text": "Confia na escuridão da semente, pois ali nasce toda a luz.", "reference": "Sabedoria Pagã" },
-    { "text": "A intenção pura é a base de toda magia verdadeira.", "reference": "Tradição Wicca" },
-    { "text": "Quando honras a Terra, honras a ti mesmo, pois dela és feito.", "reference": "Sabedoria Pagã" },
-    { "text": "O amor que ofereces ao mundo é a luz que ilumina teu próprio caminho.", "reference": "Lei Tríplice" },
-    { "text": "Sob o mesmo céu e sobre a mesma terra, somos todos parte de uma só dança.", "reference": "Sabedoria Pagã" },
-    { "text": "A Deusa te chama nos sonhos, nas marés e no perfume das flores noturnas.", "reference": "A Carga da Deusa" },
-    { "text": "Quem respeita os ciclos da vida não teme nem o nascer nem o partir.", "reference": "Sabedoria Pagã" },
-    { "text": "Acolhe a chuva e o sol com igual gratidão, pois ambos fazem a vida crescer.", "reference": "Sabedoria Pagã" },
-    { "text": "O círculo sagrado é um espaço entre os mundos, tecido com amor e confiança.", "reference": "Tradição Wicca" },
-    { "text": "Que tua magia nunca tire a liberdade de outro ser.", "reference": "Wiccan Rede" },
-    { "text": "Aprende com a aranha: tece tua vida com paciência e propósito.", "reference": "Sabedoria Pagã" },
-    { "text": "A terra sob teus pés foi sonho de antigas florestas; caminha com reverência.", "reference": "Sabedoria Pagã" },
-    { "text": "Em cada fim de ciclo guarda-se a semente de um novo começo.", "reference": "Roda do Ano" },
-    { "text": "A Deusa dança na chama, canta na água e respira no vento.", "reference": "A Carga da Deusa" },
-    { "text": "Sê guardião da Terra, não seu senhor.", "reference": "Sabedoria Pagã" },
-    { "text": "O poder de curar e o poder de ferir habitam as mesmas mãos; escolhe com sabedoria.", "reference": "Tradição Wicca" },
-    { "text": "Que cada ritual te aproxime mais da natureza e de tua própria verdade.", "reference": "Tradição Wicca" },
-    { "text": "A colheita reflete a semente; cuida do que cultivas em pensamento e ação.", "reference": "Lei Tríplice" },
-    { "text": "Olha para a Lua e lembra: também tu tens fases, e todas são belas.", "reference": "Sabedoria Pagã" },
-    { "text": "A natureza não tem pressa, e ainda assim tudo se cumpre.", "reference": "Sabedoria Pagã" },
-    { "text": "Quem cuida do menor jardim aprende os segredos do universo inteiro.", "reference": "Sabedoria Pagã" },
-    { "text": "Que teu altar seja simples, mas teu coração, vasto.", "reference": "Tradição Wicca" },
-    { "text": "O equilíbrio entre dar e receber mantém a roda girando em paz.", "reference": "Sabedoria Pagã" },
-    { "text": "Bendize a terra que te alimenta e a ela devolve com gratidão.", "reference": "Sabedoria Pagã" },
-    { "text": "A magia não muda o mundo contra a sua vontade; alinha-se com seus ritmos.", "reference": "Tradição Wicca" },
-    { "text": "Em perfeito amor e perfeita confiança, abre teu coração ao sagrado.", "reference": "A Carga da Deusa" },
-    { "text": "Cada estação tem seu dom; recebe todos com o mesmo coração agradecido.", "reference": "Roda do Ano" },
-    { "text": "A floresta ensina que crescer e repousar são partes do mesmo caminho.", "reference": "Sabedoria Pagã" },
-    { "text": "Honra a chama, a taça, a lâmina e o pentáculo, e neles reconhece os elementos da vida.", "reference": "Tradição Wicca" },
-    { "text": "O que ofereces com bondade floresce; o que ofereces com mágoa murcha.", "reference": "Lei Tríplice" },
-    { "text": "Sob a luz da Lua cheia, todo coração sincero encontra clareza.", "reference": "Sabedoria Pagã" }
+    {
+      "text": "Não ferindo a ninguém, faze o que quiseres.",
+      "reference": "Wiccan Rede"
+    },
+    {
+      "text": "Faze o que for tua vontade, contanto que a ninguém prejudiques.",
+      "reference": "Wiccan Rede"
+    },
+    {
+      "text": "Em perfeito amor e perfeita confiança, caminhamos juntos.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Tudo aquilo que envias ao mundo retorna a ti três vezes mais forte.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "O bem que praticas volta triplicado; cuida, então, do que semeias.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Sou a beleza da terra verdejante e a lua branca entre as estrelas.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Procura-me dentro de ti, e ali me encontrarás, pois se não me achas dentro, jamais me acharás fora.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "De mim todas as coisas surgem e a mim todas as coisas devem retornar.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Onde quer que celebres meus ritos, ali estarei presente.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Que haja beleza e força, poder e compaixão, honra e humildade, alegria e reverência em teu coração.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "A Terra é sagrada; cada folha, cada pedra e cada gota guarda um pouco do divino.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Honra a Roda do Ano, pois nela giram o nascer, o florescer, o colher e o descansar.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Assim como a Lua cresce e mingua, também tua vida tem suas marés. Confia no ciclo.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A Deusa é a teia que tudo une; o Deus é a força que tudo move.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Caminha com leveza sobre a Terra, pois ela é o corpo da Mãe.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Magia é intenção vestida de cuidado; pensa bem no que desejas, pois palavras criam mundos.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "O inverno ensina o repouso; a primavera, a esperança; o verão, a plenitude; o outono, a gratidão.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Toda colheita começa com uma semente plantada em fé.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A noite mais escura sempre precede o retorno do Sol; tem paciência com a tua sombra.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Reverencia a água que te limpa, o ar que te sustenta, o fogo que te aquece e a terra que te nutre.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Cada amanhecer é um pequeno Yule; cada renascimento, uma promessa cumprida.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Aquele que respeita a vida em todas as suas formas encontra-se em harmonia com o Todo.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A roda gira sem cessar; nada se perde, tudo se transforma.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Que tua palavra seja gentil, pois ela vai e volta pelos caminhos do mundo.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Escuta o vento, e ele te contará segredos antigos guardados pela floresta.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A Deusa sorri em cada flor que se abre ao amanhecer.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Responsável és por cada feitiço de tua vontade; assume tuas escolhas com coragem.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Em Samhain, lembramos os que partiram, pois o véu se faz fino e o amor atravessa.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A semente que dorme sob a neve confia que a primavera virá.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O verdadeiro poder não domina a natureza; dança com ela.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Cuida das tuas raízes e teus galhos alcançarão o céu.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A lua cheia ilumina não só a noite, mas também os recantos esquecidos do coração.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Tudo que vive merece respeito, do menor inseto à mais alta árvore.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Que tuas mãos plantem mais do que colhem, e o mundo florescerá ao teu redor.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O círculo que traçamos não tem começo nem fim, como o amor da Deusa.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Honra teus antepassados, pois neles está a memória da Terra.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A chama da vela acesa com intenção pura ilumina caminhos invisíveis.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Sê como o rio: firme em teu propósito, gentil em teu fluir.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O equilíbrio entre luz e sombra mora dentro de ti; abraça os dois.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Na Roda do Ano aprendemos que toda despedida prepara um reencontro.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A magia mais poderosa é o amor oferecido sem esperar retorno.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Caminha descalço pela terra e sentirás o pulso da Mãe sob teus pés.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Aquilo que feres no mundo, feres em ti; aquilo que curas, em ti se cura.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "O Sol que morre em Mabon renasce em Yule; assim também é a tua jornada.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Respeita o silêncio da floresta, pois nele a Deusa sussurra.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Tua intenção é a semente; teu cuidado, a água; teu amor, o sol que a faz crescer.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Que a estrela de cinco pontas te lembre: espírito, ar, fogo, água e terra vivem em harmonia.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "A Mãe Terra dá sem pedir; aprende com ela a generosidade.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Celebra Beltane com alegria, pois a vida transborda e o amor floresce.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Nada que fazes em segredo escapa à teia; tudo retorna por seus fios.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Aquele que escuta a natureza nunca caminha sozinho.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Em Litha, o Sol está no auge; celebra tua própria força e luz interior.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Toda lua nova é um convite para recomeçar.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A Deusa é a taça que acolhe; o Deus é a lâmina que protege. Ambos são sagrados.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Sê grato pelo pão na mesa, pois nele estão o sol, a chuva e o trabalho da terra.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Em Lughnasadh, agradecemos a primeira colheita e honramos o esforço que a trouxe.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Tua sombra não é tua inimiga; é parte de ti pedindo para ser amada.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A reverência à natureza é a mais antiga das orações.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Acende tua chama interior, mas jamais com o fogo que queima o outro.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "O ciclo das estações nos ensina que descanso também é sagrado.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Cada gota de chuva é uma bênção da Deusa sobre a terra sedenta.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Trata os animais como irmãos, pois partilham contigo o sopro da vida.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A verdadeira bruxaria começa no respeito por toda forma de vida.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Em Imbolc, a primeira luz desperta; acende uma vela e renova tua esperança.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Quando plantas amor, colhes amor; quando plantas raiva, colhes tempestade.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "A teia da vida liga todas as coisas; ao tocar um fio, vibram todos.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Honra o equinócio de Ostara, quando luz e sombra dançam em equilíbrio.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A Deusa não pede sacrifício, mas presença; não pede medo, mas amor.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "O Deus chifrudo guarda a floresta e ensina o ciclo da caça e da entrega.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Que cada passo teu sobre a terra seja um agradecimento.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A lua minguante ensina a soltar o que já não te serve.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Em Mabon, agradecemos a colheita e nos preparamos para o repouso do inverno.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Tua casa é um templo; mantém nela paz, luz e respeito.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Aquele que cura a terra cura a si mesmo.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Não há magia sem responsabilidade, nem poder sem cuidado.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "A roda nunca para; honra cada estação por aquilo que ela te ensina.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Que teu coração seja tão aberto quanto o céu e tão firme quanto a montanha.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A água lembra tudo; abençoa-a com gratidão antes de beber.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Em cada semente dorme uma floresta; em cada gesto dorme um destino.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O fogo transforma, mas também aquece; usa teu poder para nutrir, não para destruir.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "A Deusa é mãe, donzela e anciã; em cada fase da vida ela te acompanha.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Reverencia a velhice, pois nela mora a sabedoria das muitas voltas da roda.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Não busques dominar o vento; aprende a ajustar tuas velas.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Cada árvore plantada é uma oração que crescerá por gerações.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O sagrado não está apenas no templo, mas no orvalho da manhã e no canto do pássaro.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Confia na escuridão da semente, pois ali nasce toda a luz.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A intenção pura é a base de toda magia verdadeira.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Quando honras a Terra, honras a ti mesmo, pois dela és feito.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O amor que ofereces ao mundo é a luz que ilumina teu próprio caminho.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Sob o mesmo céu e sobre a mesma terra, somos todos parte de uma só dança.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A Deusa te chama nos sonhos, nas marés e no perfume das flores noturnas.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Quem respeita os ciclos da vida não teme nem o nascer nem o partir.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Acolhe a chuva e o sol com igual gratidão, pois ambos fazem a vida crescer.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O círculo sagrado é um espaço entre os mundos, tecido com amor e confiança.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Que tua magia nunca tire a liberdade de outro ser.",
+      "reference": "Wiccan Rede"
+    },
+    {
+      "text": "Aprende com a aranha: tece tua vida com paciência e propósito.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A terra sob teus pés foi sonho de antigas florestas; caminha com reverência.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Em cada fim de ciclo guarda-se a semente de um novo começo.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A Deusa dança na chama, canta na água e respira no vento.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Sê guardião da Terra, não seu senhor.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "O poder de curar e o poder de ferir habitam as mesmas mãos; escolhe com sabedoria.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Que cada ritual te aproxime mais da natureza e de tua própria verdade.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "A colheita reflete a semente; cuida do que cultivas em pensamento e ação.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Olha para a Lua e lembra: também tu tens fases, e todas são belas.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A natureza não tem pressa, e ainda assim tudo se cumpre.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Quem cuida do menor jardim aprende os segredos do universo inteiro.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Que teu altar seja simples, mas teu coração, vasto.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "O equilíbrio entre dar e receber mantém a roda girando em paz.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Bendize a terra que te alimenta e a ela devolve com gratidão.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "A magia não muda o mundo contra a sua vontade; alinha-se com seus ritmos.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "Em perfeito amor e perfeita confiança, abre teu coração ao sagrado.",
+      "reference": "A Carga da Deusa"
+    },
+    {
+      "text": "Cada estação tem seu dom; recebe todos com o mesmo coração agradecido.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A floresta ensina que crescer e repousar são partes do mesmo caminho.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Honra a chama, a taça, a lâmina e o pentáculo, e neles reconhece os elementos da vida.",
+      "reference": "Tradição Wicca"
+    },
+    {
+      "text": "O que ofereces com bondade floresce; o que ofereces com mágoa murcha.",
+      "reference": "Lei Tríplice"
+    },
+    {
+      "text": "Sob a luz da Lua cheia, todo coração sincero encontra clareza.",
+      "reference": "Sabedoria Pagã"
+    },
+    {
+      "text": "Não prejudicando ninguém, faze o que for da tua vontade mais verdadeira.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A liberdade que reclamas para ti, concede-a também a todos os seres.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Que tua vontade nunca se erga sobre a dor de outro coração.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Antes de lançar tua intenção, pergunta: a quem isto fere?",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A bondade é a única lei que jamais te trairá.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Faze o bem sem causar dano, e tua magia será sempre limpa.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A vontade livre floresce quando respeita a liberdade do outro.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Nenhum desejo vale o sofrimento que ele semeia.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Pesa cada ato na balança do amor antes de realizá-lo.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A oito palavras a Rede se resume: a ninguém ferir, e fazer tua vontade.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Quem age sem ferir caminha leve por toda a sua estrada.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Que tua paz não nasça da dor de ninguém.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "O poder sem cuidado é apenas tempestade; o poder com amor é colheita.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Tua vontade é sagrada quando abençoa, e perigosa quando esquece o outro.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A primeira regra da bruxa sábia é não causar dano.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Tudo o que envias regressa a ti com força tripla; envia, pois, bênçãos.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Três vezes volta o bem; três vezes volta o mal. Escolhe o que desejas receber.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "A energia que liberas no mundo encontra o caminho de volta ao teu coração.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Semeia gentileza e colherás gentileza multiplicada.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "O fio que lanças à teia retorna pela mesma trama, mais forte.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Cada maldição lançada cava primeiro o próprio fosso de quem a lança.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "A bênção dada sem medida transborda de volta sobre quem a deu.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Pensa três vezes no que desejas ao outro, pois três vezes te alcançará.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "O universo é um eco fiel: devolve a voz que nele soltas.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Cuida do que liberas, pois o que parte de ti sempre encontra o regresso.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "A ajuda que ofereces hoje volta como abrigo no teu inverno.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Quem lança ódio aos ventos colhe tempestade no próprio limiar.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Toda intenção é uma flecha que dá a volta ao mundo e te encontra.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "A roupa que teces para o outro acabas por vestir tu mesmo.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Espalha luz e a tua própria noite se iluminará.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Sou a Lua entre as estrelas e o mistério das águas.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Procura-me nos campos abertos e ali ouvirás meu canto.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Em todos os atos de amor e prazer estão meus rituais.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Que tua adoração esteja no coração que se alegra, pois eis que toda alegria me é sagrada.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Eu estou contigo desde o princípio e sou aquilo que se alcança no fim do desejo.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Não me peças sacrifícios, pois sou a Mãe de toda a vida.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Levanta os olhos e me verás na lua cheia que veste a noite de prata.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Meu amor se derrama sobre a terra como o orvalho sobre o campo.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Aquele que me busca com coração aberto jamais volta de mãos vazias.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Eu sou a beleza que nasce e a calma que recolhe; o berço e o regaço.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Canta e dança em minha honra, pois o êxtase do espírito é minha oferta predileta.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Diante do mar, lembra-te: também as minhas marés vivem em ti.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Eu sou a chama que aquece o lar e a brasa que guarda a memória.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Onde houver compaixão, ali terás encontrado minha face.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Repousa em mim como a semente repousa na terra escura e confiante.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "O Deus é o sol que parte na alvorada e a caça que sustenta a vida.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O Deus nasce no inverno, reina no verão e se entrega na colheita.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Senhor da floresta de galhada erguida, ensina-nos o ciclo de dar e receber.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A Deusa tece, o Deus semeia; juntos giram a roda da vida.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "No abraço da Deusa e do Deus, todo oposto encontra harmonia.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O masculino divino protege; o feminino divino nutre; ambos te habitam.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O Sol é o rosto do Deus; a Lua, o rosto da Deusa. Entre eles vive a Terra.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Honra em ti a força que age e a sabedoria que acolhe.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O Deus parte para que a vida continue; sua entrega é a colheita do mundo.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Na donzela há promessa, na mãe há plenitude, na anciã há sabedoria.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A Deusa veste-se de primavera e o Deus, de sol de verão.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Samhain, o véu se adelgaça e os amados que partiram caminham perto.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Acende uma luz em Samhain para guiar os ancestrais de volta ao lar.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Samhain é o ano que morre; honra o fim para que o começo seja fértil.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Na noite de Samhain, recorda os nomes daqueles que te ensinaram a amar.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Yule renasce o Sol; a noite mais longa carrega a promessa da luz.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Acende a vela de Yule e confia: a escuridão sempre cede ao amanhecer.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Yule nos ensina que mesmo na maior treva já desponta a esperança.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "No solstício de inverno, o menino sol abre os olhos sobre a terra adormecida.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Imbolc traz a primeira centelha; sob a neve, a vida desperta.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Imbolc, acende velas e purifica o lar para receber a primavera.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Imbolc é o suspiro da terra que sonha com o verde por vir.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Na chama de Imbolc, renova teus votos e tuas esperanças mais tenras.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Ostara equilibra dia e noite; celebra o retorno do verde e da flor.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "No equinócio de Ostara, planta tuas intenções como sementes na terra desperta.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Ostara é a manhã do ano; tudo o que adormeceu volta a sorrir.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O ovo de Ostara guarda o mistério da vida que recomeça.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Beltane acende as fogueiras do amor; a vida transborda em flor e fruto.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Beltane, a Deusa e o Deus se unem e a terra inteira floresce.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Dança ao redor do mastro de Beltane e celebra a alegria de viver.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Beltane é fogo, paixão e a generosa abundância da primavera plena.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Litha é o auge do Sol; celebra tua luz quando ela arde mais forte.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "No solstício de verão, agradece à luz antes que os dias comecem a encurtar.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Litha ensina a brilhar plenamente, sabendo que toda luz também repousa.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Na noite mais curta de Litha, dança com o fogo e honra o Sol pleno.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Lughnasadh celebra o primeiro pão; honra o suor que virou colheita.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Lammas, partilha o pão e agradece a abundância dos campos.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Lughnasadh ensina que toda colheita pede gratidão e generosidade.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O primeiro grão dourado de Lammas é promessa de mesa farta.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Mabon equilibra luz e sombra e nos convida à gratidão da segunda colheita.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "No equinócio de Mabon, recolhe o que amadureceu e descansa em paz.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Mabon é o entardecer do ano; agradece e prepara-te para o repouso.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em Mabon, faze as pazes com o que termina e abençoa o que virá.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Oito vezes gira a roda, e cada sabbat é uma porta para o sagrado.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A Terra dá um passo a cada sabbat; acompanha-a com reverência.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O ar é o sopro do pensamento; convida-o a clarear tua mente.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Ao Leste pertence o ar, a aurora e o frescor de todo começo.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O fogo é a vontade que transforma; respeita o seu calor sagrado.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Ao Sul pertence o fogo, o meio-dia e a coragem que arde no peito.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A água é a emoção que flui; deixa-a lavar o que pesa em ti.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Ao Oeste pertence a água, o entardecer e a profundidade do sentir.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A terra é o corpo que sustenta; agradece o chão que te ampara.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Ao Norte pertence a terra, a meia-noite e a firmeza das raízes.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Os quatro elementos vivem em ti: respiras o ar, ardes em vontade, sentes como a água e te firmas na terra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Chama os quatro ventos e neles reconhece os quatro elementos do mundo.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O quinto elemento é o espírito, que une o ar, o fogo, a água e a terra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Equilibra teus elementos: pensa com clareza, age com paixão, sente com profundidade, firma-te com calma.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Quando o ar te faltar em paz, respira fundo e devolve a calma à mente.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A pena, a vela, a concha e a pedra honram os quatro elementos no altar.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A cada direção, uma guarda; ao centro, o teu coração sereno.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A Lua nova é a tela vazia onde desenhas novos sonhos.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Na Lua crescente, alimenta aquilo que desejas ver florescer.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A Lua cheia derrama sua prata; é tempo de gratidão e plenitude.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Na Lua minguante, solta o que te pesa e abre espaço para o novo.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A Lua escura convida ao silêncio, ao descanso e ao recolhimento.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Como a Lua, tens tuas fases; nenhuma é menos sagrada que a outra.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A maré obedece à Lua; também tuas emoções respondem ao céu.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Sob a Lua cheia, todo desejo sincero encontra mais clareza.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Da donzela à anciã, a Lua mostra que toda idade tem sua beleza.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Observa a Lua e aprende a soltar quando é tempo de soltar.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Magia é intenção focada com responsabilidade e amor.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Antes de tecer qualquer feitiço, certifica-te de que a ninguém ele fere.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A vontade clara é a chave; o coração limpo, a fechadura.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A magia não dispensa a ação; ela a acompanha de mãos dadas.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Toda magia que lanças tem um preço de responsabilidade; aceita-o com honra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Acende a vela com intenção e ela carregará tua prece ao invisível.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A palavra dita em ritual molda o mundo; escolhe-a com cuidado.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O verdadeiro feitiço começa muito antes, no modo como vives.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Não há magia maior do que mudar a ti mesmo para o bem.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A intenção sem ética é fogo sem lareira; pode queimar quem a acende.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Quando lanças um pedido ao universo, age também como se já o merecesses.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O círculo que traças protege e concentra; nele, o sagrado se faz presente.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Trança tua magia com gratidão, e ela voltará abençoada.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Caminha pela floresta e deixa que ela te ensine a quietude.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A natureza é o primeiro templo; entra nela com reverência.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Abraça uma árvore e sente a paciência de quem cresce devagar.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Cada estação é uma mestra; aprende com o que ela te oferece e o que ela te tira.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Vive em ritmo com a terra e tua alma encontrará seu compasso.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O rio não discute com a pedra; contorna-a e segue cantando.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Observa as aves e aprende a partir e a regressar no tempo certo.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A terra não nos pertence; nós é que pertencemos à terra.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Recolhe da natureza apenas o que precisas e devolve sempre gratidão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Senta-te à beira do fogo e deixa que ele te conte histórias antigas.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A montanha ensina firmeza; o rio, fluidez; o vento, liberdade.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Quando te sentires perdido, volta para a terra e ela te reorienta.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O canto dos pássaros ao amanhecer é a mais antiga das preces.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Honra a colmeia e a teia: também elas guardam a sabedoria do Todo.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A vida nasce, floresce, murcha e renasce; nada se perde na roda.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A morte não é o fim, mas a curva onde a vida se recolhe para recomeçar.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Como a folha que cai nutre a raiz, todo fim alimenta um novo começo.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O outono ensina a soltar; o inverno, a descansar; a primavera, a renascer.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Não temas o repouso da semente: na escuridão ela prepara a sua luz.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A roda da vida não conhece desperdício; tudo se transforma em vida nova.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Aquele que compreende as estações não teme as mudanças da própria alma.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O que morre na terra retorna como flor na primavera seguinte.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A morte é a guardiã do portão por onde a vida volta a passar.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Confia: depois de cada inverno da alma, a tua primavera retorna.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A lavanda acalma o espírito; respira-a e deixa a paz entrar.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O alecrim guarda a memória; carrega-o quando quiseres lembrar quem és.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A sálvia purifica o ar e os pensamentos; usa-a com gratidão.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A camomila ensina a doçura da calma ao fim do dia.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Cada erva tem seu dom; aprende a ouvir o que ela oferece.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Colhe a erva com pedido de licença e agradece a planta que a deu.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O cristal de quartzo amplia a intenção clara como a água.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A ametista serena a mente e convida ao sono tranquilo.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Segura uma pedra e sente nela a paciência de milhares de anos.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O cristal não faz a magia por ti; ele apenas afina o teu propósito.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A hortelã desperta a mente; o tomilho, a coragem; cada planta, um dom.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Honra a sazonalidade: come o que a terra oferece em cada tempo.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Cada lua e cada estação têm sua erva, sua cor e seu cântico.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O jardim é teu primeiro grimório; lê nele os segredos da terra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Guarda sementes no inverno e terás esperança plantada para a primavera.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Acolhe a tua sombra com ternura; ela também é parte do teu inteiro.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Luz e treva dançam dentro de ti; honra ambas como mestras.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Não busques ser só luz; a semente também precisa da terra escura.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O equilíbrio não é ausência de sombra, mas amizade com ela.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Aceita tuas marés internas como aceitas as marés do mar.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Tua casa é teu templo; abençoa cada canto com paz e gratidão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Mantém um altar simples e nele celebra o sagrado de cada dia.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Reverencia o pão, a água e o fogo do lar; neles vive o divino.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Abençoa o alimento antes de comê-lo e ele te nutrirá em corpo e alma.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Faze de teu cozinhar um ritual e de tua mesa um pequeno altar.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A gratidão é o feitiço mais simples e o mais poderoso de todos.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Agradece ao Sol que te aquece e à Lua que te embala.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Cada respiração é uma dádiva; recebe-a com reverência.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Em perfeito amor e perfeita confiança, entra no círculo do sagrado.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Caminha entre os mundos com respeito, e ambos te acolherão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Que tua oferenda seja a tua presença plena, e não o teu medo.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A bruxa sábia conhece o poder do silêncio tanto quanto o da palavra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Cria teus ritos com sinceridade, pois o que importa é o coração que os faz.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Não há um único caminho sagrado; há tantos quantos corações que buscam.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Respeita a fé alheia, pois cada vereda conduz à mesma fonte.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A bruxaria é responsabilidade antes de ser poder.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Sê gentil com toda criatura, pois todas partilham o mesmo sopro.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "O orvalho da manhã é uma bênção que a terra recebe em silêncio.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A neve cobre a terra como um manto de descanso merecido.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A primeira flor da primavera é uma promessa cumprida pela terra.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O calor do verão amadurece o fruto que o inverno preparou.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Cada folha que cai no outono é um agradecimento ao ano que passou.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A noite estrelada é o manto da Deusa estendido sobre o mundo.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Quando a chuva cai, a terra bebe e devolve verdor em gratidão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O vento carrega sementes e segredos; escuta o que ele te traz.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Sob a mesma Lua que te observa, observaram teus ancestrais.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Os que partiram vivem na memória da terra e no amor que deixaram.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Acende uma luz pelos ancestrais e sente a corrente que te sustenta.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Tu és o elo entre os que vieram antes e os que ainda virão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Planta uma árvore para quem nascerá depois de ti; isso é magia verdadeira.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A teia da vida vibra inteira quando tocas um só de seus fios.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Toca a terra com gratidão e ela responderá com abundância.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Quem cuida das abelhas cuida do futuro de toda colheita.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Protege as águas, pois nelas começa e termina toda a vida.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Sê guardião da floresta, não seu conquistador.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A Terra cura quem a cura; cuida dela como cuidas de ti.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Reduz o que tomas e amplia o que devolves; assim honras a Mãe.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O respeito pela natureza é a forma mais pura de oração pagã.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Que cada passo teu sobre a terra deixe gratidão, e não ferida.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A bruxa que ama a terra nunca a trata como mero recurso.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Aprende com a colmeia: o bem de um sustenta o bem de todos.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Tudo o que vive merece um lugar sob o sol e sob a lua.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "A compaixão pelos animais é sinal de uma alma que compreende a teia.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O fogo que aquece pode queimar; usa teu poder com mãos suaves.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A água que acalma pode afogar; equilibra teu sentir com sabedoria.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O ar que inspira pode dispersar; ancora teus sonhos em ação.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A terra que sustenta pode soterrar; mantém-te firme sem te enrijecer.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O equilíbrio dos elementos em ti é o segredo da serenidade.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Pinta no chão o pentagrama e lembra: cada ponta guarda um elemento.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Espírito acima, matéria abaixo; entre os dois, dança a tua vida.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Como em cima, assim embaixo; a estrela do céu reflete-se na terra.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O divino não está distante; respira no orvalho e arde na lareira.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Tudo é sagrado: a pedra, a folha, o inseto e a estrela distante.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O sagrado feminino te ensina a acolher; o sagrado masculino, a agir.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Honra a Deusa em cada mulher e o Deus em cada homem que encontras.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A criança que brinca na relva reza sem o saber.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Deixa o riso ser tua oferenda, pois a alegria agrada à Deusa.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Dança descalço na relva e devolve à terra a alegria que dela recebes.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O ritual mais sincero é viver cada dia com reverência.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Celebra os ciclos da Lua e os ciclos da tua própria alma.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A roda do ano gira em ti também: tens teus invernos e tuas colheitas.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Quando te sentires estéril, lembra: o inverno antecede toda primavera.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Honra teus períodos de repouso como honras teus períodos de fruto.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Tudo tem seu tempo na roda; não apresses o que precisa amadurecer.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "A paciência da terra é a maior das magias: ela espera, e tudo floresce.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Confia no ritmo das estações da tua vida e jamais te julgues atrasado.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Em cada despedida da roda guarda-se a semente de um reencontro.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Que tua magia construa pontes, nunca muros.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Liberta, não aprisiones; cura, não fira; eis o caminho da bruxa sábia.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Nenhum feitiço deve roubar a vontade livre de outra alma.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "O amor não se conquista com magia, mas se cultiva com presença.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Antes de pedir mudança no mundo, oferece mudança em ti.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A bênção mais simples: que tenhas paz, saúde e harmonia com a terra.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Abençoado seja quem caminha em equilíbrio com todos os seres.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Que o Sol te aqueça, a Lua te guie e a terra te sustente.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Que os ventos te tragam clareza e os mares te tragam calma.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Que tua colheita seja farta na medida do amor que plantaste.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "Vai em paz, com amor, e que nada do que faças cause dano.",
+      "reference": "Rede Wiccana"
+    },
+    {
+      "text": "Acende a chama, abre o círculo e recorda: o sagrado vive em ti.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Feche o círculo com gratidão e leva contigo a paz que nele encontraste.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A magia termina, mas o respeito pela vida permanece para sempre.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Que abençoados sejam todos os que partilham contigo a teia da vida.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Sob a estrela de cinco pontas, lembra-te do todo de que fazes parte.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A roda gira, a Deusa sorri, e tu segues, parte viva do sagrado.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "O caldeirão é o ventre da Deusa, onde tudo se mistura e renasce.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "A vassoura varre não só o chão, mas as energias que já não servem.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "O athame não corta a carne, mas dirige a vontade e traça o círculo.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A taça acolhe como a Deusa; a lâmina dirige como o Deus.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "O pentáculo no altar honra a terra que tudo sustenta.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Incenso é o ar que sobe; vela é o fogo que arde; água e sal, a terra e o mar.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A bruxa solitária encontra o sagrado em sua própria companhia.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Em coven ou sozinho, o que importa é a sinceridade do coração.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Guarda teu grimório como guardas tua memória: com carinho e verdade.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Escreve teus ritos no Livro das Sombras e neles reconhece teu caminho.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A iniciação verdadeira acontece no coração, não apenas no rito.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Aprende devagar; a bruxaria é jornada de uma vida inteira.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Não há pressa no caminho da Deusa; cada passo já é chegada.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "O mistério não se explica; vive-se com reverência e abertura.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Faze silêncio e ouvirás a Deusa sussurrar no vento da tarde.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Quando duvidares do sagrado, sai e observa uma flor abrir-se.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A meditação à luz da vela acalma a mente e abre o coração.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Respira com a terra: inspira sua força, expira tua gratidão.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Aterra-te como a árvore e alcança o céu como seus ramos.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Visualiza raízes em teus pés e sente a calma da terra subir em ti.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Quando a ansiedade vier, segura uma pedra e devolve-lhe o peso.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "A água abençoada na Lua cheia carrega serenidade ao corpo e à alma.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Faze do teu banho um ritual de purificação e renascimento.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Lava as mãos com intenção e deixa partir o que já não te pertence.",
+      "reference": "Sabedoria Wiccana"
+    },
+    {
+      "text": "Sopra a vela com um desejo de bem e que ele alcance o mundo triplicado.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "A bruxa moderna honra a tradição antiga sem deixar de viver o presente.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "Velha religião ou novo caminho, o que conta é o amor pela vida.",
+      "reference": "Tradição Pagã"
+    },
+    {
+      "text": "A Deusa não pede templos de pedra; pede corações que reverenciem a terra.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Onde houver respeito pela natureza, ali a Deusa já está sendo adorada.",
+      "reference": "Sabedoria da Deusa"
+    },
+    {
+      "text": "Cada amanhecer é um pequeno Ostara; cada anoitecer, um pequeno Samhain.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Tua própria vida é uma roda do ano que gira do berço ao retorno.",
+      "reference": "Roda do Ano"
+    },
+    {
+      "text": "Confia: tudo o que envias com amor encontra seu caminho de volta.",
+      "reference": "Lei do Tríplice"
+    },
+    {
+      "text": "E que assim seja, em perfeito amor e perfeita confiança.",
+      "reference": "Tradição Pagã"
+    }
   ]
 }

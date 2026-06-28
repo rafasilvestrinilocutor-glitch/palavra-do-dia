@@ -1,126 +1,1689 @@
 {
   "id": "islamismo",
   "phrases": [
-    { "text": "Em nome de Deus, o Clemente, o Misericordioso.", "reference": "Alcorão 1:1 (Al-Fatiha)" },
-    { "text": "Louvado seja Deus, Senhor do Universo.", "reference": "Alcorão 1:2 (Al-Fatiha)" },
-    { "text": "O Clemente, o Misericordioso.", "reference": "Alcorão 1:3 (Al-Fatiha)" },
-    { "text": "Soberano do Dia do Juízo.", "reference": "Alcorão 1:4 (Al-Fatiha)" },
-    { "text": "Só a Ti adoramos e só de Ti imploramos ajuda!", "reference": "Alcorão 1:5 (Al-Fatiha)" },
-    { "text": "Guia-nos à senda reta,", "reference": "Alcorão 1:6 (Al-Fatiha)" },
-    { "text": "À senda dos que agraciaste, não à dos abominados, nem à dos extraviados.", "reference": "Alcorão 1:7 (Al-Fatiha)" },
-    { "text": "Deus não impõe a nenhuma alma um fardo maior do que ela pode suportar.", "reference": "Alcorão 2:286 (Al-Baqara)" },
-    { "text": "E recordai-vos de Mim, que Eu Me recordarei de vós; agradecei-Me e não Me sejais ingratos.", "reference": "Alcorão 2:152 (Al-Baqara)" },
-    { "text": "Ó fiéis, buscai auxílio na paciência e na oração, porque Deus está com os pacientes.", "reference": "Alcorão 2:153 (Al-Baqara)" },
-    { "text": "Deus é o Protetor dos fiéis; Ele os retira das trevas e os encaminha para a luz.", "reference": "Alcorão 2:257 (Al-Baqara)" },
-    { "text": "Não há coação na religião, porque já se discerniu a verdade do erro.", "reference": "Alcorão 2:256 (Al-Baqara)" },
-    { "text": "Deus! Não há mais divindade além d'Ele, o Vivente, o Subsistente.", "reference": "Alcorão 2:255 (Al-Baqara)" },
-    { "text": "Quando os Meus servos te perguntarem a respeito de Mim, dize-lhes que Eu estou próximo.", "reference": "Alcorão 2:186 (Al-Baqara)" },
-    { "text": "Atendo a súplica do suplicante quando este Me invoca.", "reference": "Alcorão 2:186 (Al-Baqara)" },
-    { "text": "A bondade não consiste em voltardes o rosto para o levante ou o poente; a verdadeira bondade é a de quem crê em Deus.", "reference": "Alcorão 2:177 (Al-Baqara)" },
-    { "text": "Quem se apega a Deus encaminhar-se-á para a senda reta.", "reference": "Alcorão 3:101 (Ali-Imran)" },
-    { "text": "E apegai-vos todos ao vínculo com Deus e não vos dividais.", "reference": "Alcorão 3:103 (Ali-Imran)" },
-    { "text": "Não desanimeis, nem vos aflijais, porque sereis os vencedores, se fordes fiéis.", "reference": "Alcorão 3:139 (Ali-Imran)" },
-    { "text": "Deus ama os benfeitores.", "reference": "Alcorão 3:134 (Ali-Imran)" },
-    { "text": "Aqueles que dão tanto na prosperidade como na adversidade, que reprimem a cólera e perdoam ao próximo, Deus aprecia os benfeitores.", "reference": "Alcorão 3:134 (Ali-Imran)" },
-    { "text": "Quando tomares uma decisão, encomenda-te a Deus, porque Deus aprecia aqueles que a Ele se encomendam.", "reference": "Alcorão 3:159 (Ali-Imran)" },
-    { "text": "Por misericórdia de Deus, foste gentil para com eles.", "reference": "Alcorão 3:159 (Ali-Imran)" },
-    { "text": "Senhor nosso, não nos castigues, se nos esquecermos ou se cometermos erros involuntários.", "reference": "Alcorão 2:286 (Al-Baqara)" },
-    { "text": "Adorai a Deus e não Lhe atribuais parceiros; e tratai com benevolência os pais, os parentes, os órfãos e os necessitados.", "reference": "Alcorão 4:36 (An-Nisa)" },
-    { "text": "Deus não defrauda ninguém, nem no peso de um átomo.", "reference": "Alcorão 4:40 (An-Nisa)" },
-    { "text": "Deus vos ordena que restituais a quem de direito tudo quanto vos foi confiado.", "reference": "Alcorão 4:58 (An-Nisa)" },
-    { "text": "E quando julgardes entre os homens, fazei-o com equidade.", "reference": "Alcorão 4:58 (An-Nisa)" },
-    { "text": "Hoje, completei a vossa religião e vos agraciei com a Minha graça.", "reference": "Alcorão 5:3 (Al-Ma'ida)" },
-    { "text": "Ajudai-vos mutuamente na virtude e na piedade, mas não na maldade e na hostilidade.", "reference": "Alcorão 5:2 (Al-Ma'ida)" },
-    { "text": "Quem salvar uma vida será como se tivesse salvado toda a humanidade.", "reference": "Alcorão 5:32 (Al-Ma'ida)" },
-    { "text": "Deus prescreveu a Si mesmo a misericórdia.", "reference": "Alcorão 6:54 (Al-An'am)" },
-    { "text": "Com Ele estão as chaves do incognoscível, que ninguém, além d'Ele, conhece.", "reference": "Alcorão 6:59 (Al-An'am)" },
-    { "text": "Dize: Em verdade, a minha oração, os meus atos de devoção, a minha vida e a minha morte pertencem a Deus, Senhor do Universo.", "reference": "Alcorão 6:162 (Al-An'am)" },
-    { "text": "A Minha misericórdia abrange todas as coisas.", "reference": "Alcorão 7:156 (Al-A'raf)" },
-    { "text": "Invocai vosso Senhor humílima e intimamente, porque Ele não aprecia os transgressores.", "reference": "Alcorão 7:55 (Al-A'raf)" },
-    { "text": "A misericórdia de Deus está próxima dos benfeitores.", "reference": "Alcorão 7:56 (Al-A'raf)" },
-    { "text": "Pratica a indulgência, ordena o bem e afasta-te dos insensatos.", "reference": "Alcorão 7:199 (Al-A'raf)" },
-    { "text": "Os crentes são aqueles cujos corações, quando Deus é mencionado, se enchem de temor.", "reference": "Alcorão 8:2 (Al-Anfal)" },
-    { "text": "E sabei que Deus Se interpõe entre o homem e o seu coração.", "reference": "Alcorão 8:24 (Al-Anfal)" },
-    { "text": "Se eles se inclinarem para a paz, inclina-te tu também e confia em Deus.", "reference": "Alcorão 8:61 (Al-Anfal)" },
-    { "text": "Dize: Nada nos sucederá, salvo o que Deus nos destinou; Ele é nosso Protetor. Que os fiéis se encomendem a Deus!", "reference": "Alcorão 9:51 (At-Tawba)" },
-    { "text": "Sabei que os favoritos de Deus jamais serão presas do temor, nem se atribularão.", "reference": "Alcorão 10:62 (Yunus)" },
-    { "text": "E se Deus te açoitar com algum mal, ninguém, além d'Ele, poderá removê-lo.", "reference": "Alcorão 10:107 (Yunus)" },
-    { "text": "E sê paciente, que Deus não deixa de recompensar os benfeitores.", "reference": "Alcorão 11:115 (Hud)" },
-    { "text": "Em Deus confio, e que a Ele se encomendem os confiantes.", "reference": "Alcorão 12:67 (Yusuf)" },
-    { "text": "Em verdade, com a recordação de Deus os corações se tranquilizam.", "reference": "Alcorão 13:28 (Ar-Ra'd)" },
-    { "text": "Aqueles que creem e cujos corações sossegam com a recordação de Deus.", "reference": "Alcorão 13:28 (Ar-Ra'd)" },
-    { "text": "Se contardes as mercês de Deus, jamais podereis enumerá-las.", "reference": "Alcorão 14:34 (Ibrahim)" },
-    { "text": "Se agradecerdes, multiplicar-vos-ei; mas se Me desagradecerdes, sabei que o Meu castigo será severo.", "reference": "Alcorão 14:7 (Ibrahim)" },
-    { "text": "Em verdade, somos de Deus e a Ele retornaremos.", "reference": "Alcorão 2:156 (Al-Baqara)" },
-    { "text": "Deus ordena a justiça, a caridade e a liberalidade para com os parentes.", "reference": "Alcorão 16:90 (An-Nahl)" },
-    { "text": "E proíbe a obscenidade, o ilícito e a iniquidade. Ele vos exorta para que mediteis.", "reference": "Alcorão 16:90 (An-Nahl)" },
-    { "text": "O que tendes acabará, mas o que está junto a Deus é perdurável.", "reference": "Alcorão 16:96 (An-Nahl)" },
-    { "text": "Convoca à senda do teu Senhor com sabedoria e uma bela exortação.", "reference": "Alcorão 16:125 (An-Nahl)" },
-    { "text": "Sê paciente, e tua paciência não será senão com a ajuda de Deus.", "reference": "Alcorão 16:127 (An-Nahl)" },
-    { "text": "E teu Senhor decretou que não adoreis senão a Ele, e que sejais bondosos para com os vossos pais.", "reference": "Alcorão 17:23 (Al-Isra)" },
-    { "text": "E baixa para eles a asa da humildade, e dize: Ó Senhor meu, tem misericórdia de ambos.", "reference": "Alcorão 17:24 (Al-Isra)" },
-    { "text": "Não te excedas no falar, nem o modeles; busca um meio-termo.", "reference": "Alcorão 17:110 (Al-Isra)" },
-    { "text": "Os bens e os filhos são o ornamento da vida terrena; porém, as boas ações são, ante o teu Senhor, mais meritórias.", "reference": "Alcorão 18:46 (Al-Kahf)" },
-    { "text": "Ao Clemente, certamente, o Misericordioso concederá o Seu amor àqueles que creem e praticam o bem.", "reference": "Alcorão 19:96 (Maryam)" },
-    { "text": "E não enviamos antes de ti senão homens, aos quais revelávamos.", "reference": "Alcorão 21:7 (Al-Anbiya)" },
-    { "text": "E não te enviamos senão como misericórdia para a humanidade.", "reference": "Alcorão 21:107 (Al-Anbiya)" },
-    { "text": "Não há divindade além de Ti! Glorificado sejas! Em verdade, fui um dos iníquos.", "reference": "Alcorão 21:87 (Al-Anbiya)" },
-    { "text": "Deus é a Luz dos céus e da terra.", "reference": "Alcorão 24:35 (An-Nur)" },
-    { "text": "Os servos do Clemente são aqueles que andam pela terra com humildade.", "reference": "Alcorão 25:63 (Al-Furqan)" },
-    { "text": "E quando os insensatos os interpelam, respondem: Paz!", "reference": "Alcorão 25:63 (Al-Furqan)" },
-    { "text": "E quem se arrepende e pratica o bem, com sinceridade volta-se para Deus.", "reference": "Alcorão 25:71 (Al-Furqan)" },
-    { "text": "É Ele Quem me criou e me encaminha, Quem me dá de comer e de beber.", "reference": "Alcorão 26:78-79 (Ash-Shu'ara)" },
-    { "text": "E quando adoeço, é Ele Quem me cura.", "reference": "Alcorão 26:80 (Ash-Shu'ara)" },
-    { "text": "Encomenda-te ao Poderoso, ao Misericordioso.", "reference": "Alcorão 26:217 (Ash-Shu'ara)" },
-    { "text": "Sê benevolente, como Deus tem sido contigo.", "reference": "Alcorão 28:77 (Al-Qasas)" },
-    { "text": "Aqueles que lutam por Nós, encaminhá-los-emos pelas Nossas sendas.", "reference": "Alcorão 29:69 (Al-Ankabut)" },
-    { "text": "E entre os Seus sinais está o do sono, durante a noite e o dia, e a vossa busca da Sua graça.", "reference": "Alcorão 30:23 (Ar-Rum)" },
-    { "text": "E entre os Seus sinais está o de haver-vos criado companheiras, para que com elas convivais, e ter colocado entre vós amor e piedade.", "reference": "Alcorão 30:21 (Ar-Rum)" },
-    { "text": "E não voltes o teu rosto às gentes, nem andes insolente pela terra, porque Deus não estima arrogante e jactancioso algum.", "reference": "Alcorão 31:18 (Luqman)" },
-    { "text": "E modera o teu andar e baixa a tua voz.", "reference": "Alcorão 31:19 (Luqman)" },
-    { "text": "Ó filho meu, observa a oração, recomenda o bem, proíbe o ilícito e sofre pacientemente o que te suceder.", "reference": "Alcorão 31:17 (Luqman)" },
-    { "text": "Dize: Ó servos Meus que vos excedestes em prejuízo de vós mesmos, não desespereis da misericórdia de Deus.", "reference": "Alcorão 39:53 (Az-Zumar)" },
-    { "text": "Porque Deus perdoa todos os pecados, pois Ele é o Indulgente, o Misericordioso.", "reference": "Alcorão 39:53 (Az-Zumar)" },
-    { "text": "Invocai-Me, que vos atenderei.", "reference": "Alcorão 40:60 (Ghafir)" },
-    { "text": "Repele o mal com o bem, e eis que aquele que nutria inimizade por ti tornar-se-á um amigo íntimo.", "reference": "Alcorão 41:34 (Fussilat)" },
-    { "text": "A recompensa do bem não é, acaso, o próprio bem?", "reference": "Alcorão 55:60 (Ar-Rahman)" },
-    { "text": "Então, qual das mercês do vosso Senhor desmentireis?", "reference": "Alcorão 55:13 (Ar-Rahman)" },
-    { "text": "O Clemente ensinou o Alcorão; criou o homem e ensinou-lhe a elocução.", "reference": "Alcorão 55:1-4 (Ar-Rahman)" },
-    { "text": "E quanto à graça do teu Senhor, proclama-a!", "reference": "Alcorão 93:11 (Ad-Duha)" },
-    { "text": "Quanto ao órfão, não o maltrates; e quanto ao mendigo, não o repreendas.", "reference": "Alcorão 93:9-10 (Ad-Duha)" },
-    { "text": "O teu Senhor não te abandonou, nem te aborreceu.", "reference": "Alcorão 93:3 (Ad-Duha)" },
-    { "text": "Em verdade, a outra vida será melhor para ti do que a presente.", "reference": "Alcorão 93:4 (Ad-Duha)" },
-    { "text": "Porém, com a dificuldade está a facilidade.", "reference": "Alcorão 94:5 (Al-Inshirah)" },
-    { "text": "Certamente, com a dificuldade está a facilidade.", "reference": "Alcorão 94:6 (Al-Inshirah)" },
-    { "text": "Acaso, não confortamos o teu peito?", "reference": "Alcorão 94:1 (Al-Inshirah)" },
-    { "text": "Assim, quando estiveres livre, esforça-te no culto, e volta-te com fervor ao teu Senhor.", "reference": "Alcorão 94:7-8 (Al-Inshirah)" },
-    { "text": "Dize: Ele é Deus, o Único!", "reference": "Alcorão 112:1 (Al-Ikhlas)" },
-    { "text": "Deus! O Absoluto.", "reference": "Alcorão 112:2 (Al-Ikhlas)" },
-    { "text": "Jamais gerou ou foi gerado. E ninguém é comparável a Ele.", "reference": "Alcorão 112:3-4 (Al-Ikhlas)" },
-    { "text": "Dize: Amparo-me no Senhor da aurora.", "reference": "Alcorão 113:1 (Al-Falaq)" },
-    { "text": "Dize: Amparo-me no Senhor dos humanos, Soberano dos humanos, Deus dos humanos.", "reference": "Alcorão 114:1-3 (An-Nas)" },
-    { "text": "Por certo que criamos o homem na mais perfeita proporção.", "reference": "Alcorão 95:4 (At-Tin)" },
-    { "text": "Lê, em nome do teu Senhor, Que criou.", "reference": "Alcorão 96:1 (Al-Alaq)" },
-    { "text": "Ensinou o homem o que este não sabia.", "reference": "Alcorão 96:5 (Al-Alaq)" },
-    { "text": "Em verdade, criamos o homem em uma faina constante.", "reference": "Alcorão 90:4 (Al-Balad)" },
-    { "text": "E o encaminhamos pelas duas vias.", "reference": "Alcorão 90:10 (Al-Balad)" },
-    { "text": "Bem-aventurado quem a purifica, e desventurado quem a corrompe.", "reference": "Alcorão 91:9-10 (Ash-Shams)" },
-    { "text": "Quanto a quem é generoso e é temente, e crê no melhor, facilitar-lhe-emos a vereda da comodidade.", "reference": "Alcorão 92:5-7 (Al-Lail)" },
-    { "text": "Em verdade, o homem está em perdição, salvo os que creem, praticam o bem, aconselham-se na verdade e recomendam-se a paciência.", "reference": "Alcorão 103:2-3 (Al-Asr)" },
-    { "text": "Aquele que pratique o bem, do peso de um átomo, vê-lo-á.", "reference": "Alcorão 99:7 (Az-Zalzala)" },
-    { "text": "Adorai, pois, ao Senhor desta Casa, Que os provê contra a fome e os salvaguarda do temor.", "reference": "Alcorão 106:3-4 (Quraysh)" },
-    { "text": "Reza, pois, ao teu Senhor, e faze o sacrifício.", "reference": "Alcorão 108:2 (Al-Kawthar)" },
-    { "text": "Em verdade, agraciamos-te com a abundância.", "reference": "Alcorão 108:1 (Al-Kawthar)" },
-    { "text": "Quando chegar o socorro de Deus, juntamente com a vitória; glorifica os louvores do teu Senhor e implora o Seu perdão.", "reference": "Alcorão 110:1-3 (An-Nasr)" },
-    { "text": "Dize: Ó incrédulos! A vós, a vossa religião; e a mim, a minha religião.", "reference": "Alcorão 109:1-6 (Al-Kafirun)" },
-    { "text": "E não desespereis da misericórdia de Deus, porque só os incrédulos desesperam da Sua misericórdia.", "reference": "Alcorão 12:87 (Yusuf)" },
-    { "text": "Quem temer a Deus, Ele lhe dará uma saída, e o agraciará de onde menos espera.", "reference": "Alcorão 65:2-3 (At-Talaq)" },
-    { "text": "E quem se encomendar a Deus, saiba que Ele lhe bastará.", "reference": "Alcorão 65:3 (At-Talaq)" },
-    { "text": "Deus designou uma medida para todas as coisas.", "reference": "Alcorão 65:3 (At-Talaq)" },
-    { "text": "Aproxima-te de Mim e Eu Me aproximarei de ti; recorda-te de Mim e Eu Me recordarei de ti.", "reference": "Alcorão (Surata Al-Baqara)" },
-    { "text": "Dize: Ó Senhor meu, aumenta-me em conhecimento.", "reference": "Alcorão 20:114 (Ta-Ha)" },
-    { "text": "Por certo que Deus está com os que O temem e com os que são benfeitores.", "reference": "Alcorão 16:128 (An-Nahl)" },
-    { "text": "Não desespereis! Eu estou convosco; ouço e vejo tudo.", "reference": "Alcorão 20:46 (Ta-Ha)" },
-    { "text": "Senhor nosso, concede-nos, na vida terrena, prosperidade, e no outro mundo, prosperidade.", "reference": "Alcorão 2:201 (Al-Baqara)" }
+    {
+      "text": "Em nome de Deus, o Clemente, o Misericordioso.",
+      "reference": "Alcorão 1:1 (Al-Fatiha)"
+    },
+    {
+      "text": "Louvado seja Deus, Senhor do Universo.",
+      "reference": "Alcorão 1:2 (Al-Fatiha)"
+    },
+    {
+      "text": "O Clemente, o Misericordioso.",
+      "reference": "Alcorão 1:3 (Al-Fatiha)"
+    },
+    {
+      "text": "Soberano do Dia do Juízo.",
+      "reference": "Alcorão 1:4 (Al-Fatiha)"
+    },
+    {
+      "text": "Só a Ti adoramos e só de Ti imploramos ajuda!",
+      "reference": "Alcorão 1:5 (Al-Fatiha)"
+    },
+    {
+      "text": "Guia-nos à senda reta,",
+      "reference": "Alcorão 1:6 (Al-Fatiha)"
+    },
+    {
+      "text": "À senda dos que agraciaste, não à dos abominados, nem à dos extraviados.",
+      "reference": "Alcorão 1:7 (Al-Fatiha)"
+    },
+    {
+      "text": "Deus não impõe a nenhuma alma um fardo maior do que ela pode suportar.",
+      "reference": "Alcorão 2:286 (Al-Baqara)"
+    },
+    {
+      "text": "E recordai-vos de Mim, que Eu Me recordarei de vós; agradecei-Me e não Me sejais ingratos.",
+      "reference": "Alcorão 2:152 (Al-Baqara)"
+    },
+    {
+      "text": "Ó fiéis, buscai auxílio na paciência e na oração, porque Deus está com os pacientes.",
+      "reference": "Alcorão 2:153 (Al-Baqara)"
+    },
+    {
+      "text": "Deus é o Protetor dos fiéis; Ele os retira das trevas e os encaminha para a luz.",
+      "reference": "Alcorão 2:257 (Al-Baqara)"
+    },
+    {
+      "text": "Não há coação na religião, porque já se discerniu a verdade do erro.",
+      "reference": "Alcorão 2:256 (Al-Baqara)"
+    },
+    {
+      "text": "Deus! Não há mais divindade além d'Ele, o Vivente, o Subsistente.",
+      "reference": "Alcorão 2:255 (Al-Baqara)"
+    },
+    {
+      "text": "Quando os Meus servos te perguntarem a respeito de Mim, dize-lhes que Eu estou próximo.",
+      "reference": "Alcorão 2:186 (Al-Baqara)"
+    },
+    {
+      "text": "Atendo a súplica do suplicante quando este Me invoca.",
+      "reference": "Alcorão 2:186 (Al-Baqara)"
+    },
+    {
+      "text": "A bondade não consiste em voltardes o rosto para o levante ou o poente; a verdadeira bondade é a de quem crê em Deus.",
+      "reference": "Alcorão 2:177 (Al-Baqara)"
+    },
+    {
+      "text": "Quem se apega a Deus encaminhar-se-á para a senda reta.",
+      "reference": "Alcorão 3:101 (Ali-Imran)"
+    },
+    {
+      "text": "E apegai-vos todos ao vínculo com Deus e não vos dividais.",
+      "reference": "Alcorão 3:103 (Ali-Imran)"
+    },
+    {
+      "text": "Não desanimeis, nem vos aflijais, porque sereis os vencedores, se fordes fiéis.",
+      "reference": "Alcorão 3:139 (Ali-Imran)"
+    },
+    {
+      "text": "Deus ama os benfeitores.",
+      "reference": "Alcorão 3:134 (Ali-Imran)"
+    },
+    {
+      "text": "Aqueles que dão tanto na prosperidade como na adversidade, que reprimem a cólera e perdoam ao próximo, Deus aprecia os benfeitores.",
+      "reference": "Alcorão 3:134 (Ali-Imran)"
+    },
+    {
+      "text": "Quando tomares uma decisão, encomenda-te a Deus, porque Deus aprecia aqueles que a Ele se encomendam.",
+      "reference": "Alcorão 3:159 (Ali-Imran)"
+    },
+    {
+      "text": "Por misericórdia de Deus, foste gentil para com eles.",
+      "reference": "Alcorão 3:159 (Ali-Imran)"
+    },
+    {
+      "text": "Senhor nosso, não nos castigues, se nos esquecermos ou se cometermos erros involuntários.",
+      "reference": "Alcorão 2:286 (Al-Baqara)"
+    },
+    {
+      "text": "Adorai a Deus e não Lhe atribuais parceiros; e tratai com benevolência os pais, os parentes, os órfãos e os necessitados.",
+      "reference": "Alcorão 4:36 (An-Nisa)"
+    },
+    {
+      "text": "Deus não defrauda ninguém, nem no peso de um átomo.",
+      "reference": "Alcorão 4:40 (An-Nisa)"
+    },
+    {
+      "text": "Deus vos ordena que restituais a quem de direito tudo quanto vos foi confiado.",
+      "reference": "Alcorão 4:58 (An-Nisa)"
+    },
+    {
+      "text": "E quando julgardes entre os homens, fazei-o com equidade.",
+      "reference": "Alcorão 4:58 (An-Nisa)"
+    },
+    {
+      "text": "Hoje, completei a vossa religião e vos agraciei com a Minha graça.",
+      "reference": "Alcorão 5:3 (Al-Ma'ida)"
+    },
+    {
+      "text": "Ajudai-vos mutuamente na virtude e na piedade, mas não na maldade e na hostilidade.",
+      "reference": "Alcorão 5:2 (Al-Ma'ida)"
+    },
+    {
+      "text": "Quem salvar uma vida será como se tivesse salvado toda a humanidade.",
+      "reference": "Alcorão 5:32 (Al-Ma'ida)"
+    },
+    {
+      "text": "Deus prescreveu a Si mesmo a misericórdia.",
+      "reference": "Alcorão 6:54 (Al-An'am)"
+    },
+    {
+      "text": "Com Ele estão as chaves do incognoscível, que ninguém, além d'Ele, conhece.",
+      "reference": "Alcorão 6:59 (Al-An'am)"
+    },
+    {
+      "text": "Dize: Em verdade, a minha oração, os meus atos de devoção, a minha vida e a minha morte pertencem a Deus, Senhor do Universo.",
+      "reference": "Alcorão 6:162 (Al-An'am)"
+    },
+    {
+      "text": "A Minha misericórdia abrange todas as coisas.",
+      "reference": "Alcorão 7:156 (Al-A'raf)"
+    },
+    {
+      "text": "Invocai vosso Senhor humílima e intimamente, porque Ele não aprecia os transgressores.",
+      "reference": "Alcorão 7:55 (Al-A'raf)"
+    },
+    {
+      "text": "A misericórdia de Deus está próxima dos benfeitores.",
+      "reference": "Alcorão 7:56 (Al-A'raf)"
+    },
+    {
+      "text": "Pratica a indulgência, ordena o bem e afasta-te dos insensatos.",
+      "reference": "Alcorão 7:199 (Al-A'raf)"
+    },
+    {
+      "text": "Os crentes são aqueles cujos corações, quando Deus é mencionado, se enchem de temor.",
+      "reference": "Alcorão 8:2 (Al-Anfal)"
+    },
+    {
+      "text": "E sabei que Deus Se interpõe entre o homem e o seu coração.",
+      "reference": "Alcorão 8:24 (Al-Anfal)"
+    },
+    {
+      "text": "Se eles se inclinarem para a paz, inclina-te tu também e confia em Deus.",
+      "reference": "Alcorão 8:61 (Al-Anfal)"
+    },
+    {
+      "text": "Dize: Nada nos sucederá, salvo o que Deus nos destinou; Ele é nosso Protetor. Que os fiéis se encomendem a Deus!",
+      "reference": "Alcorão 9:51 (At-Tawba)"
+    },
+    {
+      "text": "Sabei que os favoritos de Deus jamais serão presas do temor, nem se atribularão.",
+      "reference": "Alcorão 10:62 (Yunus)"
+    },
+    {
+      "text": "E se Deus te açoitar com algum mal, ninguém, além d'Ele, poderá removê-lo.",
+      "reference": "Alcorão 10:107 (Yunus)"
+    },
+    {
+      "text": "E sê paciente, que Deus não deixa de recompensar os benfeitores.",
+      "reference": "Alcorão 11:115 (Hud)"
+    },
+    {
+      "text": "Em Deus confio, e que a Ele se encomendem os confiantes.",
+      "reference": "Alcorão 12:67 (Yusuf)"
+    },
+    {
+      "text": "Em verdade, com a recordação de Deus os corações se tranquilizam.",
+      "reference": "Alcorão 13:28 (Ar-Ra'd)"
+    },
+    {
+      "text": "Aqueles que creem e cujos corações sossegam com a recordação de Deus.",
+      "reference": "Alcorão 13:28 (Ar-Ra'd)"
+    },
+    {
+      "text": "Se contardes as mercês de Deus, jamais podereis enumerá-las.",
+      "reference": "Alcorão 14:34 (Ibrahim)"
+    },
+    {
+      "text": "Se agradecerdes, multiplicar-vos-ei; mas se Me desagradecerdes, sabei que o Meu castigo será severo.",
+      "reference": "Alcorão 14:7 (Ibrahim)"
+    },
+    {
+      "text": "Em verdade, somos de Deus e a Ele retornaremos.",
+      "reference": "Alcorão 2:156 (Al-Baqara)"
+    },
+    {
+      "text": "Deus ordena a justiça, a caridade e a liberalidade para com os parentes.",
+      "reference": "Alcorão 16:90 (An-Nahl)"
+    },
+    {
+      "text": "E proíbe a obscenidade, o ilícito e a iniquidade. Ele vos exorta para que mediteis.",
+      "reference": "Alcorão 16:90 (An-Nahl)"
+    },
+    {
+      "text": "O que tendes acabará, mas o que está junto a Deus é perdurável.",
+      "reference": "Alcorão 16:96 (An-Nahl)"
+    },
+    {
+      "text": "Convoca à senda do teu Senhor com sabedoria e uma bela exortação.",
+      "reference": "Alcorão 16:125 (An-Nahl)"
+    },
+    {
+      "text": "Sê paciente, e tua paciência não será senão com a ajuda de Deus.",
+      "reference": "Alcorão 16:127 (An-Nahl)"
+    },
+    {
+      "text": "E teu Senhor decretou que não adoreis senão a Ele, e que sejais bondosos para com os vossos pais.",
+      "reference": "Alcorão 17:23 (Al-Isra)"
+    },
+    {
+      "text": "E baixa para eles a asa da humildade, e dize: Ó Senhor meu, tem misericórdia de ambos.",
+      "reference": "Alcorão 17:24 (Al-Isra)"
+    },
+    {
+      "text": "Não te excedas no falar, nem o modeles; busca um meio-termo.",
+      "reference": "Alcorão 17:110 (Al-Isra)"
+    },
+    {
+      "text": "Os bens e os filhos são o ornamento da vida terrena; porém, as boas ações são, ante o teu Senhor, mais meritórias.",
+      "reference": "Alcorão 18:46 (Al-Kahf)"
+    },
+    {
+      "text": "Ao Clemente, certamente, o Misericordioso concederá o Seu amor àqueles que creem e praticam o bem.",
+      "reference": "Alcorão 19:96 (Maryam)"
+    },
+    {
+      "text": "E não enviamos antes de ti senão homens, aos quais revelávamos.",
+      "reference": "Alcorão 21:7 (Al-Anbiya)"
+    },
+    {
+      "text": "E não te enviamos senão como misericórdia para a humanidade.",
+      "reference": "Alcorão 21:107 (Al-Anbiya)"
+    },
+    {
+      "text": "Não há divindade além de Ti! Glorificado sejas! Em verdade, fui um dos iníquos.",
+      "reference": "Alcorão 21:87 (Al-Anbiya)"
+    },
+    {
+      "text": "Deus é a Luz dos céus e da terra.",
+      "reference": "Alcorão 24:35 (An-Nur)"
+    },
+    {
+      "text": "Os servos do Clemente são aqueles que andam pela terra com humildade.",
+      "reference": "Alcorão 25:63 (Al-Furqan)"
+    },
+    {
+      "text": "E quando os insensatos os interpelam, respondem: Paz!",
+      "reference": "Alcorão 25:63 (Al-Furqan)"
+    },
+    {
+      "text": "E quem se arrepende e pratica o bem, com sinceridade volta-se para Deus.",
+      "reference": "Alcorão 25:71 (Al-Furqan)"
+    },
+    {
+      "text": "É Ele Quem me criou e me encaminha, Quem me dá de comer e de beber.",
+      "reference": "Alcorão 26:78-79 (Ash-Shu'ara)"
+    },
+    {
+      "text": "E quando adoeço, é Ele Quem me cura.",
+      "reference": "Alcorão 26:80 (Ash-Shu'ara)"
+    },
+    {
+      "text": "Encomenda-te ao Poderoso, ao Misericordioso.",
+      "reference": "Alcorão 26:217 (Ash-Shu'ara)"
+    },
+    {
+      "text": "Sê benevolente, como Deus tem sido contigo.",
+      "reference": "Alcorão 28:77 (Al-Qasas)"
+    },
+    {
+      "text": "Aqueles que lutam por Nós, encaminhá-los-emos pelas Nossas sendas.",
+      "reference": "Alcorão 29:69 (Al-Ankabut)"
+    },
+    {
+      "text": "E entre os Seus sinais está o do sono, durante a noite e o dia, e a vossa busca da Sua graça.",
+      "reference": "Alcorão 30:23 (Ar-Rum)"
+    },
+    {
+      "text": "E entre os Seus sinais está o de haver-vos criado companheiras, para que com elas convivais, e ter colocado entre vós amor e piedade.",
+      "reference": "Alcorão 30:21 (Ar-Rum)"
+    },
+    {
+      "text": "E não voltes o teu rosto às gentes, nem andes insolente pela terra, porque Deus não estima arrogante e jactancioso algum.",
+      "reference": "Alcorão 31:18 (Luqman)"
+    },
+    {
+      "text": "E modera o teu andar e baixa a tua voz.",
+      "reference": "Alcorão 31:19 (Luqman)"
+    },
+    {
+      "text": "Ó filho meu, observa a oração, recomenda o bem, proíbe o ilícito e sofre pacientemente o que te suceder.",
+      "reference": "Alcorão 31:17 (Luqman)"
+    },
+    {
+      "text": "Dize: Ó servos Meus que vos excedestes em prejuízo de vós mesmos, não desespereis da misericórdia de Deus.",
+      "reference": "Alcorão 39:53 (Az-Zumar)"
+    },
+    {
+      "text": "Porque Deus perdoa todos os pecados, pois Ele é o Indulgente, o Misericordioso.",
+      "reference": "Alcorão 39:53 (Az-Zumar)"
+    },
+    {
+      "text": "Invocai-Me, que vos atenderei.",
+      "reference": "Alcorão 40:60 (Ghafir)"
+    },
+    {
+      "text": "Repele o mal com o bem, e eis que aquele que nutria inimizade por ti tornar-se-á um amigo íntimo.",
+      "reference": "Alcorão 41:34 (Fussilat)"
+    },
+    {
+      "text": "A recompensa do bem não é, acaso, o próprio bem?",
+      "reference": "Alcorão 55:60 (Ar-Rahman)"
+    },
+    {
+      "text": "Então, qual das mercês do vosso Senhor desmentireis?",
+      "reference": "Alcorão 55:13 (Ar-Rahman)"
+    },
+    {
+      "text": "O Clemente ensinou o Alcorão; criou o homem e ensinou-lhe a elocução.",
+      "reference": "Alcorão 55:1-4 (Ar-Rahman)"
+    },
+    {
+      "text": "E quanto à graça do teu Senhor, proclama-a!",
+      "reference": "Alcorão 93:11 (Ad-Duha)"
+    },
+    {
+      "text": "Quanto ao órfão, não o maltrates; e quanto ao mendigo, não o repreendas.",
+      "reference": "Alcorão 93:9-10 (Ad-Duha)"
+    },
+    {
+      "text": "O teu Senhor não te abandonou, nem te aborreceu.",
+      "reference": "Alcorão 93:3 (Ad-Duha)"
+    },
+    {
+      "text": "Em verdade, a outra vida será melhor para ti do que a presente.",
+      "reference": "Alcorão 93:4 (Ad-Duha)"
+    },
+    {
+      "text": "Porém, com a dificuldade está a facilidade.",
+      "reference": "Alcorão 94:5 (Al-Inshirah)"
+    },
+    {
+      "text": "Certamente, com a dificuldade está a facilidade.",
+      "reference": "Alcorão 94:6 (Al-Inshirah)"
+    },
+    {
+      "text": "Acaso, não confortamos o teu peito?",
+      "reference": "Alcorão 94:1 (Al-Inshirah)"
+    },
+    {
+      "text": "Assim, quando estiveres livre, esforça-te no culto, e volta-te com fervor ao teu Senhor.",
+      "reference": "Alcorão 94:7-8 (Al-Inshirah)"
+    },
+    {
+      "text": "Dize: Ele é Deus, o Único!",
+      "reference": "Alcorão 112:1 (Al-Ikhlas)"
+    },
+    {
+      "text": "Deus! O Absoluto.",
+      "reference": "Alcorão 112:2 (Al-Ikhlas)"
+    },
+    {
+      "text": "Jamais gerou ou foi gerado. E ninguém é comparável a Ele.",
+      "reference": "Alcorão 112:3-4 (Al-Ikhlas)"
+    },
+    {
+      "text": "Dize: Amparo-me no Senhor da aurora.",
+      "reference": "Alcorão 113:1 (Al-Falaq)"
+    },
+    {
+      "text": "Dize: Amparo-me no Senhor dos humanos, Soberano dos humanos, Deus dos humanos.",
+      "reference": "Alcorão 114:1-3 (An-Nas)"
+    },
+    {
+      "text": "Por certo que criamos o homem na mais perfeita proporção.",
+      "reference": "Alcorão 95:4 (At-Tin)"
+    },
+    {
+      "text": "Lê, em nome do teu Senhor, Que criou.",
+      "reference": "Alcorão 96:1 (Al-Alaq)"
+    },
+    {
+      "text": "Ensinou o homem o que este não sabia.",
+      "reference": "Alcorão 96:5 (Al-Alaq)"
+    },
+    {
+      "text": "Em verdade, criamos o homem em uma faina constante.",
+      "reference": "Alcorão 90:4 (Al-Balad)"
+    },
+    {
+      "text": "E o encaminhamos pelas duas vias.",
+      "reference": "Alcorão 90:10 (Al-Balad)"
+    },
+    {
+      "text": "Bem-aventurado quem a purifica, e desventurado quem a corrompe.",
+      "reference": "Alcorão 91:9-10 (Ash-Shams)"
+    },
+    {
+      "text": "Quanto a quem é generoso e é temente, e crê no melhor, facilitar-lhe-emos a vereda da comodidade.",
+      "reference": "Alcorão 92:5-7 (Al-Lail)"
+    },
+    {
+      "text": "Em verdade, o homem está em perdição, salvo os que creem, praticam o bem, aconselham-se na verdade e recomendam-se a paciência.",
+      "reference": "Alcorão 103:2-3 (Al-Asr)"
+    },
+    {
+      "text": "Aquele que pratique o bem, do peso de um átomo, vê-lo-á.",
+      "reference": "Alcorão 99:7 (Az-Zalzala)"
+    },
+    {
+      "text": "Adorai, pois, ao Senhor desta Casa, Que os provê contra a fome e os salvaguarda do temor.",
+      "reference": "Alcorão 106:3-4 (Quraysh)"
+    },
+    {
+      "text": "Reza, pois, ao teu Senhor, e faze o sacrifício.",
+      "reference": "Alcorão 108:2 (Al-Kawthar)"
+    },
+    {
+      "text": "Em verdade, agraciamos-te com a abundância.",
+      "reference": "Alcorão 108:1 (Al-Kawthar)"
+    },
+    {
+      "text": "Quando chegar o socorro de Deus, juntamente com a vitória; glorifica os louvores do teu Senhor e implora o Seu perdão.",
+      "reference": "Alcorão 110:1-3 (An-Nasr)"
+    },
+    {
+      "text": "Dize: Ó incrédulos! A vós, a vossa religião; e a mim, a minha religião.",
+      "reference": "Alcorão 109:1-6 (Al-Kafirun)"
+    },
+    {
+      "text": "E não desespereis da misericórdia de Deus, porque só os incrédulos desesperam da Sua misericórdia.",
+      "reference": "Alcorão 12:87 (Yusuf)"
+    },
+    {
+      "text": "Quem temer a Deus, Ele lhe dará uma saída, e o agraciará de onde menos espera.",
+      "reference": "Alcorão 65:2-3 (At-Talaq)"
+    },
+    {
+      "text": "E quem se encomendar a Deus, saiba que Ele lhe bastará.",
+      "reference": "Alcorão 65:3 (At-Talaq)"
+    },
+    {
+      "text": "Deus designou uma medida para todas as coisas.",
+      "reference": "Alcorão 65:3 (At-Talaq)"
+    },
+    {
+      "text": "Aproxima-te de Mim e Eu Me aproximarei de ti; recorda-te de Mim e Eu Me recordarei de ti.",
+      "reference": "Alcorão (Surata Al-Baqara)"
+    },
+    {
+      "text": "Dize: Ó Senhor meu, aumenta-me em conhecimento.",
+      "reference": "Alcorão 20:114 (Ta-Ha)"
+    },
+    {
+      "text": "Por certo que Deus está com os que O temem e com os que são benfeitores.",
+      "reference": "Alcorão 16:128 (An-Nahl)"
+    },
+    {
+      "text": "Não desespereis! Eu estou convosco; ouço e vejo tudo.",
+      "reference": "Alcorão 20:46 (Ta-Ha)"
+    },
+    {
+      "text": "Senhor nosso, concede-nos, na vida terrena, prosperidade, e no outro mundo, prosperidade.",
+      "reference": "Alcorão 2:201 (Al-Baqara)"
+    },
+    {
+      "text": "Não te abates por aquilo que te escapou, nem te regozijes em demasia pelo que recebeste.",
+      "reference": "Alcorão 57:23 (Al-Hadid)"
+    },
+    {
+      "text": "Ele está convosco onde quer que estejais.",
+      "reference": "Alcorão 57:4 (Al-Hadid)"
+    },
+    {
+      "text": "Sabei que a vida terrena é apenas jogo, diversão e ostentação.",
+      "reference": "Alcorão 57:20 (Al-Hadid)"
+    },
+    {
+      "text": "Acaso não chegou o momento, para os crentes, de humilhar os corações ante a recordação de Deus?",
+      "reference": "Alcorão 57:16 (Al-Hadid)"
+    },
+    {
+      "text": "Ele é o Primeiro e o Último, o Visível e o Invisível, e é Onisciente.",
+      "reference": "Alcorão 57:3 (Al-Hadid)"
+    },
+    {
+      "text": "Quem confiar em Deus, Ele lhe bastará como amparo.",
+      "reference": "Alcorão 65:3 (At-Talaq)"
+    },
+    {
+      "text": "Após cada dificuldade, Deus instaura um alívio.",
+      "reference": "Alcorão 65:7 (At-Talaq)"
+    },
+    {
+      "text": "Os que creem e praticam o bem terão jardins onde correm os rios.",
+      "reference": "Alcorão 85:11 (Al-Buruj)"
+    },
+    {
+      "text": "Ele é o Indulgente, o Amoroso, o Senhor do Trono Glorioso.",
+      "reference": "Alcorão 85:14-15 (Al-Buruj)"
+    },
+    {
+      "text": "Por certo que a tua recompensa é infinita.",
+      "reference": "Alcorão 68:3 (Al-Qalam)"
+    },
+    {
+      "text": "E, em verdade, possuis uma elevada moral.",
+      "reference": "Alcorão 68:4 (Al-Qalam)"
+    },
+    {
+      "text": "Sê paciente até ao juízo do teu Senhor.",
+      "reference": "Alcorão 68:48 (Al-Qalam)"
+    },
+    {
+      "text": "A noite do Decreto é melhor do que mil meses.",
+      "reference": "Alcorão 97:3 (Al-Qadr)"
+    },
+    {
+      "text": "Nela, descem os anjos com a paz, até ao romper da aurora.",
+      "reference": "Alcorão 97:4-5 (Al-Qadr)"
+    },
+    {
+      "text": "E quem faça o mal, do peso de um átomo, vê-lo-á.",
+      "reference": "Alcorão 99:8 (Az-Zalzala)"
+    },
+    {
+      "text": "Glorifica o nome do teu Senhor, o Altíssimo.",
+      "reference": "Alcorão 87:1 (Al-A'la)"
+    },
+    {
+      "text": "Bem-aventurado quem se purifica e recorda o nome do seu Senhor e ora.",
+      "reference": "Alcorão 87:14-15 (Al-A'la)"
+    },
+    {
+      "text": "Acaso não reparam nos camelos, em como foram criados?",
+      "reference": "Alcorão 88:17 (Al-Ghashiya)"
+    },
+    {
+      "text": "E no céu, em como foi elevado? E nas montanhas, em como foram fixadas?",
+      "reference": "Alcorão 88:18-19 (Al-Ghashiya)"
+    },
+    {
+      "text": "Pela aurora, e pelas dez noites.",
+      "reference": "Alcorão 89:1-2 (Al-Fajr)"
+    },
+    {
+      "text": "Ó alma serena! Retorna ao teu Senhor, satisfeita e com Sua complacência.",
+      "reference": "Alcorão 89:27-28 (Al-Fajr)"
+    },
+    {
+      "text": "Pela luz da manhã, e pela noite quando serena.",
+      "reference": "Alcorão 93:1-2 (Ad-Duha)"
+    },
+    {
+      "text": "E o teu Senhor te agraciará, e ficarás satisfeito.",
+      "reference": "Alcorão 93:5 (Ad-Duha)"
+    },
+    {
+      "text": "Acaso não te encontrou órfão e te amparou?",
+      "reference": "Alcorão 93:6 (Ad-Duha)"
+    },
+    {
+      "text": "E te encontrou perdido e te guiou.",
+      "reference": "Alcorão 93:7 (Ad-Duha)"
+    },
+    {
+      "text": "E te encontrou na pobreza e te enriqueceu.",
+      "reference": "Alcorão 93:8 (Ad-Duha)"
+    },
+    {
+      "text": "Pelo Sol e pelo seu resplendor; pela Lua, quando o segue.",
+      "reference": "Alcorão 91:1-2 (Ash-Shams)"
+    },
+    {
+      "text": "Pela alma e por Quem a aperfeiçoou.",
+      "reference": "Alcorão 91:7 (Ash-Shams)"
+    },
+    {
+      "text": "Pela noite, quando cobre tudo; pelo dia, quando resplandece.",
+      "reference": "Alcorão 92:1-2 (Al-Lail)"
+    },
+    {
+      "text": "Em verdade, a Nós incumbe a orientação.",
+      "reference": "Alcorão 92:12 (Al-Lail)"
+    },
+    {
+      "text": "Pelo figo e pela oliveira, e pelo monte Sinai.",
+      "reference": "Alcorão 95:1-2 (At-Tin)"
+    },
+    {
+      "text": "Acaso não é Deus o mais sábio dos juízes?",
+      "reference": "Alcorão 95:8 (At-Tin)"
+    },
+    {
+      "text": "Lê, que o teu Senhor é o mais Generoso, que ensinou pela pena.",
+      "reference": "Alcorão 96:3-4 (Al-Alaq)"
+    },
+    {
+      "text": "Por certo que o retorno será para o teu Senhor.",
+      "reference": "Alcorão 96:8 (Al-Alaq)"
+    },
+    {
+      "text": "E não lhes foi ordenado senão que adorassem a Deus, com sincera devoção.",
+      "reference": "Alcorão 98:5 (Al-Bayyina)"
+    },
+    {
+      "text": "Deus está satisfeito com eles, e eles com Ele.",
+      "reference": "Alcorão 98:8 (Al-Bayyina)"
+    },
+    {
+      "text": "A ostentação de bens vos entreteve, até visitardes os sepulcros.",
+      "reference": "Alcorão 102:1-2 (At-Takathur)"
+    },
+    {
+      "text": "Pelo tempo! Em verdade, o homem está em perdição.",
+      "reference": "Alcorão 103:1-2 (Al-Asr)"
+    },
+    {
+      "text": "Salvo aqueles que se recomendam mutuamente a verdade e a paciência.",
+      "reference": "Alcorão 103:3 (Al-Asr)"
+    },
+    {
+      "text": "Acaso não viste o que o teu Senhor fez aos donos do elefante?",
+      "reference": "Alcorão 105:1 (Al-Fil)"
+    },
+    {
+      "text": "Ai daquele que difama e detrata.",
+      "reference": "Alcorão 104:1 (Al-Humaza)"
+    },
+    {
+      "text": "Que acumula riquezas e as conta, pensando que elas o eternizarão.",
+      "reference": "Alcorão 104:2-3 (Al-Humaza)"
+    },
+    {
+      "text": "Ai dos orantes que negligenciam a sua oração.",
+      "reference": "Alcorão 107:4-5 (Al-Ma'un)"
+    },
+    {
+      "text": "E que negam até o auxílio mais simples.",
+      "reference": "Alcorão 107:7 (Al-Ma'un)"
+    },
+    {
+      "text": "E recordai os favores de Deus, e o pacto que firmastes com Ele.",
+      "reference": "Alcorão 5:7 (Al-Ma'ida)"
+    },
+    {
+      "text": "Temei a Deus e buscai a aproximação a Ele.",
+      "reference": "Alcorão 5:35 (Al-Ma'ida)"
+    },
+    {
+      "text": "Quem perdoa e se reconcilia, terá a sua recompensa em Deus.",
+      "reference": "Alcorão 42:40 (Ash-Shura)"
+    },
+    {
+      "text": "E a tua paciência é o melhor caminho.",
+      "reference": "Alcorão 16:126 (An-Nahl)"
+    },
+    {
+      "text": "Não desespereis da clemência de Deus.",
+      "reference": "Alcorão 39:53 (Az-Zumar)"
+    },
+    {
+      "text": "Os crentes são, em verdade, irmãos entre si.",
+      "reference": "Alcorão 49:10 (Al-Hujurat)"
+    },
+    {
+      "text": "Não zombe um povo de outro povo, pois pode ser melhor que ele.",
+      "reference": "Alcorão 49:11 (Al-Hujurat)"
+    },
+    {
+      "text": "Evitai conjeturas em excesso, pois certas conjeturas são pecado.",
+      "reference": "Alcorão 49:12 (Al-Hujurat)"
+    },
+    {
+      "text": "Não vos espieis, nem faleis mal uns dos outros pelas costas.",
+      "reference": "Alcorão 49:12 (Al-Hujurat)"
+    },
+    {
+      "text": "Criamos-vos de um homem e de uma mulher e dividimo-vos em povos, para que vos conheçais.",
+      "reference": "Alcorão 49:13 (Al-Hujurat)"
+    },
+    {
+      "text": "O mais nobre, ante Deus, é o mais temente dentre vós.",
+      "reference": "Alcorão 49:13 (Al-Hujurat)"
+    },
+    {
+      "text": "Nós criamos o homem, e sabemos o que a sua alma lhe sussurra.",
+      "reference": "Alcorão 50:16 (Qaf)"
+    },
+    {
+      "text": "Pois estamos mais perto dele do que a sua própria veia jugular.",
+      "reference": "Alcorão 50:16 (Qaf)"
+    },
+    {
+      "text": "E no céu está o vosso sustento, e tudo o que vos foi prometido.",
+      "reference": "Alcorão 51:22 (Adh-Dhariyat)"
+    },
+    {
+      "text": "E não criei os génios e os humanos senão para que Me adorassem.",
+      "reference": "Alcorão 51:56 (Adh-Dhariyat)"
+    },
+    {
+      "text": "Refugiai-vos, pois, em Deus.",
+      "reference": "Alcorão 51:50 (Adh-Dhariyat)"
+    },
+    {
+      "text": "E em vós mesmos. Acaso não reparais?",
+      "reference": "Alcorão 51:21 (Adh-Dhariyat)"
+    },
+    {
+      "text": "O homem não obtém senão o fruto do seu próprio esforço.",
+      "reference": "Alcorão 53:39 (An-Najm)"
+    },
+    {
+      "text": "E que o seu esforço será visto.",
+      "reference": "Alcorão 53:40 (An-Najm)"
+    },
+    {
+      "text": "E que ao teu Senhor retornarão todas as coisas.",
+      "reference": "Alcorão 53:42 (An-Najm)"
+    },
+    {
+      "text": "Facilitamos o Alcorão para a meditação. Haverá quem dele se recorde?",
+      "reference": "Alcorão 54:17 (Al-Qamar)"
+    },
+    {
+      "text": "O Clemente, que criou o homem e lhe ensinou a palavra.",
+      "reference": "Alcorão 55:1-4 (Ar-Rahman)"
+    },
+    {
+      "text": "O Sol e a Lua giram segundo um cálculo preciso.",
+      "reference": "Alcorão 55:5 (Ar-Rahman)"
+    },
+    {
+      "text": "Tudo o que há sobre a terra perecerá; mas subsistirá o rosto do teu Senhor.",
+      "reference": "Alcorão 55:26-27 (Ar-Rahman)"
+    },
+    {
+      "text": "Cheio de majestade e honra.",
+      "reference": "Alcorão 55:27 (Ar-Rahman)"
+    },
+    {
+      "text": "A Ele recorrem todos os que estão nos céus e na terra.",
+      "reference": "Alcorão 55:29 (Ar-Rahman)"
+    },
+    {
+      "text": "Cada dia Ele está em uma nova obra.",
+      "reference": "Alcorão 55:29 (Ar-Rahman)"
+    },
+    {
+      "text": "Bendito seja o nome do teu Senhor, o Majestoso, o Honorável.",
+      "reference": "Alcorão 55:78 (Ar-Rahman)"
+    },
+    {
+      "text": "E aproximamo-nos do crente com facilidade, e não com aspereza.",
+      "reference": "Sabedoria do Alcorão"
+    },
+    {
+      "text": "Aquele que Deus guia, ninguém pode desviar.",
+      "reference": "Sabedoria do Alcorão"
+    },
+    {
+      "text": "Quem agradece, agradece em benefício da própria alma.",
+      "reference": "Alcorão 31:12 (Luqman)"
+    },
+    {
+      "text": "E Deus é Independente, Louvabilíssimo.",
+      "reference": "Alcorão 31:12 (Luqman)"
+    },
+    {
+      "text": "Ó humanos! Temei o vosso Senhor, que vos criou de um só ser.",
+      "reference": "Alcorão 4:1 (An-Nisa)"
+    },
+    {
+      "text": "Quem intercede por uma boa causa terá parte na recompensa dela.",
+      "reference": "Alcorão 4:85 (An-Nisa)"
+    },
+    {
+      "text": "E quando fordes saudados com uma saudação, retribuí com outra melhor, ou pelo menos igual.",
+      "reference": "Alcorão 4:86 (An-Nisa)"
+    },
+    {
+      "text": "Deus quer aliviar-vos os fardos, pois o homem foi criado frágil.",
+      "reference": "Alcorão 4:28 (An-Nisa)"
+    },
+    {
+      "text": "Adorai a Deus e sede caridosos com os pais e os parentes.",
+      "reference": "Alcorão 4:36 (An-Nisa)"
+    },
+    {
+      "text": "Não há bem na maior parte das suas confidências, salvo na de quem recomenda a caridade.",
+      "reference": "Alcorão 4:114 (An-Nisa)"
+    },
+    {
+      "text": "E quem faz o bem, sendo crente, jamais terá negado o seu esforço.",
+      "reference": "Alcorão 21:94 (Al-Anbiya)"
+    },
+    {
+      "text": "E pesaremos com justiça no Dia da Ressurreição.",
+      "reference": "Alcorão 21:47 (Al-Anbiya)"
+    },
+    {
+      "text": "E não foi enviado senão como misericórdia para os mundos.",
+      "reference": "Alcorão 21:107 (Al-Anbiya)"
+    },
+    {
+      "text": "Quem se purifica e recorda o nome do seu Senhor, esse prospera.",
+      "reference": "Alcorão 87:14 (Al-A'la)"
+    },
+    {
+      "text": "Em verdade, esta vida terrena é uma passagem; a outra é a morada permanente.",
+      "reference": "Alcorão 40:39 (Ghafir)"
+    },
+    {
+      "text": "E dize: Ó Senhor meu, perdoa e tem misericórdia, pois Tu és o melhor dos misericordiosos.",
+      "reference": "Alcorão 23:118 (Al-Mu'minun)"
+    },
+    {
+      "text": "Bem-aventurados os crentes que são humildes em suas orações.",
+      "reference": "Alcorão 23:1-2 (Al-Mu'minun)"
+    },
+    {
+      "text": "E que se afastam da futilidade.",
+      "reference": "Alcorão 23:3 (Al-Mu'minun)"
+    },
+    {
+      "text": "E que zelam pelos compromissos confiados e pelos seus pactos.",
+      "reference": "Alcorão 23:8 (Al-Mu'minun)"
+    },
+    {
+      "text": "E que guardam as suas orações.",
+      "reference": "Alcorão 23:9 (Al-Mu'minun)"
+    },
+    {
+      "text": "Acaso pensáveis que vos havíamos criado por mero passatempo?",
+      "reference": "Alcorão 23:115 (Al-Mu'minun)"
+    },
+    {
+      "text": "Repele o mal com aquilo que é melhor.",
+      "reference": "Alcorão 23:96 (Al-Mu'minun)"
+    },
+    {
+      "text": "Quem teme o seu Senhor no íntimo terá perdão e grande recompensa.",
+      "reference": "Alcorão 67:12 (Al-Mulk)"
+    },
+    {
+      "text": "Bendito seja Aquele em cujas mãos está a soberania, e que é Onipotente.",
+      "reference": "Alcorão 67:1 (Al-Mulk)"
+    },
+    {
+      "text": "Aquele que criou a morte e a vida, para provar quem de vós melhor age.",
+      "reference": "Alcorão 67:2 (Al-Mulk)"
+    },
+    {
+      "text": "Ele conhece o que ocultais e o que manifestais.",
+      "reference": "Alcorão 64:4 (At-Taghabun)"
+    },
+    {
+      "text": "Crede, pois, em Deus, no Seu Mensageiro e na luz que revelámos.",
+      "reference": "Alcorão 64:8 (At-Taghabun)"
+    },
+    {
+      "text": "Nenhuma desgraça acontece sem a permissão de Deus.",
+      "reference": "Alcorão 64:11 (At-Taghabun)"
+    },
+    {
+      "text": "E quem crê em Deus, Ele guiará o seu coração.",
+      "reference": "Alcorão 64:11 (At-Taghabun)"
+    },
+    {
+      "text": "Se emprestardes a Deus um empréstimo generoso, Ele o multiplicará para vós.",
+      "reference": "Alcorão 64:17 (At-Taghabun)"
+    },
+    {
+      "text": "Conhecedor do incognoscível e do visível, o Poderoso, o Prudente.",
+      "reference": "Alcorão 64:18 (At-Taghabun)"
+    },
+    {
+      "text": "Cumpri fielmente os vossos pactos.",
+      "reference": "Alcorão 17:34 (Al-Isra)"
+    },
+    {
+      "text": "E não andes pela terra com arrogância, pois jamais a fenderás.",
+      "reference": "Alcorão 17:37 (Al-Isra)"
+    },
+    {
+      "text": "E dá ao parente o que lhe é devido, e ao necessitado e ao viajante.",
+      "reference": "Alcorão 17:26 (Al-Isra)"
+    },
+    {
+      "text": "E não desperdices imoderadamente.",
+      "reference": "Alcorão 17:26 (Al-Isra)"
+    },
+    {
+      "text": "Se te apartas deles em busca da misericórdia, dize-lhes ao menos palavras amáveis.",
+      "reference": "Alcorão 17:28 (Al-Isra)"
+    },
+    {
+      "text": "Não andes com a mão atada ao pescoço, nem a estendas em demasia.",
+      "reference": "Alcorão 17:29 (Al-Isra)"
+    },
+    {
+      "text": "Dize aos meus servos que digam aquilo que é melhor.",
+      "reference": "Alcorão 17:53 (Al-Isra)"
+    },
+    {
+      "text": "E dize: Senhor meu, faze-me entrar com bondade e sair com bondade.",
+      "reference": "Alcorão 17:80 (Al-Isra)"
+    },
+    {
+      "text": "Veio a verdade e desvaneceu-se a falsidade; em verdade, a falsidade está fadada a desaparecer.",
+      "reference": "Alcorão 17:81 (Al-Isra)"
+    },
+    {
+      "text": "Dize: Trabalhai, que Deus verá as vossas obras.",
+      "reference": "Alcorão 9:105 (At-Tawba)"
+    },
+    {
+      "text": "Deus está com aqueles que são pacientes.",
+      "reference": "Alcorão 8:46 (Al-Anfal)"
+    },
+    {
+      "text": "E não disputeis entre vós, senão fraquejareis e perdereis o vigor.",
+      "reference": "Alcorão 8:46 (Al-Anfal)"
+    },
+    {
+      "text": "Quem teme a Deus e é paciente: Deus não malogra a recompensa dos benfeitores.",
+      "reference": "Alcorão 12:90 (Yusuf)"
+    },
+    {
+      "text": "A boa palavra é como uma boa árvore: sua raiz é firme e seus ramos se elevam ao céu.",
+      "reference": "Alcorão 14:24 (Ibrahim)"
+    },
+    {
+      "text": "Ela dá frutos a cada estação, com a permissão do seu Senhor.",
+      "reference": "Alcorão 14:25 (Ibrahim)"
+    },
+    {
+      "text": "Senhor, faze de mim e da minha descendência observantes da oração.",
+      "reference": "Alcorão 14:40 (Ibrahim)"
+    },
+    {
+      "text": "É Ele Quem envia os ventos como anúncio da Sua misericórdia.",
+      "reference": "Alcorão 7:57 (Al-A'raf)"
+    },
+    {
+      "text": "Comei e bebei, mas não vos excedais, pois Deus não aprecia os perdulários.",
+      "reference": "Alcorão 7:31 (Al-A'raf)"
+    },
+    {
+      "text": "Dize: O meu Senhor ordenou a justiça.",
+      "reference": "Alcorão 7:29 (Al-A'raf)"
+    },
+    {
+      "text": "E recordai-vos do vosso Senhor em vós mesmos, com humildade e temor.",
+      "reference": "Alcorão 7:205 (Al-A'raf)"
+    },
+    {
+      "text": "É Ele Quem vos criou de um só ser, e dele criou a sua companheira, para que com ela repousasse.",
+      "reference": "Alcorão 7:189 (Al-A'raf)"
+    },
+    {
+      "text": "Dize: O meu Senhor ampliou e restringiu o sustento a quem Lhe apraz.",
+      "reference": "Alcorão 34:39 (Saba)"
+    },
+    {
+      "text": "E tudo o que gastardes em caridade, Ele o reporá; pois Ele é o melhor dos provedores.",
+      "reference": "Alcorão 34:39 (Saba)"
+    },
+    {
+      "text": "Os agradecidos entre os meus servos são poucos.",
+      "reference": "Alcorão 34:13 (Saba)"
+    },
+    {
+      "text": "Deus é Quem retém os céus e a terra, para que não se desloquem.",
+      "reference": "Alcorão 35:41 (Fatir)"
+    },
+    {
+      "text": "Ó humanos! Vós sois os que necessitais de Deus, e Deus é o Opulento, o Louvável.",
+      "reference": "Alcorão 35:15 (Fatir)"
+    },
+    {
+      "text": "Em verdade, só temem a Deus, dentre os Seus servos, os sábios.",
+      "reference": "Alcorão 35:28 (Fatir)"
+    },
+    {
+      "text": "Aquele que escolhe a verdade e a confirma; esses são os tementes.",
+      "reference": "Alcorão 39:33 (Az-Zumar)"
+    },
+    {
+      "text": "Deus recolhe as almas no momento da morte e as que ainda não morreram, durante o sono.",
+      "reference": "Alcorão 39:42 (Az-Zumar)"
+    },
+    {
+      "text": "Acaso é igual aquele que sabe e aquele que não sabe?",
+      "reference": "Alcorão 39:9 (Az-Zumar)"
+    },
+    {
+      "text": "Só recebem a sua recompensa os perseverantes, sem medida.",
+      "reference": "Alcorão 39:10 (Az-Zumar)"
+    },
+    {
+      "text": "O vosso Senhor disse: Invocai-Me, que vos atenderei.",
+      "reference": "Alcorão 40:60 (Ghafir)"
+    },
+    {
+      "text": "Ele perdoa o pecado e aceita o arrependimento; é severo no castigo, mas é o Doador de mercês.",
+      "reference": "Alcorão 40:3 (Ghafir)"
+    },
+    {
+      "text": "Quem age bem, fá-lo em benefício próprio; e quem age mal, fá-lo em seu próprio prejuízo.",
+      "reference": "Alcorão 41:46 (Fussilat)"
+    },
+    {
+      "text": "Aqueles que dizem: O nosso Senhor é Deus, e depois se mantêm firmes: os anjos descem sobre eles.",
+      "reference": "Alcorão 41:30 (Fussilat)"
+    },
+    {
+      "text": "Não temais nem vos aflijais, e regozijai-vos com o paraíso prometido.",
+      "reference": "Alcorão 41:30 (Fussilat)"
+    },
+    {
+      "text": "Não se equiparam a boa ação e a má ação. Repele a má com a que for melhor.",
+      "reference": "Alcorão 41:34 (Fussilat)"
+    },
+    {
+      "text": "Aos que confiam em seu Senhor e perdoam quando se enfurecem.",
+      "reference": "Alcorão 42:37 (Ash-Shura)"
+    },
+    {
+      "text": "E que atendem ao seu Senhor, observam a oração e se aconselham mutuamente.",
+      "reference": "Alcorão 42:38 (Ash-Shura)"
+    },
+    {
+      "text": "E que do que lhes proporcionamos, fazem caridade.",
+      "reference": "Alcorão 42:38 (Ash-Shura)"
+    },
+    {
+      "text": "Não há nada que se assemelhe a Ele; e Ele é o Oniouvinte, o Onividente.",
+      "reference": "Alcorão 42:11 (Ash-Shura)"
+    },
+    {
+      "text": "Eis aqui a Minha senda reta; segui-a e não sigais outras veredas.",
+      "reference": "Alcorão 6:153 (Al-An'am)"
+    },
+    {
+      "text": "Os mais altos graus pertencem a quem comparece ante o Senhor como crente, tendo praticado o bem.",
+      "reference": "Alcorão 20:75 (Ta-Ha)"
+    },
+    {
+      "text": "E quem se desviar da Minha recordação terá uma vida estreita.",
+      "reference": "Alcorão 20:124 (Ta-Ha)"
+    },
+    {
+      "text": "Senhor meu, abre-me o peito, e facilita-me a missão.",
+      "reference": "Alcorão 20:25-26 (Ta-Ha)"
+    },
+    {
+      "text": "E desata o nó da minha língua, para que compreendam a minha palavra.",
+      "reference": "Alcorão 20:27-28 (Ta-Ha)"
+    },
+    {
+      "text": "Não tenhas pressa com o Alcorão antes que te seja revelado; e dize: Senhor, aumenta-me o saber.",
+      "reference": "Alcorão 20:114 (Ta-Ha)"
+    },
+    {
+      "text": "Deus não fita os vossos corpos nem as vossas formas, mas fita os vossos corações e as vossas obras.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "As ações valem pelas intenções, e cada um recebe segundo a sua intenção.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Nenhum de vós crê verdadeiramente até desejar para o irmão o que deseja para si mesmo.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Quem crê em Deus e no Último Dia, que diga o bem ou se cale.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "O forte não é o que vence na luta, mas o que domina a si mesmo na ira.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Sorrir para o teu irmão é uma caridade.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "A pureza é metade da fé.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Deus é Belo e ama a beleza.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Tenham misericórdia dos que estão na terra, que terão misericórdia de vós do céu.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "O melhor dentre vós é aquele que aprende o Alcorão e o ensina.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "Quem percorre um caminho em busca do conhecimento, Deus lhe facilita um caminho ao paraíso.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "A busca do conhecimento é um dever para todo muçulmano.",
+      "reference": "Hadith (Ibn Maja)"
+    },
+    {
+      "text": "Aquele que não agradece às pessoas, não agradece a Deus.",
+      "reference": "Hadith (Abu Dawud)"
+    },
+    {
+      "text": "A melhor caridade é a que se dá quando se tem pouco.",
+      "reference": "Hadith (Abu Dawud)"
+    },
+    {
+      "text": "Facilitai e não dificulteis; alegrai e não afasteis.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "Quem percorre a vida aliviando a aflição de um crente, Deus aliviará a sua no Dia do Juízo.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "A palavra boa é uma caridade.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Quem guia para o bem tem a mesma recompensa de quem o pratica.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Deus ama, dentre as obras, aquela que é constante, ainda que pequena.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Os mais amados por Deus são os mais úteis às pessoas.",
+      "reference": "Hadith (Tabarani)"
+    },
+    {
+      "text": "Não desprezes nenhuma boa ação, ainda que seja receber teu irmão com semblante alegre.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "A modéstia é um ramo da fé.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Quem se humilha por Deus, Deus o eleva.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Vê quem está abaixo de ti, e não quem está acima, para não menosprezares as graças de Deus.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Quão admirável é o caso do crente: tudo nele é bom.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Se lhe ocorre algo bom, agradece, e isso lhe é bom; se algo mau, é paciente, e isso lhe é bom.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "O paraíso está aos pés das mães.",
+      "reference": "Hadith (Nasa'i)"
+    },
+    {
+      "text": "Aquele que cuida do órfão e eu estaremos juntos no paraíso, assim.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "Cada articulação do corpo deve uma caridade a cada novo dia.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Remover do caminho aquilo que prejudica é caridade.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Não te enfureças, e o paraíso será teu.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "A religião é o trato leal e sincero.",
+      "reference": "Hadith (Sahih Muslim)"
+    },
+    {
+      "text": "Aquele que ajuda uma viúva e um pobre é como o que luta na causa de Deus.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "Sede no mundo como um viajante ou um estrangeiro de passagem.",
+      "reference": "Hadith (Bukhari)"
+    },
+    {
+      "text": "Aproveita cinco coisas antes de outras cinco: tua juventude antes da velhice.",
+      "reference": "Hadith (atribuído ao Profeta)"
+    },
+    {
+      "text": "Tua saúde antes da doença, e tua riqueza antes da pobreza.",
+      "reference": "Hadith (atribuído ao Profeta)"
+    },
+    {
+      "text": "O melhor dos atos é a oração feita no seu devido tempo.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "O crente que se mistura com as pessoas e suporta seu incômodo é melhor que o que se isola.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "Aquele que percorre a vida em busca do bem-estar do próximo encontra a serenidade.",
+      "reference": "Hadith (atribuído ao Profeta)"
+    },
+    {
+      "text": "Confia em Deus, mas amarra primeiro o teu camelo.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "Quem cala-se, salva-se.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "A bênção está na manhã cedo.",
+      "reference": "Hadith (atribuído ao Profeta)"
+    },
+    {
+      "text": "O verdadeiro rico é aquele cuja alma é rica.",
+      "reference": "Hadith (Bukhari e Muslim)"
+    },
+    {
+      "text": "Aquele que ama por Deus e detesta por Deus aperfeiçoou a sua fé.",
+      "reference": "Hadith (Abu Dawud)"
+    },
+    {
+      "text": "Sê escrupuloso, e serás o mais devoto dos homens.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "Contenta-te com o que Deus te concedeu, e serás o mais rico dos homens.",
+      "reference": "Hadith (Tirmidhi)"
+    },
+    {
+      "text": "Deus diz: Eu sou como o Meu servo pensa de Mim.",
+      "reference": "Hadith Qudsi (Bukhari e Muslim)"
+    },
+    {
+      "text": "Quando o servo se aproxima de Mim um palmo, Eu Me aproximo dele um braço.",
+      "reference": "Hadith Qudsi (Bukhari)"
+    },
+    {
+      "text": "Quando ele vem a Mim caminhando, Eu venho a ele apressado.",
+      "reference": "Hadith Qudsi (Bukhari)"
+    },
+    {
+      "text": "A Minha misericórdia precede a Minha ira.",
+      "reference": "Hadith Qudsi (Bukhari e Muslim)"
+    },
+    {
+      "text": "Ó servos Meus, todos vós estais perdidos, salvo aquele que Eu guio; pedi-Me, pois, orientação.",
+      "reference": "Hadith Qudsi (Sahih Muslim)"
+    },
+    {
+      "text": "Ó servos Meus, todos vós estais famintos, salvo aquele que Eu alimento; pedi-Me, pois, alimento.",
+      "reference": "Hadith Qudsi (Sahih Muslim)"
+    },
+    {
+      "text": "Lave o teu coração com lágrimas de arrependimento, e a luz nele há de brilhar.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "A ferida é o lugar por onde a Luz entra em ti.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Ontem eu era esperto e quis mudar o mundo; hoje sou sábio e mudo a mim mesmo.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Não te contentes com histórias do que aconteceu a outros; desdobra o teu próprio mito.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Aquilo que procuras também te procura.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Levanta as tuas palavras, não a tua voz; é a chuva que faz crescer as flores, não os trovões.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Sê como o rio na generosidade, como o sol na ternura, como a noite ao cobrir os defeitos alheios.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Tu não és uma gota no oceano; és todo o oceano numa gota.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "O silêncio é o idioma de Deus; todo o resto é tradução imperfeita.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Tenta paciência; tudo se torna doce para o paciente.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Vende a tua esperteza e compra perplexidade diante do mistério de Deus.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Onde houver ruína, há esperança de um tesouro.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "A tua tarefa não é buscar o amor, mas buscar e encontrar as barreiras que ergueste contra ele.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Deixa-te ser conduzido em silêncio pela estranha força do que verdadeiramente amas.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Quando ponho a minha cabeça no chão, é por amor; quando a levanto, é por amor.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Fecha os olhos e abre o coração; deixa o espírito te conduzir aonde a razão não chega.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "A beleza que amas torna-se o trabalho que realizas.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Não te aflijas; tudo o que perdes retorna sob outra forma.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Acende a tua própria vela e segue a luz do teu coração.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Meu Deus, se Te adoro por temor do inferno, queima-me nele; se por desejo do paraíso, recusa-mo.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "Mas se Te adoro por Ti mesmo, não me prives da Tua eterna Beleza.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "Amo a Deus de dois amores: o amor do meu desejo e o amor por Ele ser digno de amor.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "Ó meu Senhor, as estrelas brilham e os olhos dos homens se fecham; e Tu permaneces, o Rei vivo.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "O verdadeiro arrependimento é não voltar ao pecado, como a folha não volta ao ramo.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "Esconde tua bondade como escondes teus erros.",
+      "reference": "Rabia al-Adawiyya"
+    },
+    {
+      "text": "Tu te ocupas do mundo, e ele se ocupará da tua ruína; ocupa-te de Deus, e Ele te bastará.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Quem conhece a si mesmo, conhece o seu Senhor.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "O coração é a morada de Deus; purifica-o de tudo o que não é Ele.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "Sabe que não és deste mundo, mas estás de passagem por ele.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "A verdadeira riqueza não é a abundância de bens, mas a serenidade da alma.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "O conhecimento sem ação é loucura, e a ação sem conhecimento é vã.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "Quem se conhece a si mesmo, esse de fato conheceu o Senhor.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "Declara guerra à tua própria alma, e essa é a maior das batalhas.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "O remédio da ignorância é perguntar e aprender.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "A paciência é firme nos momentos em que a alma deseja desviar-se.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "Não há felicidade salvo na recordação constante de Deus.",
+      "reference": "Al-Ghazali"
+    },
+    {
+      "text": "Quem julga ter chegado já parou de caminhar.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "O coração é um espelho; pole-o com a recordação de Deus.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "A gratidão transforma o pouco em suficiente.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Quem busca a Deus encontra todas as coisas; quem busca todas as coisas, perde a Deus.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "O caminho até Deus é tão próximo quanto o teu próprio sopro.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Esvazia o coração da preocupação, e ele se encherá de luz.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "A humildade é a porta por onde entra toda a sabedoria.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Quem confia em Deus, repousa em meio à tempestade.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "O amor é uma ponte entre ti e tudo o que existe.",
+      "reference": "Rumi"
+    },
+    {
+      "text": "Quando estás em paz com Deus, estás em paz com o mundo.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Não há átomo na criação que não cante o louvor do seu Criador.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Quem pratica o que sabe, Deus o faz herdar o que ainda não sabia.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "A oração é a ascensão do crente.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Deus está mais perto de ti do que pensas; basta voltares-te para Ele.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "O arrependimento sincero é como a aurora que dissipa a noite.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "A língua que recorda a Deus é a mais doce das línguas.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Não temas a escuridão do túmulo se carregas a luz da fé.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Os verdadeiros amantes de Deus dormem pouco e suplicam muito.",
+      "reference": "Sabedoria sufi"
+    },
+    {
+      "text": "Toda alma provará a morte; e só a Deus retornareis.",
+      "reference": "Alcorão 3:185 (Ali-Imran)"
+    },
+    {
+      "text": "E não digais, sobre quem é morto na causa de Deus, que está morto; pelo contrário, está vivo.",
+      "reference": "Alcorão 2:154 (Al-Baqara)"
+    },
+    {
+      "text": "Quem desejar a recompensa deste mundo, saiba que com Deus está a recompensa de ambos.",
+      "reference": "Alcorão 4:134 (An-Nisa)"
+    },
+    {
+      "text": "Não vos canseis de fazer o bem; Deus aprecia os benevolentes.",
+      "reference": "Sabedoria do Alcorão"
+    },
+    {
+      "text": "E quando Meus servos perguntarem de Mim, dize que estou perto e atendo a quem Me chama.",
+      "reference": "Alcorão 2:186 (Al-Baqara)"
+    },
+    {
+      "text": "Deus não muda a condição de um povo enquanto este não mudar o que há em si mesmo.",
+      "reference": "Alcorão 13:11 (Ar-Ra'd)"
+    },
+    {
+      "text": "A vida deste mundo nada mais é que diversão passageira.",
+      "reference": "Alcorão 6:32 (Al-An'am)"
+    },
+    {
+      "text": "Dize: Quem provê do céu e da terra? Responde: É Deus.",
+      "reference": "Alcorão 34:24 (Saba)"
+    },
+    {
+      "text": "Os bens e os filhos são adorno da vida; mas as boas obras permanecem ante o teu Senhor.",
+      "reference": "Alcorão 18:46 (Al-Kahf)"
+    },
+    {
+      "text": "Quem espera o encontro com seu Senhor, que pratique o bem e a ninguém associe na adoração.",
+      "reference": "Alcorão 18:110 (Al-Kahf)"
+    },
+    {
+      "text": "Senhor nosso, concede-nos da Tua parte misericórdia e dirige acertadamente os nossos passos.",
+      "reference": "Alcorão 18:10 (Al-Kahf)"
+    },
+    {
+      "text": "E sê paciente, junto àqueles que invocam o seu Senhor, de manhã e à tarde, desejando o Seu rosto.",
+      "reference": "Alcorão 18:28 (Al-Kahf)"
+    },
+    {
+      "text": "Não digas, sobre coisa alguma: Fá-lo-ei amanhã, sem acrescentar: Se Deus quiser.",
+      "reference": "Alcorão 18:23-24 (Al-Kahf)"
+    },
+    {
+      "text": "Ele faz suceder a noite ao dia, perseguindo-o incessantemente.",
+      "reference": "Alcorão 7:54 (Al-A'raf)"
+    },
+    {
+      "text": "E o Sol, a Lua e as estrelas estão submetidos ao Seu comando.",
+      "reference": "Alcorão 7:54 (Al-A'raf)"
+    },
+    {
+      "text": "Em verdade, todo o louvor e a criação pertencem a Deus, Senhor do Universo.",
+      "reference": "Alcorão 7:54 (Al-A'raf)"
+    },
+    {
+      "text": "E o teu Senhor cria o que quer e escolhe; a escolha não cabe a eles.",
+      "reference": "Alcorão 28:68 (Al-Qasas)"
+    },
+    {
+      "text": "Todas as coisas perecem, salvo o Seu rosto. D'Ele é o juízo, e a Ele retornareis.",
+      "reference": "Alcorão 28:88 (Al-Qasas)"
+    },
+    {
+      "text": "Procura, com o que Deus te concedeu, a morada futura, sem esqueceres a tua parte neste mundo.",
+      "reference": "Alcorão 28:77 (Al-Qasas)"
+    },
+    {
+      "text": "Aqueles que creem e cujos corações se tranquilizam com a recordação de Deus prosperarão.",
+      "reference": "Alcorão 13:28 (Ar-Ra'd)"
+    },
+    {
+      "text": "Para os que praticam o bem haverá uma bela recompensa, e ainda mais.",
+      "reference": "Alcorão 10:26 (Yunus)"
+    },
+    {
+      "text": "Deus chama à morada da paz, e guia quem Lhe apraz à senda reta.",
+      "reference": "Alcorão 10:25 (Yunus)"
+    },
+    {
+      "text": "Sabei que a promessa de Deus é verdadeira.",
+      "reference": "Alcorão 10:55 (Yunus)"
+    },
+    {
+      "text": "Pela graça e pela misericórdia de Deus, que com isso se regozijem.",
+      "reference": "Alcorão 10:58 (Yunus)"
+    },
+    {
+      "text": "E paciência! A tua paciência só é possível com a ajuda de Deus.",
+      "reference": "Alcorão 16:127 (An-Nahl)"
+    },
+    {
+      "text": "Deus dará boa morada, nesta vida, a quem emigrou em Sua causa após ser injustiçado.",
+      "reference": "Alcorão 16:41 (An-Nahl)"
+    },
+    {
+      "text": "E não sejais como aquela que desmancha o que fiou, após o ter tecido firmemente.",
+      "reference": "Alcorão 16:92 (An-Nahl)"
+    },
+    {
+      "text": "Para quem agir bem, seja homem ou mulher, sendo crente, concederemos uma vida boa.",
+      "reference": "Alcorão 16:97 (An-Nahl)"
+    },
+    {
+      "text": "Acaso a recompensa da bondade pode ser outra senão a bondade?",
+      "reference": "Alcorão 55:60 (Ar-Rahman)"
+    },
+    {
+      "text": "Os crentes e as crentes são protetores uns dos outros: recomendam o bem e proíbem o ilícito.",
+      "reference": "Alcorão 9:71 (At-Tawba)"
+    },
+    {
+      "text": "Aceita das suas riquezas uma caridade que os purifique, e ora por eles.",
+      "reference": "Alcorão 9:103 (At-Tawba)"
+    },
+    {
+      "text": "Deus é o melhor dos protetores, e o mais clemente dos misericordiosos.",
+      "reference": "Alcorão 12:64 (Yusuf)"
+    },
+    {
+      "text": "A justiça está mais próxima da piedade; sede, pois, justos.",
+      "reference": "Alcorão 5:8 (Al-Ma'ida)"
+    },
+    {
+      "text": "E que o ódio a um povo não vos arraste à injustiça.",
+      "reference": "Alcorão 5:8 (Al-Ma'ida)"
+    },
+    {
+      "text": "Deus prometeu perdão e magnífica recompensa aos que creem e praticam o bem.",
+      "reference": "Alcorão 5:9 (Al-Ma'ida)"
+    },
+    {
+      "text": "Ele conhece a traição dos olhos e tudo o que os peitos ocultam.",
+      "reference": "Alcorão 40:19 (Ghafir)"
+    },
+    {
+      "text": "E o vosso Senhor é Indulgente, Dono da misericórdia.",
+      "reference": "Alcorão 18:58 (Al-Kahf)"
+    },
+    {
+      "text": "Quem se purifica, purifica-se em benefício próprio; e para Deus será o retorno.",
+      "reference": "Alcorão 35:18 (Fatir)"
+    },
+    {
+      "text": "A boa palavra ascende até Ele, e a boa ação Ele a eleva.",
+      "reference": "Alcorão 35:10 (Fatir)"
+    },
+    {
+      "text": "Ele criou os céus e a terra com a verdade.",
+      "reference": "Alcorão 39:5 (Az-Zumar)"
+    },
+    {
+      "text": "E a terra brilhará com a luz do seu Senhor.",
+      "reference": "Alcorão 39:69 (Az-Zumar)"
+    },
+    {
+      "text": "E recorda, pois a recordação beneficia os crentes.",
+      "reference": "Alcorão 51:55 (Adh-Dhariyat)"
+    },
+    {
+      "text": "E em vós há sinais; acaso não os vedes?",
+      "reference": "Alcorão 51:21 (Adh-Dhariyat)"
+    },
+    {
+      "text": "Trata bem aos pais; se um deles ou ambos atingirem a velhice, não lhes digas sequer um ai.",
+      "reference": "Alcorão 17:23 (Al-Isra)"
+    }
   ]
 }

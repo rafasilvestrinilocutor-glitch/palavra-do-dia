@@ -1,126 +1,1557 @@
 {
   "id": "espiritismo",
   "phrases": [
-    { "text": "Fora da caridade não há salvação.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Nascer, morrer, renascer ainda e progredir sem cessar, tal é a lei.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A verdadeira caridade não consiste apenas na esmola, mas na bondade e na indulgência para com todos.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Amai-vos uns aos outros e fazei aos outros o que quereríeis que vos fizessem.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A caridade que humilha não é caridade verdadeira; a verdadeira nunca fere a quem socorre.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Reconhece-se o verdadeiro espírita pela sua transformação moral e pelos esforços que faz para domar suas más inclinações.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A fé inabalável só o é quando pode encarar de frente a razão, em todas as épocas da Humanidade.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Sem caridade não há salvação; com a caridade, todo o resto encontra o seu caminho.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Toda a moral de Jesus se resume na caridade e na humildade.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Bem-aventurados os aflitos, porque serão consolados.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A dor de hoje é o resgate de ontem e a semente do bem de amanhã.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Cada um será recompensado segundo as suas obras, neste mundo e no outro.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "O perdão das ofensas é a primeira condição da verdadeira caridade.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Reconciliai-vos com vosso irmão antes de oferecer vossa oferenda ao altar.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Quem ama verdadeiramente o próximo não procura nele os defeitos, mas as virtudes.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A caridade é a chave que abre as portas da vida espiritual superior.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A prece é um ato de adoração, de humildade e de reconhecimento para com Deus.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Orai e vigiai, para que não cedais à tentação.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "O verdadeiro homem de bem julga-se a si mesmo com o mesmo rigor com que julga os outros.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Tende fé e ela vos sustentará; resignai-vos e ela vos consolará.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "As aflições da vida são provas para o adiantamento do espírito.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Amar o próximo como a si mesmo é fazer pelos outros o que se gostaria que fizessem por nós.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A humildade é a virtude que nos aproxima de Deus, porque o orgulho nos afasta dele.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Não basta não fazer o mal; é preciso fazer o bem o quanto possível.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Quem dá aos pobres empresta a Deus.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "A caridade verdadeira faz o bem sem ostentação e sem esperar recompensa.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Deus não pede contas do que não nos deu, mas pede do uso que fazemos do que recebemos.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "O sofrimento aceito com resignação eleva a alma e apressa o seu progresso.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-    { "text": "Toda a perfeição moral repousa sobre o amor ao próximo.", "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo" },
-
-    { "text": "Deus é a inteligência suprema, causa primária de todas as coisas.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A alma é imortal; a morte é apenas a destruição do invólucro material.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O Espírito conserva a sua individualidade depois da morte, e por ela continua a progredir.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A reencarnação é o meio pelo qual o Espírito alcança a perfeição que Deus lhe destinou.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O progresso é a lei da natureza; nenhum Espírito retrocede no caminho do bem.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O trabalho é uma lei da natureza, condição de progresso e de elevação do Espírito.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A consciência é a voz de Deus em nós, guia seguro para distinguir o bem do mal.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O verdadeiro mérito está em vencer a si mesmo e dominar as próprias paixões.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Fé é a confiança que o homem tem no futuro que Deus lhe reserva.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A felicidade não é deste mundo, mas conquista-se pelo bem que praticamos.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Não há senão um meio de saber se uma ação é boa: perguntar a si mesmo se a aprovaria nos outros.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O egoísmo é a chaga da Humanidade; vencê-lo é dever de todo Espírito que deseja progredir.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O orgulho e o egoísmo são as fontes de quase todos os males que afligem os homens.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A vida material é uma escola onde o Espírito aprende e se aperfeiçoa.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O Espírito traz consigo, ao reencarnar, o que adquiriu nas existências anteriores.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A lei de Deus está escrita na consciência de todos os homens.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Deus é justo e bom; tudo quanto faz tem por fim o bem das suas criaturas.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O homem é o artífice do seu próprio destino, pelo uso que faz do livre-arbítrio.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Cada existência é um passo a mais no caminho do progresso espiritual.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A morte nada destrói do que é essencial: a vida continua além do túmulo.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O futuro de cada Espírito está nas suas próprias mãos, segundo os seus esforços.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Praticar o bem pelo bem, sem esperar recompensa, é o caráter da verdadeira virtude.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Conhecer-se a si mesmo é o primeiro passo para a própria reforma.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A caridade e o amor ao próximo resumem toda a lei de Deus.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Os bens da Terra pertencem a Deus, que os distribui a seu critério; o homem é apenas o usufrutuário.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O sofrimento de hoje prepara a alegria de amanhã, na justiça das leis divinas.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "Nada se perde no plano de Deus; cada esforço para o bem produz o seu fruto.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A inteligência e a razão foram dadas ao homem para que distinguisse o bem do mal.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "O bem que fazemos é um tesouro que levamos conosco para a vida espiritual.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-    { "text": "A reencarnação é prova da justiça de Deus, que dá a todos os meios de progredir.", "reference": "Allan Kardec — O Livro dos Espíritos" },
-
-    { "text": "A mediunidade é um dom destinado ao bem e ao consolo, jamais à vaidade ou ao interesse.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "O médium é apenas o instrumento; a obra pertence aos bons Espíritos e a Deus.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "Para atrair os bons Espíritos é preciso elevar o pensamento e purificar o coração.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "A prática mediúnica exige humildade, prudência, desinteresse e amor ao próximo.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "Semelhante atrai semelhante: a qualidade do médium influencia a qualidade das comunicações.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "A faculdade mediúnica é uma responsabilidade, não um privilégio.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-    { "text": "Estudai, comparai e raciocinai antes de aceitar; a fé raciocinada não teme o exame.", "reference": "Allan Kardec — O Livro dos Médiuns" },
-
-    { "text": "Embora ninguém possa voltar atrás e fazer um novo começo, qualquer um pode recomeçar agora e fazer um novo fim.", "reference": "Chico Xavier" },
-    { "text": "Não devemos esperar que os outros nos amem; devemos amar primeiro e ensinar pelo exemplo.", "reference": "Chico Xavier" },
-    { "text": "Por mais difícil que tenha sido o seu dia, é sempre possível semear no próximo um pouco de paz.", "reference": "Chico Xavier" },
-    { "text": "A gente pode morar numa casa mais ou menos, numa rua mais ou menos, mas o que não pode é amar mais ou menos.", "reference": "Chico Xavier" },
-    { "text": "Cada um colhe aquilo que planta; quem semeia o bem, recolhe a paz.", "reference": "Chico Xavier" },
-    { "text": "Quando a vida nos apresenta um motivo para chorar, mostre que você tem mil motivos para sorrir.", "reference": "Chico Xavier" },
-    { "text": "Antes de falar, ouça. Antes de criticar, espere. Antes de orar, perdoe.", "reference": "Chico Xavier" },
-    { "text": "O carinho que oferecemos aos outros é a luz que ilumina o nosso próprio caminho.", "reference": "Chico Xavier" },
-    { "text": "Servir é a expressão mais bela do amor que aprendemos com Jesus.", "reference": "Chico Xavier" },
-    { "text": "Nossa vida é feita de hoje; ontem já passou e amanhã ainda não chegou. Façamos do presente uma oportunidade de bem.", "reference": "Chico Xavier" },
-    { "text": "Esquecer o mal que nos fizeram é a maior demonstração de grandeza da alma.", "reference": "Chico Xavier" },
-    { "text": "Mãos que ajudam são mais sagradas que lábios que oram.", "reference": "Chico Xavier" },
-    { "text": "O perdão é a flor que nasce no terreno do amor verdadeiro.", "reference": "Chico Xavier" },
-    { "text": "Tenha bom ânimo: as horas más também passam, e Deus nunca nos abandona.", "reference": "Chico Xavier" },
-    { "text": "A bondade é a única religião que todos compreendem, sem necessidade de palavras.", "reference": "Chico Xavier" },
-    { "text": "Trabalhemos sempre, porque o trabalho honesto é oração que dignifica a vida.", "reference": "Chico Xavier" },
-    { "text": "Quando você ajuda alguém a subir uma montanha, descobre que também chega mais perto do cume.", "reference": "Chico Xavier" },
-    { "text": "Ame a vida que Deus lhe deu e faça dela um instrumento do bem.", "reference": "Chico Xavier" },
-    { "text": "Toda dor traz consigo uma lição; cabe a nós aprendê-la com fé e coragem.", "reference": "Chico Xavier" },
-    { "text": "O sorriso é a oração silenciosa que conforta os corações.", "reference": "Chico Xavier" },
-    { "text": "Repartir o pouco que temos é multiplicar a esperança no coração de quem sofre.", "reference": "Chico Xavier" },
-    { "text": "A caridade não diminui quem a pratica; engrandece a alma que a oferece.", "reference": "Chico Xavier" },
-    { "text": "Cada gesto de bondade é uma semente de luz lançada no futuro.", "reference": "Chico Xavier" },
-    { "text": "A paciência é a virtude dos fortes e o consolo dos que esperam em Deus.", "reference": "Chico Xavier" },
-    { "text": "Reformar-se a si mesmo é a maior das conquistas e a base de toda evolução.", "reference": "Chico Xavier" },
-
-    { "text": "A fé transporta montanhas porque acende no coração a coragem de prosseguir.", "reference": "Emmanuel" },
-    { "text": "Embora a estrada seja longa, não desanime: cada passo no bem aproxima-nos de Deus.", "reference": "Emmanuel" },
-    { "text": "O perdão é a medicina divina que cura as feridas da alma.", "reference": "Emmanuel" },
-    { "text": "Trabalha e confia: o trabalho enobrece e a confiança em Deus sustenta.", "reference": "Emmanuel" },
-    { "text": "A oração é a ponte luminosa que liga a criatura ao Criador.", "reference": "Emmanuel" },
-    { "text": "Faze o bem sem olhar a quem; o bem que plantas hoje florescerá em ti amanhã.", "reference": "Emmanuel" },
-    { "text": "Não te deixes abater pelas sombras: depois da noite mais escura, sempre nasce a aurora.", "reference": "Emmanuel" },
-    { "text": "A humildade é a porta estreita por onde passam os que desejam a luz.", "reference": "Emmanuel" },
-    { "text": "Confia em Deus, trabalha e espera: este é o segredo da paz interior.", "reference": "Emmanuel" },
-    { "text": "Cada criatura que encontramos é uma oportunidade de servir e de amar.", "reference": "Emmanuel" },
-    { "text": "A reforma íntima começa no instante em que decidimos vencer nossos próprios defeitos.", "reference": "Emmanuel" },
-    { "text": "Quem ilumina o caminho dos outros não permanece nas trevas.", "reference": "Emmanuel" },
-    { "text": "A vida é uma bênção; aproveita cada dia para semear amor e colher paz.", "reference": "Emmanuel" },
-    { "text": "Suporta com fé as provas de hoje, pois são degraus que te elevam.", "reference": "Emmanuel" },
-    { "text": "O amor é a força que tudo vence e a luz que tudo transforma.", "reference": "Emmanuel" },
-    { "text": "A bondade silenciosa vale mais que mil palavras vazias.", "reference": "Emmanuel" },
-    { "text": "Deus nunca nos dá uma cruz maior do que as forças que nos concede.", "reference": "Emmanuel" },
-    { "text": "Onde há fé, há esperança; onde há esperança, há vida que se renova.", "reference": "Emmanuel" },
-    { "text": "Servir aos outros é a forma mais pura de adorar a Deus.", "reference": "Emmanuel" },
-    { "text": "A caridade é o sol que aquece todos os corações sem distinção.", "reference": "Emmanuel" },
-    { "text": "Quem perdoa liberta-se das correntes do passado e caminha mais leve.", "reference": "Emmanuel" },
-    { "text": "Aprende a amar até os que te ferem, pois assim te tornas semelhante ao Mestre.", "reference": "Emmanuel" },
-    { "text": "A paz que buscamos fora de nós só pode nascer dentro de nós.", "reference": "Emmanuel" },
-    { "text": "Cada dia é um novo livro em branco; escreve nele páginas de bondade.", "reference": "Emmanuel" },
-    { "text": "A esperança é a estrela que guia os corações através das noites da provação.", "reference": "Emmanuel" }
+    {
+      "text": "Fora da caridade não há salvação.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Nascer, morrer, renascer ainda e progredir sem cessar, tal é a lei.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A verdadeira caridade não consiste apenas na esmola, mas na bondade e na indulgência para com todos.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Amai-vos uns aos outros e fazei aos outros o que quereríeis que vos fizessem.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A caridade que humilha não é caridade verdadeira; a verdadeira nunca fere a quem socorre.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Reconhece-se o verdadeiro espírita pela sua transformação moral e pelos esforços que faz para domar suas más inclinações.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A fé inabalável só o é quando pode encarar de frente a razão, em todas as épocas da Humanidade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Sem caridade não há salvação; com a caridade, todo o resto encontra o seu caminho.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Toda a moral de Jesus se resume na caridade e na humildade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Bem-aventurados os aflitos, porque serão consolados.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A dor de hoje é o resgate de ontem e a semente do bem de amanhã.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Cada um será recompensado segundo as suas obras, neste mundo e no outro.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O perdão das ofensas é a primeira condição da verdadeira caridade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Reconciliai-vos com vosso irmão antes de oferecer vossa oferenda ao altar.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem ama verdadeiramente o próximo não procura nele os defeitos, mas as virtudes.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A caridade é a chave que abre as portas da vida espiritual superior.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A prece é um ato de adoração, de humildade e de reconhecimento para com Deus.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Orai e vigiai, para que não cedais à tentação.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O verdadeiro homem de bem julga-se a si mesmo com o mesmo rigor com que julga os outros.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Tende fé e ela vos sustentará; resignai-vos e ela vos consolará.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "As aflições da vida são provas para o adiantamento do espírito.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Amar o próximo como a si mesmo é fazer pelos outros o que se gostaria que fizessem por nós.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A humildade é a virtude que nos aproxima de Deus, porque o orgulho nos afasta dele.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Não basta não fazer o mal; é preciso fazer o bem o quanto possível.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem dá aos pobres empresta a Deus.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A caridade verdadeira faz o bem sem ostentação e sem esperar recompensa.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus não pede contas do que não nos deu, mas pede do uso que fazemos do que recebemos.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O sofrimento aceito com resignação eleva a alma e apressa o seu progresso.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Toda a perfeição moral repousa sobre o amor ao próximo.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus é a inteligência suprema, causa primária de todas as coisas.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A alma é imortal; a morte é apenas a destruição do invólucro material.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O Espírito conserva a sua individualidade depois da morte, e por ela continua a progredir.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A reencarnação é o meio pelo qual o Espírito alcança a perfeição que Deus lhe destinou.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O progresso é a lei da natureza; nenhum Espírito retrocede no caminho do bem.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O trabalho é uma lei da natureza, condição de progresso e de elevação do Espírito.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A consciência é a voz de Deus em nós, guia seguro para distinguir o bem do mal.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O verdadeiro mérito está em vencer a si mesmo e dominar as próprias paixões.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Fé é a confiança que o homem tem no futuro que Deus lhe reserva.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A felicidade não é deste mundo, mas conquista-se pelo bem que praticamos.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Não há senão um meio de saber se uma ação é boa: perguntar a si mesmo se a aprovaria nos outros.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O egoísmo é a chaga da Humanidade; vencê-lo é dever de todo Espírito que deseja progredir.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O orgulho e o egoísmo são as fontes de quase todos os males que afligem os homens.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A vida material é uma escola onde o Espírito aprende e se aperfeiçoa.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O Espírito traz consigo, ao reencarnar, o que adquiriu nas existências anteriores.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A lei de Deus está escrita na consciência de todos os homens.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Deus é justo e bom; tudo quanto faz tem por fim o bem das suas criaturas.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O homem é o artífice do seu próprio destino, pelo uso que faz do livre-arbítrio.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Cada existência é um passo a mais no caminho do progresso espiritual.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A morte nada destrói do que é essencial: a vida continua além do túmulo.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O futuro de cada Espírito está nas suas próprias mãos, segundo os seus esforços.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Praticar o bem pelo bem, sem esperar recompensa, é o caráter da verdadeira virtude.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Conhecer-se a si mesmo é o primeiro passo para a própria reforma.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A caridade e o amor ao próximo resumem toda a lei de Deus.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Os bens da Terra pertencem a Deus, que os distribui a seu critério; o homem é apenas o usufrutuário.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O sofrimento de hoje prepara a alegria de amanhã, na justiça das leis divinas.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Nada se perde no plano de Deus; cada esforço para o bem produz o seu fruto.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A inteligência e a razão foram dadas ao homem para que distinguisse o bem do mal.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O bem que fazemos é um tesouro que levamos conosco para a vida espiritual.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A reencarnação é prova da justiça de Deus, que dá a todos os meios de progredir.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A mediunidade é um dom destinado ao bem e ao consolo, jamais à vaidade ou ao interesse.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "O médium é apenas o instrumento; a obra pertence aos bons Espíritos e a Deus.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Para atrair os bons Espíritos é preciso elevar o pensamento e purificar o coração.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "A prática mediúnica exige humildade, prudência, desinteresse e amor ao próximo.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Semelhante atrai semelhante: a qualidade do médium influencia a qualidade das comunicações.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "A faculdade mediúnica é uma responsabilidade, não um privilégio.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Estudai, comparai e raciocinai antes de aceitar; a fé raciocinada não teme o exame.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Embora ninguém possa voltar atrás e fazer um novo começo, qualquer um pode recomeçar agora e fazer um novo fim.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Não devemos esperar que os outros nos amem; devemos amar primeiro e ensinar pelo exemplo.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Por mais difícil que tenha sido o seu dia, é sempre possível semear no próximo um pouco de paz.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "A gente pode morar numa casa mais ou menos, numa rua mais ou menos, mas o que não pode é amar mais ou menos.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Cada um colhe aquilo que planta; quem semeia o bem, recolhe a paz.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Quando a vida nos apresenta um motivo para chorar, mostre que você tem mil motivos para sorrir.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Antes de falar, ouça. Antes de criticar, espere. Antes de orar, perdoe.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "O carinho que oferecemos aos outros é a luz que ilumina o nosso próprio caminho.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Servir é a expressão mais bela do amor que aprendemos com Jesus.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Nossa vida é feita de hoje; ontem já passou e amanhã ainda não chegou. Façamos do presente uma oportunidade de bem.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Esquecer o mal que nos fizeram é a maior demonstração de grandeza da alma.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Mãos que ajudam são mais sagradas que lábios que oram.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "O perdão é a flor que nasce no terreno do amor verdadeiro.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Tenha bom ânimo: as horas más também passam, e Deus nunca nos abandona.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "A bondade é a única religião que todos compreendem, sem necessidade de palavras.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Trabalhemos sempre, porque o trabalho honesto é oração que dignifica a vida.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Quando você ajuda alguém a subir uma montanha, descobre que também chega mais perto do cume.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Ame a vida que Deus lhe deu e faça dela um instrumento do bem.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Toda dor traz consigo uma lição; cabe a nós aprendê-la com fé e coragem.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "O sorriso é a oração silenciosa que conforta os corações.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Repartir o pouco que temos é multiplicar a esperança no coração de quem sofre.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "A caridade não diminui quem a pratica; engrandece a alma que a oferece.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Cada gesto de bondade é uma semente de luz lançada no futuro.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "A paciência é a virtude dos fortes e o consolo dos que esperam em Deus.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "Reformar-se a si mesmo é a maior das conquistas e a base de toda evolução.",
+      "reference": "Chico Xavier"
+    },
+    {
+      "text": "A fé transporta montanhas porque acende no coração a coragem de prosseguir.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Embora a estrada seja longa, não desanime: cada passo no bem aproxima-nos de Deus.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "O perdão é a medicina divina que cura as feridas da alma.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Trabalha e confia: o trabalho enobrece e a confiança em Deus sustenta.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A oração é a ponte luminosa que liga a criatura ao Criador.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Faze o bem sem olhar a quem; o bem que plantas hoje florescerá em ti amanhã.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Não te deixes abater pelas sombras: depois da noite mais escura, sempre nasce a aurora.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A humildade é a porta estreita por onde passam os que desejam a luz.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Confia em Deus, trabalha e espera: este é o segredo da paz interior.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Cada criatura que encontramos é uma oportunidade de servir e de amar.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A reforma íntima começa no instante em que decidimos vencer nossos próprios defeitos.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Quem ilumina o caminho dos outros não permanece nas trevas.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A vida é uma bênção; aproveita cada dia para semear amor e colher paz.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Suporta com fé as provas de hoje, pois são degraus que te elevam.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "O amor é a força que tudo vence e a luz que tudo transforma.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A bondade silenciosa vale mais que mil palavras vazias.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Deus nunca nos dá uma cruz maior do que as forças que nos concede.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Onde há fé, há esperança; onde há esperança, há vida que se renova.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Servir aos outros é a forma mais pura de adorar a Deus.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A caridade é o sol que aquece todos os corações sem distinção.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Quem perdoa liberta-se das correntes do passado e caminha mais leve.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Aprende a amar até os que te ferem, pois assim te tornas semelhante ao Mestre.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A paz que buscamos fora de nós só pode nascer dentro de nós.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "Cada dia é um novo livro em branco; escreve nele páginas de bondade.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "A esperança é a estrela que guia os corações através das noites da provação.",
+      "reference": "Emmanuel"
+    },
+    {
+      "text": "O bem que praticamos é a única riqueza que atravessa conosco a fronteira da morte.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada reencarnação é uma nova oportunidade que a misericórdia de Deus nos concede.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A consciência tranquila é o travesseiro mais macio para o sono do espírito.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem semeia caridade colhe paz; quem semeia rancor colhe noites sem fim.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A fé que não se firma na razão é castelo construído sobre a areia.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Antes de pedir a Deus que mude o mundo, peça forças para mudares a ti mesmo.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "O perdão é a chave que liberta dois prisioneiros: aquele que ofendeu e aquele que foi ofendido.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A dor não é castigo, mas escola onde a alma aprende as lições que recusou na alegria.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Trabalho, estudo e vigilância são os três degraus da reforma íntima.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Onde falta o amor, sobram as razões para a discórdia.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "O espírito não envelhece; apenas troca de roupagem ao longo das existências.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Ninguém colhe trigo onde plantou espinhos; a lei de causa e efeito não falha.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A prece sincera não muda os desígnios de Deus, mas transforma o coração de quem ora.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada criatura é nosso irmão de caminhada rumo à perfeição.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Reencarnar é voltar à escola da vida para concluir as lições inacabadas.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A humildade não nos diminui; apenas nos coloca no lugar verdadeiro diante de Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O bem feito em silêncio ecoa por toda a eternidade.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "Não há acaso no Universo; há leis sábias que ainda não compreendemos.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A morte é apenas uma viagem de regresso à verdadeira pátria espiritual.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Servir sem esperar recompensa é compreender o verdadeiro sentido da caridade.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem ergue o irmão caído ergue também a própria alma.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A reforma do mundo começa pela reforma de cada coração.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Deus escreve direito mesmo nas linhas tortas das nossas provações.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A inveja é uma chama que queima primeiro quem a abriga.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Toda lágrima derramada no bem é semente de consolo para o futuro.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A verdadeira oração se faz com a vida, não apenas com os lábios.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Perdoar setenta vezes sete é compreender que também precisamos de perdão.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O progresso espiritual não admite retrocesso, apenas pausas para descanso.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Cultiva o bem em ti e colherás paz ao teu redor.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A caridade do pensamento é tão necessária quanto a caridade das mãos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem julga o irmão esquece que também será julgado pela mesma medida.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A vida material passa; o aprendizado da alma permanece.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Não desanime diante da prova: ela é a régua que mede o tamanho da tua fé.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "O orgulho fecha as portas que a humildade abre.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada gesto de bondade acende uma luz que jamais se apaga.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A paz interior é fruto da consciência que cumpriu o seu dever.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Amar os que nos amam é fácil; amar os que nos ferem é a verdadeira lição do Cristo.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus é pai e mãe de todos; perante Ele não existem filhos preferidos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A vida espiritual é a continuação natural da vida terrena.",
+      "reference": "Allan Kardec — O Céu e o Inferno"
+    },
+    {
+      "text": "Não temas a morte; teme apenas viver sem praticar o bem.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Toda provação carrega consigo a possibilidade de uma vitória.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "O médium é a ponte; a mensagem de luz pertence aos bons espíritos.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Pensa no bem e atrairás a presença dos bons espíritos.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "A gratidão é a memória do coração que reconhece as bênçãos recebidas.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem confia em Deus nunca caminha sozinho.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A caridade é a maior de todas as virtudes porque resume todas as outras.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Cada amanhecer é um convite divino para recomeçar no bem.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "As mãos que servem são mais belas que os lábios que apenas falam.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A justiça divina é lenta para os impacientes e perfeita para os que esperam.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem cultiva a paciência colhe serenidade nos dias de tempestade.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O verdadeiro espírita prova a sua fé pela transformação da própria conduta.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A esmola do bom exemplo vale mais que a esmola da moeda.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A alma que perdoa carrega menos peso na longa estrada das existências.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Deus não nos abandona nas trevas; é nas trevas que mais o procuramos.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Toda dor tem um propósito; toda lágrima rega a flor da nossa evolução.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Renascer é continuar a obra que a morte apenas interrompeu.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O bem que adiamos é o bem que jamais praticaremos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A oração é o respiro da alma que se volta para Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem aprende a servir descobre o sentido mais profundo de viver.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A maledicência fere três pessoas: quem fala, quem ouve e quem é falado.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada criatura traz dentro de si uma centelha do Criador.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé sem obras é como a lâmpada sem óleo: não ilumina ninguém.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Não há felicidade duradoura fora do caminho do dever cumprido.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A reencarnação revela a infinita paciência de Deus para com seus filhos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem domina a própria língua já venceu metade das suas imperfeições.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O amor verdadeiro não cobra, não humilha e não se cansa.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A vida nos cobra apenas o que confiamos a nós mesmos: o uso do tempo.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Toda alma é eterna aprendiz na escola do amor.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Deus não criou o sofrimento, mas o transformou em escada para o céu.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A bondade não pede platéia; floresce melhor no silêncio.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem ilumina a noite do irmão jamais permanece nas próprias trevas.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A humildade reconhece em cada erro uma oportunidade de aprender.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé raciocinada não teme a dúvida, pois a converte em busca da verdade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O mal que fazemos volta a nós; o bem que semeamos também.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada existência terrena é um capítulo do longo livro da nossa imortalidade.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Trabalhar com alegria é orar com as próprias mãos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A serenidade nasce quando aceitamos o que não podemos mudar e mudamos o que podemos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem perdoa de coração rompe as correntes do passado.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "A caridade começa em casa, mas não pode terminar nela.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito sábio não foge da prova; aprende com ela.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "Deus mede nossa grandeza pelo amor que dedicamos aos pequeninos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A paz do mundo nasce da paz de cada coração reconciliado.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "O tempo é o tecelão paciente que tece o destino com os fios das nossas escolhas.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Aquele que ajuda sem alarde recebe a recompensa que o mundo não pode ver.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem cultiva a fé colhe coragem nas horas escuras.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A evolução do espírito não conhece atalhos; cada degrau exige esforço próprio.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Onde há perdão, a paz constrói o seu lar.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O bom espírita não condena ninguém, pois sabe que todos caminham e caem.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A bondade é a linguagem que os surdos ouvem e os cegos enxergam.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada provação superada é um tesouro guardado no patrimônio da alma.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A vida sem caridade é viagem sem rumo e árvore sem fruto.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Não há noite tão longa que resista à aurora da esperança.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O orgulhoso vê defeitos; o humilde vê irmãos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A consciência é o tribunal de onde ninguém escapa.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Deus confia ao homem o leme da própria vida pelo dom do livre-arbítrio.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Quem aprende a doar nunca empobrece; multiplica.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A prece pelo inimigo é a mais alta expressão da caridade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Toda alma traz, ao renascer, a bagagem que ela mesma preparou.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O perdão verdadeiro não guarda recibo da ofensa.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A felicidade não está em ter muito, mas em precisar de pouco para servir.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Cada dia é uma página em branco para escrevermos com atos de amor.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito cresce na proporção do bem que pratica.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Quem confia em Deus encontra calma onde os outros só veem tempestade.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A reencarnação é a justiça e a misericórdia de Deus caminhando juntas.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A maior caridade é ajudar o irmão a levantar-se sem feri-lo na queda.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O ódio aprisiona; o amor liberta. Escolhe a tua corrente ou a tua asa.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Onde a razão ilumina, a fé não tropeça.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus não pede o impossível; pede apenas o nosso melhor de cada dia.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A vida é breve para o ódio e longa demais para a indiferença.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem semeia paciência colhe a colheita serena do entendimento.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A morte não separa os que se amam; apenas muda o modo de estarmos juntos.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "O bem é a única moeda aceita no banco da eternidade.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A reforma íntima é a obra de toda uma existência, refeita a cada dia.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Quem se conhece a si mesmo deixa de temer os outros.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A oração levanta o espírito como a brisa eleva a ave.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada irmão que sofre é um chamado de Deus à nossa caridade.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O perdão não muda o passado, mas liberta o futuro.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A fé é a luz que não se apaga quando todas as outras se extinguem.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Servir é amar de mangas arregaçadas.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito que ama a verdade não teme procurá-la onde quer que esteja.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Toda lágrima enxugada no próximo torna-se orvalho de paz em nós.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A vida material é empréstimo; o espírito é a única posse verdadeira.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem cala diante da injúria já venceu a metade da batalha.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A caridade não escolhe a quem ajuda; estende a mão a todos.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus nos dá o tempo; cabe a nós dar-lhe valor.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A humildade é o solo onde todas as virtudes criam raiz.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem ora e trabalha constrói a ponte entre o céu e a Terra.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Não existe destino cego; existe colheita do que livremente plantamos.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O sofrimento é passageiro; a lição que ele ensina é eterna.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "A bondade praticada hoje é a paz que colheremos amanhã.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada renascimento é um novo amanhecer na jornada da alma.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O coração que perdoa torna-se templo onde Deus habita.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Não te canses de fazer o bem, pois a recompensa virá quando menos esperares.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A verdadeira grandeza está em servir, não em ser servido.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A prece da manhã prepara a alma para os deveres do dia.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito reencarna para aprender o que ainda lhe falta amar.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem perdoa primeiro é sempre o mais forte.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A caridade é a religião do coração que dispensa templos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Confia em Deus como a semente confia na terra que a acolhe.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Toda existência é um exame; aprovamos ou repetimos a lição.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A paz não se encontra fugindo do mundo, mas servindo-o com amor.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Quem ergue o desanimado recebe coragem de volta em dobro.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A luz da fé brilha mais forte na escuridão das provações.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "O bem feito a um só já é bem feito a toda a humanidade.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada palavra de consolo é uma esmola que ninguém vê, mas Deus registra.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A reencarnação é o caminho largo da misericórdia divina.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Não há salvação para quem se fecha ao amor do próximo.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem cultiva a serenidade transforma cada tempestade em brisa.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A vida nos ensina pela dor quando recusamos aprender pelo amor.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "O espírito puro não busca milagres; busca o dever cumprido.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Deus está mais perto de quem mais sofre, esperando apenas que o chamemos.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A bondade não conhece fronteiras de raça, credo ou nação.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem aprende a esperar em Deus jamais espera em vão.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O verdadeiro tesouro do espírito é a soma das suas boas ações.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A oração é a chave de ouro que abre as portas da serenidade.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada degrau de sofrimento vencido nos aproxima do cume da luz.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A caridade material alivia o corpo; a caridade moral cura a alma.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem cultiva o perdão planta jardins onde havia desertos.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Deus não cobra o que não confiou; confiou-nos o amor, e dele cobrará.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O espírito esclarecido enxerga na morte apenas uma mudança de paisagem.",
+      "reference": "Allan Kardec — O Céu e o Inferno"
+    },
+    {
+      "text": "A reforma do caráter é o único milagre que depende de nós.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Quem distribui bondade nunca fica sem reservas.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A fé desperta forças que dormem no fundo de cada coração.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Trabalhar pelo próximo é a oração que Deus mais escuta.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O orgulho é a pedra em que tropeçam os espíritos ainda imaturos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada amanhecer traz a oportunidade de pagar uma dívida com o bem.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A paciência é o amor que sabe esperar.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "O médium consciente serve à luz e foge da vaidade.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "A elevação dos pensamentos é o melhor escudo contra as sombras.",
+      "reference": "Allan Kardec — O Livro dos Médiuns"
+    },
+    {
+      "text": "Deus não fez o homem para o desespero, mas para a esperança.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A verdadeira fé caminha de mãos dadas com a razão e com a caridade.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem aprende a perdoar aprende também a ser feliz.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito que progride não olha para trás com remorso, mas para frente com fé.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A bondade do coração vale mais que a riqueza das mãos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada existência é um empréstimo de tempo para multiplicar o amor.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O bem que recusamos hoje será o dever que nos cobrarão amanhã.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A prece humilde alcança mais do que a oração orgulhosa.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Quem confia na justiça de Deus não teme a injustiça dos homens.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A reencarnação ensina que ninguém está perdido enquanto há tempo de melhorar.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O coração caridoso encontra alegria até na mais simples tarefa.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Deus escreve a história da alma em capítulos chamados existências.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A humildade transforma o sábio em servo e o servo em mestre.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem se entrega ao trabalho do bem afasta de si as sombras do tédio.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A fé que move o espírita é a confiança serena no amanhã de Deus.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "O perdão é o remédio que cura sem deixar cicatriz.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada lágrima do arrependimento limpa uma página do nosso passado.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "A caridade não pergunta de onde vem o sofrimento; apenas procura aliviá-lo.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem ama de verdade não mede sacrifícios.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito vence o mundo quando vence a si mesmo.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A esperança é o alimento da alma nos dias de escassez.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Trabalhar para o bem comum é abreviar o próprio caminho ao alto.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A paz nasce no coração que parou de exigir e começou a servir.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Deus confia ao homem o livre-arbítrio para que mereça o que conquista.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Quem perdoa o irmão liberta a si mesmo das próprias amarras.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Cada gesto de amor é uma centelha que ilumina a eternidade.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A reencarnação é a página seguinte de um livro que nunca termina mal para quem ama.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O verdadeiro espírita não fala de caridade; ele a vive.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé é a âncora que mantém a alma firme nas marés da provação.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Quem dá sem ferir e recebe sem humilhar conhece o segredo da caridade.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Deus mede o valor da oferta pelo amor que a acompanha.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A serenidade é a colheita de quem semeou paciência e perdão.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito sábio agradece tanto pela rosa quanto pelo espinho.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Cada criatura é uma estrela em formação no firmamento de Deus.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A bondade abre portas que o dinheiro jamais alcança.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem confia em Deus transforma o medo em coragem e a dor em escola.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A oração sincera é a luz que dissipa as névoas da alma.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O bem que cala na boca fala mais alto na consciência.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A reencarnação reúne o que parecia perdido e reconcilia o que parecia impossível.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem aprende a amar a Deus aprende a amar a todos os irmãos.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A humildade não busca aplausos; contenta-se com a paz da consciência.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada provação é uma carta de Deus convidando-nos a crescer.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "A caridade é a única dívida que enriquece quem a paga.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem perdoa sem reservas conhece a liberdade dos filhos de Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O trabalho honesto santifica as mãos e enobrece a alma.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé não dispensa o esforço; ela o sustenta.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus está em toda parte, mas habita de modo especial no coração que ama.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Cada espírito é arquiteto do próprio futuro, tijolo por tijolo, ato por ato.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A bondade vivida fala mais alto que a sabedoria apenas estudada.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem aceita a prova com fé já carrega no peito a vitória.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A paz interior é o prêmio reservado a quem fez do bem o seu caminho.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O perdão é o gesto divino ao alcance das mãos humanas.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Quem semeia esperança colhe coragem nas estações difíceis.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A reencarnação é a oportunidade que o amor de Deus renova sem cansar.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "O verdadeiro progresso mede-se pela bondade, não pelo saber.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "A oração ilumina o caminho mesmo quando os olhos não enxergam.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Cada bom pensamento é uma prece silenciosa que sobe a Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A caridade é a ponte entre a Terra e o Céu.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem dá amor recebe paz; quem dá paz recebe o próprio Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito que serve nunca se sente vazio.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A fé raciocinada é a luz que não cega, mas conduz.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus transforma nossas quedas em degraus quando nos levantamos com humildade.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Cada dia vivido no bem é um dia a menos no exílio do egoísmo.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A reencarnação prova que Deus não desiste de nenhum de seus filhos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem ama o trabalho transforma o cansaço em oração.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A bondade silenciosa é a assinatura dos espíritos elevados.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O perdão é a vitória do amor sobre o orgulho.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Deus nos dá a vida; cabe a nós devolvê-la cheia de bons frutos.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé acende a lâmpada que nenhuma tempestade consegue apagar.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Cada criatura que ajudamos é um degrau que subimos rumo à luz.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A humildade reconhece em cada queda do irmão a sua própria fragilidade.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem perdoa setenta vezes sete recebe a paz que o mundo não pode dar.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "A reforma íntima é a obra mais difícil e a mais necessária.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "O bem não tem pressa, mas nunca falha à hora certa.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A caridade é o termômetro que mede o progresso real da alma.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem serve a Deus servindo o próximo encontra a verdadeira religião.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A esperança espírita não nega a dor; ilumina o seu sentido.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Cada existência nos aproxima da perfeição que Deus reservou a todos.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "O amor é o único idioma que todos os espíritos compreendem.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem semeia paz colhe o sono tranquilo da consciência.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "A fé sem caridade é semente sem terra; nunca germina.",
+      "reference": "Allan Kardec — O Evangelho Segundo o Espiritismo"
+    },
+    {
+      "text": "Deus não pesa o tamanho da oferta, mas a grandeza do amor que a inspira.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A serenidade é o perfume que exala da alma reconciliada com Deus.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O espírito que perdoa caminha mais leve pelas estradas da vida.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "Cada gesto de caridade é uma prece transformada em ação.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A reencarnação é a escada onde nenhum degrau é desperdiçado.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Quem confia em Deus aprende a sorrir mesmo debaixo da chuva.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "A bondade é o tesouro que os ladrões não roubam e o tempo não corrói.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O perdão é o primeiro passo de quem deseja a verdadeira paz.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "Deus colocou em cada coração a bússola da consciência para não nos perdermos.",
+      "reference": "Allan Kardec — O Livro dos Espíritos"
+    },
+    {
+      "text": "Cada provação superada com fé é uma colheita guardada para a eternidade.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A humildade é a chave que abre as portas que o orgulho fecha.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "Quem ama os pequeninos ama a Deus na sua mais terna manifestação.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A oração é o fio invisível que liga o coração humano ao coração de Deus.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Cada dia traz uma nova chance de sermos melhores do que fomos ontem.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O verdadeiro espírita não exige milagres; ele os produz pelo bem que pratica.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "A fé ilumina a noite mais escura com a certeza de um amanhã melhor.",
+      "reference": "Bezerra de Menezes"
+    },
+    {
+      "text": "Quem aprende a servir descobre que dar é a forma mais nobre de receber.",
+      "reference": "Joanna de Ângelis (Divaldo Franco)"
+    },
+    {
+      "text": "A caridade não tem medida; quanto mais se reparte, mais se multiplica.",
+      "reference": "Sabedoria espírita"
+    },
+    {
+      "text": "O bem que fazemos hoje é a luz que iluminará o nosso amanhã.",
+      "reference": "Emmanuel (Chico Xavier)"
+    },
+    {
+      "text": "A reencarnação é a prova viva de que o amor de Deus jamais se cansa.",
+      "reference": "Doutrina Espírita"
+    },
+    {
+      "text": "Cada coração que perdoa torna o mundo um pouco mais próximo do Céu.",
+      "reference": "Sabedoria espírita"
+    }
   ]
 }

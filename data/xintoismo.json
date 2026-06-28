@@ -1,121 +1,1601 @@
 {
   "id": "xintoismo",
   "phrases": [
-    { "text": "A pureza do coração reflete-se em cada gesto do dia.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Onde há sinceridade, os kami se aproximam em silêncio.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A montanha, o rio e a árvore guardam o sopro do divino.", "reference": "Tradição Xintoísta" },
-    { "text": "Antes de pedir, agradece pelo que já recebeste.", "reference": "Provérbio Japonês" },
-    { "text": "Lava as mãos e o coração antes de te aproximares do sagrado.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A natureza não fala, mas ensina quem sabe ouvir.", "reference": "Tradição Xintoísta" },
-    { "text": "Makoto, a sinceridade, é o caminho mais reto entre o homem e os deuses.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Cada manhã é um novo começo oferecido pelos kami.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A folha que cai cumpre seu destino sem queixa.", "reference": "Provérbio Japonês" },
-    { "text": "Reverencia os ancestrais, pois sua memória sustenta tua casa.", "reference": "Tradição Xintoísta" },
-    { "text": "A água que corre limpa nunca esquece o caminho para o mar.", "reference": "Provérbio Japonês" },
-    { "text": "No silêncio do bosque sagrado, a alma encontra repouso.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Trata cada grão de arroz como dádiva do céu e da terra.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A harmonia entre as pessoas é o jardim mais belo.", "reference": "Tradição Xintoísta" },
-    { "text": "Quem respeita a árvore antiga respeita o tempo que a fez crescer.", "reference": "Provérbio Japonês" },
-    { "text": "A impureza se dissolve como orvalho ao sol da sinceridade.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O kami habita onde a beleza é simples e o coração é limpo.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Inclina-te diante da natureza e ela inclinará a ti.", "reference": "Tradição Xintoísta" },
-    { "text": "A gratidão é a primeira oração e a última também.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O sol nasce para todos, mas só o grato o vê de verdade.", "reference": "Provérbio Japonês" },
-    { "text": "Mantém limpo o teu lar, pois nele moram os espíritos protetores.", "reference": "Tradição Xintoísta" },
-    { "text": "A pedra coberta de musgo nos lembra a paciência dos séculos.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Diante do antigo, os textos do Kojiki ensinam a honrar a origem de todas as coisas.", "reference": "Tradição Xintoísta" },
-    { "text": "O vento entre os pinheiros é a voz daquilo que não se vê.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Sê verdadeiro, e tua palavra terá o peso de uma montanha.", "reference": "Provérbio Japonês" },
-    { "text": "A flor de cerejeira nos ensina a beleza do que é breve.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Quem cuida da fonte cuida de todos que dela beberão.", "reference": "Tradição Xintoísta" },
-    { "text": "O coração sincero não precisa de muitas palavras.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Antes do trabalho, saúda o dia; depois dele, agradece o descanso.", "reference": "Tradição Xintoísta" },
-    { "text": "A neve cobre tudo por igual, lembrando a pureza que renova o mundo.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Honra o alimento, pois nele se reúnem o céu, a terra e o esforço humano.", "reference": "Tradição Xintoísta" },
-    { "text": "O rio não disputa com a pedra; contorna-a com serenidade.", "reference": "Provérbio Japonês" },
-    { "text": "A reverência começa nos pequenos gestos do cotidiano.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Cada estação tem seu kami, e cada kami tem sua lição.", "reference": "Tradição Xintoísta" },
-    { "text": "Quem limpa o caminho prepara espaço para a bênção.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A sinceridade é a ponte invisível entre o visível e o invisível.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Sob o portão torii, deixa para trás o que pesa no coração.", "reference": "Tradição Xintoísta" },
-    { "text": "A bondade silenciosa ecoa mais longe que o trovão.", "reference": "Provérbio Japonês" },
-    { "text": "Aprende com o bambu: curva-te no vento e não te quebres.", "reference": "Provérbio Japonês" },
-    { "text": "O fogo do lar é sagrado; mantém-no com cuidado e gratidão.", "reference": "Tradição Xintoísta" },
-    { "text": "A pureza não é ausência de mancha, mas vontade de renovar-se.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Toda a vida é hóspede da terra; trata-a como anfitriã generosa.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O orvalho da manhã é breve, mas reflete o céu inteiro.", "reference": "Provérbio Japonês" },
-    { "text": "Honra o trabalho das tuas mãos como oferenda aos kami.", "reference": "Tradição Xintoísta" },
-    { "text": "Quem semeia com sinceridade colhe com paz.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A montanha é paciente; ensina-nos a permanecer firmes.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Saúda o sol nascente como quem reencontra um velho amigo.", "reference": "Tradição Xintoísta" },
-    { "text": "A casa limpa convida a harmonia a permanecer.", "reference": "Provérbio Japonês" },
-    { "text": "Os ancestrais caminham conosco quando agimos com retidão.", "reference": "Tradição Xintoísta" },
-    { "text": "A beleza simples de uma pedra basta para acalmar a mente.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O coração impuro turva até a água mais clara.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Cada respiração é um presente; recebe-a com gratidão.", "reference": "Sabedoria Xintoísta" },
-    { "text": "As antigas crônicas lembram que o mundo nasceu da harmonia entre o céu e a terra.", "reference": "Tradição Xintoísta" },
-    { "text": "Respeita o pequeno inseto, pois também ele carrega o sopro da vida.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A oferenda mais pura é o coração sem segundas intenções.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Quem vive em harmonia com as estações vive em paz consigo mesmo.", "reference": "Tradição Xintoísta" },
-    { "text": "O som do sino afasta as sombras e desperta a alma.", "reference": "Tradição Xintoísta" },
-    { "text": "A folha verde e a folha seca pertencem à mesma árvore da vida.", "reference": "Provérbio Japonês" },
-    { "text": "Cuida do jardim e o jardim cuidará do teu espírito.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A verdade dita com gentileza é a mais alta forma de respeito.", "reference": "Sabedoria Xintoísta" },
-    { "text": "No reflexo da água parada, vê-se o céu e a si mesmo.", "reference": "Provérbio Japonês" },
-    { "text": "Antes de julgar o caminho do outro, purifica o teu olhar.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A natureza é o primeiro templo, e o céu, o seu teto.", "reference": "Tradição Xintoísta" },
-    { "text": "Cada amanhecer apaga as faltas de quem deseja recomeçar.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O respeito aos mortos ilumina o caminho dos vivos.", "reference": "Tradição Xintoísta" },
-    { "text": "A gratidão transforma o pão simples em banquete.", "reference": "Provérbio Japonês" },
-    { "text": "Plantar uma árvore é confiar no futuro que não veremos.", "reference": "Provérbio Japonês" },
-    { "text": "O kami da colheita sorri para as mãos que trabalham com alegria.", "reference": "Tradição Xintoísta" },
-    { "text": "A serenidade do lago vem de não resistir ao vento.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Limpa teu corpo, acalma tua mente, abre teu coração.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Quem honra a fonte de onde bebe nunca tem sede de gratidão.", "reference": "Provérbio Japonês" },
-    { "text": "A primavera não se apressa, e ainda assim tudo floresce.", "reference": "Provérbio Japonês" },
-    { "text": "O sagrado não está longe; mora na próxima respiração.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A reverência ao antigo bosque é reverência à própria vida.", "reference": "Tradição Xintoísta" },
-    { "text": "O coração tranquilo enxerga o que os olhos apressados perdem.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Cada gota de chuva carrega a generosidade do céu.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A casa onde reina a harmonia atrai a boa fortuna.", "reference": "Provérbio Japonês" },
-    { "text": "O caminho dos kami é o caminho da naturalidade e da sinceridade.", "reference": "Tradição Xintoísta" },
-    { "text": "Recolhe-te ao silêncio e ouvirás o que a pressa abafa.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A montanha sagrada não pede adoração; inspira respeito por si mesma.", "reference": "Tradição Xintoísta" },
-    { "text": "O que se faz com pureza de intenção floresce sem esforço.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Honra a soleira de tua casa, pois por ela entram bênçãos e visitas.", "reference": "Tradição Xintoísta" },
-    { "text": "A grama curva-se ao vento e levanta-se de novo; assim faz o sábio.", "reference": "Provérbio Japonês" },
-    { "text": "Saúda a lua cheia como quem agradece a luz na escuridão.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O coração grato encontra templos por toda parte.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Antes de colher, agradece à terra que ofereceu seu fruto.", "reference": "Tradição Xintoísta" },
-    { "text": "A pureza interior é o espelho onde os kami se contemplam.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Não há gesto pequeno demais para conter sinceridade.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O carvalho cresce devagar, mas resiste a mil tempestades.", "reference": "Provérbio Japonês" },
-    { "text": "A oração feita em silêncio chega mais perto do céu.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Vive em equilíbrio, pois o excesso afasta a harmonia.", "reference": "Tradição Xintoísta" },
-    { "text": "A primeira luz do ano traz a promessa de um coração renovado.", "reference": "Tradição Xintoísta" },
-    { "text": "O respeito mútuo é a raiz de toda comunidade serena.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Como o pinheiro guarda seu verde no inverno, guarda tua paz na adversidade.", "reference": "Provérbio Japonês" },
-    { "text": "Quem ama a natureza nunca caminha sozinho.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A flor não compete com a flor ao lado; apenas floresce.", "reference": "Provérbio Japonês" },
-    { "text": "Agradece à manhã, ao meio-dia e à noite, pois cada hora é dádiva.", "reference": "Tradição Xintoísta" },
-    { "text": "O coração puro não teme o reflexo no espelho sagrado.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Reverencia a fonte, o campo e a colheita como elos de uma só bênção.", "reference": "Tradição Xintoísta" },
-    { "text": "A serenidade nasce de aceitar o ritmo das estações.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Toda criatura tem seu lugar na grande harmonia do mundo.", "reference": "Tradição Xintoísta" },
-    { "text": "O orvalho parte ao sol sem lamento; ensina-nos a soltar.", "reference": "Provérbio Japonês" },
-    { "text": "Cuida das palavras como cuidas das sementes: delas nasce o futuro.", "reference": "Sabedoria Xintoísta" },
-    { "text": "As crônicas antigas lembram que honrar a origem é honrar a si mesmo.", "reference": "Tradição Xintoísta" },
-    { "text": "A simplicidade de uma flor solitária encanta mais que mil enfeites.", "reference": "Provérbio Japonês" },
-    { "text": "Quando o coração está limpo, todo caminho conduz ao sagrado.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Honra a água, o ar e a terra, pois sem eles não há vida.", "reference": "Tradição Xintoísta" },
-    { "text": "A gratidão silenciosa do amanhecer vale mais que mil promessas.", "reference": "Sabedoria Xintoísta" },
-    { "text": "O sábio caminha leve, deixando apenas pegadas de respeito.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A árvore que dá sombra ao viajante não pede nada em troca.", "reference": "Provérbio Japonês" },
-    { "text": "Acolhe cada estação como um mestre que vem e parte.", "reference": "Tradição Xintoísta" },
-    { "text": "No respeito à natureza, encontramos o reflexo do próprio coração.", "reference": "Sabedoria Xintoísta" },
-    { "text": "Purifica teu pensamento e o mundo parecerá mais claro.", "reference": "Sabedoria Xintoísta" },
-    { "text": "A oferenda de flores frescas é a linguagem da gratidão.", "reference": "Tradição Xintoísta" },
-    { "text": "Quem vive com sinceridade dorme com a consciência tranquila.", "reference": "Provérbio Japonês" },
-    { "text": "O céu, a montanha e o mar guardam a mesma quietude antiga.", "reference": "Sabedoria Xintoísta" }
+    {
+      "text": "A pureza do coração reflete-se em cada gesto do dia.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Onde há sinceridade, os kami se aproximam em silêncio.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A montanha, o rio e a árvore guardam o sopro do divino.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Antes de pedir, agradece pelo que já recebeste.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Lava as mãos e o coração antes de te aproximares do sagrado.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A natureza não fala, mas ensina quem sabe ouvir.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Makoto, a sinceridade, é o caminho mais reto entre o homem e os deuses.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Cada manhã é um novo começo oferecido pelos kami.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A folha que cai cumpre seu destino sem queixa.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Reverencia os ancestrais, pois sua memória sustenta tua casa.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A água que corre limpa nunca esquece o caminho para o mar.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "No silêncio do bosque sagrado, a alma encontra repouso.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Trata cada grão de arroz como dádiva do céu e da terra.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A harmonia entre as pessoas é o jardim mais belo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem respeita a árvore antiga respeita o tempo que a fez crescer.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "A impureza se dissolve como orvalho ao sol da sinceridade.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O kami habita onde a beleza é simples e o coração é limpo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Inclina-te diante da natureza e ela inclinará a ti.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gratidão é a primeira oração e a última também.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O sol nasce para todos, mas só o grato o vê de verdade.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Mantém limpo o teu lar, pois nele moram os espíritos protetores.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pedra coberta de musgo nos lembra a paciência dos séculos.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Diante do antigo, os textos do Kojiki ensinam a honrar a origem de todas as coisas.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O vento entre os pinheiros é a voz daquilo que não se vê.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Sê verdadeiro, e tua palavra terá o peso de uma montanha.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "A flor de cerejeira nos ensina a beleza do que é breve.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Quem cuida da fonte cuida de todos que dela beberão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração sincero não precisa de muitas palavras.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Antes do trabalho, saúda o dia; depois dele, agradece o descanso.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A neve cobre tudo por igual, lembrando a pureza que renova o mundo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra o alimento, pois nele se reúnem o céu, a terra e o esforço humano.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O rio não disputa com a pedra; contorna-a com serenidade.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "A reverência começa nos pequenos gestos do cotidiano.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Cada estação tem seu kami, e cada kami tem sua lição.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem limpa o caminho prepara espaço para a bênção.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A sinceridade é a ponte invisível entre o visível e o invisível.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Sob o portão torii, deixa para trás o que pesa no coração.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A bondade silenciosa ecoa mais longe que o trovão.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Aprende com o bambu: curva-te no vento e não te quebres.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "O fogo do lar é sagrado; mantém-no com cuidado e gratidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pureza não é ausência de mancha, mas vontade de renovar-se.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Toda a vida é hóspede da terra; trata-a como anfitriã generosa.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O orvalho da manhã é breve, mas reflete o céu inteiro.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Honra o trabalho das tuas mãos como oferenda aos kami.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem semeia com sinceridade colhe com paz.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A montanha é paciente; ensina-nos a permanecer firmes.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Saúda o sol nascente como quem reencontra um velho amigo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A casa limpa convida a harmonia a permanecer.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Os ancestrais caminham conosco quando agimos com retidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A beleza simples de uma pedra basta para acalmar a mente.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O coração impuro turva até a água mais clara.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Cada respiração é um presente; recebe-a com gratidão.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "As antigas crônicas lembram que o mundo nasceu da harmonia entre o céu e a terra.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Respeita o pequeno inseto, pois também ele carrega o sopro da vida.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A oferenda mais pura é o coração sem segundas intenções.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Quem vive em harmonia com as estações vive em paz consigo mesmo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O som do sino afasta as sombras e desperta a alma.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A folha verde e a folha seca pertencem à mesma árvore da vida.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Cuida do jardim e o jardim cuidará do teu espírito.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A verdade dita com gentileza é a mais alta forma de respeito.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "No reflexo da água parada, vê-se o céu e a si mesmo.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Antes de julgar o caminho do outro, purifica o teu olhar.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A natureza é o primeiro templo, e o céu, o seu teto.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Cada amanhecer apaga as faltas de quem deseja recomeçar.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O respeito aos mortos ilumina o caminho dos vivos.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gratidão transforma o pão simples em banquete.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Plantar uma árvore é confiar no futuro que não veremos.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "O kami da colheita sorri para as mãos que trabalham com alegria.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A serenidade do lago vem de não resistir ao vento.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Limpa teu corpo, acalma tua mente, abre teu coração.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Quem honra a fonte de onde bebe nunca tem sede de gratidão.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "A primavera não se apressa, e ainda assim tudo floresce.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "O sagrado não está longe; mora na próxima respiração.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A reverência ao antigo bosque é reverência à própria vida.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração tranquilo enxerga o que os olhos apressados perdem.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Cada gota de chuva carrega a generosidade do céu.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A casa onde reina a harmonia atrai a boa fortuna.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "O caminho dos kami é o caminho da naturalidade e da sinceridade.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Recolhe-te ao silêncio e ouvirás o que a pressa abafa.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A montanha sagrada não pede adoração; inspira respeito por si mesma.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O que se faz com pureza de intenção floresce sem esforço.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a soleira de tua casa, pois por ela entram bênçãos e visitas.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A grama curva-se ao vento e levanta-se de novo; assim faz o sábio.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Saúda a lua cheia como quem agradece a luz na escuridão.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O coração grato encontra templos por toda parte.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Antes de colher, agradece à terra que ofereceu seu fruto.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pureza interior é o espelho onde os kami se contemplam.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Não há gesto pequeno demais para conter sinceridade.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O carvalho cresce devagar, mas resiste a mil tempestades.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "A oração feita em silêncio chega mais perto do céu.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Vive em equilíbrio, pois o excesso afasta a harmonia.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A primeira luz do ano traz a promessa de um coração renovado.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O respeito mútuo é a raiz de toda comunidade serena.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Como o pinheiro guarda seu verde no inverno, guarda tua paz na adversidade.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Quem ama a natureza nunca caminha sozinho.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A flor não compete com a flor ao lado; apenas floresce.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Agradece à manhã, ao meio-dia e à noite, pois cada hora é dádiva.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração puro não teme o reflexo no espelho sagrado.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Reverencia a fonte, o campo e a colheita como elos de uma só bênção.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A serenidade nasce de aceitar o ritmo das estações.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Toda criatura tem seu lugar na grande harmonia do mundo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O orvalho parte ao sol sem lamento; ensina-nos a soltar.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Cuida das palavras como cuidas das sementes: delas nasce o futuro.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "As crônicas antigas lembram que honrar a origem é honrar a si mesmo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A simplicidade de uma flor solitária encanta mais que mil enfeites.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Quando o coração está limpo, todo caminho conduz ao sagrado.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a água, o ar e a terra, pois sem eles não há vida.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gratidão silenciosa do amanhecer vale mais que mil promessas.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O sábio caminha leve, deixando apenas pegadas de respeito.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A árvore que dá sombra ao viajante não pede nada em troca.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "Acolhe cada estação como um mestre que vem e parte.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "No respeito à natureza, encontramos o reflexo do próprio coração.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Purifica teu pensamento e o mundo parecerá mais claro.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A oferenda de flores frescas é a linguagem da gratidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem vive com sinceridade dorme com a consciência tranquila.",
+      "reference": "Provérbio Japonês"
+    },
+    {
+      "text": "O céu, a montanha e o mar guardam a mesma quietude antiga.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Diante do amanhecer, curva-te: Amaterasu reparte sua luz com todos.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A água do rio purifica quem a recebe de coração aberto.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Onde a sinceridade reside, nenhuma oração se perde.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Reverencia a montanha, pois nela dorme um kami muito antigo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "O bambu inclina-se na tempestade e por isso não se parte.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Limpa a soleira ao amanhecer e a paz entrará por ela.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem agradece ao sol já começou o dia em harmonia.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A pedra do rio brilha porque a água a poliu com paciência.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "No coração limpo, o kami encontra morada tranquila.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Saúda a árvore anciã: ela viu mais primaveras do que tua memória guarda.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gratidão pela tigela de arroz é também uma oração.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem respeita o pequeno riacho honra o grande mar que ele alimenta.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Antes de falar, deixa o coração assentar como a água parada.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O orvalho na folha guarda, por um instante, o céu inteiro.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Passa sob o torii e deixa para fora o que te suja a alma.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A harmonia da casa começa no respeito entre quem nela vive.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Cada estação traz seu festival e seu motivo de gratidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O vento entre os cedros sussurra o nome daquilo que não se vê.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Sê verdadeiro contigo, e os kami reconhecerão tua voz.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A flor de cerejeira cai no auge da beleza e nos ensina a soltar.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem cuida da nascente protege a vida de todos os que descem o vale.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A reverência mais sincera cabe num simples inclinar de cabeça.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o fogo do lar como honras quem te aquece o coração.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A neve cobre o mundo de branco para lembrar-nos de recomeçar.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O coração impuro não vê com clareza, nem mesmo a si próprio.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Aprende com o rio: contorna o obstáculo sem perder o rumo.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Agradece aos ancestrais, pois suas mãos lavraram o teu caminho.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A montanha não se move e, por isso, todos a tomam por guia.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Lava as mãos, acalma a mente, e então aproxima-te do sagrado.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O kami da colheita sorri às mãos que trabalham com alegria.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A folha que cai não se queixa do outono; cumpre seu ciclo.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem mantém o pátio limpo mantém a alma desimpedida.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A luz do sol não escolhe a quem aquece; aprende com ela a ser justo.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "No silêncio do bosque sagrado, até o pensamento se inclina.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gota constante fura a rocha; assim age a paciência sincera.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Toda fonte de água merece um instante de gratidão.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "O sábio caminha leve e deixa apenas pegadas de respeito.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Acende a lanterna do festival e tua alegria iluminará o vizinho.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A verdade dita com gentileza pesa mais que mil gritos.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra a terra antes da semente, e a colheita honrará tuas mãos.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O lago sereno reflete o céu porque não resiste ao vento.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Diante do espelho sagrado, o coração puro não tem o que temer.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Cada manhã apaga as faltas de quem deseja recomeçar limpo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Pinheiro algum perde o verde no inverno; guarda tua paz na dureza.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Respeita o pequeno inseto: também ele carrega o sopro da vida.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A oferenda mais bela é o coração sem segundas intenções.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem vive no ritmo das estações vive em paz consigo mesmo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "O som do sino dispersa as sombras e desperta a atenção.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Folha verde e folha seca nasceram do mesmo galho da vida.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Cuida do jardim e o jardim cuidará do teu espírito cansado.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Na água parada vê-se o céu e também o próprio rosto.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Antes de apontar o caminho alheio, purifica o teu olhar.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A natureza é o primeiro templo e o céu é o seu telhado.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Honrar os que partiram ilumina os passos de quem fica.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Plantar uma árvore é confiar num futuro que não veremos.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Limpa o corpo, serena a mente, abre o coração: eis o caminho.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Bebe da fonte e lembra-te de quem cavou o poço.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A primavera não se apressa, e ainda assim tudo floresce a tempo.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O sagrado não mora longe; habita a próxima respiração.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Reverenciar o velho bosque é reverenciar a própria vida.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração sereno percebe o que a alma agitada deixa escapar.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Cada gota de chuva traz consigo a generosidade do céu.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Na casa onde reina a harmonia, a boa fortuna se demora.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O caminho dos kami é o da naturalidade e da verdade.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Faz-te quieto como o tanque ao entardecer e a verdade virá à tona.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A montanha sagrada não pede culto; inspira respeito por si só.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O que se faz com intenção pura floresce sem esforço.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a entrada de tua casa: por ela passam bênçãos e amigos.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A grama curva-se ao vento e ergue-se de novo; assim faz o sábio.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Inclina-te à lua nova, semente de luz que voltará a crescer.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O coração grato encontra altares por toda parte.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Ao recolher o fruto, deixa na terra o agradecimento como semente.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pureza interior é o espelho em que os kami se contemplam.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Nenhum gesto é pequeno demais para conter sinceridade.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O carvalho cresce devagar, mas enfrenta mil tempestades.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A prece feita em silêncio chega mais perto do céu.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "Guarda a medida em tudo, pois o excesso rompe a harmonia.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A primeira luz do ano promete um coração renovado.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O respeito que se dá ao próximo retorna como concórdia à aldeia.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem ama a natureza jamais caminha sozinho.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A flor não disputa com a flor ao lado; apenas floresce.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Agradece pela manhã, pelo meio-dia e pela noite: cada hora é dádiva.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "Reverencia a fonte, o campo e a colheita como uma só bênção.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A calma chega a quem caminha no compasso das estações.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Do menor inseto à montanha, tudo ocupa seu posto na ordem do mundo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Ao primeiro sol, o orvalho evapora sem queixa; aprende a deixar ir.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Cuida das palavras como das sementes: delas nasce o amanhã.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honrar a origem é honrar a si mesmo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Uma flor solitária encanta mais que mil enfeites.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quando o coração está limpo, todo caminho leva ao sagrado.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Sem a água, o ar e a terra nada respira; honra os três a cada dia.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Um instante de gratidão na aurora pesa mais que mil juramentos.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "A árvore que dá sombra ao viajante nada pede em troca.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Recebe cada estação como um hóspede que ensina ao chegar e ao partir.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "No respeito à natureza espelha-se o próprio coração.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Clareia o pensamento e o mundo todo parecerá mais nítido.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A oferenda de flores frescas é a língua da gratidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem vive com sinceridade dorme de consciência tranquila.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Céu, montanha e mar guardam a mesma quietude antiga.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O sal espalhado purifica o limiar e afasta o que pesa.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Diante da cachoeira, a mente se cala e o espírito desperta.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A garça pousa na água sem turvá-la; aprende sua leveza.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O kami do lar guarda quem o trata com respeito e limpeza.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Cada nó do bambu marca um tempo de paciente crescimento.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A reverência ensina o corpo aquilo que a alma já sabe.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra o vento que seca a colheita e move as velas do barco.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração que agradece nunca está realmente vazio.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A corda sagrada lembra que o invisível também tem morada.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem ouve o silêncio do santuário ouve a si próprio.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O arrozal verde é o agradecimento da terra ao trabalho do homem.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Antes de pisar a ponte, lembra-te de quem a construiu.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A lanterna de pedra guarda a luz para o viajante da noite.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Renova-te como o rio, que é sempre o mesmo e sempre novo.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A montanha enevoada não esconde o cume de quem sabe esperar.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Trata o hóspede como tratarias um kami que chega à tua porta.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração simples encontra alegria onde o ganancioso vê pouco.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante da semente, recorda a árvore que ela esconde.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "O orvalho não pesa na folha, mas a refresca; sê assim com os outros.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A maré sobe e desce sem pressa; também o sábio respeita o tempo.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra o caminho de pedras que conduz ao santuário do espírito.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem mantém o coração leve atravessa o vale mais fundo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A neve do galho cai sozinha quando chega seu tempo.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Saúda a primeira chuva da estação como dádiva do céu.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O respeito é a primeira oferenda diante de qualquer altar.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A raposa do santuário lembra que o sagrado guarda mistério.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Não há colheita sem antes haver paciência e cuidado.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A brisa da manhã carrega o perfume da gratidão.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Onde o coração é puro, a casa simples vira templo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Inclina-te ante a cascata e deixa que ela leve teu cansaço.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A formiga constrói seu mundo grão a grão; honra o esforço pequeno.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O kami escuta menos as palavras e mais a intenção.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem desperdiça a água esquece a sede que um dia teve.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A lua reflete-se em cada poça por igual; tal é a graça do céu.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Antes do festival, varre-se o pátio e o coração.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O sábio aprende mais com o silêncio da floresta que com o ruído da feira.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra a estrela da manhã, mensageira do dia que retorna.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A folha de chá só revela seu sabor na água tranquila.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem se purifica antes da prece já purificou metade do dia.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "O junco verga-se à cheia e por isso sobrevive à enchente.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A reverência ao trovão é reverência à força que renova a terra.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Cada degrau ao santuário é um passo para dentro de si.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração rancoroso turva até a água da fonte mais limpa.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A cegonha cuida do ninho como o homem deve cuidar do lar.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Agradece à colmeia pelo mel e à flor pela colmeia.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O caminho mais reto entre o homem e o kami é a sinceridade.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Deixa o calçado à porta e a poeira do mundo com ele.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A árvore mais alta começou como um broto humilde.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem cuida do campo cuida também de quem virá depois.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O fogo do festival une a aldeia numa só gratidão.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A onda quebra na rocha, mas a rocha também lapida a onda.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "No reflexo do lago, o céu e a terra se reconciliam.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o anoitecer como honras o trabalho bem cumprido.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem ouve o canto do pássaro ouve a alegria sem dono.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A pétala que cai na correnteza segue o curso sem resistir.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Diante do mar, lembra-te de quão vasta é a generosidade do mundo.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Sê grato pela colheita, mesmo a pequena, pois é fruto de muitos dons.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O kami do arroz acompanha quem não desperdiça nem um grão.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A névoa que cobre o vale parte sozinha quando o sol decide.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra teus pais como honras a terra que te sustenta.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A flor de ameixa abre-se ainda no frio para anunciar a esperança.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem semeia respeito colhe harmonia ao seu redor.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O caminho de terra também conduz ao sagrado, se o coração for reto.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A montanha cala-se, mas quem a contempla aprende a serenar.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Antes do alimento, um instante de gratidão alimenta a alma.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "O bambu vazio por dentro é forte por fora; humildade dá firmeza.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A chuva da primavera não escolhe o jardim; aprende sua bondade.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra a estação do plantio como o festival do recomeço.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem aquieta o coração ouve o murmúrio do riacho longínquo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "O caracol sobe a montanha sem pressa, e ainda assim chega.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A vela acesa diante do altar é luz que sai do coração.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Reverencia a árvore guardiã que abriga o santuário e seu silêncio.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem trata bem a água será tratado bem por ela.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O coração agradecido encontra festa até no dia comum.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A folhagem de outono cai dourada, ensinando a beleza do fim.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra o trabalho das tuas mãos como oferenda silenciosa.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A mente serena é como o céu sem nuvens após a chuva.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Diante da semente do amanhã, planta com fé e cuida com amor.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O pinheiro à beira-mar resiste ao sal e ao vento sem reclamar.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Cada sino que toca convida a alma a despertar de novo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A gratidão é a corrente que liga o céu, a terra e o homem.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem honra o pão honra a chuva, o sol e a mão que o amassou.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O ribeiro canta porque desce com leveza, sem disputar caminho.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A pureza do gesto vale mais que a grandeza da oferenda.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Sê como a água: humilde, mas capaz de moldar a pedra.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante do velho cedro, o orgulho do homem se faz pequeno.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra a montanha sob a neve, paciente guardiã do inverno.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem reverencia a aurora encontra forças para a jornada.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "A teia do orvalho desfaz-se ao sol, mas brilhou ao amanhecer.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Cuida da brasa do lar e ela cuidará das tuas noites frias.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O coração reto não teme o reflexo na água límpida.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A primavera devolve o que o inverno parecia ter levado.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Saúda o rio que passa, pois nunca verás a mesma água outra vez.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra a sombra fresca da floresta no calor do meio-dia.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem se curva diante do antigo aprende a humildade do tempo.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "O grão de areia também faz a praia; nada é insignificante.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A oração sincera não precisa de muitas palavras para ser ouvida.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "O bosque guarda silêncio para que se ouça o coração.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o cair da tarde, pois nele descansa a luz do dia.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pomba não semeia e ainda assim o céu a alimenta; confia.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante do altar, a humildade abre mais portas que o orgulho.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem rega a planta alheia também colhe sombra um dia.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O salgueiro curva-se à beira do rio e por isso nunca se rompe.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A gratidão pela saúde do corpo é a primeira riqueza do dia.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "No coração limpo, cada dia é um santuário recém-aberto.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a colheita do mar com o mesmo respeito da colheita da terra.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A montanha distante parece pequena, mas é grande quem a sobe.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O kami da soleira observa quem entra e quem sai com bondade.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Renova o coração a cada lua nova, como o campo após a chuva.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem respeita o pequeno também sabe honrar o grande.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A folha solta voa onde o vento manda; aceita o que não controlas.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a fonte na montanha, mãe de todos os rios do vale.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Diante do amanhecer, agradece simplesmente por ainda respirar.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "O cervo bebe na fonte sem turvá-la; aprende a tomar o necessário.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A árvore sagrada cresce devagar porque guarda muitos anos.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem aquieta a respiração aquieta também o mundo ao redor.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a estação que parte tanto quanto a que chega.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O bambu jovem dobra-se até o chão e volta inteiro; eis a resiliência.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A oferenda de água fresca diz mais que muitas palavras.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Quem caminha com gratidão jamais sente o peso da estrada.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A flor desabrocha para si mesma e o mundo a admira de passagem.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra o silêncio antes da prece como honras a calma antes do passo.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "O rio largo é silencioso; o profundo não precisa fazer ruído.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante do mar imenso, o coração pequeno aprende a se expandir.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem honra a terra debaixo dos pés caminha sempre em sagrado.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A neve derrete e vira riacho; nada se perde, tudo se transforma.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "O coração sincero é o santuário que o homem carrega consigo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a primeira flor do ano, mensageira de tempos melhores.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A abelha trabalha em silêncio e adoça o mundo sem alarde.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem reparte a colheita multiplica a alegria do festival.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "A montanha não despreza nenhum grão de terra, e por isso é alta.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante do antigo santuário, o tempo parece curvar-se também.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "Honra o orvalho da madrugada, breve dádiva que refresca a terra.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem cuida da semente confia naquilo que ainda não vê.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O fogo aquece quem o respeita e queima quem o despreza.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A mente serena reflete o mundo sem distorcê-lo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a aurora de cada estação como um novo nascimento do tempo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O pássaro não guarda a canção; canta-a e segue voando.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante do céu estrelado, recorda quão pequena é a tua pressa.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem honra o trabalho do agricultor honra o pão de cada dia.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A folha do bambu range ao vento, mas o tronco permanece firme.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A gratidão derrama-se como orvalho sobre quem acorda atento.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra a corrente do rio que move o moinho e nutre o campo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem deixa o coração tranquilo deixa o caminho mais largo.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "A garoa fina também enche o tanque; pequenos bens somam-se.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Reverencia o sol que retorna a cada manhã sem cansaço.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o caminho de pedras molhadas que conduz ao templo do silêncio.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A árvore frutifera curva os galhos quanto mais carrega; assim a humildade.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem ouve a chuva sobre o telhado aprende a paz da espera.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Diante do altar dos ancestrais, fala-se com o coração, não com a voz.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O caminho longo percorre-se um passo de cada vez, com gratidão.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra o vento que dispersa as sementes e renova a floresta.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A lua não disputa com o sol; cada um brilha em sua hora.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem se purifica por fora e por dentro está pronto para o sagrado.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "A flor da macieira cai, mas deixa o fruto como promessa.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o riacho que mata a sede do viajante anônimo.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O sábio bebe da fonte e deixa-a limpa para quem vier depois.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A serenidade do bosque ensina mais que mil discursos.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra a colina onde repousam os que vieram antes de ti.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A semente confia na terra escura antes de ver a luz.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem agradece pela água nunca a verá apenas como água.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O orvalho cobre todas as folhas sem preferir nenhuma.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o cair das pétalas como honras o passar dos anos.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A montanha guarda o eco e devolve o que lhe gritam; cuida das palavras.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem mantém o altar limpo mantém viva a memória dos seus.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A correnteza nunca volta atrás; vive cada instante por inteiro.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra o luar sobre a neve, beleza serena da noite de inverno.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O grou voa alto porque confia no próprio bater de asas.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante da fogueira do festival, todo coração se aquece igual.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "Quem honra a árvore antiga honra o tempo que a fez crescer.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "A prece curta e sincera vale mais que a longa sem coração.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "A fonte da montanha não conhece sua própria pureza; sê assim, humilde.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Honra o regresso das andorinhas, sinal de que a estação girou.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "O caminho do meio é o do equilíbrio, onde mora a harmonia.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A folha que flutua no rio ensina a confiar na correnteza da vida.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Quem limpa as próprias mãos aprende a limpar também os próprios pensamentos.",
+      "reference": "Sabedoria Xintoísta"
+    },
+    {
+      "text": "Honra o broto que rompe o solo duro com paciência silenciosa.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "O céu não guarda rancor das nuvens; deixa-as passar e clareia.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Diante da cachoeira sagrada, lava-se o corpo e renova-se a intenção.",
+      "reference": "Caminho dos Kami (Shinto)"
+    },
+    {
+      "text": "A gratidão pela noite tranquila prepara o coração para o amanhecer.",
+      "reference": "Espírito do Norito"
+    },
+    {
+      "text": "Quem respeita o ritmo da maré nunca luta contra o mar.",
+      "reference": "Provérbio japonês"
+    },
+    {
+      "text": "Honra o pinheiro que enverdece a montanha durante todo o ano.",
+      "reference": "Tradição Xintoísta"
+    },
+    {
+      "text": "A pétala de cerejeira no vento ensina a graça do que não se prende.",
+      "reference": "Sabedoria dos Kami"
+    },
+    {
+      "text": "Quem acolhe a estação fria com gratidão já aquece o próprio coração.",
+      "reference": "Sabedoria Xintoísta"
+    }
   ]
 }

@@ -62,6 +62,7 @@
     current: null,
     phrases: [],
     phraseIndex: 0,
+    dayOffset: 0,        // 0 = hoje, -1 = ontem, ... (nunca positivo: sem futuro)
     cache: {},
     activeSuggestion: -1, // navegação por teclado nas sugestões
   };
@@ -80,11 +81,13 @@
     homeLink: $("#home-link"),
     readerReligion: $("#reader-religion"),
     readerSymbol: $("#reader-symbol"),
+    phraseDay: $("#phrase-day"),
     phraseLabel: $("#phrase-label"),
     phraseText: $("#phrase-text"),
     phraseRef: $("#phrase-ref"),
     phraseSource: $("#phrase-source"),
-    newBtn: $("#new-btn"),
+    prevDayBtn: $("#prev-day-btn"),
+    todayBtn: $("#today-btn"),
     shareBtn: $("#share-btn"),
     shareMenu: $("#share-menu"),
     toast: $("#toast"),
@@ -366,9 +369,45 @@
       state.phrases = [{ text: "Em breve, novas palavras desta tradição.", reference: "" }];
     }
 
-    state.phraseIndex = dayNumber() % state.phrases.length;
+    state.dayOffset = 0;
+    state.phraseIndex = indexForOffset(0);
     renderPhrase(false);
+    updateDayUI();
     history.replaceState({ id }, "", `#${id}`);
+  }
+
+  // Índice determinístico por dia: cada dia do calendário tem 1 frase fixa.
+  function indexForOffset(offset) {
+    const n = state.phrases.length;
+    if (n <= 0) return 0;
+    return (((dayNumber() + offset) % n) + n) % n;
+  }
+
+  function dateForOffset(offset) {
+    const d = new Date();
+    d.setHours(12, 0, 0, 0);
+    d.setDate(d.getDate() + offset);
+    return d;
+  }
+
+  function updateDayUI() {
+    const n = state.phrases.length;
+    const off = state.dayOffset;
+    // chip de data
+    const dataFmt = dateForOffset(off).toLocaleDateString("pt-BR", { day: "2-digit", month: "long" });
+    let chip;
+    if (off === 0) chip = `Hoje · ${dataFmt}`;
+    else if (off === -1) chip = `Ontem · ${dataFmt}`;
+    else chip = dateForOffset(off).toLocaleDateString("pt-BR", { day: "2-digit", month: "long", year: "numeric" });
+    if (els.phraseDay) els.phraseDay.textContent = chip;
+    // botão "hoje" só aparece quando se está no passado
+    if (els.todayBtn) els.todayBtn.hidden = off >= 0;
+    // botão "anterior": desabilita ao atingir o limite do ciclo (ou se há 1 só frase)
+    if (els.prevDayBtn) {
+      const noMore = n <= 1 || off <= -(n - 1);
+      els.prevDayBtn.disabled = noMore;
+      els.prevDayBtn.textContent = off === 0 ? "‹ Ver a de ontem" : "‹ Dia anterior";
+    }
   }
 
   function renderPhrase(animate = true) {
@@ -386,14 +425,28 @@
     }
   }
 
-  function nextPhrase() {
+  // Navega apenas para o PASSADO (nunca o futuro / a próxima).
+  function shiftDay(delta) {
     closeShareMenu();
-    if (state.phrases.length <= 1) return;
-    let i;
-    do { i = Math.floor(Math.random() * state.phrases.length); }
-    while (i === state.phraseIndex);
-    state.phraseIndex = i;
+    const n = state.phrases.length;
+    if (n <= 1) return;
+    let off = state.dayOffset + delta;
+    if (off > 0) off = 0;                 // nunca o futuro
+    if (off < -(n - 1)) off = -(n - 1);   // limite do ciclo
+    if (off === state.dayOffset) return;
+    state.dayOffset = off;
+    state.phraseIndex = indexForOffset(off);
     renderPhrase(true);
+    updateDayUI();
+  }
+
+  function goToday() {
+    closeShareMenu();
+    if (state.dayOffset === 0) return;
+    state.dayOffset = 0;
+    state.phraseIndex = indexForOffset(0);
+    renderPhrase(true);
+    updateDayUI();
   }
 
   function goHome() {
@@ -675,7 +728,8 @@
 
     els.backBtn.addEventListener("click", goHome);
     els.homeLink.addEventListener("click", goHome);
-    els.newBtn.addEventListener("click", nextPhrase);
+    els.prevDayBtn.addEventListener("click", () => shiftDay(-1));
+    els.todayBtn.addEventListener("click", goToday);
     els.shareBtn.addEventListener("click", (e) => { e.stopPropagation(); toggleShareMenu(); });
     els.shareMenu.querySelectorAll(".share-opt").forEach((b) => {
       b.addEventListener("click", () => handleShare(b.dataset.share));

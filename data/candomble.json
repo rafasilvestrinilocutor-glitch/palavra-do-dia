@@ -616,6 +616,962 @@
     {
       "text": "Cada cabeça tem o seu Orixá, e cada Orixá o seu axé. Descobre quem te guia e caminha firme.",
       "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Epa Babá! Oxalá tece o mundo com calma; nada que é bem feito nasce com pressa.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "O algodão é macio, mas sustenta o fio que veste o rei. A mansidão também tem força.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "Quando Oxalá silencia, o mundo aprende a escutar. Há sabedoria no que não se diz.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "A neblina branca de Oxalá cobre a manhã sem ferir ninguém. Sê suave e ainda assim presente.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "Oxalá ensina que perdoar é maior que vencer; quem perdoa liberta primeiro a si mesmo.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "Veste de paz o teu pensamento, e o teu dia inteiro andará vestido de Oxalá.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "A mão de Oxalá modelou o barro humano com carinho; trata cada pessoa como obra sagrada.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "Epa Babá! O branco não apaga as cores: ele as abraça. Aceita todos sem perder a tua luz.",
+      "reference": "Ensinamento de Oxalá"
+    },
+    {
+      "text": "Oxaguiã empunha a mão de pilão e ensina: comer é bom, mas partilhar o inhame é melhor ainda.",
+      "reference": "Ensinamento de Oxaguiã"
+    },
+    {
+      "text": "Oxaguiã é o jovem guerreiro de branco: luta com vigor, mas come com alegria e festeja a vida.",
+      "reference": "Ensinamento de Oxaguiã"
+    },
+    {
+      "text": "No pilão de Oxaguiã, o inhame duro vira alimento. Trabalho e paciência transformam o difícil em fartura.",
+      "reference": "Ensinamento de Oxaguiã"
+    },
+    {
+      "text": "Oxalufã é o ancião que caminha curvado, apoiado no opaxorô. Respeita os passos lentos de quem já andou muito.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "Oxalufã ensina pela paciência dos velhos: nem toda lentidão é fraqueza, às vezes é a própria sabedoria.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "O cajado de Oxalufã sustenta o corpo cansado e a fé inteira. Apoia-te no que é sagrado e segue.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "Odoyá! Iemanjá recolhe cada rio sem perguntar o nome de nenhum. O verdadeiro acolhimento não pede crachá.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "A espuma se desfaz, mas o mar permanece. Não confundas o passageiro com o eterno.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Iemanjá lava a areia mil vezes ao dia e nunca reclama. Recomeçar com serenidade também é amar.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Odoyá! A mãe das águas guarda pérolas no fundo escuro. Tua dor mais funda também pode esconder um tesouro.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "O mar nunca tem pressa de chegar à praia, e mesmo assim chega sempre. Confia no teu próprio tempo.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Iemanjá embala tempestade e bonança com o mesmo colo. Aprende a acolher os teus dias bons e os ruins.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Quem joga flores no mar de Iemanjá colhe paz no coração. A gratidão devolvida em beleza sempre retorna.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Odoyá! As sete ondas de Iemanjá levam o que pesa e trazem o que cura. Entrega ao mar o que já não te serve.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Ogun yê! O ferro de Ogum não enferruja em quem trabalha; só descansa quem desiste do próprio caminho.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Ogum abre estradas onde só há mato. Quando não vires saída, lembra: o caminho também se faz andando.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Patakori Ogum! A enxada que cultiva e a espada que protege são a mesma mão. Trabalho e defesa vêm juntos.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Ogum come antes da guerra para ter força na guerra. Cuida do teu corpo antes de cobrar dele a coragem.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "O ferreiro bate o ferro quente; deixa esfriar e nada se molda. Age na hora em que a vida pede ação.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Ogun yê! Ogum prefere a verdade nua à mentira enfeitada. A franqueza de quem é guerreiro também é honra.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Ogum não teme a estrada sozinha; teme apenas a covardia de não começar. Dá o primeiro passo.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "As sete ferramentas de Ogum servem a sete ofícios. Aprende muitos saberes e nunca te faltará caminho.",
+      "reference": "Ensinamento de Ogum"
+    },
+    {
+      "text": "Okê arô! Oxóssi conhece cada trilha porque andou cada uma. O saber vem dos pés que se cansaram primeiro.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "O caçador de uma flecha não desperdiça. Mira bem o teu desejo e poupa o que não precisas ferir.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Oxóssi alimenta a aldeia com o que caça, não com o que acumula. A fartura que importa é a que se reparte.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Okê arô! Na mata, o barulho espanta a caça. Quem quer aprender, primeiro aprende a fazer silêncio.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Oxóssi lê o rastro que outros não veem. Presta atenção aos sinais pequenos: neles está o caminho.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "O arco de Oxóssi só acerta quando a mão está calma. Respira antes de mirar o que desejas alcançar.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Oxóssi caça para hoje e protege a mata para amanhã. Toma da vida só o necessário e cuida do que fica.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Okê arô! O bom caçador conhece a hora da espera e a hora do bote. Saber esperar também é caçar.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Kawó Kabiecilê! Xangô não grita a sentença antes de pesar a verdade. Julga com calma quem julga com justiça.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "O machado de dois gumes de Xangô lembra: toda decisão corta para os dois lados. Pondera antes de golpear.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Xangô guarda no peito a balança e o trovão. Tem firmeza para punir, mas paciência para compreender.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Kawó Kabiecilê! O fogo de Xangô esquenta o lar e queima a injustiça. Usa tua força para proteger, não para destruir.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "O trovão de Xangô troveja longe antes do raio cair. Avisa com clareza antes de cobrar com rigor.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Xangô foi homem antes de ser Orixá. Errou, aprendeu e cresceu. Teu erro de hoje pode ser tua coroa amanhã.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "A pedra de raio de Xangô guarda o calor da justiça. Quem age com retidão carrega o axé do trovão.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Kawó Kabiecilê! Rei justo não governa pelo medo, mas pelo respeito. Sê líder pela verdade, não pela ameaça.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Ora yeyê ô! Oxum mira-se no espelho do rio e ensina: ama a ti mesmo antes de exigir o amor dos outros.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "A água doce de Oxum não força a pedra; ela a contorna com paciência e sempre encontra o caminho.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Oxum enfeita-se de ouro, mas seu maior brilho é a doçura com que trata quem sofre. A bondade é a joia maior.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Ora yeyê ô! O rio de Oxum fertiliza tudo por onde passa. Quem espalha amor deixa vida em cada margem.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Oxum embala os ovos e cuida da fertilidade. Toda criação pede carinho e tempo para amadurecer.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "O mel de Oxum adoça, mas só dá quem cultiva com respeito. A doçura verdadeira nasce do cuidado.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Ora yeyê ô! Oxum ri das águas mansas, mas pode transbordar quando a desonram. Gentileza não é fraqueza.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Oxum lava as feridas do coração com água de fonte. Cuida da tua alma com a mesma ternura que cuidas do corpo.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Eparrei! Iansã enfrenta nove caminhos sem temer nenhum. Quando uma porta fecha, há sempre outras te esperando.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "O vento de Oyá derruba a folha seca para que o galho respire. Deixa partir o que já cumpriu seu tempo.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Iansã dança com os eguns sem temer a morte. Viver com coragem é não deixar o medo escolher por ti.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Eparrei Oyá! A tempestade limpa o ar pesado. Às vezes é preciso uma mudança forte para o novo respirar.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Iansã carrega o raio e a brisa na mesma mão. Sê firme quando preciso e suave quando possível.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "O búfalo de Oyá investe sem recuar. Quando souberes que estás certo, avança sem deixar o medo te frear.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Eparrei! Iansã domina o vento porque não tenta prendê-lo. Há liberdade em aceitar o que não se controla.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Oyá guia as almas com firmeza e carinho. Acompanha quem precisa de ti sem temer a travessia.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Saluba, Nanã! A mais velha dos Orixás não usa pressa: o barro só vira vaso quando o tempo o permite.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Nanã guarda o segredo da lama: de onde parece sujo e parado, brota toda a vida. Não desprezes os começos humildes.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Saluba! Nanã recebe de volta tudo o que nasceu. Vive sem apego, pois à terra serena tudo retorna em paz.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "O ibiri de Nanã é feito de palha e contas: a sabedoria dos antigos cabe nas coisas simples.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Nanã ensina que esperar não é perder tempo; é deixar a vida cozinhar no ponto certo.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Saluba, Nanã! A avó dos Orixás cura sem ferro e sem grito. Nem toda força precisa de barulho para vencer.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Nanã carrega a memória de todas as eras. Quem escuta os mais velhos bebe da fonte que não seca.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Atotô! Obaluaê dança coberto de palha, escondendo a glória sob a humildade. Tua grandeza não precisa de plateia.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Omolu transforma a pústula em pipoca, a doença em festa. O que dói hoje pode estourar em alegria amanhã.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Atotô! O médico dos pobres não pergunta de quem é a febre. A cura verdadeira não escolhe a quem socorrer.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Obaluaê recolhe-se para curar, como a terra repousa para florescer. Há tempo de agir e tempo de recolher.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "A pipoca de Omolu nasce do milho no fogo: a pressão, quando bem suportada, vira alimento e festa.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Atotô! Omolu é o sol e a terra, a vida e a morte. Quem aceita os dois lados aprende a viver inteiro.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Obaluaê ensina que a paciência diante da dor é também uma forma de coragem silenciosa.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "O xaxará de Omolu varre a doença e a má sorte. Limpa o que adoece tua casa e tua mente, dia após dia.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Arroboboi! Oxumarê é a serpente e o arco-íris: o que rasteja também pode tocar o céu. Não há limite para quem persevera.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Oxumarê troca de pele sem perder a vida. Renova-te quantas vezes precisares; recomeçar não é fraqueza.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Arroboboi! O arco-íris só aparece depois da chuva. Toda travessia difícil guarda no fim a sua cor.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Oxumarê liga o céu à terra e leva a água de volta às nuvens. Tudo o que dás retorna em forma de bênção.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "A serpente de Oxumarê morde a própria cauda: na vida tudo é ciclo, nada termina sem recomeçar.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Arroboboi! Oxumarê ensina que a riqueza vai e vem como a maré. Na falta, espera; na fartura, agradece.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Ewé o! Ossaim conhece o nome de cada folha. Quem respeita o saber dos antigos nunca fica sem remédio.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Sem folha não há axé. Ossaim ensina que a natureza não é cenário: é a própria farmácia dos Orixás.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Ossaim vive na mata sobre uma só perna, firme. Conhecer profundamente uma coisa vale mais que saber pouco de tudo.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Ewé o, ewé o! Cada erva tem o seu dono e o seu tempo de colher. Respeita o ritmo sagrado das coisas.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Ossaim guarda o segredo das folhas, mas reparte a cura. O conhecimento só vira axé quando serve a alguém.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "A mesma planta que cura também pode ferir. Ossaim ensina que todo poder pede sabedoria e medida.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Laroyê Exu! Quem alimenta o mensageiro tem os caminhos abertos. Honra quem te leva o recado da vida.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Exu é o movimento que tira a vida da estagnação. Quem se fecha à mudança fecha a própria porta.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Laroyê! Exu guarda as encruzilhadas, onde toda escolha nasce. Olha bem os caminhos antes de decidir o teu.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Exu fala todas as línguas e leva todo recado. Cuida das tuas palavras, pois elas chegam mais longe do que pensas.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Exu não é bom nem mau: é a possibilidade. O sentido do caminho está na mão de quem o anda.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Laroyê! Exu come primeiro porque abre primeiro. Quem reconhece quem o serve nunca anda com a porta trancada.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Exu vira o mundo de cabeça para baixo para te mostrar o que estavas deixando de ver. Nem todo susto é desgraça.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "O padê de Exu é feito antes de tudo. Quem cuida do começo bem feito colhe o final em paz.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Logunedé é menino dos dois mundos: a doçura do rio e a astúcia da mata cabem no mesmo coração.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Seis meses no rio, seis na floresta: Logunedé ensina que mudar de fase não é trair quem se é.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Logunedé caça com a graça de Oxum e pesca com o saber de Oxóssi. Tua dupla herança é dom, não dilema.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Filho do amor de Oxum e Oxóssi, Logunedé prova que da união nasce a maior fartura.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Logunedé é jovem e farto: guarda a alegria da infância sem perder a sabedoria de quem aprende cedo.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Obá conhece a força do braço e a dor de quem se sacrifica em vão. Doa-te por amor, mas não te percas nele.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Obá é guerreira de escudo firme: protege quem ama sem precisar diminuir a si mesma.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "As águas de Obá são fortes e revoltas. Há beleza também na mulher que não se curva ao que a fere.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Obá aprendeu que conselho enganoso fere quem confia. Pensa por tua própria cabeça antes de seguir qualquer voz.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Obá guarda a própria dignidade como maior tesouro. Não troques o teu valor pela aprovação de ninguém.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Ewá caminha na névoa entre o sonho e o dia. Nem tudo precisa ser explicado para ser verdadeiro.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Ewá guarda os mistérios com firmeza serena. Saber calar no tempo certo também é sabedoria de Orixá.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Ewá veste a beleza da aurora e o segredo do horizonte. Respeita o que ainda não compreendes da vida.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Ewá habita o que está entre as coisas: o amanhecer, o entardecer, o limiar. Há graça também no que é passagem.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Os Ibeji são dois corpos e um só riso. Ninguém atravessa a vida inteira verdadeiramente sozinho.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Ibeji ensina que a alegria de criança cura o adulto cansado. Guarda contigo o teu riso, não o percas pelo caminho.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Os gêmeos sagrados gostam de doce e de festa. Lembra-te de que celebrar a vida também é um ato de fé.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Ibeji guarda a inocência como força. Quem mantém o coração de criança não envelhece por dentro.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Tempo é senhor de Iroko, a árvore que vê passar todas as eras. Respeita quem chegou antes de ti.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Iroko é a gameleira sagrada onde moram os antepassados. Honra a árvore velha, pois nela vive a memória do povo.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "O Tempo tudo cura e tudo revela. O que hoje não compreendes, amanhã a paciência te explica.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Iroko cresce devagar e dura séculos. O que se constrói com firmeza atravessa muitas gerações.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Cada estação tem o seu fruto. Respeita o tempo das coisas e não exijas inverno o que só o verão pode dar.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Sob a copa de Iroko muitos descansaram antes de ti. Sê sombra também para quem vem depois.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Provérbio diz: o ovo não ensina a galinha a botar. Respeita a experiência de quem veio primeiro.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem não conhece a morte olha para ela como um sono. Vive cada dia como bênção, pois nem todo amanhã se promete.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O fio fino, quando muitos, amarra o leão. A força do pequeno está na união com os seus.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A enxada não cava sozinha, nem o nome se faz sem trabalho. Honra o esforço que sustenta a tua mesa.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem despreza a estrada porque é longa nunca conhece o que há no fim dela.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A língua não tem osso, mas quebra ossos. Mede a palavra antes de soltá-la.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Não se enche o cesto com uma só mão; chama os teus e o trabalho se faz leve.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O macaco esquece o galho, mas o galho não esquece o macaco. Cuida de como tratas quem te sustentou.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Por mais alto que voe o pássaro, sempre desce para comer no chão. A humildade alimenta a quem se eleva.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O caminho da mentira é curto; o da verdade é largo e leva mais longe.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Não chames a chuva de inimiga só porque te molha; ela também enche o teu poço.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A cabaça que boia não despreza a água que a sustenta. Lembra-te de quem te ampara.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem come o fruto deve cuidar da árvore. Devolve à vida ao menos parte do que dela recebes.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A pressa estraga o inhame; a calma o cozinha no ponto. Há tempo certo para tudo que vale a pena.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Duas cabeças pensam onde uma só se perde. Não tenhas vergonha de pedir conselho.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A águia não caça moscas. Não gastes tua força com o que é pequeno demais para o teu destino.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem corre demais tropeça na própria pressa. Anda firme, que firme também se chega.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O rio que faz barulho é raso; o profundo corre em silêncio. A verdadeira força não precisa se anunciar.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A árvore não nega sombra nem a quem a corta. A bondade verdadeira não escolhe a quem servir.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Não se conhece o conteúdo da cabaça pela casca. Olha as pessoas além da aparência.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem planta espinho não colhe flor. As tuas ações de hoje preparam a tua colheita de amanhã.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A boca fechada não recebe mosca, mas também não come. Sabe quando calar e quando falar.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O machado esquece, mas a árvore lembra. Cuida das feridas que deixas em quem te cruza o caminho.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem segue dois caminhos ao mesmo tempo não chega a nenhum. Escolhe e firma o teu passo.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O axé não mora no acúmulo, mas na partilha. O que se reparte com amor sempre volta multiplicado.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Cada cabeça nasce com o seu orí; quem escuta o próprio destino não vive a vida de outro.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "A força do terreiro está na corrente de mãos dadas. Sozinho ninguém sustenta o sagrado.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Pede licença ao chão antes de pisar firme. O respeito abre mais portas do que a pressa.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "O bom caráter, ìwà rere, é o maior feitiço. Cultiva-o e o axé caminhará contigo.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Quem honra os antepassados nunca anda só; eles caminham à frente abrindo a estrada.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "A oferenda mais aceita é o coração limpo. Sem boa intenção, nenhum presente alcança os Orixás.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Cuida da tua cabeça com pensamentos serenos: ali, no orí, mora a tua porção de divino.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Modupé! A gratidão pela manhã é semente; o dia te devolve em fartura o que plantaste em fé.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "O axé cresce onde há respeito aos mais velhos, cuidado com os mais novos e amor à natureza.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Quem desonra a água um dia tem sede; quem desrespeita a terra um dia tem fome. Reverencia o que te sustenta.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "O destino se escreve com o orí, mas se caminha com os pés. Confia no alto, mas faz a tua parte aqui embaixo.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Antes de pedir aos Orixás, pergunta-te o que já fizeste com o que recebeste. A fé pede também responsabilidade.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "O tambor chama, o corpo dança e o axé desce. O sagrado mora na entrega de quem se permite celebrar.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Folha verde, água limpa, palavra honesta: nestas três coisas simples mora grande parte do axé.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Quem cuida da raiz não teme o vento. Firma-te na tua ancestralidade e nenhuma tempestade te derruba.",
+      "reference": "Sabedoria Yorubá"
+    },
+    {
+      "text": "Diz o itàn que a Tartaruga venceu a corrida não pela rapidez, mas pela astúcia e paciência. Pensa antes de correr.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta o itàn que Oxalá, preso por engano, ensinou que a injustiça sofrida com dignidade também planta sabedoria.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No itàn, Exu provou que a verdade depende de onde se olha: um chapéu de duas cores divide até velhos amigos. Escuta o outro lado.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz a tradição que Oxum, a única que conseguiu trazer de volta o equilíbrio, mostrou que a doçura faz o que a força não consegue.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No itàn, Orunmilá ensinou que consultar o destino é sabedoria, mas é a boa conduta que muda o caminho.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta-se que os Orixás disputaram quem era maior, e venceu aquele que sabia servir. Grandeza verdadeira é serviço.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o itàn que quem desprezou o pequeno Exu na partilha ficou sem caminho. Não desdenhes de ninguém pelo tamanho.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No mito, Iansã abriu passagem entre os mortos com coragem. Há travessias que só o destemor consegue atravessar.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta o itàn que Xangô só virou rei quando aprendeu a ouvir antes de sentenciar. A justiça começa pela escuta.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz a tradição que Obá perdeu por seguir conselho de quem a invejava. Confia tua decisão a quem te quer bem.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No itàn, o pássaro de Oxum guardava o axé do mundo. Quando o quiseram tomar à força, ele fugiu. O sagrado não se rouba.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta-se que Ogum, cansado da guerra, recolheu-se na mata em silêncio. Até o guerreiro precisa de descanso e paz.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o itàn que Nanã moldou os homens do barro do pântano. Por isso à terra retornamos: viemos dela e a ela pertencemos.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No mito, Oxumarê levava a água da terra ao palácio do céu. Tudo o que sobe um dia desce: respeita o ciclo da vida.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta a tradição que quem não fez ebó por avareza perdeu o que tinha. A vida pede troca: dá para receber.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o itàn que Obaluaê, rejeitado por feio, voltou como aquele que cura. Não julgues ninguém pela aparência da dor.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No mito, os Ibeji venceram a morte dançando, com pura alegria. Há males que só a leveza do coração derrota.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta-se que Oxóssi alimentou todo o reino numa fome com uma só caça certeira. Foco e generosidade salvam um povo.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o itàn que Logunedé, criado entre dois mundos, fez de sua dupla origem a sua maior riqueza. Tua diferença é dom.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No mito, Iemanjá acolheu as lágrimas do mundo e as transformou em mar. A dor partilhada vira força que sustenta.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta a tradição que quem honrou Exu na encruzilhada teve cada porta aberta. Reconhece quem te abre caminho.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o itàn que a paciência de Oxalá criou a humanidade aos poucos. As grandes obras pedem mãos calmas e tempo.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Aieio! Saudamos Oxóssi, o rei da mata, lembrando que a floresta sustenta a vida de todos nós.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Bará ô! Antes de qualquer rito, saúda-se o que abre os caminhos. Começa sempre pelo respeito ao começo.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Kawó! Quando Xangô troveja, lembra-te de que a justiça também é cuidado, e o cuidado também é fogo.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Oyá Mésàn! Nove são as faces do vento de Iansã. Diante de cada mudança, há sempre mais de uma saída.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "A paciência da lama de Nanã ensina: o que repousa não está parado; está se preparando para nascer.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Oxum guarda o ouro nas águas, mas o derrama sobre quem ama. A maior riqueza é a que se reparte com ternura.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Epa Babá! O passo lento de Oxalufã chega aonde a pressa nunca chegaria. Confia no caminho dos que persistem.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "Iemanjá não disputa com a tempestade; ela a contém em seu colo imenso. Sê maior que a tua raiva.",
+      "reference": "Ensinamento de Iemanjá"
+    },
+    {
+      "text": "Ewá tece o orvalho da madrugada em fios de mistério. Há respostas que só chegam a quem aprende a esperar em silêncio.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Ewá vela o portal entre o que foi e o que será. Confia: cada fim que te assusta é apenas uma passagem disfarçada.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Ewá enxerga no escuro o que os olhos da pressa não alcançam. Aquieta o coração e o caminho se revela.",
+      "reference": "Ensinamento de Ewá"
+    },
+    {
+      "text": "Obá não mede a própria honra pelo amor que recebe. Tua dignidade não está nas mãos de quem te deveria amar.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Obá ergue o escudo antes da espada: primeiro protege, só depois ataca. Nem toda força precisa começar pela ferida.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Obá aprendeu na dor a desconfiar de conselho que vem com sorriso de inveja. Pesa quem fala antes de pesar o que dizem.",
+      "reference": "Ensinamento de Obá"
+    },
+    {
+      "text": "Logunedé brinca no rio e caça na mata sem precisar escolher uma só face. Não te encolhas para caber na medida dos outros.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Logunedé é fartura de pesca e de caça: quem traz duas heranças no peito nunca passa fome de si mesmo.",
+      "reference": "Ensinamento de Logunedé"
+    },
+    {
+      "text": "Os Ibeji curam pela alegria onde o remédio sério falhou. Não subestimes o poder de um riso sincero.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Ibeji são dois e concordam num só doce. Onde há partilha de criança, a falta nunca se instala.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Ibeji ensina que a infância não é coisa que se perde, mas semente que se rega. Cuida da criança que ainda mora em ti.",
+      "reference": "Ensinamento de Ibeji"
+    },
+    {
+      "text": "Arroboboi! Oxumarê desenha o céu com todas as cores depois da tormenta. Não há chuva tão longa que apague o teu arco.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Oxumarê desce ao chão e torna a subir sem reclamar do caminho. A vida é vaivém: o que falta hoje, amanhã transborda.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "A serpente de Oxumarê não chora a pele que deixa. Solta o que já não te cabe e segue inteiro para a próxima volta.",
+      "reference": "Ensinamento de Oxumarê"
+    },
+    {
+      "text": "Ewé o! Ossaim ensina que a folha colhida sem licença não cura. Pede permissão à natureza antes de tomar o que é dela.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Ossaim firma-se numa só perna na mata e não tomba. Quem conhece fundo o seu caminho não precisa de muitos apoios.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Ossaim assobia para chamar as folhas, e elas respondem. A natureza fala com quem aprende a escutá-la com respeito.",
+      "reference": "Ensinamento de Ossaim"
+    },
+    {
+      "text": "Saluba, Nanã! A avó das águas paradas guarda a memória que os rios apressados esqueceram. Bebe da fonte dos antigos.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Nanã não corre porque já chegou. Quem carrega a sabedoria do tempo não precisa provar pressa a ninguém.",
+      "reference": "Ensinamento de Nanã"
+    },
+    {
+      "text": "Atotô! Obaluaê cobre a chaga com palha e a transforma em festa. Tua dor de hoje pode ser a tua cura de amanhã.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Omolu visita o rico e o pobre com a mesma mão. Diante da fragilidade da vida, aprende a humildade antes que ela te ensine.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Atotô! Quem zomba da dor alheia esquece que também é barro. Obaluaê ensina a curar, não a apontar feridas.",
+      "reference": "Ensinamento de Obaluaê"
+    },
+    {
+      "text": "Oxaguiã festeja com o pilão na mão: trabalho duro e alegria moram na mesma casa. Suas mãos podem lutar e celebrar.",
+      "reference": "Ensinamento de Oxaguiã"
+    },
+    {
+      "text": "Oxaguiã prova que jovem de coragem também sabe servir o prato cheio ao próximo. A força que alimenta vale mais que a que fere.",
+      "reference": "Ensinamento de Oxaguiã"
+    },
+    {
+      "text": "Epa Babá! Oxalufã caminha curvado sobre o opaxorô, mas sua fé anda ereta. Os passos lentos dos anciãos também chegam longe.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "Oxalufã ensina que envelhecer não é enfraquecer: é destilar em paciência tudo o que a vida ensinou.",
+      "reference": "Ensinamento de Oxalufã"
+    },
+    {
+      "text": "Tempo é dono das estações e nada apressa antes da hora. Iroko, a árvore antiga, só dá fruto quando o seu ciclo se cumpre.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Iroko guarda nos anéis do tronco a história de quem passou. Quem respeita a árvore velha honra a memória do seu povo.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "O Tempo é paciente porque sabe que tudo amadurece. Aquilo que hoje te dói, deixa que Iroko, devagar, te ensine a entender.",
+      "reference": "Ensinamento de Tempo e Iroko"
+    },
+    {
+      "text": "Eparrei! Iansã sopra o vento que carrega as sementes para longe. Nem toda partida é perda: às vezes é semeadura.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Oyá não teme o caminho dos eguns porque caminha com respeito. Honra os que se foram e eles serão brisa a teu favor.",
+      "reference": "Ensinamento de Iansã"
+    },
+    {
+      "text": "Kawó Kabiecilê! Xangô guarda no Xerê o chocalho que chama o axé. A justiça verdadeira faz barulho de alegria, não de medo.",
+      "reference": "Ensinamento de Xangô"
+    },
+    {
+      "text": "Laroyê! Exu guarda a chave de toda porta, mas só a entrega a quem o trata com respeito. O começo bem honrado abre o resto.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Exu anda na frente para limpar a estrada de quem o reconhece. Cuida de quem te abre os caminhos antes mesmo de pedires.",
+      "reference": "Ensinamento de Exu"
+    },
+    {
+      "text": "Okê arô! Oxóssi não atira no escuro: espera a luz que revela o alvo. Tem paciência para enxergar antes de agir.",
+      "reference": "Ensinamento de Oxóssi"
+    },
+    {
+      "text": "Ora yeyê ô! Oxum recolhe o ouro do fundo do rio sem turvar a água. Conquista com doçura o que a força nunca alcançaria.",
+      "reference": "Ensinamento de Oxum"
+    },
+    {
+      "text": "Diz o itàn que os Orixás escolheram Orunmilá não pela força, mas por saber esperar a hora certa. A paciência também é poder.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta a tradição que a Tartaruga só atravessou o rio porque aceitou a ajuda do Pássaro. Pedir auxílio não diminui ninguém.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No itàn, Orí foi à festa antes do corpo e preparou o caminho. Cuida primeiro da tua cabeça, que o resto a segue.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz o mito que Ewá pediu para morar onde ninguém a visse, e ali guardou os maiores segredos. O recolhimento também é riqueza.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Conta-se que os Ibeji enganaram a morte com brincadeira e doce. Há batalhas da vida que só a leveza vence.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "No itàn, Ossaim guardou as folhas só para si e o mundo adoeceu; ao reparti-las, a cura voltou. O saber retido a ninguém serve.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Diz a tradição que Logunedé escolheu não escolher entre o pai e a mãe, e por isso herdou os dois reinos. Tua origem inteira é dom.",
+      "reference": "Itàn e Sabedoria dos Orixás"
+    },
+    {
+      "text": "Provérbio diz: a água fervente esfria, mas a panela guarda o calor. Quem maltrata na raiva deixa marcas que o tempo não apaga.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Quem recusa o conselho do velho cai no buraco que ele já conhecia. A experiência dos anciãos é ponte sobre os teus erros.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "A terra não disputa com a chuva, e mesmo assim floresce. Há vitórias que pertencem a quem sabe receber.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "O caracol carrega a própria casa e nunca tem pressa, mas chega a todo lugar. Anda no teu passo e confia no teu tempo.",
+      "reference": "Provérbio Yorubá"
+    },
+    {
+      "text": "Uma única tocha acende muitas outras sem perder a própria chama. Partilha o teu axé: a luz repartida não diminui.",
+      "reference": "Sabedoria Yorubá"
     }
   ]
 }

@@ -1,129 +1,1993 @@
 {
   "id": "sikhismo",
   "phrases": [
-    { "text": "Há um só Deus, cuja verdade é eterna, o Criador, sem medo e sem ódio, imortal, não nascido, existente por si mesmo.", "reference": "Guru Nanak — Mul Mantar" },
-    { "text": "Existe um só Criador de toda a criação. A verdade é o seu nome.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Pela graça do Guru, conhecemos o Único. Repita o Nome verdadeiro.", "reference": "Japji Sahib" },
-    { "text": "Verdadeiro no princípio, verdadeiro através das eras, verdadeiro agora e verdadeiro será para sempre.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Pensando, não se pode conhecê-Lo, ainda que se pense centenas de milhares de vezes.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Pela vontade dele tudo acontece; descrever essa vontade está além das palavras.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Aquele que compreende o Hukam, o comando divino, deixa de falar com orgulho do próprio ego.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Cantem suas glórias, ouçam-nas e guardem o amor por Ele no coração.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Ouvindo o Nome, alcançamos a verdade, o contentamento e a sabedoria.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Ouvindo o Nome, a dor e o pecado se desfazem.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Aqueles que têm fé em sua mente, suas mentes e corpos são purificados.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "O abençoado pela fé não parte sozinho; salva também a sua família.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Quem trabalha com honestidade e partilha com os outros reconhece o caminho da verdade.", "reference": "Guru Nanak" },
-    { "text": "Ganhe o seu pão com o suor do trabalho honesto e reparta-o com os necessitados.", "reference": "Guru Nanak" },
-    { "text": "Mesmo entre milhões, aquele que recorda o Nome de Deus é o verdadeiramente sábio.", "reference": "Guru Granth Sahib" },
-    { "text": "A verdade é elevada, mas mais elevado ainda é o viver verdadeiro.", "reference": "Guru Nanak" },
-    { "text": "Não há hindu nem muçulmano; todos somos filhos do mesmo Deus.", "reference": "Guru Nanak" },
-    { "text": "Considere toda a humanidade como uma só raça.", "reference": "Guru Gobind Singh" },
-    { "text": "Reconheça a luz divina em todos e não pergunte pela casta; no além não há castas.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Por que chamar de inferior a mulher que dá à luz reis e profetas?", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Do ego nascem todos os males; quem o vence encontra a paz.", "reference": "Guru Granth Sahib" },
-    { "text": "Quando o egoísmo morre, a dúvida desaparece e a mente repousa em Deus.", "reference": "Guru Nanak" },
-    { "text": "A humildade é a palavra, o perdão é a virtude e a doce fala é o tesouro.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Doçura e humildade são a essência de todas as virtudes.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Aquele que se considera o menor de todos será o maior de todos.", "reference": "Guru Granth Sahib" },
-    { "text": "O serviço desinteressado aos outros é a mais alta forma de adoração.", "reference": "Guru Granth Sahib" },
-    { "text": "Servindo aos outros encontramos um lugar de honra na corte do Senhor.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que serve aos demais sem buscar recompensa alcança a união com Deus.", "reference": "Guru Granth Sahib" },
-    { "text": "Repita o Naam, trabalhe com honestidade e reparta com os outros.", "reference": "Guru Nanak" },
-    { "text": "O remédio para todas as enfermidades é o Nome do Senhor.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "No coração onde habita o Naam, ali reside a paz perfeita.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Recordando Deus, o medo da morte se vai e a alma encontra repouso.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Recordando o Senhor, todos os pecados se apagam.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Aquele que recorda Deus em cada respiração, esse é verdadeiramente abençoado.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Na companhia dos santos, a escuridão da ignorância se dissipa.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Na companhia dos virtuosos, o homem aprende a amar a Deus.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Deus está perto, não distante; busque-O dentro do seu próprio coração.", "reference": "Guru Granth Sahib" },
-    { "text": "Por que vagar pela floresta em busca de Deus? Ele habita em toda parte e dentro de você.", "reference": "Guru Tegh Bahadur — Guru Granth Sahib" },
-    { "text": "Aquele que vê Deus dentro de si e em todos os seres encontra a verdadeira sabedoria.", "reference": "Guru Granth Sahib" },
-    { "text": "Como existe um único fogo em toda a lenha, assim o mesmo Deus habita em todos.", "reference": "Guru Granth Sahib" },
-    { "text": "A mente impura não pode ser purificada pelo culto exterior, mas apenas pelo amor à verdade.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Lavar o corpo não limpa a mente; só o Nome do Senhor purifica de verdade.", "reference": "Guru Nanak" },
-    { "text": "De que serve o jejum, a peregrinação e a penitência se o coração permanece impuro?", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "O verdadeiro jejum é manter os sentidos afastados do mal.", "reference": "Guru Granth Sahib" },
-    { "text": "A verdadeira peregrinação é o banho na sabedoria divina dentro do coração.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Que o autodomínio sejam suas brincos e a compaixão, a sua cabaça de mendigo.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Aquele cujo coração está cheio de compaixão e contentamento já encontrou Deus.", "reference": "Guru Granth Sahib" },
-    { "text": "Contentamento é o néctar que sacia toda a sede da alma.", "reference": "Guru Granth Sahib" },
-    { "text": "Quem aceita a vontade de Deus com alegria nunca conhece a tristeza.", "reference": "Guru Granth Sahib" },
-    { "text": "Aceite o prazer e a dor como vindos da mesma mão divina.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que permanece imperturbável na alegria e na dor encontrou a libertação.", "reference": "Guru Tegh Bahadur — Guru Granth Sahib" },
-    { "text": "Não tema ninguém e a ninguém atemorize; esse é o caminho do sábio.", "reference": "Guru Tegh Bahadur — Guru Granth Sahib" },
-    { "text": "A verdade não pode ser ocultada por nenhum disfarce.", "reference": "Guru Nanak" },
-    { "text": "A mente cheia de avareza nunca está satisfeita, como o fogo nunca se sacia de lenha.", "reference": "Guru Granth Sahib" },
-    { "text": "A cobiça e o pecado são como rei e ministro que conduzem a alma à ruína.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "A ira é como um fogo que primeiro queima aquele que a abriga.", "reference": "Guru Granth Sahib" },
-    { "text": "Conquiste a sua própria mente e conquistará o mundo inteiro.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Quem domina a si mesmo é maior que aquele que conquista exércitos.", "reference": "Guru Granth Sahib" },
-    { "text": "Assim como o ferro se torna ouro ao tocar a pedra filosofal, o pecador se transforma ao tocar o Nome.", "reference": "Guru Granth Sahib" },
-    { "text": "Permaneça desapegado em meio ao mundo, como o lótus que vive na água sem se molhar.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Viva no mundo, mas mantenha o coração voltado para Deus.", "reference": "Guru Nanak" },
-    { "text": "A riqueza e a juventude passam como uma sombra; só o Nome permanece.", "reference": "Guru Granth Sahib" },
-    { "text": "Este corpo é como uma casa de barro; só as boas ações o acompanham depois da morte.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "No fim, nenhuma riqueza acompanha a alma, apenas as virtudes acumuladas.", "reference": "Guru Granth Sahib" },
-    { "text": "A vida humana é uma oportunidade preciosa para se unir a Deus; não a desperdice.", "reference": "Guru Arjan — Sukhmani Sahib" },
-    { "text": "Esta forma humana foi-te dada; é a tua chance de encontrar o Senhor.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Aquele que medita no Nome, mesmo por um instante, é salvo.", "reference": "Guru Granth Sahib" },
-    { "text": "O Nome de Deus é o meu apoio, o meu alimento e a minha riqueza.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Sem o Naam a vida é vazia, como a noite sem a lua.", "reference": "Guru Granth Sahib" },
-    { "text": "Cante as glórias do Senhor e a tua mente florescerá em paz.", "reference": "Guru Granth Sahib" },
-    { "text": "Na assembleia sagrada, cante os louvores de Deus e encontre a alegria eterna.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Onde os santos se reúnem para louvar a Deus, ali habita o paraíso.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que conhece a Deus permanece humilde, como a árvore carregada de frutos se inclina.", "reference": "Guru Granth Sahib" },
-    { "text": "Quanto maior a sabedoria, maior deve ser a humildade.", "reference": "Guru Granth Sahib" },
-    { "text": "A oração verdadeira nasce do coração, não dos lábios.", "reference": "Guru Granth Sahib" },
-    { "text": "Quem ora com amor sincero recebe tudo o que pede.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Deus escuta a oração do coração puro e cumpre os seus desejos.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Confie em Deus em todos os momentos e Ele cuidará de você.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que entrega tudo nas mãos de Deus encontra a verdadeira paz.", "reference": "Guru Granth Sahib" },
-    { "text": "O Senhor é o protetor dos desamparados e o amigo dos que não têm amigos.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Deus dá a todos os seres o seu sustento, sem que ninguém precise pedir.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Ele nutre tudo o que criou e nunca esquece nenhuma de suas criaturas.", "reference": "Guru Granth Sahib" },
-    { "text": "Sob a vontade divina as criaturas surgem; sob a sua vontade alcançam a grandeza.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Quem reconhece o comando de Deus em tudo vive em harmonia com o universo.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "O verdadeiro Guru é o barco que conduz a alma através do oceano do mundo.", "reference": "Guru Granth Sahib" },
-    { "text": "Sem o Guru ninguém atravessa o oceano da existência.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "A palavra do Guru é a lâmpada que dissipa a escuridão da ignorância.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Pela palavra do Guru, o ego é queimado e a alma se une ao divino.", "reference": "Guru Granth Sahib" },
-    { "text": "Tome a verdade como mestre e a sabedoria como guia em sua jornada.", "reference": "Guru Granth Sahib" },
-    { "text": "Quem encontra o Guru verdadeiro descobre o tesouro escondido dentro de si.", "reference": "Guru Granth Sahib" },
-    { "text": "Deus é o Pai e a Mãe de todos; somos todos os seus filhos.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Tu és o meu Pai e a minha Mãe, e eu sou o teu filho.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Como uma criança erra mil vezes, mas o pai a perdoa, assim Deus perdoa os seus.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "A graça de Deus apaga até os mais antigos pecados.", "reference": "Guru Granth Sahib" },
-    { "text": "Quem se refugia em Deus jamais é abandonado.", "reference": "Guru Granth Sahib" },
-    { "text": "Cantarei os teus louvores enquanto houver respiração em meu corpo.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Bendita é a língua que pronuncia o Nome do Senhor.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que mantém Deus no coração nunca está sozinho.", "reference": "Guru Granth Sahib" },
-    { "text": "A morte é doce para aquele que vive recordando o Nome divino.", "reference": "Guru Granth Sahib" },
-    { "text": "Não chore pelos mortos; celebre a alma que retorna ao seu Senhor.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "A alma não nasce nem morre; ela apenas troca de morada.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que abandona o orgulho da casta e da posição encontra a verdade.", "reference": "Guru Granth Sahib" },
-    { "text": "Reis e mendigos são iguais diante da porta do Senhor.", "reference": "Guru Granth Sahib" },
-    { "text": "Sente-se todos juntos para a refeição; ninguém é alto, ninguém é baixo.", "reference": "Guru Granth Sahib" },
-    { "text": "Compartilhar o pão com o faminto é servir ao próprio Deus.", "reference": "Guru Nanak" },
-    { "text": "Aquele que dá ao necessitado nunca sofre perda; Deus multiplica o que se reparte.", "reference": "Guru Granth Sahib" },
-    { "text": "A caridade feita com coração sincero vale mais que mil rituais.", "reference": "Guru Granth Sahib" },
-    { "text": "O verdadeiro renunciante é aquele que renuncia à cobiça, não ao mundo.", "reference": "Guru Nanak — Guru Granth Sahib" },
-    { "text": "Permaneça puro em meio às impurezas do mundo e brilhará como o ouro.", "reference": "Guru Granth Sahib" },
-    { "text": "A mente é inquieta como o mercúrio; só o Naam a estabiliza.", "reference": "Guru Granth Sahib" },
-    { "text": "Sintonize a sua mente com o Senhor, como o discípulo se sintoniza com o som divino.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que conhece a si mesmo conhece a Deus.", "reference": "Guru Granth Sahib" },
-    { "text": "Procure dentro de você; o tesouro de Deus está oculto no seu próprio coração.", "reference": "Guru Granth Sahib" },
-    { "text": "O Nome do Senhor é a joia que ilumina toda a vida.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Bendito é o dia em que me lembro do meu Senhor.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Senhor, conceda-me a companhia daqueles que recordam o teu Nome.", "reference": "Guru Arjan — Guru Granth Sahib" },
-    { "text": "Que toda a humanidade prospere; essa é a oração do verdadeiro fiel.", "reference": "Ardas — Tradição Sikh" },
-    { "text": "Na vontade do Senhor está o nosso bem-estar; aceite-a com gratidão.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que canta o Nome com amor atravessa o oceano do medo.", "reference": "Guru Granth Sahib" },
-    { "text": "A devoção sincera derrete o coração de pedra e o enche de amor.", "reference": "Guru Granth Sahib" },
-    { "text": "Honra verdadeira é aquela que se recebe na corte do Senhor.", "reference": "Guru Nanak — Japji Sahib" },
-    { "text": "Vãs são as honras do mundo; só a aprovação de Deus permanece.", "reference": "Guru Granth Sahib" },
-    { "text": "Aquele que defende o oprimido e socorre o fraco agrada a Deus.", "reference": "Tradição Sikh — Guru Gobind Singh" },
-    { "text": "Quando todos os meios falham, é justo empunhar a espada em defesa da retidão.", "reference": "Guru Gobind Singh — Zafarnama" }
+    {
+      "text": "Há um só Deus, cuja verdade é eterna, o Criador, sem medo e sem ódio, imortal, não nascido, existente por si mesmo.",
+      "reference": "Guru Nanak — Mul Mantar"
+    },
+    {
+      "text": "Existe um só Criador de toda a criação. A verdade é o seu nome.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Pela graça do Guru, conhecemos o Único. Repita o Nome verdadeiro.",
+      "reference": "Japji Sahib"
+    },
+    {
+      "text": "Verdadeiro no princípio, verdadeiro através das eras, verdadeiro agora e verdadeiro será para sempre.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Pensando, não se pode conhecê-Lo, ainda que se pense centenas de milhares de vezes.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Pela vontade dele tudo acontece; descrever essa vontade está além das palavras.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Aquele que compreende o Hukam, o comando divino, deixa de falar com orgulho do próprio ego.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Cantem suas glórias, ouçam-nas e guardem o amor por Ele no coração.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ouvindo o Nome, alcançamos a verdade, o contentamento e a sabedoria.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ouvindo o Nome, a dor e o pecado se desfazem.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Aqueles que têm fé em sua mente, suas mentes e corpos são purificados.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O abençoado pela fé não parte sozinho; salva também a sua família.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem trabalha com honestidade e partilha com os outros reconhece o caminho da verdade.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Ganhe o seu pão com o suor do trabalho honesto e reparta-o com os necessitados.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Mesmo entre milhões, aquele que recorda o Nome de Deus é o verdadeiramente sábio.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A verdade é elevada, mas mais elevado ainda é o viver verdadeiro.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Não há hindu nem muçulmano; todos somos filhos do mesmo Deus.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Considere toda a humanidade como uma só raça.",
+      "reference": "Guru Gobind Singh"
+    },
+    {
+      "text": "Reconheça a luz divina em todos e não pergunte pela casta; no além não há castas.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Por que chamar de inferior a mulher que dá à luz reis e profetas?",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Do ego nascem todos os males; quem o vence encontra a paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quando o egoísmo morre, a dúvida desaparece e a mente repousa em Deus.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A humildade é a palavra, o perdão é a virtude e a doce fala é o tesouro.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Doçura e humildade são a essência de todas as virtudes.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que se considera o menor de todos será o maior de todos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O serviço desinteressado aos outros é a mais alta forma de adoração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Servindo aos outros encontramos um lugar de honra na corte do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que serve aos demais sem buscar recompensa alcança a união com Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Repita o Naam, trabalhe com honestidade e reparta com os outros.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "O remédio para todas as enfermidades é o Nome do Senhor.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "No coração onde habita o Naam, ali reside a paz perfeita.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Recordando Deus, o medo da morte se vai e a alma encontra repouso.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Recordando o Senhor, todos os pecados se apagam.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Aquele que recorda Deus em cada respiração, esse é verdadeiramente abençoado.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Na companhia dos santos, a escuridão da ignorância se dissipa.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Na companhia dos virtuosos, o homem aprende a amar a Deus.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Deus está perto, não distante; busque-O dentro do seu próprio coração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Por que vagar pela floresta em busca de Deus? Ele habita em toda parte e dentro de você.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que vê Deus dentro de si e em todos os seres encontra a verdadeira sabedoria.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Como existe um único fogo em toda a lenha, assim o mesmo Deus habita em todos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A mente impura não pode ser purificada pelo culto exterior, mas apenas pelo amor à verdade.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Lavar o corpo não limpa a mente; só o Nome do Senhor purifica de verdade.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "De que serve o jejum, a peregrinação e a penitência se o coração permanece impuro?",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "O verdadeiro jejum é manter os sentidos afastados do mal.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A verdadeira peregrinação é o banho na sabedoria divina dentro do coração.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Que o autodomínio sejam suas brincos e a compaixão, a sua cabaça de mendigo.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Aquele cujo coração está cheio de compaixão e contentamento já encontrou Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Contentamento é o néctar que sacia toda a sede da alma.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem aceita a vontade de Deus com alegria nunca conhece a tristeza.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aceite o prazer e a dor como vindos da mesma mão divina.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que permanece imperturbável na alegria e na dor encontrou a libertação.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "Não tema ninguém e a ninguém atemorize; esse é o caminho do sábio.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "A verdade não pode ser ocultada por nenhum disfarce.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A mente cheia de avareza nunca está satisfeita, como o fogo nunca se sacia de lenha.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A cobiça e o pecado são como rei e ministro que conduzem a alma à ruína.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A ira é como um fogo que primeiro queima aquele que a abriga.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Conquiste a sua própria mente e conquistará o mundo inteiro.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem domina a si mesmo é maior que aquele que conquista exércitos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Assim como o ferro se torna ouro ao tocar a pedra filosofal, o pecador se transforma ao tocar o Nome.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Permaneça desapegado em meio ao mundo, como o lótus que vive na água sem se molhar.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Viva no mundo, mas mantenha o coração voltado para Deus.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A riqueza e a juventude passam como uma sombra; só o Nome permanece.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Este corpo é como uma casa de barro; só as boas ações o acompanham depois da morte.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "No fim, nenhuma riqueza acompanha a alma, apenas as virtudes acumuladas.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A vida humana é uma oportunidade preciosa para se unir a Deus; não a desperdice.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Esta forma humana foi-te dada; é a tua chance de encontrar o Senhor.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que medita no Nome, mesmo por um instante, é salvo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Nome de Deus é o meu apoio, o meu alimento e a minha riqueza.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o Naam a vida é vazia, como a noite sem a lua.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Cante as glórias do Senhor e a tua mente florescerá em paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Na assembleia sagrada, cante os louvores de Deus e encontre a alegria eterna.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Onde os santos se reúnem para louvar a Deus, ali habita o paraíso.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que conhece a Deus permanece humilde, como a árvore carregada de frutos se inclina.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quanto maior a sabedoria, maior deve ser a humildade.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A oração verdadeira nasce do coração, não dos lábios.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem ora com amor sincero recebe tudo o que pede.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Deus escuta a oração do coração puro e cumpre os seus desejos.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Confie em Deus em todos os momentos e Ele cuidará de você.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que entrega tudo nas mãos de Deus encontra a verdadeira paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Senhor é o protetor dos desamparados e o amigo dos que não têm amigos.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Deus dá a todos os seres o seu sustento, sem que ninguém precise pedir.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ele nutre tudo o que criou e nunca esquece nenhuma de suas criaturas.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sob a vontade divina as criaturas surgem; sob a sua vontade alcançam a grandeza.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem reconhece o comando de Deus em tudo vive em harmonia com o universo.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O verdadeiro Guru é o barco que conduz a alma através do oceano do mundo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o Guru ninguém atravessa o oceano da existência.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A palavra do Guru é a lâmpada que dissipa a escuridão da ignorância.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Pela palavra do Guru, o ego é queimado e a alma se une ao divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tome a verdade como mestre e a sabedoria como guia em sua jornada.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem encontra o Guru verdadeiro descobre o tesouro escondido dentro de si.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Deus é o Pai e a Mãe de todos; somos todos os seus filhos.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Tu és o meu Pai e a minha Mãe, e eu sou o teu filho.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Como uma criança erra mil vezes, mas o pai a perdoa, assim Deus perdoa os seus.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A graça de Deus apaga até os mais antigos pecados.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem se refugia em Deus jamais é abandonado.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Cantarei os teus louvores enquanto houver respiração em meu corpo.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Bendita é a língua que pronuncia o Nome do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que mantém Deus no coração nunca está sozinho.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A morte é doce para aquele que vive recordando o Nome divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não chore pelos mortos; celebre a alma que retorna ao seu Senhor.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A alma não nasce nem morre; ela apenas troca de morada.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que abandona o orgulho da casta e da posição encontra a verdade.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Reis e mendigos são iguais diante da porta do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sente-se todos juntos para a refeição; ninguém é alto, ninguém é baixo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Compartilhar o pão com o faminto é servir ao próprio Deus.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Aquele que dá ao necessitado nunca sofre perda; Deus multiplica o que se reparte.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A caridade feita com coração sincero vale mais que mil rituais.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O verdadeiro renunciante é aquele que renuncia à cobiça, não ao mundo.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Permaneça puro em meio às impurezas do mundo e brilhará como o ouro.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A mente é inquieta como o mercúrio; só o Naam a estabiliza.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sintonize a sua mente com o Senhor, como o discípulo se sintoniza com o som divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que conhece a si mesmo conhece a Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Procure dentro de você; o tesouro de Deus está oculto no seu próprio coração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Nome do Senhor é a joia que ilumina toda a vida.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Bendito é o dia em que me lembro do meu Senhor.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Senhor, conceda-me a companhia daqueles que recordam o teu Nome.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Que toda a humanidade prospere; essa é a oração do verdadeiro fiel.",
+      "reference": "Ardas — Tradição Sikh"
+    },
+    {
+      "text": "Na vontade do Senhor está o nosso bem-estar; aceite-a com gratidão.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que canta o Nome com amor atravessa o oceano do medo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A devoção sincera derrete o coração de pedra e o enche de amor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Honra verdadeira é aquela que se recebe na corte do Senhor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Vãs são as honras do mundo; só a aprovação de Deus permanece.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que defende o oprimido e socorre o fraco agrada a Deus.",
+      "reference": "Tradição Sikh — Guru Gobind Singh"
+    },
+    {
+      "text": "Quando todos os meios falham, é justo empunhar a espada em defesa da retidão.",
+      "reference": "Guru Gobind Singh — Zafarnama"
+    },
+    {
+      "text": "Há um só Deus para todos; nele não existe segundo nem rival.",
+      "reference": "Guru Nanak — Ik Onkar"
+    },
+    {
+      "text": "O verdadeiro nome do Senhor é a riqueza que ninguém pode roubar.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Cante o Nome divino e a tua alma encontrará descanso.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o Nome, a mente vagueia perdida como gado sem pastor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Recordar o Senhor é o trabalho mais nobre que a mão pode fazer.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Naquele coração onde mora o Nome, não cabe nenhum medo.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Deus é a luz que não se apaga nem com a noite mais escura.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tudo o que existe canta, em silêncio, a glória do Criador.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O ar é o mestre, a água o pai e a terra a grande mãe de todos.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O dia e a noite são as amas que embalam o mundo inteiro.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Conta as estrelas quem souber; ainda assim, Deus é maior que tudo.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem age bem colhe paz; essa é a justiça escrita do Senhor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Pelas próprias ações nos aproximamos ou nos afastamos de Deus.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Repita o Nome verdadeiro e o teu rosto brilhará na corte divina.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "A graça de Deus não se compra com ouro, mas se recebe com amor.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Aquele que esvazia o ego enche o coração de Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O orgulho é a parede que separa a alma do seu Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem se faz pó aos pés de todos encontra a verdadeira grandeza.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A humildade é o tempero que torna doce toda a vida.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Servir com as mãos e lembrar Deus com o coração: eis o caminho.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Ganhe o pão com trabalho limpo; nele há mais bênção que em mil tesouros.",
+      "reference": "Guru Nanak — Kirat Karo"
+    },
+    {
+      "text": "Reparta o que tens e nunca te faltará o suficiente.",
+      "reference": "Guru Nanak — Vand Chakko"
+    },
+    {
+      "text": "Quem alimenta o faminto alimenta o próprio Deus disfarçado.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A cozinha aberta a todos é a mesa do Senhor.",
+      "reference": "Tradição Sikh — Langar"
+    },
+    {
+      "text": "Na mesa do Guru, rei e pobre comem lado a lado.",
+      "reference": "Tradição Sikh — Langar"
+    },
+    {
+      "text": "Servir os outros sem esperar nada é a mais pura oração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "As mãos que servem são mais santas que os lábios que rezam.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Considera o próximo como a ti mesmo; nele vive a mesma luz.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Toda a humanidade é uma só família sob o mesmo céu.",
+      "reference": "Guru Gobind Singh"
+    },
+    {
+      "text": "Não há estrangeiro para quem vê Deus em cada rosto.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Onde os corações se unem em Deus, ali nasce a paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A verdade vale mais que todos os rituais juntos.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "De que serve recitar com a boca se o coração permanece longe?",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "O templo mais sagrado é o coração onde Deus habita.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não busque Deus nas pedras; busque-O dentro de você.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que controla a língua já venceu metade da batalha.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Palavras doces curam; palavras duras ferem mais que espadas.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Fale pouco e com verdade, e o teu nome será respeitado.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A mentira pode correr, mas a verdade sempre a alcança.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "O contentamento é a maior de todas as riquezas.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem está contente com pouco é mais rico que um rei.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A ganância é um poço sem fundo que nunca se enche.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quanto mais a mente corre atrás de desejos, mais se cansa.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Apague o fogo da cobiça com a água do contentamento.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A ira escraviza; a paciência liberta.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem domina a raiva torna-se senhor de si mesmo.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A paciência é a armadura que nenhuma flecha atravessa.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O perdão é a força dos fortes, não a fraqueza dos fracos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Perdoar é depositar nas mãos de Deus o peso da ofensa.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Aquele que perdoa cedo dorme em paz.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O mundo é um sonho passageiro; só Deus permanece.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A riqueza acumulada fica para trás; só as boas ações seguem contigo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Vivemos como hóspedes neste mundo; partiremos quando o Anfitrião chamar.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Cada respiração que esquece Deus é uma respiração perdida.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Não adie a busca de Deus; a vida escorre como água entre os dedos.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Esta vida humana é uma joia rara; não a troque por brinquedos.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Como o lótus vive na lama sem se sujar, viva no mundo sem se prender a ele.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Trabalhe no mundo, mas deixe o coração ancorado em Deus.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O verdadeiro eremita é quem renuncia ao ego, não a casa.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Não precisa fugir para a floresta quem encontrou Deus no coração.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "Sob a vontade de Deus o sol nasce; aceite com gratidão cada amanhecer.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Aceite a alegria e a tristeza como dois lados da mesma graça.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem sorri na perda já provou a doçura da fé.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A vontade do Senhor é sempre o melhor, ainda que não a compreendamos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Render-se a Deus não é perder; é ganhar tudo.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Entregue o leme da vida nas mãos do Senhor e navegue em paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Deus carrega o fardo de quem confia nele.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "O Senhor protege quem se refugia à sua sombra.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Nenhuma criatura passa fome no reino do Provedor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ele dá antes que peçamos e sabe o que precisamos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O verdadeiro Guru ilumina a mente como o sol dissolve a névoa.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A palavra do Guru é o barco; suba nele e atravesse o mar do mundo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o mestre, a alma tateia no escuro; com ele, encontra o caminho.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Beba do néctar da palavra do Guru e a sede da alma se acaba.",
+      "reference": "Guru Amar Das — Guru Granth Sahib"
+    },
+    {
+      "text": "O Shabad, a palavra sagrada, é a chave que abre a porta da libertação.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sintonize a mente com o Nome como a corda se afina ao som.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A meditação no Naam acalma o oceano agitado da mente.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Repita o Nome ao deitar e ao acordar, e o medo fugirá de ti.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Na companhia dos santos a mente impura se torna pura.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Sente-te entre os virtuosos e suas virtudes te contagiarão.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Sangat, a santa companhia, é como o sândalo que perfuma quem dele se aproxima.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Onde se canta a glória de Deus, ali se ergue o verdadeiro paraíso.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Deus é Pai e Mãe; somos todos seus filhos amados.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Como a mãe não esquece o filho, Deus não esquece os seus.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A criança erra mil vezes, e o Pai mil vezes perdoa.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A graça de Deus lava manchas que nenhuma água pode limpar.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Refugia-te em Deus e nunca serás desamparado.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Abençoada é a boca que repete com amor o Nome do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Bendito o instante em que a mente se volta para Deus.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Quem leva Deus no coração jamais caminha sozinho.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A morte é o portão de volta à casa do Pai; não a temas.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A alma não morre; troca de vestes como quem muda de roupa.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não chores pelo que parte; celebra a alma que volta ao Senhor.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Diante da porta do Senhor, coroas e farrapos têm o mesmo valor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não pergunte a casta de ninguém; pergunte o caminho de Deus.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A mesma luz divina brilha em todos os corações.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Por que chamar de baixa a mulher de quem nascem os reis?",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Defenda o oprimido e socorra o fraco: isso agrada ao Senhor.",
+      "reference": "Guru Gobind Singh"
+    },
+    {
+      "text": "Quando todos os meios falham, é justo erguer a espada pela retidão.",
+      "reference": "Guru Gobind Singh — Zafarnama"
+    },
+    {
+      "text": "Reconheça que toda a raça humana é uma só.",
+      "reference": "Guru Gobind Singh"
+    },
+    {
+      "text": "O santo-soldado tem coragem no braço e compaixão no coração.",
+      "reference": "Tradição Sikh — Guru Gobind Singh"
+    },
+    {
+      "text": "Lute pela justiça, mas nunca por ódio ou vingança.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem teme só a Deus não teme mais ninguém.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "Não atemorize ninguém e a ninguém tema: eis o sábio.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "A verdadeira coragem é manter a fé quando tudo desaba.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O Senhor é meu único refúgio em tempos de tempestade.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Em cada dor lembra-te de Deus, e a dor se torna leve.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O remédio para o sofrimento é o Nome do Senhor.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Quando lembramos de Deus, as cadeias do medo se rompem.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Na companhia do Nome, a noite escura vira manhã.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A alma sedenta encontra água no Nome do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Nome é o néctar; bebe-o e nunca mais terás sede.",
+      "reference": "Guru Amar Das — Guru Granth Sahib"
+    },
+    {
+      "text": "Como o peixe morre fora da água, a alma definha longe de Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Apaixone-se pelo Senhor como o pássaro chatrik anseia pela chuva.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O amor a Deus é a corrente que prende a alma à eternidade.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem ama a Deus de verdade esquece o medo da morte.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A devoção sincera derrete o coração de pedra.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não há culto maior que amar a Deus em cada criatura.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem vê o Criador em toda a criação adora corretamente.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Em cada folha, em cada gota, escreve-se o nome do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O universo inteiro é o tabernáculo onde Deus habita.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Tudo é graça; até o ar que respiramos é dádiva do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Gratidão é a oração que nunca se cansa.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Agradeça por cada respiração, pois cada uma é um presente.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem reconhece a dádiva ama o doador.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O Senhor enche a tigela vazia de quem confia nele.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tudo o que tenho veio de ti; a ti devolvo, ó Senhor.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A vontade do Senhor é meu alimento e minha bênção.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aceitar o Hukam é repousar no colo da paz divina.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem entende o comando divino não se gaba do próprio eu.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Nada acontece fora da vontade do Senhor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "A obediência amorosa vale mais que mil sacrifícios.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Sirva ao Senhor sem orgulho e Ele o erguerá.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem se inclina diante de Deus é levantado por Ele.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A árvore mais carregada de frutos é a que mais se curva.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aprenda do rio: ele desce humilde e por isso alcança o mar.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quanto mais sabes, mais simples deves ser.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A verdadeira sabedoria começa quando o ego termina.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O sábio fala com a vida, não apenas com a boca.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A verdade é alta, mas viver na verdade é ainda mais alto.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "De nada vale a palavra sem a ação que a confirma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Pratique a verdade e ela brilhará no teu rosto.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "O honesto dorme tranquilo; o desonesto teme a própria sombra.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Não cobiça o alheio quem está cheio do Nome divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O suor do trabalho honesto é mais doce que o mel roubado.",
+      "reference": "Guru Nanak — Kirat Karo"
+    },
+    {
+      "text": "Comer o pão ganho com honestidade é provar a graça.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Quem rouba dos outros engana a própria alma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A justiça do Senhor não falha; cada ação tem sua colheita.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Plante bondade e colherá bênçãos sem fim.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O que damos aos outros, Deus devolve multiplicado.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A caridade sincera vale mais que mil peregrinações.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Dar com o coração aberto purifica a mão e a alma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O verdadeiro banho sagrado é o banho na bondade.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "De que serve lavar o corpo se a mente continua suja?",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Só o Nome do Senhor limpa a mente por completo.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "O jejum verdadeiro é afastar os sentidos do mal.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "De que vale jejuar com o corpo se o coração festeja a cobiça?",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "A peregrinação mais santa é a viagem para dentro de si.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Visite o templo do próprio coração; lá mora o Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A oração nasce no coração, não nos lábios.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Deus escuta a prece silenciosa do coração sincero.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Quem reza com amor recebe mais do que pede.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Antes de pedir, agradeça; depois de receber, sirva.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Que toda a humanidade prospere: eis a prece do fiel.",
+      "reference": "Ardas — Tradição Sikh"
+    },
+    {
+      "text": "Na oração diária, peça o bem de todos, não só o teu.",
+      "reference": "Ardas — Tradição Sikh"
+    },
+    {
+      "text": "O coração grato encontra Deus em cada pequena bênção.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Cante os louvores do Senhor e a mente florescerá.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Kirtan, o canto sagrado, eleva a alma acima das tristezas.",
+      "reference": "Tradição Sikh"
+    },
+    {
+      "text": "Onde vibra o canto de Deus, o coração esquece a dor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A música devocional é a escada que sobe até o Senhor.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O Nome doce na boca é mais belo que qualquer melodia.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Acorde antes do amanhecer e lembre o Nome do Criador.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "As horas tranquilas da madrugada são as melhores para meditar.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Comece o dia com Deus e o dia inteiro será bênção.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem semeia o Nome ao amanhecer colhe paz à noite.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A mente disciplinada é o jardim onde floresce a devoção.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Doma a mente inquieta e ela se tornará tua melhor amiga.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A mente sem freio é como cavalo selvagem; o Naam é a rédea.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Vencer a própria mente é maior que vencer mil exércitos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem governa a si mesmo já é rei de um vasto reino.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Conhece a ti mesmo e conhecerás o teu Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O tesouro de Deus está escondido dentro de ti; cava com fé.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não vagueies pelo mundo procurando o que já trazes no peito.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "Como existe um só fogo em toda a lenha, há um só Deus em todos.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A mesma alma divina anima o rei e o mendigo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aquele que vê a unidade de tudo deixou a ilusão para trás.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A separação é ilusão; em Deus tudo é um.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Maya, a ilusão do mundo, brilha como ouro falso.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não se apegue ao que brilha e logo se apaga.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O ouro do mundo enferruja; o Nome do Senhor jamais.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem persegue Maya colhe cansaço; quem busca Deus colhe paz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O ferro vira ouro ao tocar a pedra do Nome.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O pecador se transforma na companhia dos santos.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Nenhuma alma está tão perdida que o Nome não possa salvar.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Mesmo um instante de lembrança do Senhor pode redimir uma vida.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A graça transforma o corvo em cisne, o vil em santo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Onde há arrependimento sincero, há porta aberta para a graça.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem se volta para Deus, Deus corre ao seu encontro.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não importa quão longe foste; o caminho de volta é sempre o Nome.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A misericórdia do Senhor é maior que todos os nossos erros.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O coração arrependido é mais belo aos olhos de Deus que mil rituais.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Levante após cada queda; o Senhor sustenta quem tenta de novo.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Os cinco ladrões — luxúria, ira, ganância, apego e orgulho — saqueiam a alma.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tranque a porta do coração com o Nome e os ladrões fugirão.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A luxúria promete prazer e entrega cinzas.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O apego cego prende a alma ao mundo que passa.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Solte o apego e voarás livre como a ave.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O orgulho cega; a humildade abre os olhos da alma.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem se enche de si mesmo não tem espaço para Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Esvazie o eu e o Senhor o encherá de luz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A inveja queima quem a sente, não quem é invejado.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Alegre-se com o bem do próximo e a tua alma crescerá.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A compaixão é o perfume do coração que conheceu Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tenha piedade de todos os seres, pois neles vive o Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O coração compassivo é o templo onde Deus gosta de morar.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem nutre compaixão e contentamento já encontrou Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Trate o forasteiro como amigo, pois é também filho de Deus.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A bondade silenciosa fala mais alto que mil sermões.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Cada ato de bondade é uma semente plantada na eternidade.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Seja luz para quem caminha no escuro.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A verdadeira nobreza está no caráter, não no nascimento.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não pergunte a linhagem de ninguém; veja apenas suas ações.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "As castas são muros do homem; diante de Deus não existem.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aos olhos do Senhor, ninguém é alto e ninguém é baixo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O respeito à mulher é a marca de uma sociedade justa.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Honre a mãe, a esposa e a filha, pois nelas vive a luz divina.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem despreza outro ser despreza o Criador desse ser.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Toda a criação canta a mesma melodia: a glória do Único.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O Senhor é um, embora os homens lhe deem mil nomes.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sob muitos nomes, o mesmo Deus escuta a prece sincera.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Não dispute sobre nomes; ame o Único que está por trás de todos.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A verdade não pertence a uma religião; pertence a Deus.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Não há hindu nem muçulmano; há apenas o ser humano diante de Deus.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Quem ama a Deus respeita o modo como o vizinho O busca.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A paz começa quando paramos de julgar o caminho alheio.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Deus é a verdade que nenhuma palavra consegue conter.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Pense quanto quiser; ainda assim não medirás o Senhor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O silêncio mais profundo não alcança o fim de sua grandeza.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Por mais que se descreva, Deus permanece além das palavras.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O Criador é maior que tudo o que a mente pode imaginar.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ele estava antes do tempo e estará depois do fim do tempo.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Verdadeiro ontem, verdadeiro hoje, verdadeiro para sempre.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O Senhor é imortal, não nascido, existente por si mesmo.",
+      "reference": "Guru Nanak — Mul Mantar"
+    },
+    {
+      "text": "Sem medo e sem ódio é o Criador de tudo.",
+      "reference": "Guru Nanak — Mul Mantar"
+    },
+    {
+      "text": "Pela graça do Guru se conhece o Único Verdadeiro.",
+      "reference": "Guru Nanak — Mul Mantar"
+    },
+    {
+      "text": "A verdade é o seu nome; o amor, o seu caminho.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Ouvir o Nome traz contentamento, sabedoria e paz.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Ao ouvir o Nome, dissolvem-se a dor e a culpa do coração.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Crer no Nome ilumina a mente como mil sóis.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Quem tem fé não parte sozinho; leva consigo muitos para a luz.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "A fé é o navio; a graça, o vento que o leva à outra margem.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A fé verdadeira não exige milagres; ela mesma é o milagre.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Onde há fé, a montanha do medo se desfaz em pó.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Confie no Senhor como a criança confia na mão da mãe.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Deus é o amigo que nunca abandona nas horas difíceis.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "O Senhor é o protetor dos sem proteção, o amparo dos sem amparo.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Quando todos partem, o Nome permanece ao teu lado.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Na hora final, só o Nome do Senhor faz companhia à alma.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Acumule o tesouro do Nome; é a única riqueza que segue contigo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Comerciante sábio é quem investe no Nome do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O lucro da vida é o amor de Deus; o resto é prejuízo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não desperdices esta vida em ganhos que a morte apaga.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O sábio negocia com Deus e nunca conhece a falência.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O corpo é casa de barro; só as boas ações resistem ao tempo.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Construa a casa da alma com tijolos de virtude.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A vida é uma noite de hospedagem; parta com a alma limpa.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Lembre que partirá, e viverá cada dia com sabedoria.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O bom nome deixado no mundo é o melhor legado da alma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Honra eterna é a que se recebe na corte do Senhor.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "As honras do mundo são fumaça; a aprovação de Deus é fogo eterno.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "De que adianta a fama dos homens se Deus não te conhece?",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Busque agradar a Deus e o resto se ajeitará.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem vive para Deus já vive no céu, ainda na terra.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O paraíso não é um lugar distante; é o coração unido a Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A libertação é viver desperto enquanto se respira.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Jivan-mukta é quem se liberta ainda em vida pelo amor a Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem permanece imperturbável na alegria e na dor já se libertou.",
+      "reference": "Guru Tegh Bahadur — Guru Granth Sahib"
+    },
+    {
+      "text": "A verdadeira liberdade é não ser escravo dos próprios desejos.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Liberte-se do medo e do ódio, e serás livre de verdade.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A paz interior nasce quando o ego repousa em Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O coração que descansa no Senhor não conhece inquietação.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "A paz não se encontra fora; floresce dentro de quem ama Deus.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Onde habita o Naam, ali floresce a paz perfeita.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Beba do Nome e a febre da mente se acalmará.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Repita o Naam e o medo da morte desaparecerá.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Lembrar o Senhor é o trabalho que nunca cansa a alma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Faça do Nome a tua respiração, e Deus será tua vida.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Quem respira o Nome a cada instante é verdadeiramente abençoado.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Cantarei tua glória enquanto houver fôlego em meu peito.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Que minha última palavra seja o teu Nome, ó Senhor.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Conceda-me, Senhor, a companhia dos que recordam o teu Nome.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "A maior bênção é amar e ser lembrado por Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Senhor, faz de mim o pó aos pés dos teus santos.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Pedir a Deus humildade é o pedido mais sábio.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Sirva, recorde e partilhe: nestes três cabe a vida inteira.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Naam Japo, Kirat Karo, Vand Chakko: lembrar, trabalhar, partilhar.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Estes três pilares sustentam a vida do fiel: Nome, trabalho e partilha.",
+      "reference": "Tradição Sikh"
+    },
+    {
+      "text": "Trabalhe honesto, lembre o Senhor e divida o pão: eis a felicidade.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "O coração que serve, recorda e partilha já encontrou Deus.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O Senhor está perto, não distante; chame-O do coração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Mais perto que tua veia está o teu Criador.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Não grite ao longe; Deus escuta o sussurro de dentro.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Olhe para dentro e verás a face do Senhor.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Amado nunca esteve longe; éramos nós que olhávamos para fora.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quando a mente se aquieta, a voz de Deus se faz ouvir.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "No silêncio do coração, o Senhor sussurra o seu Nome.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A alma que escuta o Senhor nunca mais se sente só.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Eterno é o amor de Deus; passageiras são as tristezas do mundo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Toda noite passa; o sol da graça sempre amanhece.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Depois da dor mais escura vem a luz do Senhor.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Confie: a mão que feriu também é a mão que cura.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Senhor que dá a provação também dá a força para vencê-la.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Nada é impossível para quem se apoia no Nome divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A esperança no Senhor nunca envergonha quem nela confia.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Mantenha o coração elevado; o Senhor caminha contigo.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem segura a mão de Deus atravessa qualquer tempestade.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A graça do Senhor é o barco; a fé, o remo; o Nome, o destino.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Reme com fé e o oceano do mundo será atravessado.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Que o autodomínio sejam teus brincos e a compaixão tua tigela.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "Vista a meditação como manto e a verdade como cajado.",
+      "reference": "Guru Nanak — Japji Sahib"
+    },
+    {
+      "text": "O verdadeiro iogue é quem une a mente ao Senhor.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "Não basta cinza no corpo; é preciso o Nome no coração.",
+      "reference": "Guru Nanak"
+    },
+    {
+      "text": "A pureza exterior sem pureza interior é máscara vazia.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Limpe primeiro o coração; o resto se segue.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem é puro por dentro brilha como ouro entre o lodo.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A virtude é o ornamento que nunca perde o brilho.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Junte virtudes como quem junta pérolas para o colar da alma.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "No fim, só as virtudes acompanham a alma em sua viagem.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O coração cheio de verdade não teme o tribunal divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Viva de modo que a tua consciência durma em paz.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O que se faz às escondidas, Deus vê em plena luz.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Nada se oculta do Senhor que habita em todo coração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Aja sempre como se Deus te observasse, pois Ele observa.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A honestidade é a mais bela oração das mãos.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem une trabalho honesto e devoção colhe o céu na terra.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O lavrador que lembra Deus enquanto trabalha já está rezando.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Cada tarefa feita com amor a Deus torna-se sagrada.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Não há trabalho humilde para quem o oferece ao Senhor.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O serviço aos outros é a escada mais curta até Deus.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Sirva sem orgulho, e o teu serviço será aceito na corte divina.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem serve aos santos serve ao próprio Senhor.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Abençoadas as mãos que enxugam a lágrima do aflito.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Levante o caído e o Senhor te levantará na hora da prova.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O verdadeiro herói defende a verdade sem ferir a misericórdia.",
+      "reference": "Tradição Sikh — Guru Gobind Singh"
+    },
+    {
+      "text": "Coragem sem compaixão é violência; compaixão sem coragem é fraqueza.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Empunhe a justiça com a mão e a humildade no coração.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O Khalsa pertence a Deus e a vitória pertence a Deus.",
+      "reference": "Guru Gobind Singh"
+    },
+    {
+      "text": "Mantenha o espírito elevado mesmo no meio da adversidade.",
+      "reference": "Guru Gobind Singh — Chardi Kala"
+    },
+    {
+      "text": "Chardi Kala: ânimo sempre elevado, fé sempre acesa.",
+      "reference": "Tradição Sikh"
+    },
+    {
+      "text": "Mesmo na perda, o fiel mantém o coração em alegria luminosa.",
+      "reference": "Tradição Sikh — Chardi Kala"
+    },
+    {
+      "text": "O otimismo da fé transforma a noite mais longa em vigília de luz.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Quem confia em Deus enfrenta o destino de cabeça erguida.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A vontade do Senhor seja feita, e que tudo seja para o bem de todos.",
+      "reference": "Ardas — Tradição Sikh"
+    },
+    {
+      "text": "Sob a tua proteção, ó Senhor, nada nos pode faltar.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Deus é o meu apoio, o meu alimento e a minha única riqueza.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o Nome, a vida é noite sem lua; com Ele, é dia de luz plena.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O Nome é a joia que ilumina todos os recantos da vida.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "Procure o Nome dentro de si, o tesouro escondido do coração.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem encontra o verdadeiro mestre descobre a riqueza interior.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Tome a verdade como mestre e a sabedoria como guia.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A palavra do Guru queima o ego e une a alma ao divino.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "A lâmpada da palavra dissipa a noite da ignorância.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Sem o Guru, ninguém atravessa o oceano da existência.",
+      "reference": "Guru Nanak — Guru Granth Sahib"
+    },
+    {
+      "text": "Bendito o dia em que recordo o meu Senhor.",
+      "reference": "Guru Arjan — Guru Granth Sahib"
+    },
+    {
+      "text": "O coração agradecido transforma cada dia em festa de luz.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "Recordando o Senhor, todos os pecados se apagam como névoa ao sol.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "O Nome é o remédio que cura toda enfermidade da alma.",
+      "reference": "Guru Arjan — Sukhmani Sahib"
+    },
+    {
+      "text": "Aquele que considera todos iguais alcançou a verdadeira sabedoria.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "O mundo é um campo; semeie o Nome e colha a salvação.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Plante o Nome no coração e colherás a paz para sempre.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "A semente do Nome, regada com amor, dá o fruto da libertação.",
+      "reference": "Sabedoria Sikh"
+    },
+    {
+      "text": "O coração que canta o Senhor floresce em todas as estações.",
+      "reference": "Guru Granth Sahib"
+    },
+    {
+      "text": "Quem ama o Nome carrega a primavera dentro de si.",
+      "reference": "Sabedoria Sikh"
+    }
   ]
 }
