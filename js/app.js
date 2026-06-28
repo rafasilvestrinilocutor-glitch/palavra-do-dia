@@ -517,7 +517,8 @@
     try {
       await document.fonts.load("600 64px 'Cormorant Garamond'");
       await document.fonts.load("italic 600 64px 'Cormorant Garamond'");
-      await document.fonts.load("600 30px 'Inter'");
+      await document.fonts.load("600 30px 'Outfit'");
+      await document.fonts.load("500 28px 'Outfit'");
       await document.fonts.ready;
     } catch (_) { /* segue com fallback */ }
 
@@ -556,7 +557,7 @@
     // rótulo (Versículo do Dia etc.)
     ctx.fillStyle = t.primary;
     ctx.textAlign = "center";
-    ctx.font = "600 30px 'Inter', sans-serif";
+    ctx.font = "600 30px 'Outfit', sans-serif";
     ctx.fillText((rel.phraseLabel || "A Palavra do Dia").toUpperCase(), W / 2, 290, W - 220);
 
     // frase (serif, com quebra de linha e tamanho adaptável)
@@ -578,13 +579,13 @@
     // referência
     if (p.reference) {
       ctx.fillStyle = t.primary;
-      ctx.font = "600 34px 'Inter', sans-serif";
+      ctx.font = "600 30px 'Outfit', sans-serif";
       ctx.fillText(p.reference, W / 2, y + 28, maxW);
     }
 
     // rodapé: nome do site + fonte
     ctx.fillStyle = t.muted;
-    ctx.font = "500 28px 'Inter', sans-serif";
+    ctx.font = "500 26px 'Outfit', sans-serif";
     ctx.fillText("A Palavra do Dia" + (rel.source ? "  ·  " + rel.source : ""), W / 2, H - 96, W - 200);
 
     return new Promise((resolve) => cv.toBlob(resolve, "image/png", 0.95));
