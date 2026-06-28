@@ -1,5 +1,5 @@
 /* ============================================================
-   A Palavra do Dia — lógica do site (vanilla JS, sem dependências)
+   Mosaico da Luz — lógica do site (vanilla JS, sem dependências)
    ============================================================ */
 
 (() => {
@@ -469,7 +469,7 @@
 
   function shareText() {
     const p = currentPhrase();
-    const label = state.current?.phraseLabel || "A Palavra do Dia";
+    const label = state.current?.phraseLabel || "Mosaico da Luz";
     const src = state.current?.source ? " · " + state.current.source : "";
     return `“${p.text}”${p.reference ? " — " + p.reference : ""}\n\n${label}${src}`;
   }
@@ -515,7 +515,7 @@
     } else if (kind === "native") {
       closeShareMenu();
       try {
-        if (navigator.share) await navigator.share({ title: "A Palavra do Dia", text, url });
+        if (navigator.share) await navigator.share({ title: "Mosaico da Luz", text, url });
       } catch (_) { /* cancelado */ }
     }
   }
@@ -658,7 +658,7 @@
     // rodapé: marca + fonte
     ctx.fillStyle = MUTED;
     ctx.font = "italic 500 30px 'Cormorant Garamond', serif";
-    ctx.fillText("Palavras Sagradas" + (rel.source ? "  ·  " + rel.source : ""), W / 2, H - 100, W - 200);
+    ctx.fillText("Mosaico da Luz" + (rel.source ? "  ·  " + rel.source : ""), W / 2, H - 100, W - 200);
 
     return new Promise((resolve) => cv.toBlob(resolve, "image/png", 0.95));
   }
@@ -680,7 +680,7 @@
     // no celular: tenta abrir o menu nativo (Instagram, WhatsApp, etc.) com a imagem
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
       try {
-        await navigator.share({ files: [file], title: "A Palavra do Dia", text: shareText() });
+        await navigator.share({ files: [file], title: "Mosaico da Luz", text: shareText() });
         return;
       } catch (_) { /* cancelou ou não suportou; cai para download */ }
     }
