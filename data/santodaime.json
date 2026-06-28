@@ -1,123 +1,525 @@
 {
   "id": "santodaime",
   "phrases": [
-    { "text": "Com amor e harmonia se constrói tudo na vida.", "reference": "Doutrina da Floresta" },
-    { "text": "A firmeza no caminho é o que sustenta o coração na hora da prova.", "reference": "Mestre Irineu" },
-    { "text": "Quem segue com fé jamais caminha sozinho, pois a luz vai sempre adiante.", "reference": "Tradição do Santo Daime" },
-    { "text": "A humildade é a porta por onde entra toda a sabedoria do alto.", "reference": "Doutrina da Floresta" },
-    { "text": "Perdoar é libertar o próprio coração do peso que ele carrega.", "reference": "Hinário (Santo Daime)" },
-    { "text": "A floresta ensina em silêncio aquilo que as palavras não alcançam.", "reference": "Doutrina da Floresta" },
-    { "text": "Deus está em todas as coisas, do menor orvalho à mais alta estrela.", "reference": "Tradição do Santo Daime" },
-    { "text": "A Rainha da Floresta acolhe com ternura todo aquele que a procura de coração aberto.", "reference": "Doutrina da Floresta" },
-    { "text": "A caridade é o amor que se faz gesto e alcança o irmão.", "reference": "Mestre Irineu" },
-    { "text": "Na união dos irmãos se firma a casa que o vento não derruba.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Cuida da tua palavra, pois ela planta no mundo o que depois colhes.", "reference": "Doutrina da Floresta" },
-    { "text": "A paz começa dentro de ti, no silêncio onde mora a presença divina.", "reference": "Tradição do Santo Daime" },
-    { "text": "Quem ama a natureza aprende a reverenciar a obra do Criador.", "reference": "Doutrina da Floresta" },
-    { "text": "A luz não disputa com a sombra; apenas brilha, e a sombra se desfaz.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Sê manso como a água que tudo contorna e ainda assim chega ao mar.", "reference": "Mestre Irineu" },
-    { "text": "A fé é a semente que floresce mesmo quando a vista ainda não vê o fruto.", "reference": "Doutrina da Floresta" },
-    { "text": "Agradece o dia que nasce, pois cada manhã é um perdão renovado.", "reference": "Tradição do Santo Daime" },
-    { "text": "O amor verdadeiro não pesa, não cobra, não fere: apenas ilumina.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Firma teu pensamento no bem e teus passos seguirão a luz.", "reference": "Mestre Irineu" },
-    { "text": "A árvore generosa dá sombra a quem nunca lhe regou: assim é a caridade.", "reference": "Doutrina da Floresta" },
-    { "text": "Na simplicidade do coração mora a maior das riquezas.", "reference": "Tradição do Santo Daime" },
-    { "text": "Pede com humildade e receberás com abundância.", "reference": "Hinário (Santo Daime)" },
-    { "text": "A Virgem Mãe é o colo onde toda dor encontra consolo.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem trabalha com amor transforma a labuta em oração.", "reference": "Mestre Irineu" },
-    { "text": "A harmonia entre os irmãos é a música que agrada ao céu.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Deixa a mágoa ir embora como a folha que o rio leva.", "reference": "Doutrina da Floresta" },
-    { "text": "A luz divina não falta a quem a procura com sinceridade.", "reference": "Tradição do Santo Daime" },
-    { "text": "Sê firme na fé e suave no trato, pois a força mora na mansidão.", "reference": "Mestre Irineu" },
-    { "text": "Cada criatura da floresta é um lembrete do cuidado de Deus.", "reference": "Doutrina da Floresta" },
-    { "text": "O perdão é a ponte que reconduz o irmão ao caminho da paz.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Quem semeia amor recolhe harmonia; quem semeia paz colhe alegria.", "reference": "Tradição do Santo Daime" },
-    { "text": "A oração sincera é o fio que liga o coração ao infinito.", "reference": "Doutrina da Floresta" },
-    { "text": "Caminha com confiança, pois a mão divina ampara quem tem fé.", "reference": "Mestre Irineu" },
-    { "text": "A natureza canta a glória de Deus em cada folha que balança.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Tem paciência contigo e com o irmão, pois toda flor tem seu tempo.", "reference": "Doutrina da Floresta" },
-    { "text": "A verdade ilumina, mesmo quando custa: prefere sempre a luz.", "reference": "Tradição do Santo Daime" },
-    { "text": "O coração limpo enxerga a beleza onde outros só veem dificuldade.", "reference": "Mestre Irineu" },
-    { "text": "Reverencia a floresta, pois nela o sagrado se faz visível.", "reference": "Doutrina da Floresta" },
-    { "text": "A bondade não precisa de testemunhas para ser verdadeira.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Quem confia em Deus encontra paz mesmo no meio da tempestade.", "reference": "Tradição do Santo Daime" },
-    { "text": "A gratidão é a porta que mantém o coração sempre aberto à luz.", "reference": "Doutrina da Floresta" },
-    { "text": "Ama o teu próximo como a floresta ama todos os que nela habitam.", "reference": "Mestre Irineu" },
-    { "text": "Na firmeza e na fé o medo se desfaz como neblina ao sol.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Sê luz para o irmão que caminha no escuro.", "reference": "Doutrina da Floresta" },
-    { "text": "A humildade não diminui ninguém; apenas aproxima do céu.", "reference": "Tradição do Santo Daime" },
-    { "text": "Cada amanhecer é um convite para recomeçar com amor.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem perdoa de coração caminha leve e dorme em paz.", "reference": "Mestre Irineu" },
-    { "text": "A união nos torna fortes; a divisão nos enfraquece.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Deus escreve nas folhas, nos rios e no canto dos pássaros.", "reference": "Doutrina da Floresta" },
-    { "text": "Mantém o coração sereno e a alma firme, e a luz te guiará.", "reference": "Tradição do Santo Daime" },
-    { "text": "O amor é a única força que cresce quando é repartida.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Honra a Virgem Mãe servindo aos seus filhos com ternura.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem pede luz já começa a iluminar-se.", "reference": "Mestre Irineu" },
-    { "text": "A paciência é a raiz; a fé é o tronco; o amor é o fruto.", "reference": "Doutrina da Floresta" },
-    { "text": "Trata cada irmão como tesouro confiado aos teus cuidados.", "reference": "Hinário (Santo Daime)" },
-    { "text": "A floresta não tem pressa, e ainda assim tudo nela floresce a seu tempo.", "reference": "Tradição do Santo Daime" },
-    { "text": "Guarda a esperança, pois depois da noite mais escura vem a alvorada.", "reference": "Doutrina da Floresta" },
-    { "text": "O bem que fazes em silêncio é o que mais perfuma a alma.", "reference": "Mestre Irineu" },
-    { "text": "Firmeza no propósito e doçura no coração: assim se vence o caminho.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Quem reverencia a vida em todas as formas anda perto de Deus.", "reference": "Doutrina da Floresta" },
-    { "text": "A oração silenciosa muitas vezes diz mais que mil palavras.", "reference": "Tradição do Santo Daime" },
-    { "text": "Deixa o orgulho na soleira da porta e entra com o coração humilde.", "reference": "Mestre Irineu" },
-    { "text": "A caridade verdadeira não espera retorno, apenas semeia o bem.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Confia: a mesma força que faz a flor abrir cuida da tua vida.", "reference": "Doutrina da Floresta" },
-    { "text": "A luz da fé não se apaga com o vento das dificuldades.", "reference": "Tradição do Santo Daime" },
-    { "text": "Aprende com o rio: segue adiante, mas leva paz por onde passa.", "reference": "Doutrina da Floresta" },
-    { "text": "O amor a Deus se prova no amor que damos ao irmão.", "reference": "Mestre Irineu" },
-    { "text": "Sê grato pelas pequenas coisas, pois nelas mora a maior bênção.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Quem cultiva a paz interior colhe harmonia ao seu redor.", "reference": "Doutrina da Floresta" },
-    { "text": "A fé sem amor é fria; o amor sem fé é frágil; juntos, elevam a alma.", "reference": "Tradição do Santo Daime" },
-    { "text": "Caminha com leveza, pois a luz acompanha o coração contente.", "reference": "Doutrina da Floresta" },
-    { "text": "A floresta acolhe igualmente o forte e o fraco: assim deve ser o nosso amor.", "reference": "Mestre Irineu" },
-    { "text": "Perdoa setenta vezes sete e teu coração permanecerá jovem.", "reference": "Hinário (Santo Daime)" },
-    { "text": "A humildade reconhece que tudo de bom vem do alto.", "reference": "Doutrina da Floresta" },
-    { "text": "Na firmeza encontras a calma; na calma encontras a luz.", "reference": "Tradição do Santo Daime" },
-    { "text": "Reverencia o Sol, a Lua e a Estrela, que iluminam o caminho do peregrino.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Quem confia na Mãe divina nunca está desamparado.", "reference": "Doutrina da Floresta" },
-    { "text": "A bondade é a linguagem que todos os corações entendem.", "reference": "Mestre Irineu" },
-    { "text": "Semeia harmonia hoje e colherás paz por muitos amanhãs.", "reference": "Doutrina da Floresta" },
-    { "text": "A verdadeira força está em servir, não em mandar.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Deixa que a luz divina trabalhe em ti e verás a vida florescer.", "reference": "Tradição do Santo Daime" },
-    { "text": "A gratidão transforma o pouco em suficiente e o suficiente em abundância.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem caminha na fé não tropeça nas pedras do medo.", "reference": "Mestre Irineu" },
-    { "text": "A árvore mais alta foi um dia uma semente que confiou na terra.", "reference": "Doutrina da Floresta" },
-    { "text": "Ama a floresta, pois ela é o templo vivo do Criador.", "reference": "Hinário (Santo Daime)" },
-    { "text": "O perdão cura primeiro quem o oferece.", "reference": "Tradição do Santo Daime" },
-    { "text": "Firma o coração no amor e nenhuma sombra te abalará.", "reference": "Mestre Irineu" },
-    { "text": "A oração é o orvalho que mantém viva a flor da fé.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem se faz pequeno diante de Deus se torna grande no espírito.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Caminha em harmonia com a natureza e ela te ensinará a viver.", "reference": "Doutrina da Floresta" },
-    { "text": "A luz pede apenas um coração disposto a recebê-la.", "reference": "Tradição do Santo Daime" },
-    { "text": "Não há treva que resista à chama acesa da fé.", "reference": "Mestre Irineu" },
-    { "text": "O amor paciente edifica; a pressa orgulhosa destrói.", "reference": "Doutrina da Floresta" },
-    { "text": "Acolhe o irmão como a floresta acolhe o viajante cansado.", "reference": "Hinário (Santo Daime)" },
-    { "text": "A serenidade é o perfume de uma alma reconciliada com Deus.", "reference": "Tradição do Santo Daime" },
-    { "text": "Quem dá sem esperar recebe sem medida.", "reference": "Doutrina da Floresta" },
-    { "text": "Honra a vida cuidando das águas, das matas e dos teus irmãos.", "reference": "Mestre Irineu" },
-    { "text": "A fé acende a lâmpada; a humildade a mantém limpa.", "reference": "Hinário (Santo Daime)" },
-    { "text": "No silêncio da floresta a alma escuta a voz do alto.", "reference": "Doutrina da Floresta" },
-    { "text": "Firmeza não é dureza: é a raiz profunda que sustenta a ternura.", "reference": "Tradição do Santo Daime" },
-    { "text": "Quem perdoa abre espaço para que a luz entre.", "reference": "Mestre Irineu" },
-    { "text": "A Rainha da Floresta veste de ternura todo coração que a invoca.", "reference": "Doutrina da Floresta" },
-    { "text": "O amor é a estrela que guia o peregrino mesmo na noite mais cerrada.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Reparte teu pão e tua alegria, e ambos se multiplicarão.", "reference": "Doutrina da Floresta" },
-    { "text": "A paz não é ausência de luta, mas presença de Deus no coração.", "reference": "Tradição do Santo Daime" },
-    { "text": "Aprende com a flor: abre-te ao sol e oferece teu perfume sem reservas.", "reference": "Mestre Irineu" },
-    { "text": "A fé move o passo; o amor escolhe o rumo; a luz conduz ao lar.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem serve com alegria torna leve o fardo de muitos.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Reverencia o mistério da vida e caminharás com sabedoria.", "reference": "Doutrina da Floresta" },
-    { "text": "A humildade rega; a gratidão floresce; o amor dá fruto.", "reference": "Tradição do Santo Daime" },
-    { "text": "Mantém a firmeza, pois quem persevera na fé alcança a luz.", "reference": "Mestre Irineu" },
-    { "text": "O bem que plantas na floresta do coração nunca se perde.", "reference": "Doutrina da Floresta" },
-    { "text": "A união dos corações é o jardim onde Deus gosta de morar.", "reference": "Hinário (Santo Daime)" },
-    { "text": "Confia na Mãe divina e teu medo se tornará serenidade.", "reference": "Doutrina da Floresta" },
-    { "text": "Cada gesto de amor é uma estrela acesa no céu da alma.", "reference": "Tradição do Santo Daime" },
-    { "text": "Sê como a fonte: dá sem cessar e permanece sempre limpa.", "reference": "Mestre Irineu" },
-    { "text": "A luz da verdade não fere quem caminha com humildade.", "reference": "Doutrina da Floresta" },
-    { "text": "Quem ama de verdade encontra Deus em cada rosto que encontra.", "reference": "Hinário (Santo Daime)" }
+    {
+      "text": "Com amor e harmonia se constrói tudo na vida.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A firmeza no caminho é o que sustenta o coração na hora da prova.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Quem segue com fé jamais caminha sozinho, pois a luz vai sempre adiante.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "A humildade é a porta por onde entra toda a sabedoria do alto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Perdoar é libertar o próprio coração do peso que ele carrega.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A floresta ensina em silêncio aquilo que as palavras não alcançam.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Deus está em todas as coisas, do menor orvalho à mais alta estrela.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "A Rainha da Floresta acolhe com ternura todo aquele que a procura de coração aberto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A caridade é o amor que se faz gesto e alcança o irmão.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Na união dos irmãos se firma a casa que o vento não derruba.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Cuida da tua palavra, pois ela planta no mundo o que depois colhes.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A paz começa dentro de ti, no silêncio onde mora a presença divina.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Quem ama a natureza aprende a reverenciar a obra do Criador.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A luz não disputa com a sombra; apenas brilha, e a sombra se desfaz.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Sê manso como a água que tudo contorna e ainda assim chega ao mar.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A fé é a semente que floresce mesmo quando a vista ainda não vê o fruto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Agradece o dia que nasce, pois cada manhã é um perdão renovado.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "O amor verdadeiro não pesa, não cobra, não fere: apenas ilumina.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Firma teu pensamento no bem e teus passos seguirão a luz.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A árvore generosa dá sombra a quem nunca lhe regou: assim é a caridade.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Na simplicidade do coração mora a maior das riquezas.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Pede com humildade e receberás com abundância.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A Virgem Mãe é o colo onde toda dor encontra consolo.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem trabalha com amor transforma a labuta em oração.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A harmonia entre os irmãos é a música que agrada ao céu.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Deixa a mágoa ir embora como a folha que o rio leva.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A luz divina não falta a quem a procura com sinceridade.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Sê firme na fé e suave no trato, pois a força mora na mansidão.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Cada criatura da floresta é um lembrete do cuidado de Deus.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "O perdão é a ponte que reconduz o irmão ao caminho da paz.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Quem semeia amor recolhe harmonia; quem semeia paz colhe alegria.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "A oração sincera é o fio que liga o coração ao infinito.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Caminha com confiança, pois a mão divina ampara quem tem fé.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A natureza canta a glória de Deus em cada folha que balança.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Tem paciência contigo e com o irmão, pois toda flor tem seu tempo.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A verdade ilumina, mesmo quando custa: prefere sempre a luz.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "O coração limpo enxerga a beleza onde outros só veem dificuldade.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Reverencia a floresta, pois nela o sagrado se faz visível.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A bondade não precisa de testemunhas para ser verdadeira.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Quem confia em Deus encontra paz mesmo no meio da tempestade.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "A gratidão é a porta que mantém o coração sempre aberto à luz.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Ama o teu próximo como a floresta ama todos os que nela habitam.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Na firmeza e na fé o medo se desfaz como neblina ao sol.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Sê luz para o irmão que caminha no escuro.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A humildade não diminui ninguém; apenas aproxima do céu.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Cada amanhecer é um convite para recomeçar com amor.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem perdoa de coração caminha leve e dorme em paz.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A união nos torna fortes; a divisão nos enfraquece.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Deus escreve nas folhas, nos rios e no canto dos pássaros.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Mantém o coração sereno e a alma firme, e a luz te guiará.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "O amor é a única força que cresce quando é repartida.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Honra a Virgem Mãe servindo aos seus filhos com ternura.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem pede luz já começa a iluminar-se.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A paciência é a raiz; a fé é o tronco; o amor é o fruto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Trata cada irmão como tesouro confiado aos teus cuidados.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A floresta não tem pressa, e ainda assim tudo nela floresce a seu tempo.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Guarda a esperança, pois depois da noite mais escura vem a alvorada.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "O bem que fazes em silêncio é o que mais perfuma a alma.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Firmeza no propósito e doçura no coração: assim se vence o caminho.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Quem reverencia a vida em todas as formas anda perto de Deus.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A oração silenciosa muitas vezes diz mais que mil palavras.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Deixa o orgulho na soleira da porta e entra com o coração humilde.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A caridade verdadeira não espera retorno, apenas semeia o bem.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Confia: a mesma força que faz a flor abrir cuida da tua vida.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A luz da fé não se apaga com o vento das dificuldades.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Aprende com o rio: segue adiante, mas leva paz por onde passa.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "O amor a Deus se prova no amor que damos ao irmão.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Sê grato pelas pequenas coisas, pois nelas mora a maior bênção.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Quem cultiva a paz interior colhe harmonia ao seu redor.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A fé sem amor é fria; o amor sem fé é frágil; juntos, elevam a alma.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Caminha com leveza, pois a luz acompanha o coração contente.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A floresta acolhe igualmente o forte e o fraco: assim deve ser o nosso amor.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Perdoa setenta vezes sete e teu coração permanecerá jovem.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A humildade reconhece que tudo de bom vem do alto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Na firmeza encontras a calma; na calma encontras a luz.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Reverencia o Sol, a Lua e a Estrela, que iluminam o caminho do peregrino.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Quem confia na Mãe divina nunca está desamparado.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A bondade é a linguagem que todos os corações entendem.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Semeia harmonia hoje e colherás paz por muitos amanhãs.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A verdadeira força está em servir, não em mandar.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Deixa que a luz divina trabalhe em ti e verás a vida florescer.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "A gratidão transforma o pouco em suficiente e o suficiente em abundância.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem caminha na fé não tropeça nas pedras do medo.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A árvore mais alta foi um dia uma semente que confiou na terra.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Ama a floresta, pois ela é o templo vivo do Criador.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "O perdão cura primeiro quem o oferece.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Firma o coração no amor e nenhuma sombra te abalará.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A oração é o orvalho que mantém viva a flor da fé.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem se faz pequeno diante de Deus se torna grande no espírito.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Caminha em harmonia com a natureza e ela te ensinará a viver.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A luz pede apenas um coração disposto a recebê-la.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Não há treva que resista à chama acesa da fé.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "O amor paciente edifica; a pressa orgulhosa destrói.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Acolhe o irmão como a floresta acolhe o viajante cansado.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A serenidade é o perfume de uma alma reconciliada com Deus.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Quem dá sem esperar recebe sem medida.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Honra a vida cuidando das águas, das matas e dos teus irmãos.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A fé acende a lâmpada; a humildade a mantém limpa.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "No silêncio da floresta a alma escuta a voz do alto.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Firmeza não é dureza: é a raiz profunda que sustenta a ternura.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Quem perdoa abre espaço para que a luz entre.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A Rainha da Floresta veste de ternura todo coração que a invoca.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "O amor é a estrela que guia o peregrino mesmo na noite mais cerrada.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Reparte teu pão e tua alegria, e ambos se multiplicarão.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A paz não é ausência de luta, mas presença de Deus no coração.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Aprende com a flor: abre-te ao sol e oferece teu perfume sem reservas.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A fé move o passo; o amor escolhe o rumo; a luz conduz ao lar.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem serve com alegria torna leve o fardo de muitos.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Reverencia o mistério da vida e caminharás com sabedoria.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A humildade rega; a gratidão floresce; o amor dá fruto.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Mantém a firmeza, pois quem persevera na fé alcança a luz.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "O bem que plantas na floresta do coração nunca se perde.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "A união dos corações é o jardim onde Deus gosta de morar.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Confia na Mãe divina e teu medo se tornará serenidade.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Cada gesto de amor é uma estrela acesa no céu da alma.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Sê como a fonte: dá sem cessar e permanece sempre limpa.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "A luz da verdade não fere quem caminha com humildade.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "Quem ama de verdade encontra Deus em cada rosto que encontra.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Padrinho Sebastião ensinava: a floresta é a maior igreja, e cada árvore, uma coluna do templo de Deus.",
+      "reference": "Padrinho Sebastião"
+    },
+    {
+      "text": "Quem entra na corrente do Daime aprende a firmeza: o trabalho é firmar no banco e deixar a luz fazer o resto.",
+      "reference": "Padrinho Sebastião"
+    },
+    {
+      "text": "O Daime não é fuga do mundo, é coragem de olhar para dentro. Quem se conhece, se cura.",
+      "reference": "Padrinho Sebastião"
+    },
+    {
+      "text": "A Madrinha ensina pela bailado e pelo silêncio: na dança da hinária, o corpo também reza.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Firmeza, amor, verdade e justiça: estas quatro palavras sustentam a corrente de quem segue a doutrina.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "No salão do Daime, ninguém é mais que ninguém: fardados lado a lado, todos são irmãos na mesma luz.",
+      "reference": "Tradição do Santo Daime"
+    },
+    {
+      "text": "Estou aqui, estou firme nesta corrente: quem se entrega de coração recebe o ensino que precisa.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Sol, lua, estrela, terra, vento e mar: o hinário canta a natureza porque nela está escrito o nome de Deus.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "A miração é espelho: nela vês não o que queres, mas o que precisas curar.",
+      "reference": "Doutrina da Floresta"
+    },
+    {
+      "text": "O Mestre Irineu plantou a doutrina na humildade do seringueiro: a maior sabedoria nasceu do trabalho simples.",
+      "reference": "Mestre Irineu"
+    },
+    {
+      "text": "Daime amor, Daime luz, Daime força: o que se pede no hino é o que se deve cultivar no peito.",
+      "reference": "Hinário (Santo Daime)"
+    },
+    {
+      "text": "Na corrente, segurar firme o irmão ao lado é parte do trabalho: ninguém atravessa sozinho.",
+      "reference": "Tradição do Santo Daime"
+    }
   ]
 }

@@ -55,7 +55,6 @@
   };
 
   // sugestões mostradas quando o campo está focado e vazio
-  const POPULAR = ["cristianismo", "catolicismo", "espiritismo", "islamismo", "budismo", "umbanda"];
 
   const state = {
     religions: [],
@@ -298,8 +297,8 @@
     const v = els.searchInput.value;
     els.searchMsg.hidden = true;
     if (!norm(v)) {
-      // vazio: mostra populares como atalho
-      renderSuggestions(POPULAR.map((id) => state.index[id]?.rel).filter(Boolean));
+      // vazio: não sugere nenhuma tradição (evita destacar umas e ocultar outras)
+      clearSuggestions();
       return;
     }
     const matches = searchReligions(v);

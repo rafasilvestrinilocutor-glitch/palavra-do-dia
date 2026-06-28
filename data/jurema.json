@@ -1,124 +1,529 @@
 {
   "id": "jurema",
   "phrases": [
-    { "text": "A cura vem da mata, e a mata pede respeito.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem honra a árvore sagrada, honra a própria vida.", "reference": "Sabedoria da Jurema" },
-    { "text": "A jurema guarda segredos que só o coração humilde pode ouvir.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Antes de pedir, agradeça. A gratidão abre os caminhos.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Os Mestres não morrem; eles se encantam e continuam a ensinar.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Cada folha que cai tem sua hora; respeite o tempo de cada coisa.", "reference": "Sabedoria da Jurema" },
-    { "text": "A fé é a raiz; sem ela, nenhuma planta cresce.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Beba da ciência da jurema com reverência, e ela te dará luz.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A mata ensina o silêncio, e no silêncio mora a resposta.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem cuida da terra colhe a bênção dos encantados.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "O respeito ao mais velho é a primeira lição do terreiro.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Na humildade do barro encontramos a força do espírito.", "reference": "Sabedoria da Jurema" },
-    { "text": "A ancestralidade é o caminho por onde a sabedoria chega até nós.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Pé no chão, cabeça erguida: assim caminha quem tem fé.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A planta cura o corpo, mas é o respeito que cura a alma.", "reference": "Sabedoria da Jurema" },
-    { "text": "Acende a luz com fé, e a escuridão não terá lugar.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Os encantados andam ao nosso lado quando o coração está limpo.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Quem reverencia a natureza nunca anda só.", "reference": "Sabedoria da Jurema" },
-    { "text": "A força do terreiro está na união de todos os que ali se irmanam.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Aprende com a raiz: ela sustenta sem aparecer.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Não há cura sem fé, nem fé sem respeito.", "reference": "Sabedoria da Jurema" },
-    { "text": "A jurema é mãe que acolhe, mestra que ensina, mata que cura.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "O caminho do bem se trilha um passo de cada vez.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Honra teus mais velhos, pois neles vive a memória do povo.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem semeia paz no terreiro colhe paz na vida.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A sabedoria dos Mestres não se compra; se conquista com humildade.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Escuta o vento na copa das árvores: ali fala o sagrado.", "reference": "Sabedoria da Jurema" },
-    { "text": "A água que bebes da fonte pede que cuides da fonte.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "No tronco da jurema vive a ciência que cura e consola.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Gratidão é a oração mais simples e a mais poderosa.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem respeita a mata, a mata protege.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A fé não grita; ela trabalha em silêncio dentro do peito.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Cada Mestre que parte deixa uma semente de luz no caminho.", "reference": "Sabedoria da Jurema" },
-    { "text": "Caminha com leveza, pois a terra que pisas é sagrada.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A humildade abre portas que o orgulho mantém fechadas.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A cura começa quando o coração aceita curar.", "reference": "Sabedoria da Jurema" },
-    { "text": "Os encantados premiam quem trabalha com amor e verdade.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Não desprezes a folha pequena: nela também há remédio.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A raiz da jurema é funda; assim deve ser a tua fé.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem chega ao terreiro com paz, em paz é recebido.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A mata é livro aberto para quem aprende a ler com o coração.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Reverencia o sol que nasce, pois cada dia é uma dádiva.", "reference": "Sabedoria da Jurema" },
-    { "text": "O bem que fazes ao próximo retorna pela mão dos encantados.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Na simplicidade do terreiro mora a grandeza do espírito.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A sabedoria antiga sussurra para quem sabe escutar.", "reference": "Sabedoria da Jurema" },
-    { "text": "Cuida da floresta, pois nela respira a vida de todos.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Quem dá um copo d'água com amor, oferece um oceano de bênção.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A jurema floresce para quem a trata como irmã.", "reference": "Sabedoria da Jurema" },
-    { "text": "Os Mestres ensinam que a paciência é também uma forma de cura.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Respeita o tempo da semente: tudo tem sua estação.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A luz que carregas dentro ilumina os caminhos do mundo.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem honra os ancestrais não se perde na estrada.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A natureza não cobra; ela apenas pede que a deixemos viver.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Na fumaça que sobe vai a prece de quem confia.", "reference": "Sabedoria da Jurema" },
-    { "text": "O terreiro é casa de todos, lar onde ninguém é estranho.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A força do Mestre está na bondade, não na imposição.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Bebe da fonte da jurema com respeito, e a sede da alma se aplaca.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem zela pela mata zela pelo futuro dos filhos.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A oração feita com fé já é metade da cura.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Caminha devagar, mas caminha sempre com o coração no bem.", "reference": "Sabedoria da Jurema" },
-    { "text": "A sabedoria da mata é gratuita, mas só a recebe quem respeita.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Os encantados habitam as fontes, as serras e os velhos troncos.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Honra a água, o fogo, a terra e o ar: são teus irmãos de jornada.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem planta uma árvore deixa um abraço para as gerações futuras.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A humildade é o tempero de toda sabedoria verdadeira.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Na dança do terreiro a alma encontra seu descanso.", "reference": "Sabedoria da Jurema" },
-    { "text": "A jurema acolhe o aflito e fortalece o cansado.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Quem fala com a mata aprende a falar com o próprio coração.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Cada estrela no céu é uma luz que os Mestres acendem para guiar.", "reference": "Sabedoria da Jurema" },
-    { "text": "A paz do terreiro nasce do respeito entre os irmãos.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Não há ervas sem mistério, nem mistério sem fé.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Reverencia a sombra das árvores, pois ali descansa o sagrado.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem trata o pobre com dignidade trata a si mesmo com nobreza.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A ciência da jurema é antiga como a primeira raiz da terra.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Acolhe quem chega, pois ninguém caminha por acaso.", "reference": "Sabedoria da Jurema" },
-    { "text": "A força da fé move o que as mãos não conseguem mover.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Respeita o silêncio da mata, pois nele os Mestres conversam.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A semente da bondade germina mesmo em terra dura.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem caminha com gratidão nunca chega de mãos vazias.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A jurema é raiz de fé, tronco de ciência e copa de proteção.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Honra a tua linhagem, pois nela está a tua morada espiritual.", "reference": "Sabedoria da Jurema" },
-    { "text": "Cada cura é um encontro entre a fé do homem e a graça da mata.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "O coração limpo é o melhor altar para o sagrado.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Quem respeita a vida em tudo, em tudo encontra a vida.", "reference": "Sabedoria da Jurema" },
-    { "text": "A folha, a raiz e a casca guardam a bênção da floresta.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Os Mestres ensinam pelo exemplo, não apenas pela palavra.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Na rede da comunidade, ninguém cai sozinho.", "reference": "Sabedoria da Jurema" },
-    { "text": "A serenidade é a flor que nasce do respeito ao sagrado.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Quem cultiva a paz dentro de si espalha paz por onde anda.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A mata cura quem se aproxima dela com mansidão.", "reference": "Sabedoria da Jurema" },
-    { "text": "Toda raiz lembra de onde veio; assim deve lembrar o homem.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A fé verdadeira não pede prova; ela floresce em silêncio.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Os encantados premiam a constância de quem trabalha o bem.", "reference": "Sabedoria da Jurema" },
-    { "text": "Bebe da sabedoria dos antigos, mas caminha com teus próprios pés.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A natureza ensina que tudo se renova; também a tua esperança.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Quem respeita a água respeita a própria vida que ela carrega.", "reference": "Sabedoria da Jurema" },
-    { "text": "No terreiro, o tambor chama, e o coração responde.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A cura da alma vem do perdão, e o perdão vem da fé.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Honra a mata como honras tua própria mãe.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem é grato à terra recebe da terra o sustento.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A luz dos Mestres brilha mais forte na noite mais escura.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Toda jornada espiritual começa com um gesto de respeito.", "reference": "Sabedoria da Jurema" },
-    { "text": "A floresta não tem pressa, e ainda assim tudo amadurece.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Quem serve à comunidade serve aos encantados.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A oração que vem do peito chega mais longe que a que vem da boca.", "reference": "Sabedoria da Jurema" },
-    { "text": "Cuida da raiz, e a árvore cuidará de ti com sua sombra.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A sabedoria não tem idade; ela tem profundidade.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Quem acende a vela da fé não teme a escuridão do caminho.", "reference": "Sabedoria da Jurema" },
-    { "text": "Na mata sagrada, cada passo é uma reverência à criação.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "Os Mestres caminham com quem caminha no bem.", "reference": "Ensinamento dos Mestres" },
-    { "text": "A gratidão rega a semente da bênção e faz dela floresta.", "reference": "Sabedoria da Jurema" },
-    { "text": "Respeita o mistério, pois nem tudo é feito para ser explicado.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A força da jurema está na fé de quem a procura.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Quem ama a natureza encontra Deus em cada folha.", "reference": "Sabedoria da Jurema" },
-    { "text": "A humildade rega; o orgulho seca.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "No abraço da mata, o cansado renova suas forças.", "reference": "Ensinamento dos Mestres" },
-    { "text": "Cada encantado é guardião de um pedaço da criação.", "reference": "Sabedoria da Jurema" },
-    { "text": "Quem trabalha com amor nunca caminha em vão.", "reference": "Tradição da Jurema Sagrada" },
-    { "text": "A paz que dás ao mundo é a paz que volta para o teu peito.", "reference": "Ensinamento dos Mestres" }
+    {
+      "text": "A cura vem da mata, e a mata pede respeito.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem honra a árvore sagrada, honra a própria vida.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A jurema guarda segredos que só o coração humilde pode ouvir.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Antes de pedir, agradeça. A gratidão abre os caminhos.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Os Mestres não morrem; eles se encantam e continuam a ensinar.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Cada folha que cai tem sua hora; respeite o tempo de cada coisa.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A fé é a raiz; sem ela, nenhuma planta cresce.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Beba da ciência da jurema com reverência, e ela te dará luz.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A mata ensina o silêncio, e no silêncio mora a resposta.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem cuida da terra colhe a bênção dos encantados.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "O respeito ao mais velho é a primeira lição do terreiro.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Na humildade do barro encontramos a força do espírito.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A ancestralidade é o caminho por onde a sabedoria chega até nós.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Pé no chão, cabeça erguida: assim caminha quem tem fé.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A planta cura o corpo, mas é o respeito que cura a alma.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Acende a luz com fé, e a escuridão não terá lugar.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Os encantados andam ao nosso lado quando o coração está limpo.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Quem reverencia a natureza nunca anda só.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A força do terreiro está na união de todos os que ali se irmanam.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Aprende com a raiz: ela sustenta sem aparecer.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Não há cura sem fé, nem fé sem respeito.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A jurema é mãe que acolhe, mestra que ensina, mata que cura.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "O caminho do bem se trilha um passo de cada vez.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Honra teus mais velhos, pois neles vive a memória do povo.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem semeia paz no terreiro colhe paz na vida.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A sabedoria dos Mestres não se compra; se conquista com humildade.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Escuta o vento na copa das árvores: ali fala o sagrado.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A água que bebes da fonte pede que cuides da fonte.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "No tronco da jurema vive a ciência que cura e consola.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Gratidão é a oração mais simples e a mais poderosa.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem respeita a mata, a mata protege.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A fé não grita; ela trabalha em silêncio dentro do peito.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Cada Mestre que parte deixa uma semente de luz no caminho.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Caminha com leveza, pois a terra que pisas é sagrada.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A humildade abre portas que o orgulho mantém fechadas.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A cura começa quando o coração aceita curar.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Os encantados premiam quem trabalha com amor e verdade.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Não desprezes a folha pequena: nela também há remédio.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A raiz da jurema é funda; assim deve ser a tua fé.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem chega ao terreiro com paz, em paz é recebido.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A mata é livro aberto para quem aprende a ler com o coração.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Reverencia o sol que nasce, pois cada dia é uma dádiva.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "O bem que fazes ao próximo retorna pela mão dos encantados.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Na simplicidade do terreiro mora a grandeza do espírito.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A sabedoria antiga sussurra para quem sabe escutar.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Cuida da floresta, pois nela respira a vida de todos.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Quem dá um copo d'água com amor, oferece um oceano de bênção.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A jurema floresce para quem a trata como irmã.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Os Mestres ensinam que a paciência é também uma forma de cura.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Respeita o tempo da semente: tudo tem sua estação.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A luz que carregas dentro ilumina os caminhos do mundo.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem honra os ancestrais não se perde na estrada.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A natureza não cobra; ela apenas pede que a deixemos viver.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Na fumaça que sobe vai a prece de quem confia.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "O terreiro é casa de todos, lar onde ninguém é estranho.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A força do Mestre está na bondade, não na imposição.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Bebe da fonte da jurema com respeito, e a sede da alma se aplaca.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem zela pela mata zela pelo futuro dos filhos.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A oração feita com fé já é metade da cura.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Caminha devagar, mas caminha sempre com o coração no bem.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A sabedoria da mata é gratuita, mas só a recebe quem respeita.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Os encantados habitam as fontes, as serras e os velhos troncos.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Honra a água, o fogo, a terra e o ar: são teus irmãos de jornada.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem planta uma árvore deixa um abraço para as gerações futuras.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A humildade é o tempero de toda sabedoria verdadeira.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Na dança do terreiro a alma encontra seu descanso.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A jurema acolhe o aflito e fortalece o cansado.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Quem fala com a mata aprende a falar com o próprio coração.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Cada estrela no céu é uma luz que os Mestres acendem para guiar.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A paz do terreiro nasce do respeito entre os irmãos.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Não há ervas sem mistério, nem mistério sem fé.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Reverencia a sombra das árvores, pois ali descansa o sagrado.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem trata o pobre com dignidade trata a si mesmo com nobreza.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A ciência da jurema é antiga como a primeira raiz da terra.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Acolhe quem chega, pois ninguém caminha por acaso.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A força da fé move o que as mãos não conseguem mover.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Respeita o silêncio da mata, pois nele os Mestres conversam.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A semente da bondade germina mesmo em terra dura.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem caminha com gratidão nunca chega de mãos vazias.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A jurema é raiz de fé, tronco de ciência e copa de proteção.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Honra a tua linhagem, pois nela está a tua morada espiritual.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Cada cura é um encontro entre a fé do homem e a graça da mata.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "O coração limpo é o melhor altar para o sagrado.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Quem respeita a vida em tudo, em tudo encontra a vida.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A folha, a raiz e a casca guardam a bênção da floresta.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Os Mestres ensinam pelo exemplo, não apenas pela palavra.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Na rede da comunidade, ninguém cai sozinho.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A serenidade é a flor que nasce do respeito ao sagrado.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Quem cultiva a paz dentro de si espalha paz por onde anda.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A mata cura quem se aproxima dela com mansidão.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Toda raiz lembra de onde veio; assim deve lembrar o homem.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A fé verdadeira não pede prova; ela floresce em silêncio.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Os encantados premiam a constância de quem trabalha o bem.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Bebe da sabedoria dos antigos, mas caminha com teus próprios pés.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A natureza ensina que tudo se renova; também a tua esperança.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Quem respeita a água respeita a própria vida que ela carrega.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "No terreiro, o tambor chama, e o coração responde.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A cura da alma vem do perdão, e o perdão vem da fé.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Honra a mata como honras tua própria mãe.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem é grato à terra recebe da terra o sustento.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A luz dos Mestres brilha mais forte na noite mais escura.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Toda jornada espiritual começa com um gesto de respeito.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A floresta não tem pressa, e ainda assim tudo amadurece.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Quem serve à comunidade serve aos encantados.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A oração que vem do peito chega mais longe que a que vem da boca.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Cuida da raiz, e a árvore cuidará de ti com sua sombra.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A sabedoria não tem idade; ela tem profundidade.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Quem acende a vela da fé não teme a escuridão do caminho.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Na mata sagrada, cada passo é uma reverência à criação.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Os Mestres caminham com quem caminha no bem.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "A gratidão rega a semente da bênção e faz dela floresta.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Respeita o mistério, pois nem tudo é feito para ser explicado.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A força da jurema está na fé de quem a procura.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Quem ama a natureza encontra Deus em cada folha.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "A humildade rega; o orgulho seca.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "No abraço da mata, o cansado renova suas forças.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Cada encantado é guardião de um pedaço da criação.",
+      "reference": "Sabedoria da Jurema"
+    },
+    {
+      "text": "Quem trabalha com amor nunca caminha em vão.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "A paz que dás ao mundo é a paz que volta para o teu peito.",
+      "reference": "Ensinamento dos Mestres"
+    },
+    {
+      "text": "Zé Pelintra anda de terno branco, mas conhece a lama do mundo. A elegância verdadeira é tratar bem até quem nada tem.",
+      "reference": "Sabedoria de Zé Pelintra"
+    },
+    {
+      "text": "Malandro de verdade não passa a perna em ninguém: passa firme pela vida e ajuda quem cai.",
+      "reference": "Sabedoria de Zé Pelintra"
+    },
+    {
+      "text": "Na encruzilhada da vida, Zé Pelintra ensina: escolhe o caminho com o coração, mas anda nele com esperteza.",
+      "reference": "Sabedoria de Zé Pelintra"
+    },
+    {
+      "text": "A Cabocla Jurema mora na árvore sagrada: quem bebe da sua ciência aprende que a cura vem da mata.",
+      "reference": "Ensinamento da Cabocla Jurema"
+    },
+    {
+      "text": "A Jurema é mãe e é raiz. Quem se senta à sua sombra encontra força para a sua jornada.",
+      "reference": "Ensinamento da Cabocla Jurema"
+    },
+    {
+      "text": "O Caboclo de pena não teme distância: uma só flecha bem mirada vale mais que cem disparadas no escuro.",
+      "reference": "Sabedoria dos Caboclos da Jurema"
+    },
+    {
+      "text": "Caboclo é guardião da mata e da palavra firme: fala pouco, mas o que diz tem raiz.",
+      "reference": "Sabedoria dos Caboclos da Jurema"
+    },
+    {
+      "text": "Malunguinho é rei nas três linhas da Jurema: ensina que liberdade não se pede, se conquista com fé e união.",
+      "reference": "Sabedoria de Malunguinho"
+    },
+    {
+      "text": "Os Mestres velhos da Jurema bebem da ciência sem pressa: o saber da raiz não cabe em quem tem afobação.",
+      "reference": "Ensinamento dos Mestres da Jurema"
+    },
+    {
+      "text": "A Mestra da Jurema cura com fumo, com canto e com escuta. Às vezes o melhor remédio é ser ouvido.",
+      "reference": "Sabedoria das Mestras da Jurema"
+    },
+    {
+      "text": "Acende o teu cachimbo, defuma o teu caminho: a fumaça leva embora o que pesa e traz de volta a paz.",
+      "reference": "Tradição da Jurema Sagrada"
+    },
+    {
+      "text": "Na Jurema, o copo d'água e a vela acesa valem como reza: a fé mora nas coisas simples.",
+      "reference": "Tradição da Jurema Sagrada"
+    }
   ]
 }
