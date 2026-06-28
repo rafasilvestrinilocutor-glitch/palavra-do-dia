@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A Palavra do Dia — Sabedoria de todas as tradições</title>
+  <meta name="description" content="Escolha uma tradição espiritual e receba a palavra do dia: um versículo, ensinamento ou pensamento para trazer paz e sabedoria. Gratuito, sem cadastro." />
+  <meta name="theme-color" content="#f6f6f4" />
+
+  <!-- Open Graph / compartilhamento -->
+  <meta property="og:title" content="A Palavra do Dia" />
+  <meta property="og:description" content="Uma palavra de paz e sabedoria, de muitas tradições. Gratuito e sem cadastro." />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-screen="home">
+
+  <!-- Símbolos SVG reutilizáveis -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="sym-cross" viewBox="0 0 24 24"><path d="M10 2h4v6h6v4h-6v10h-4V12H4V8h6z"/></symbol>
+      <symbol id="sym-crescent" viewBox="0 0 24 24"><path d="M16.5 3a9 9 0 1 0 4.5 7.8A7 7 0 1 1 16.5 3z"/></symbol>
+      <symbol id="sym-star-david" viewBox="0 0 24 24"><path d="M12 2l3.5 6h-7zM12 22l-3.5-6h7zM3 7l7 0-3.5 6zM21 7l-7 0 3.5 6zM3 17l3.5-6 3.5 6zM21 17l-3.5-6-3.5 6z" fill="none" stroke="currentColor" stroke-width="1.4"/></symbol>
+      <symbol id="sym-dharma-wheel" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="12" cy="12" r="2.4"/><g stroke="currentColor" stroke-width="1.4"><path d="M12 3v18M3 12h18M5.6 5.6l12.8 12.8M18.4 5.6L5.6 18.4"/></g></symbol>
+      <symbol id="sym-om" viewBox="0 0 24 24"><path d="M6 14a3 3 0 1 0 3-3c-1.6 0-2.4 1-2.4 2M9.6 11c1.4-2 4-2.6 5.6-1 1.2 1.2 1 3.2-.6 4.2M15 6.5c1 .4 1.8 1.2 1.8 2.2M17.5 4.5a2 2 0 1 1-2 2" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-seven-rays" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><g stroke="currentColor" stroke-width="1.4"><path d="M12 2v4M12 18v4M2 12h4M18 12h4M5 5l2.5 2.5M16.5 16.5L19 19M19 5l-2.5 2.5M7.5 16.5L5 19"/></g></symbol>
+      <symbol id="sym-leaf-axe" viewBox="0 0 24 24"><path d="M12 22V9M12 9c-3-1-4-4-3-7 3 0 5 2 5 5M12 9c3-1 4-4 3-7-3 0-5 2-5 5M8.5 13l7 0M8 16l8 0" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-feather" viewBox="0 0 24 24"><path d="M19 5C12 5 7 9 6 16l-2 3M19 5c1 7-3 12-10 13M11 13l6-6M9 16l5-5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-yin-yang" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M12 3a4.5 4.5 0 0 0 0 9 4.5 4.5 0 0 1 0 9 9 9 0 0 0 0-18z"/><circle cx="12" cy="7.5" r="1"/></symbol>
+      <symbol id="sym-dove" viewBox="0 0 24 24"><path d="M4 14c4 0 6-2 7-5 1 3 3 4 6 3-1 3-4 6-8 6-3 0-5-2-5-4zM11 9c0-2 2-4 4-4M21 6l-2 1" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-lotus" viewBox="0 0 24 24"><path d="M12 21c-5 0-8-3-8-6 2 0 3 .5 4 1.5M12 21c5 0 8-3 8-6-2 0-3 .5-4 1.5M12 21c-2 0-3.5-2-3.5-5 0-2 1.5-4 3.5-6 2 2 3.5 4 3.5 6 0 3-1.5 5-3.5 5zM5 15c1-2 3-3 4-3M19 15c-1-2-3-3-4-3" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-chalice" viewBox="0 0 24 24"><path d="M7 3h10M8 3c0 5 1.8 7 4 7s4-2 4-7M12 10v7M8 20h8M12 17c-2 0-4 1-4 3M12 17c2 0 4 1 4 3" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="sym-nine-star" viewBox="0 0 24 24"><path d="M12 2l1.6 3.2 3.5-.8-1.4 3.3 3 2-3 2 1.4 3.3-3.5-.8L12 22l-1.6-3.2-3.5.8 1.4-3.3-3-2 3-2-1.4-3.3 3.5.8z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></symbol>
+      <symbol id="sym-khanda" viewBox="0 0 24 24"><circle cx="12" cy="13" r="5" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M12 2v20M10.5 4l1.5-2 1.5 2M7 9c-1 1.5-1 3.5 0 5M17 9c1 1.5 1 3.5 0 5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-ahimsa-hand" viewBox="0 0 24 24"><path d="M8 21v-7M8 14V7a1.3 1.3 0 0 1 2.6 0M10.6 7V5.5a1.3 1.3 0 0 1 2.6 0V7M13.2 7V6a1.3 1.3 0 0 1 2.6 0v8c0 4-2 7-5 7" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12.2" cy="13" r="1.5"/></symbol>
+      <symbol id="sym-torii" viewBox="0 0 24 24"><path d="M3 6c3-1.5 15-1.5 18 0M4 9h16M7 9v12M17 9v12M6 6v1M18 6v1" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
+      <symbol id="sym-scroll" viewBox="0 0 24 24"><path d="M8 5h8a2 2 0 0 1 2 2v10a2 2 0 0 0 2 2H10a2 2 0 0 1-2-2V7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v1h3M11 10h5M11 13h5M11 16h3" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="sym-pentacle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.2" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M12 4l2.1 4.3 4.7.7-3.4 3.3.8 4.7-4.2-2.2-4.2 2.2.8-4.7L5.2 9l4.7-.7z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></symbol>
+      <symbol id="sym-tree" viewBox="0 0 24 24"><path d="M12 21v-6M12 15c-3 0-5-2-5-5 0-3 2.2-6 5-7 2.8 1 5 4 5 7 0 3-2 5-5 5zM9 11l3-3 3 3M10.5 14l1.5-1.5 1.5 1.5" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="sym-cruzeiro" viewBox="0 0 24 24"><path d="M12 3v18M7 7h10M8.5 11.5h7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+      <symbol id="sym-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2"/><g stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.6 4.6l2.1 2.1M17.3 17.3l2.1 2.1M19.4 4.6l-2.1 2.1M6.7 17.3l-2.1 2.1"/></g></symbol>
+    </defs>
+  </svg>
+
+  <main class="app">
+
+    <!-- TELA INICIAL -->
+    <section id="home" class="screen home">
+      <header class="home__head">
+        <div class="brand">
+          <svg class="brand__mark" aria-hidden="true"><use href="#sym-lotus"></use></svg>
+          <h1 class="brand__title">A Palavra do Dia</h1>
+        </div>
+        <p class="home__lead">
+          Uma palavra de paz e sabedoria a cada dia.<br />
+          Escolha uma tradição para começar.
+        </p>
+      </header>
+
+      <div id="religion-grid" class="grid" role="list" aria-label="Tradições espirituais">
+        <!-- cards inseridos via JS -->
+      </div>
+
+      <footer class="home__foot">
+        <p>Gratuito · Sem cadastro · Feito com respeito a todas as crenças</p>
+      </footer>
+    </section>
+
+    <!-- TELA DA PALAVRA -->
+    <section id="reader" class="screen reader" hidden>
+      <header class="reader__top">
+        <button id="back-btn" class="ghost-btn" aria-label="Voltar para a escolha de tradição">
+          <span aria-hidden="true">←</span> Trocar tradição
+        </button>
+        <div class="reader__brand">
+          <svg id="reader-symbol" class="reader__symbol" aria-hidden="true"><use href="#sym-lotus"></use></svg>
+          <span id="reader-religion" class="reader__religion">—</span>
+        </div>
+      </header>
+
+      <div class="reader__stage">
+        <p id="phrase-label" class="phrase-label">Palavra do Dia</p>
+        <blockquote id="phrase-card" class="phrase-card" aria-live="polite">
+          <p id="phrase-text" class="phrase-text">…</p>
+          <cite id="phrase-ref" class="phrase-ref"></cite>
+        </blockquote>
+        <p id="phrase-source" class="phrase-source"></p>
+      </div>
+
+      <div class="reader__actions">
+        <button id="new-btn" class="primary-btn">Nova palavra</button>
+        <button id="listen-btn" class="icon-btn" aria-label="Ouvir a palavra" title="Ouvir (voz do dispositivo)">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8a5 5 0 0 1 0 8M18.5 5.5a8.5 8.5 0 0 1 0 13" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        </button>
+        <button id="share-btn" class="icon-btn" aria-label="Compartilhar a palavra" title="Compartilhar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a3 3 0 1 0-2.8-4L9 7.2a3 3 0 1 0 0 9.6l6.2 3.2A3 3 0 1 0 18 16a3 3 0 0 0-2.4 1.2L9.4 14a3 3 0 0 0 0-4l6.2-3.2A3 3 0 0 0 18 8z" fill="currentColor"/></svg>
+        </button>
+      </div>
+
+      <p id="toast" class="toast" role="status" hidden></p>
+
+      <footer class="reader__foot">
+        <button id="home-link" class="text-link">A Palavra do Dia</button>
+      </footer>
+    </section>
+
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

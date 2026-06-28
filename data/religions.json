@@ -1,0 +1,364 @@
+{
+  "religions": [
+    {
+      "id": "cristianismo",
+      "name": "Cristianismo",
+      "source": "Bíblia Sagrada",
+      "phraseLabel": "Versículo do Dia",
+      "phraseLabelShort": "Versículo",
+      "symbol": "cross",
+      "tagline": "Fé, esperança e amor",
+      "theme": {
+        "bg": "#f5f8fc",
+        "surface": "#ffffff",
+        "primary": "#2f6fb0",
+        "accent": "#d9b15a",
+        "text": "#1e2a38",
+        "muted": "#5a6b7d",
+        "glow": "rgba(47,111,176,0.10)"
+      }
+    },
+    {
+      "id": "islamismo",
+      "name": "Islã",
+      "source": "Alcorão Sagrado",
+      "phraseLabel": "Aya do Dia",
+      "phraseLabelShort": "Aya (Versículo)",
+      "symbol": "crescent",
+      "tagline": "Paz, submissão e misericórdia",
+      "theme": {
+        "bg": "#f3f9f5",
+        "surface": "#ffffff",
+        "primary": "#0e7a5f",
+        "accent": "#c9a227",
+        "text": "#13302a",
+        "muted": "#4f6b62",
+        "glow": "rgba(14,122,95,0.10)"
+      }
+    },
+    {
+      "id": "judaismo",
+      "name": "Judaísmo",
+      "source": "Torá e Tanakh",
+      "phraseLabel": "Versículo do Dia",
+      "phraseLabelShort": "Pasuk (Versículo)",
+      "symbol": "star-david",
+      "tagline": "Sabedoria, aliança e justiça",
+      "theme": {
+        "bg": "#f4f7fc",
+        "surface": "#ffffff",
+        "primary": "#2a5c9a",
+        "accent": "#7aa3d6",
+        "text": "#1b2740",
+        "muted": "#52617e",
+        "glow": "rgba(42,92,154,0.10)"
+      }
+    },
+    {
+      "id": "budismo",
+      "name": "Budismo",
+      "source": "Dhammapada e Sutras",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento",
+      "symbol": "dharma-wheel",
+      "tagline": "Atenção plena e compaixão",
+      "theme": {
+        "bg": "#fdf8f1",
+        "surface": "#ffffff",
+        "primary": "#c8742a",
+        "accent": "#e0a95a",
+        "text": "#3a2a17",
+        "muted": "#7a6650",
+        "glow": "rgba(200,116,42,0.10)"
+      }
+    },
+    {
+      "id": "hinduismo",
+      "name": "Hinduísmo",
+      "source": "Bhagavad Gita e Vedas",
+      "phraseLabel": "Verso do Dia",
+      "phraseLabelShort": "Shloka (Verso)",
+      "symbol": "om",
+      "tagline": "Dharma, devoção e luz interior",
+      "theme": {
+        "bg": "#fdf6f1",
+        "surface": "#ffffff",
+        "primary": "#c0532f",
+        "accent": "#e08a3c",
+        "text": "#3a2018",
+        "muted": "#7a5648",
+        "glow": "rgba(192,83,47,0.10)"
+      }
+    },
+    {
+      "id": "umbanda",
+      "name": "Umbanda",
+      "source": "Pontos e Ensinamentos da Tradição",
+      "phraseLabel": "Ponto de Sabedoria do Dia",
+      "phraseLabelShort": "Ponto de Sabedoria",
+      "symbol": "seven-rays",
+      "tagline": "Caridade, luz e fraternidade",
+      "theme": {
+        "bg": "#f6f9fb",
+        "surface": "#ffffff",
+        "primary": "#3a8fb0",
+        "accent": "#e6c44d",
+        "text": "#1f2d34",
+        "muted": "#566a73",
+        "glow": "rgba(58,143,176,0.10)"
+      }
+    },
+    {
+      "id": "candomble",
+      "name": "Candomblé",
+      "source": "Itàn e Sabedoria dos Orixás",
+      "phraseLabel": "Ensinamento dos Orixás do Dia",
+      "phraseLabelShort": "Itàn (Ensinamento)",
+      "symbol": "leaf-axe",
+      "tagline": "Axé, ancestralidade e natureza",
+      "theme": {
+        "bg": "#f4faf4",
+        "surface": "#ffffff",
+        "primary": "#2f8f55",
+        "accent": "#d6a82c",
+        "text": "#1c2c20",
+        "muted": "#4f6857",
+        "glow": "rgba(47,143,85,0.10)"
+      }
+    },
+    {
+      "id": "xamanismo",
+      "name": "Xamanismo",
+      "source": "Sabedoria Ancestral dos Povos",
+      "phraseLabel": "Sabedoria Ancestral do Dia",
+      "phraseLabelShort": "Sabedoria Ancestral",
+      "symbol": "feather",
+      "tagline": "Conexão com a terra e o espírito",
+      "theme": {
+        "bg": "#f8f6f1",
+        "surface": "#ffffff",
+        "primary": "#8a6b3f",
+        "accent": "#b08d57",
+        "text": "#332819",
+        "muted": "#6e5d45",
+        "glow": "rgba(138,107,63,0.10)"
+      }
+    },
+    {
+      "id": "taoismo",
+      "name": "Taoismo",
+      "source": "Tao Te Ching",
+      "phraseLabel": "Verso do Dia",
+      "phraseLabelShort": "Verso",
+      "symbol": "yin-yang",
+      "tagline": "Equilíbrio, fluidez e simplicidade",
+      "theme": {
+        "bg": "#f6f7f8",
+        "surface": "#ffffff",
+        "primary": "#4a4f57",
+        "accent": "#9aa0a8",
+        "text": "#22262b",
+        "muted": "#5c636b",
+        "glow": "rgba(74,79,87,0.10)"
+      }
+    },
+    {
+      "id": "espiritismo",
+      "name": "Espiritismo",
+      "source": "O Evangelho e a Doutrina Espírita",
+      "phraseLabel": "Pensamento do Dia",
+      "phraseLabelShort": "Pensamento",
+      "symbol": "dove",
+      "tagline": "Caridade, reforma íntima e evolução",
+      "theme": {
+        "bg": "#f5f8fb",
+        "surface": "#ffffff",
+        "primary": "#5a7fa8",
+        "accent": "#9bb4cf",
+        "text": "#222d3a",
+        "muted": "#56657a",
+        "glow": "rgba(90,127,168,0.10)"
+      }
+    },
+    {
+      "id": "catolicismo",
+      "name": "Catolicismo",
+      "source": "Sabedoria dos Santos e Tradição Católica",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento dos Santos",
+      "symbol": "chalice",
+      "tagline": "Fé, oração e caridade",
+      "theme": {
+        "bg": "#fbf6f1",
+        "surface": "#ffffff",
+        "primary": "#9c3d4a",
+        "accent": "#c9a227",
+        "text": "#36211f",
+        "muted": "#7a5b56",
+        "glow": "rgba(156,61,74,0.10)"
+      }
+    },
+    {
+      "id": "bahai",
+      "name": "Fé Bahá'í",
+      "source": "Escritos de Bahá'u'lláh",
+      "phraseLabel": "Palavra do Dia",
+      "phraseLabelShort": "Palavra",
+      "symbol": "nine-star",
+      "tagline": "Unidade da humanidade",
+      "theme": {
+        "bg": "#f2f8f6",
+        "surface": "#ffffff",
+        "primary": "#2f8f86",
+        "accent": "#d6a82c",
+        "text": "#1c302c",
+        "muted": "#4f6863",
+        "glow": "rgba(47,143,134,0.10)"
+      }
+    },
+    {
+      "id": "sikhismo",
+      "name": "Sikhismo",
+      "source": "Guru Granth Sahib",
+      "phraseLabel": "Shabad do Dia",
+      "phraseLabelShort": "Shabad",
+      "symbol": "khanda",
+      "tagline": "Devoção, igualdade e serviço",
+      "theme": {
+        "bg": "#f3f6fb",
+        "surface": "#ffffff",
+        "primary": "#21507f",
+        "accent": "#e08a2c",
+        "text": "#1a2740",
+        "muted": "#51637e",
+        "glow": "rgba(33,80,127,0.10)"
+      }
+    },
+    {
+      "id": "jainismo",
+      "name": "Jainismo",
+      "source": "Ensinamentos dos Tirthankaras",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento",
+      "symbol": "ahimsa-hand",
+      "tagline": "Não-violência e respeito à vida",
+      "theme": {
+        "bg": "#fdf9f2",
+        "surface": "#ffffff",
+        "primary": "#b5732a",
+        "accent": "#d9b15a",
+        "text": "#38291a",
+        "muted": "#79634b",
+        "glow": "rgba(181,115,42,0.10)"
+      }
+    },
+    {
+      "id": "xintoismo",
+      "name": "Xintoísmo",
+      "source": "Sabedoria Xintoísta",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento",
+      "symbol": "torii",
+      "tagline": "Harmonia com os kami e a natureza",
+      "theme": {
+        "bg": "#fbf4f3",
+        "surface": "#ffffff",
+        "primary": "#c0392b",
+        "accent": "#d99a3c",
+        "text": "#3a2120",
+        "muted": "#7a5651",
+        "glow": "rgba(192,57,43,0.10)"
+      }
+    },
+    {
+      "id": "confucionismo",
+      "name": "Confucionismo",
+      "source": "Analectos de Confúcio",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento",
+      "symbol": "scroll",
+      "tagline": "Virtude, harmonia e respeito",
+      "theme": {
+        "bg": "#f4f8f6",
+        "surface": "#ffffff",
+        "primary": "#3a6b5a",
+        "accent": "#b08d57",
+        "text": "#1f2d28",
+        "muted": "#54675f",
+        "glow": "rgba(58,107,90,0.10)"
+      }
+    },
+    {
+      "id": "wicca",
+      "name": "Wicca e Paganismo",
+      "source": "Tradição Wicca e Pagã",
+      "phraseLabel": "Sabedoria do Dia",
+      "phraseLabelShort": "Sabedoria",
+      "symbol": "pentacle",
+      "tagline": "Natureza, ciclos e harmonia",
+      "theme": {
+        "bg": "#f6f4fb",
+        "surface": "#ffffff",
+        "primary": "#6a4f9c",
+        "accent": "#7fa86a",
+        "text": "#271f3a",
+        "muted": "#5f5780",
+        "glow": "rgba(106,79,156,0.10)"
+      }
+    },
+    {
+      "id": "jurema",
+      "name": "Jurema Sagrada",
+      "source": "Sabedoria da Jurema",
+      "phraseLabel": "Ensinamento da Jurema do Dia",
+      "phraseLabelShort": "Ensinamento da Jurema",
+      "symbol": "tree",
+      "tagline": "Mestres, natureza e cura",
+      "theme": {
+        "bg": "#f4f8f1",
+        "surface": "#ffffff",
+        "primary": "#4f7a3a",
+        "accent": "#c9a23c",
+        "text": "#232f1c",
+        "muted": "#5a6b4f",
+        "glow": "rgba(79,122,58,0.10)"
+      }
+    },
+    {
+      "id": "santodaime",
+      "name": "Santo Daime",
+      "source": "Doutrina da Floresta",
+      "phraseLabel": "Palavra do Dia",
+      "phraseLabelShort": "Palavra",
+      "symbol": "cruzeiro",
+      "tagline": "Amor, harmonia e firmeza",
+      "theme": {
+        "bg": "#f2f8f4",
+        "surface": "#ffffff",
+        "primary": "#2f7d57",
+        "accent": "#d6b24a",
+        "text": "#1c2c22",
+        "muted": "#4f6857",
+        "glow": "rgba(47,125,87,0.10)"
+      }
+    },
+    {
+      "id": "seichonoie",
+      "name": "Seicho-No-Ie",
+      "source": "Ensinamentos da Seicho-No-Ie",
+      "phraseLabel": "Ensinamento do Dia",
+      "phraseLabelShort": "Ensinamento",
+      "symbol": "sun",
+      "tagline": "Gratidão e vida em plenitude",
+      "theme": {
+        "bg": "#fdf8f1",
+        "surface": "#ffffff",
+        "primary": "#d98a3c",
+        "accent": "#e0b25a",
+        "text": "#3a2a17",
+        "muted": "#7a6650",
+        "glow": "rgba(217,138,60,0.10)"
+      }
+    }
+  ]
+}
