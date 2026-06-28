@@ -93,57 +93,98 @@ body::before {
   font-weight: 400;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: clamp(0.7rem, 2vw, 1rem);
-  margin: 2rem 0;
-}
-
-.card {
-  --c: var(--primary);
+/* ----- campo de busca da religião ----- */
+.search {
   position: relative;
+  max-width: 540px;
+  width: 100%;
+  margin: 2rem auto 1rem;
+}
+.search__field {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  text-align: center;
-  gap: 0.55rem;
-  padding: 1.4rem 1rem 1.2rem;
+  gap: 0.6rem;
   background: var(--surface);
-  border: 1px solid rgba(40, 45, 55, 0.06);
-  border-radius: var(--radius);
+  border: 1px solid rgba(40, 45, 55, 0.10);
+  border-radius: 999px;
+  padding: 0.2rem 1.1rem;
   box-shadow: var(--shadow-soft);
-  cursor: pointer;
-  transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease), border-color 0.4s var(--ease);
+  transition: border-color 0.3s var(--ease), box-shadow 0.3s var(--ease);
+}
+.search__field:focus-within {
+  border-color: var(--primary);
+  box-shadow: 0 8px 30px -12px color-mix(in srgb, var(--primary) 50%, transparent);
+}
+.search__icon { width: 22px; height: 22px; color: var(--muted); flex: none; }
+.search__input {
+  flex: 1;
   font: inherit;
+  font-size: 1.08rem;
   color: var(--text);
-}
-.card::after {
-  content: "";
-  position: absolute; inset: 0;
-  border-radius: var(--radius);
-  box-shadow: inset 0 0 0 1.5px var(--c);
-  opacity: 0;
-  transition: opacity 0.4s var(--ease);
-  pointer-events: none;
-}
-.card:hover, .card:focus-visible {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow);
+  background: none;
+  border: none;
   outline: none;
+  padding: 0.95rem 0;
 }
-.card:hover::after, .card:focus-visible::after { opacity: 0.5; }
+.search__input::placeholder { color: var(--muted); opacity: 0.85; }
 
-.card__icon {
-  width: 46px; height: 46px;
-  display: grid; place-items: center;
-  color: var(--c); fill: var(--c);
-  border-radius: 50%;
-  background: color-mix(in srgb, var(--c) 10%, transparent);
+/* lista de sugestões (autocomplete) */
+.suggest {
+  list-style: none;
+  position: absolute;
+  left: 0; right: 0;
+  margin-top: 0.5rem;
+  background: var(--surface);
+  border: 1px solid rgba(40, 45, 55, 0.08);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  z-index: 10;
+  animation: fadeUp 0.25s var(--ease);
 }
-.card__icon svg { width: 26px; height: 26px; }
-.card__name { font-weight: 600; font-size: 1.02rem; }
-.card__tag { font-size: 0.78rem; color: var(--muted); line-height: 1.35; }
+.suggest[hidden] { display: none; }
+.suggest__item {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  width: 100%;
+  padding: 0.8rem 1.1rem;
+  font: inherit;
+  font-size: 1rem;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+  transition: background 0.2s var(--ease);
+}
+.suggest__item:hover,
+.suggest__item.is-active { background: color-mix(in srgb, var(--primary) 9%, transparent); }
+.suggest__item svg { width: 22px; height: 22px; flex: none; }
+.suggest__icon { color: var(--c, var(--primary)); fill: var(--c, var(--primary)); }
+.suggest__name { font-weight: 600; }
+.suggest__tag { font-size: 0.8rem; color: var(--muted); margin-left: auto; text-align: right; }
+
+.search__msg {
+  margin-top: 1rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.98rem;
+  animation: fadeUp 0.25s var(--ease);
+}
+.search__msg[hidden] { display: none; }
+.search__msg b { color: var(--text); }
+.search__suggest-btn {
+  font: inherit;
+  font-weight: 600;
+  color: var(--primary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  padding: 0 0.15rem;
+}
 
 .home__foot { text-align: center; padding: 1rem 0 2rem; color: var(--muted); font-size: 0.82rem; }
 
@@ -287,6 +328,78 @@ body::before {
 }
 .text-link:hover { color: var(--primary); }
 
+/* ===================== FUNDO PERSONALIZADO POR TRADIÇÃO ===================== */
+/* gradiente temático mais rico quando uma tradição está ativa */
+body[data-religion]::before {
+  background:
+    radial-gradient(70% 55% at 50% -5%, color-mix(in srgb, var(--primary) 16%, transparent), transparent 70%),
+    radial-gradient(60% 45% at 100% 105%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 70%),
+    radial-gradient(55% 45% at 0% 90%, color-mix(in srgb, var(--primary) 10%, transparent), transparent 70%);
+}
+
+/* marca d'água do símbolo da tradição ao fundo */
+.reader-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  overflow: hidden;
+}
+body[data-screen="reader"][data-religion] .reader-bg { display: flex; }
+.reader-bg__mark {
+  width: min(78vmin, 560px);
+  height: min(78vmin, 560px);
+  color: var(--primary);
+  fill: var(--primary);
+  opacity: 0.06;
+  transform: translateY(2%);
+  animation: bgFloat 18s ease-in-out infinite;
+}
+@keyframes bgFloat {
+  0%, 100% { transform: translateY(2%) rotate(-2deg); }
+  50%      { transform: translateY(-2%) rotate(2deg); }
+}
+
+/* ===================== MENU DE COMPARTILHAR ===================== */
+.share-menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.5rem;
+  max-width: 420px;
+  margin: 0.2rem auto 1rem;
+  padding: 0.6rem;
+  background: var(--surface);
+  border: 1px solid rgba(40, 45, 55, 0.08);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  animation: fadeUp 0.25s var(--ease);
+}
+.share-menu[hidden] { display: none; }
+.share-opt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font: inherit;
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: var(--text);
+  background: color-mix(in srgb, var(--primary) 6%, transparent);
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 0.7rem 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s var(--ease), transform 0.2s var(--ease);
+}
+.share-opt:hover { background: color-mix(in srgb, var(--primary) 14%, transparent); transform: translateY(-1px); }
+.share-opt svg { width: 20px; height: 20px; color: var(--primary); flex: none; }
+.share-opt[hidden] { display: none; }
+
+#share-canvas { display: none; }
+
 /* acessibilidade — foco visível */
 :focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; border-radius: 6px; }
 
@@ -295,5 +408,5 @@ body::before {
 }
 
 @media (max-width: 420px) {
-  .grid { grid-template-columns: repeat(2, 1fr); }
+  .share-menu { grid-template-columns: repeat(2, 1fr); }
 }
